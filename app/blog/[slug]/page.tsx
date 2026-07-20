@@ -4,20 +4,20 @@ import { blogPosts, site, workflowSteps, qaScorecard, sources } from '../../data
 export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.slug })); }
 
 const guides: Record<string, { answer: string; sections: { title: string; text: string; bullets?: string[] }[]; faq: { q: string; a: string }[] }> = {
-  'virtual-assistant-costs': {
-    answer: 'Most small teams should price VA phone support by the hour at first, then move to a weekly block once call volume is steady. A common overseas planning range is $6 to $18 per hour, but management, schedule coverage, and skill level can change the price.',
+  'virtual-assistant-planning': {
+    answer: 'Most small teams should plan VA phone support by the hour at first, then move to a weekly block once call volume is steady. A common overseas planning range is a custom staffing planfor the role, but management, schedule coverage, and skill level can change the plan.',
     sections: [
-      { title: 'What changes the price', text: 'Phone support costs more when the assistant needs strong English, live call handling, appointment setting, CRM cleanup, weekend coverage, or a manager who reviews quality.', bullets: ['Live answering usually costs more than back-office admin.', 'Nights, weekends, and split shifts can raise cost.', 'A managed service may cost more but can help with screening, backup, and QA.'] },
-      { title: 'A safe first budget', text: 'Start with a small block of hours tied to one call queue. For example, use 10 to 20 hours per week for missed-call follow-up, simple intake, reminders, and CRM notes before moving into full phone coverage.' },
+      { title: 'What changes the plan', text: 'Phone support planning more when the assistant needs strong English, live call handling, appointment setting, CRM cleanup, weekend coverage, or a manager who reviews quality.', bullets: ['Live answering usually planning more than back-office admin.', 'Nights, weekends, and split shifts can raise plan.', 'A managed service may plan more but can help with screening, backup, and QA.'] },
+      { title: 'A safe first budget', text: 'Start with a small block of hours tied to one call queue. For example, use a focused pilot scope for missed-call follow-up, simple intake, reminders, and CRM notes before moving into full phone coverage.' },
       { title: 'Questions to ask before buying', text: 'Ask who trains the assistant, who checks calls, what happens if a call is mishandled, and how replacement works if fit is poor.' },
     ],
     faq: [
-      { q: 'Is the cheapest assistant the best choice?', a: 'Usually no. For calls, clear speech, notes, judgment, and reliability matter more than the lowest hourly rate.' },
+      { q: 'Is the cheapest assistant the best choice?', a: 'Usually no. For calls, clear speech, notes, judgment, and reliability matter more than the cheapest option.' },
       { q: 'Should I buy full-time coverage right away?', a: 'Start smaller unless call volume is proven. A short pilot helps you fix scripts before you pay for more hours.' },
     ],
   },
   'tasks-to-delegate-first': {
-    answer: 'Delegate the calls that are common, repeatable, and easy to check. Do not begin with angry customers, refunds, legal questions, medical questions, or special pricing decisions.',
+    answer: 'Delegate the calls that are common, repeatable, and easy to check. Do not begin with angry customers, refunds, legal questions, medical questions, or special staffing details decisions.',
     sections: [
       { title: 'Best first call tasks', text: 'Good first tasks are missed-call follow-up, appointment reminders, lead intake, basic FAQ answers, and CRM notes after each call.', bullets: ['New lead intake', 'Appointment setting and reminders', 'Simple support ticket creation', 'CRM status updates', 'Callback list cleanup'] },
       { title: 'Tasks to keep with the owner', text: 'Keep refunds, account changes, medical or legal advice, discounts, and upset customer calls with the owner until the assistant is trained and trusted.' },
