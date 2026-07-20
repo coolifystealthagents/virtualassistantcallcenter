@@ -5,7 +5,7 @@ export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.sl
 
 const guides: Record<string, { answer: string; sections: { title: string; text: string; bullets?: string[] }[]; faq: { q: string; a: string }[] }> = {
   'virtual-assistant-planning': {
-    answer: 'Most small teams should plan VA phone support by the hour at first, then move to a weekly block once call volume is steady. A common overseas planning range is a custom staffing planfor the role, but management, schedule coverage, and skill level can change the plan.',
+    answer: 'Most small teams should plan VA phone support by the hour at first, then move to a weekly block once call volume is steady. Ask for a custom staffing plan for the role because management, schedule coverage, and skill level can change the plan.',
     sections: [
       { title: 'What changes the plan', text: 'Phone support planning more when the assistant needs strong English, live call handling, appointment setting, CRM cleanup, weekend coverage, or a manager who reviews quality.', bullets: ['Live answering usually planning more than back-office admin.', 'Nights, weekends, and split shifts can raise plan.', 'A managed service may plan more but can help with screening, backup, and QA.'] },
       { title: 'A safe first budget', text: 'Start with a small block of hours tied to one call queue. For example, use a focused pilot scope for missed-call follow-up, simple intake, reminders, and CRM notes before moving into full phone coverage.' },
