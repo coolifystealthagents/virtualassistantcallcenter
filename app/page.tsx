@@ -70,8 +70,8 @@ export default function Home() {
         <section className="signal-strip" aria-label="Call coverage priorities">
           <div className="container signal-strip-inner">
             <p>Built for calls that can't wait in voicemail</p>
-            <div><strong>7–21 days</strong><span>typical setup window</span></div>
-            <div><strong>5–10 tasks</strong><span>suggested first handoff</span></div>
+            <div><strong>Pilot first</strong><span>start with one call type</span></div>
+            <div><strong>Small queue</strong><span>easier to train and check</span></div>
             <div><strong>Weekly</strong><span>suggested call review</span></div>
           </div>
         </section>
@@ -98,7 +98,7 @@ export default function Home() {
           <div className="container signal-path-grid">
             <div className="signal-path-intro">
               <p className="signal-label">One call path</p>
-              <h2>No loose notes. No mystery callbacks.</h2>
+              <h2>Leave a note the next person can use.</h2>
               <p>Callers should know what happens next. Your team should be able to read the record without replaying the whole conversation.</p>
               <a href="/workflows">See the full call workflow <span>→</span></a>
             </div>
@@ -160,8 +160,8 @@ export default function Home() {
 
         <section className="signal-close">
           <div className="container signal-close-inner">
-            <div><p className="signal-label">Ready when you are</p><h2>Make the next missed call the last one.</h2></div>
-            <div><p>Share your call types, hours, tools, and escalation rules. We will help shape a practical coverage plan.</p><a className="signal-button signal-button-light" href="/contact">Map my call coverage</a></div>
+            <div><p className="signal-label">Plan the first queue</p><h2>Give missed calls a clear way back in.</h2></div>
+            <div><p>Share your call types, hours, tools, and escalation rules. The team will use them to shape a practical coverage plan.</p><a className="signal-button signal-button-light" href="/contact">Map my call coverage</a></div>
           </div>
         </section>
       </main>

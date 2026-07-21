@@ -22,5 +22,5 @@ export function Footer() {
 }
 
 export function CTA() {
-  return <section className="final-cta"><p className="eyebrow">Ready for a plan?</p><h2>Map the role before you hire.</h2><p>Share the work, tools, schedule, and quality needs. Get a practical staffing scope back.</p><a className="btn primary" href="/contact">Request staffing plan</a></section>;
+  return <section className="final-cta"><p className="eyebrow">Start with the call path</p><h2>Decide what happens after hello.</h2><p>Share your call types, hours, script, tools, and manager rules. The team will use them to map a practical first queue.</p><a className="btn primary" href="/contact">Map my call coverage</a></section>;
 }

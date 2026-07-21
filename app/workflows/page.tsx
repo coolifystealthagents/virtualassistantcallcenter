@@ -45,7 +45,7 @@ export default function Workflows() {
         </div>
         <div className="workflow-photo">
           <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Support operations team tracking customer calls on laptop screens" />
-          <div className="score-float"><b>QA pulse</b><span>18 calls sampled</span><span>4 coaching notes</span><span>92% script match</span></div>
+          <div className="score-float"><b>Sample QA review</b><span>Calls selected</span><span>Notes checked</span><span>Coaching point logged</span></div>
         </div>
       </div>
     </section>
@@ -89,7 +89,7 @@ export default function Workflows() {
         <div className="card">
           <h2>Safe escalation rules</h2>
           <p>Basic intake, schedule changes, reminders, status notes, simple FAQs, and routing can sit with the assistant.</p>
-          <p>Keep staffing exceptions, legal or medical advice, refunds, account changes, angry customers, and private data issues with the owner or manager.</p>
+          <p>Keep policy exceptions, legal or medical advice, refunds, account changes, angry customer decisions, and private data issues with the owner or manager.</p>
         </div>
         <div className="card">
           <h2>Sources to keep close</h2>
