@@ -50,12 +50,36 @@ export default function Workflows() {
       </div>
     </section>
 
-    <section className="section soft">
+    <section className="queue-ops" aria-labelledby="queue-board-title">
       <div className="container">
-        <p className="eyebrow">Queue board</p>
-        <h2>Give every caller one next step.</h2>
-        <p className="lead">A good support queue is boring in the best way. The assistant knows the lane, the rule, and the next action.</p>
-        <div className="lane-board">{queueLanes.map((lane)=><div className="lane-card" key={lane.label}><span>{lane.status}</span><h3>{lane.label}</h3><p>{lane.rule}</p></div>)}</div>
+        <div className="queue-ops-heading">
+          <div>
+            <p className="queue-ops-kicker"><span aria-hidden="true" /> Live queue map</p>
+            <h2 id="queue-board-title">Give every caller one next step.</h2>
+          </div>
+          <div className="queue-ops-note">
+            <strong>Manager rule</strong>
+            <p>If the script does not cover the request, send it to the named owner. Do not guess.</p>
+          </div>
+        </div>
+        <div className="queue-console">
+          <div className="queue-console-bar">
+            <div><i aria-hidden="true" /> Coverage board</div>
+            <span>4 call lanes</span>
+          </div>
+          <div className="queue-lane-grid">
+            {queueLanes.map((lane, index)=><article className="queue-lane" key={lane.label}>
+              <div className="queue-lane-top"><span>0{index + 1}</span><b className={`queue-status queue-status-${lane.status.toLowerCase().replace(' ', '-')}`}>{lane.status}</b></div>
+              <h3>{lane.label}</h3>
+              <p>{lane.rule}</p>
+              <div className="queue-record"><span>Record</span><strong>{lane.status === 'Book' ? 'Calendar + CRM note' : lane.status === 'Ticket' ? 'Ticket + owner' : lane.status === 'Escalate' ? 'Alert + callback time' : 'Attempt + outcome'}</strong></div>
+            </article>)}
+          </div>
+          <div className="queue-console-footer">
+            <p><span aria-hidden="true" /> Each lane needs an owner, a saved note, and a clear finish.</p>
+            <div><a href="/qa-scorecard">Check call quality</a><a href="/contact">Map my queue</a></div>
+          </div>
+        </div>
       </div>
     </section>
 
