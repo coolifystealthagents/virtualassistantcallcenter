@@ -6,15 +6,15 @@ const schema = {
   '@graph': [
     {
       '@type': 'WebPage',
-      name: 'Virtual receptionist call center services',
+      name: 'Philippines virtual receptionist call center services',
       url: site.url,
-      description: 'Managed virtual receptionists for call answering, intake, appointment setting, follow-up, and customer support.',
+      description: 'Filipino virtual receptionists for call answering, intake, appointment setting, follow-up, and customer support.',
       mainEntity: { '@id': `${site.url}/#service` },
     },
     {
       '@type': 'Service',
       '@id': `${site.url}/#service`,
-      name: 'Virtual receptionist call center services',
+      name: 'Philippines virtual receptionist call center services',
       provider: { '@type': 'Organization', name: site.brand, url: site.url },
       areaServed: 'United States',
       serviceType: roles,
@@ -42,10 +42,10 @@ export default function Home() {
           <div className="signal-line" aria-hidden="true" />
           <div className="container signal-hero-grid">
             <div className="signal-copy">
-              <p className="signal-kicker"><span>Live call support</span> Built around your script</p>
+              <p className="signal-kicker"><span>Philippines call support</span> Built around your script</p>
               <h1>Every call gets a clear next step.</h1>
               <ul className="signal-points">
-                <li>Answer calls in your business name</li>
+                <li>A Filipino receptionist answers in your business name</li>
                 <li>Book, route, or follow up from one script</li>
                 <li>Review notes and call quality each week</li>
               </ul>
@@ -55,7 +55,7 @@ export default function Home() {
 
             <div className="signal-visual">
               <div className="signal-photo">
-                <img src="/call-team.jpg" alt="Team planning customer call coverage together" />
+                <img src="/call-team.jpg" alt="Call support team reviewing caller handoff notes" />
               </div>
               <div className="signal-live"><i aria-hidden="true" /> Live coverage plan</div>
               <div className="signal-call-card">
@@ -67,12 +67,26 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="signal-strip" aria-label="Call coverage priorities">
-          <div className="container signal-strip-inner">
-            <p>Built for calls that can't wait in voicemail</p>
-            <div><strong>Pilot first</strong><span>start with one call type</span></div>
-            <div><strong>Small queue</strong><span>easier to train and check</span></div>
-            <div><strong>Weekly</strong><span>suggested call review</span></div>
+        <section className="ph-origin" aria-labelledby="ph-origin-title">
+          <div className="container ph-origin-grid">
+            <div className="ph-origin-intro">
+              <p className="ph-origin-kicker"><span aria-hidden="true" /> Philippines team desk</p>
+              <h2 id="ph-origin-title">Your call team is based in the Philippines.</h2>
+              <p>We recruit and provide Filipino call support talent only. You set the hours, script, tools, and manager rules before the first queue opens.</p>
+              <a href="/services">See Philippines call support services <span>→</span></a>
+            </div>
+            <div className="ph-handoff" aria-label="Sample caller handoff path">
+              <div className="ph-handoff-bar">
+                <div><i aria-hidden="true" /> Handoff ready</div>
+                <span>Sample process · not live call data</span>
+              </div>
+              <ol>
+                <li><span>01</span><div><small>Caller</small><strong>Reason captured</strong></div><b>INTAKE</b></li>
+                <li><span>02</span><div><small>Filipino specialist</small><strong>Approved script used</strong></div><b>CHECK</b></li>
+                <li><span>03</span><div><small>Your team</small><strong>Note and next action sent</strong></div><b>ROUTE</b></li>
+              </ol>
+              <div className="ph-handoff-footer"><span>Manager decisions stay with you</span><a href="/qa-scorecard">View the QA scorecard →</a></div>
+            </div>
           </div>
         </section>
 

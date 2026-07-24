@@ -5,7 +5,7 @@ export const site = {
   brand: 'Virtual Assistant Call Center',
   primary: 'virtual assistant call center',
   audience: 'teams that need call answering, follow-up, intake, appointment setting, and customer support coverage',
-  angle: 'call center workflows run by trained virtual assistants for small and mid-size teams',
+  angle: 'call center workflows run by Filipino virtual assistants for small and mid-size teams',
   color: '#dc2626',
   accent: '#0369a1',
 } as const;
