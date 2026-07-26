@@ -58,6 +58,7 @@ export const sources = [
 ];
 
 export const blogPosts = [
+  { slug: 'business-call-scam-screening-virtual-assistant-philippines', title: 'How a Philippines virtual assistant can screen scam calls', excerpt: 'A safe call-screening plan for Filipino virtual assistants who answer vendor, customer, and account calls without making sensitive decisions.', minutes: 11 },
   { slug: 'virtual-assistant-planning', title: 'How to plan virtual assistant call center coverage', excerpt: 'A plain guide to call scope, coverage blocks, manager review, and a safe first queue.', minutes: 8 },
   { slug: 'tasks-to-delegate-first', title: 'What call center tasks should you delegate first?', excerpt: 'Start with repeatable call answering, appointment setting, CRM notes, and follow-up work.', minutes: 7 },
   { slug: 'virtual-assistant-vs-employee', title: 'Virtual assistant vs employee for phone support', excerpt: 'When to hire in-house and when a managed assistant is the safer first step for calls.', minutes: 8 },

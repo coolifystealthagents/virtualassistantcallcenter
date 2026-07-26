@@ -1,5 +1,6 @@
 import { Header, Footer, CTA, JsonLd } from '../../components';
 import { blogPosts, site, workflowSteps, qaScorecard, sources } from '../../data';
+import { ScamCallScreeningArticle, scamCallArticle } from '../rich-articles';
 
 export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.slug })); }
 
@@ -58,12 +59,30 @@ const guides: Record<string, { answer: string; sections: { title: string; text: 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = blogPosts.find((p)=>p.slug===slug);
-  return { title: post?.title || 'Guide', description: post?.excerpt };
+  return {
+    title: post?.title || 'Guide',
+    description: post?.excerpt,
+    alternates: { canonical: `${site.url}/blog/${post?.slug || slug}` },
+    openGraph: post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article' } : undefined,
+  };
 }
 
 export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
  const { slug } = await params;
  const post = blogPosts.find((p)=>p.slug===slug) || blogPosts[0];
+ if (slug === scamCallArticle.slug) {
+  const richSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: scamCallArticle.title,
+    description: scamCallArticle.excerpt,
+    url: `${site.url}/blog/${scamCallArticle.slug}`,
+    publisher: { '@type': 'Organization', name: site.brand, url: site.url },
+    citation: scamCallArticle.sources.map((source)=>source.url),
+    mainEntity: { '@type': 'FAQPage', mainEntity: scamCallArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
+  };
+  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
+ }
  const guide = guides[post.slug] || guides['assistant-onboarding-checklist'];
  const schema = {
    '@context': 'https://schema.org',
