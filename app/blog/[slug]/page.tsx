@@ -3,6 +3,7 @@ import { Header, Footer, CTA, JsonLd } from '../../components';
 import { blogPosts, site, workflowSteps, qaScorecard, sources } from '../../data';
 import { ScamCallScreeningArticle, scamCallArticle } from '../rich-articles';
 import { HealthcareSchedulingArticle, healthcareSchedulingArticle } from '../healthcare-article';
+import { OutboundFollowUpArticle, outboundFollowUpArticle } from '../outbound-follow-up-article';
 
 export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.slug })); }
 
@@ -98,6 +99,19 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     mainEntity: { '@type': 'FAQPage', mainEntity: healthcareSchedulingArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
   return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
+ }
+ if (slug === outboundFollowUpArticle.slug) {
+  const richSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: outboundFollowUpArticle.title,
+    description: outboundFollowUpArticle.excerpt,
+    url: `${site.url}/blog/${outboundFollowUpArticle.slug}`,
+    publisher: { '@type': 'Organization', name: site.brand, url: site.url },
+    citation: outboundFollowUpArticle.sources.map((source)=>source.url),
+    mainEntity: { '@type': 'FAQPage', mainEntity: outboundFollowUpArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
+  };
+  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
  }
  const guide = guides[post.slug] || guides['assistant-onboarding-checklist'];
  const schema = {
