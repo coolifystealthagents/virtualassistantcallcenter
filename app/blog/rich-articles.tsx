@@ -138,7 +138,7 @@ export function ScamCallScreeningArticle() {
       <h2>Build the first training set</h2>
       <p>Use six sample calls: a real vendor update, a fake code request, a customer asking for a record change, an upset caller, an unknown software caller, and a leader asking for an urgent task. Let the assistant practice the stop line, note fields, and route for each one. Then compare the note with your written rule.</p>
       <p>Score the call on facts, safety, tone, and next step. Do not score the assistant on whether they guessed the caller's intent correctly. The goal is to protect the business while giving real callers a clear path back.</p>
-      <p>Add the final script to your <a href="/blog/assistant-onboarding-checklist">assistant onboarding checklist</a>, and connect each risky request to the right <a href="/services">call support service</a>. Review a small call sample every week during the first month. Replace vague coaching such as "be careful" with one sentence the assistant can use on the next call.</p>
+      <p>Add the final script to your <a href="/blog">assistant onboarding checklist</a>, and connect each risky request to the right <a href="/services">call support service</a>. Review a small call sample every week during the first month. Replace vague coaching such as "be careful" with one sentence the assistant can use on the next call.</p>
     </section>
 
     <blockquote className="expert-quote"><div className="quote-text">"The data we're releasing today shows that scammers' tactics are constantly evolving."</div><cite>Christopher Mufarrige, Director of the FTC's Bureau of Consumer Protection, March 10, 2025</cite></blockquote>

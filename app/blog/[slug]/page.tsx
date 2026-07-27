@@ -1,3 +1,4 @@
+import { notFound } from 'next/navigation';
 import { Header, Footer, CTA, JsonLd } from '../../components';
 import { blogPosts, site, workflowSteps, qaScorecard, sources } from '../../data';
 import { ScamCallScreeningArticle, scamCallArticle } from '../rich-articles';
@@ -69,7 +70,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
  const { slug } = await params;
- const post = blogPosts.find((p)=>p.slug===slug) || blogPosts[0];
+ const post = blogPosts.find((p)=>p.slug===slug);
+  if (!post) notFound();
  if (slug === scamCallArticle.slug) {
   const richSchema = {
     '@context': 'https://schema.org',
