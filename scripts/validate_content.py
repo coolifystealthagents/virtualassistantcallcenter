@@ -24,5 +24,20 @@ for path in sorted((ROOT / "content").glob("*/*.md")):
     for href in re.findall(r"\[[^\]]+\]\(([^)]+)\)", body):
         if href.startswith("/") and not re.fullmatch(r"/[a-z0-9][a-z0-9/-]*", href): errors.append(f"{path}: malformed internal link {href}")
     entries.append({"file": str(path.relative_to(ROOT)), "slug": meta.get("slug"), "sections": body.count("## ")})
+manifest_path = ROOT / "content" / "featured-images.json"
+manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+seen = set()
+for item in manifest:
+    slug = item.get("slug", "")
+    if slug in seen: errors.append(f"{manifest_path}: duplicate slug {slug}")
+    seen.add(slug)
+    for key in ("slug", "title", "category", "image", "imageAlt"):
+        if not item.get(key): errors.append(f"{manifest_path}: {slug or 'entry'} missing {key}")
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug): errors.append(f"{manifest_path}: invalid slug {slug}")
+    if len(item.get("imageAlt", "")) < 40: errors.append(f"{manifest_path}: {slug} imageAlt is too short")
+    image = ROOT / "public" / item.get("image", "").lstrip("/")
+    if not image.is_file(): errors.append(f"{manifest_path}: missing image {item.get('image')}")
+    elif 'width="1200"' not in image.read_text(encoding="utf-8") or 'height="630"' not in image.read_text(encoding="utf-8"):
+        errors.append(f"{manifest_path}: {slug} image must be 1200x630")
 print(json.dumps({"ok": not errors, "entries": entries, "errors": errors}, indent=2))
 sys.exit(1 if errors else 0)

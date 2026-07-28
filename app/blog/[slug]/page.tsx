@@ -69,7 +69,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: entry?.title || post?.title || 'Guide',
     description: entry?.description || post?.excerpt,
     alternates: { canonical: `${site.url}/blog/${slug}` },
-    openGraph: entry ? {title:entry.title,description:entry.description,url:`${site.url}/blog/${entry.slug}`,type:'article',images:[{url:`${site.url}${entry.image}`,alt:entry.imageAlt}]} : post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article' } : undefined,
+    openGraph: entry ? {title:entry.title,description:entry.description,url:`${site.url}/blog/${entry.slug}`,type:'article',images:[{url:`${site.url}${entry.image}`,alt:entry.imageAlt}]} : post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article', images: [{ url: `${site.url}${post.image}`, alt: post.imageAlt }] } : undefined,
   };
 }
 
@@ -86,11 +86,12 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     headline: scamCallArticle.title,
     description: scamCallArticle.excerpt,
     url: `${site.url}/blog/${scamCallArticle.slug}`,
+    image: `${site.url}${post.image}`,
     publisher: { '@type': 'Organization', name: site.brand, url: site.url },
     citation: scamCallArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: scamCallArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
  }
  if (slug === healthcareSchedulingArticle.slug) {
   const richSchema = {
@@ -99,11 +100,12 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     headline: healthcareSchedulingArticle.title,
     description: healthcareSchedulingArticle.excerpt,
     url: `${site.url}/blog/${healthcareSchedulingArticle.slug}`,
+    image: `${site.url}${post.image}`,
     publisher: { '@type': 'Organization', name: site.brand, url: site.url },
     citation: healthcareSchedulingArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: healthcareSchedulingArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
  }
  if (slug === outboundFollowUpArticle.slug) {
   const richSchema = {
@@ -112,11 +114,12 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     headline: outboundFollowUpArticle.title,
     description: outboundFollowUpArticle.excerpt,
     url: `${site.url}/blog/${outboundFollowUpArticle.slug}`,
+    image: `${site.url}${post.image}`,
     publisher: { '@type': 'Organization', name: site.brand, url: site.url },
     citation: outboundFollowUpArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: outboundFollowUpArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
  }
  const guide = guides[post.slug] || guides['assistant-onboarding-checklist'];
  const schema = {
@@ -125,6 +128,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
    headline: post.title,
    description: post.excerpt,
    url: `${site.url}/blog/${post.slug}`,
+   image: `${site.url}${post.image}`,
    publisher: { '@type': 'Organization', name: site.brand, url: site.url },
    citation: sources.map((s)=>s.url),
    hasPart: guide.sections.map((s)=>({ '@type': 'WebPageElement', name: s.title, text: s.text })),
