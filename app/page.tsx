@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main className="signal-home">
+      <main className="signal-home" data-gi-rollout="two-illustration-packs-one-icon-pack">
         <JsonLd data={schema} />
 
         <section className="signal-hero">
@@ -45,9 +45,9 @@ export default function Home() {
               <p className="signal-kicker"><span>Philippines call support</span> Built around your script</p>
               <h1>Every call gets a clear next step.</h1>
               <ul className="signal-points">
-                <li>A Filipino receptionist answers in your business name</li>
-                <li>Book, route, or follow up from one script</li>
-                <li>Review notes and call quality each week</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/business-call-answering.svg" alt="" aria-hidden="true" />A Filipino receptionist answers in your business name</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/booking-and-routing.svg" alt="" aria-hidden="true" />Book, route, or follow up from one script</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/call-notes-review.svg" alt="" aria-hidden="true" />Review notes and call quality each week</li>
               </ul>
               <a className="signal-button" href="/contact">Map my call coverage</a>
               <p className="signal-tagline">A calm voice for callers. A clean handoff for your team.</p>
@@ -55,7 +55,7 @@ export default function Home() {
 
             <div className="signal-visual">
               <div className="signal-photo">
-                <img src="/call-team.jpg" alt="Call support team reviewing caller handoff notes" />
+                <img src="/illustrations/getillustrations/communication/call-support-handoff.webp" alt="Filipino call support specialist managing caller messages and next steps" />
               </div>
               <div className="signal-live"><i aria-hidden="true" /> Live coverage plan</div>
               <div className="signal-call-card">
@@ -73,6 +73,7 @@ export default function Home() {
               <p className="ph-origin-kicker"><span aria-hidden="true" /> Philippines team desk</p>
               <h2 id="ph-origin-title">Your call team is based in the Philippines.</h2>
               <p>We recruit and provide Filipino call support talent only. You set the hours, script, tools, and manager rules before the first queue opens.</p>
+              <img className="ph-origin-illustration" src="/illustrations/getillustrations/inkdex-team/remote-call-team-collaboration.svg" alt="Remote Philippines call team collaborating on a handoff" />
               <a href="/services">See Philippines call support services <span>→</span></a>
             </div>
             <div className="ph-handoff" aria-label="Sample caller handoff path">
