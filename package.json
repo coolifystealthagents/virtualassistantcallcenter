@@ -3,7 +3,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -H 0.0.0.0 -p 3000",
-    "lint": "next lint"
+    "lint": "next lint",
+    "content:thumbnails": "python scripts/generate_thumbnails.py",
+    "content:validate": "python scripts/validate_content.py",
+    "content:health": "python scripts/live_health.py https://virtualassistantcallcenter.com"
   },
   "dependencies": {
     "@next/third-parties": "^15.1.6",

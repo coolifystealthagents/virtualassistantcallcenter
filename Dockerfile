@@ -5,9 +5,11 @@ RUN npm install
 
 FROM node:22-alpine AS builder
 WORKDIR /app
+RUN apk add --no-cache python3
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
+RUN npm run content:thumbnails && npm run content:validate
 RUN npm run build
 
 FROM node:22-alpine AS runner
