@@ -4,8 +4,10 @@ import { blogPosts, site, workflowSteps, qaScorecard, sources } from '../../data
 import { ScamCallScreeningArticle, scamCallArticle } from '../rich-articles';
 import { HealthcareSchedulingArticle, healthcareSchedulingArticle } from '../healthcare-article';
 import { OutboundFollowUpArticle, outboundFollowUpArticle } from '../outbound-follow-up-article';
+import { ContentArticle } from '../../content-article';
+import { getContent, getEntry } from '../../content';
 
-export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.slug })); }
+export function generateStaticParams() { return [...blogPosts.map((p)=>({ slug: p.slug })), ...getContent('blog').map((p)=>({slug:p.slug}))]; }
 
 const guides: Record<string, { answer: string; sections: { title: string; text: string; bullets?: string[] }[]; faq: { q: string; a: string }[] }> = {
   'virtual-assistant-planning': {
@@ -61,17 +63,20 @@ const guides: Record<string, { answer: string; sections: { title: string; text: 
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+  const entry = getEntry('blog', slug);
   const post = blogPosts.find((p)=>p.slug===slug);
   return {
-    title: post?.title || 'Guide',
-    description: post?.excerpt,
-    alternates: { canonical: `${site.url}/blog/${post?.slug || slug}` },
-    openGraph: post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article' } : undefined,
+    title: entry?.title || post?.title || 'Guide',
+    description: entry?.description || post?.excerpt,
+    alternates: { canonical: `${site.url}/blog/${slug}` },
+    openGraph: entry ? {title:entry.title,description:entry.description,url:`${site.url}/blog/${entry.slug}`,type:'article',images:[{url:`${site.url}${entry.image}`,alt:entry.imageAlt}]} : post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article' } : undefined,
   };
 }
 
 export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
  const { slug } = await params;
+ const entry = getEntry('blog', slug);
+ if (entry) return <><Header/><ContentArticle entry={entry}/><Footer/></>;
  const post = blogPosts.find((p)=>p.slug===slug);
   if (!post) notFound();
  if (slug === scamCallArticle.slug) {

@@ -16,6 +16,14 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
   const blocks = markdownBlocks(entry.body);
   const headings = blocks.filter((block) => block.startsWith('## ')).map((block) => block.slice(3));
   const url = `${site.url}/${entry.kind}/${entry.slug}`;
+  const faqStart = blocks.findIndex((block) => block === '## Frequently asked questions');
+  const faqBlocks = faqStart < 0 ? [] : blocks.slice(faqStart + 1);
+  const faqs = faqBlocks.reduce<{ question: string; answer: string }[]>((items, block) => {
+    if (block.startsWith('## ')) return items;
+    if (block.startsWith('### ')) items.push({ question: block.slice(4), answer: '' });
+    else if (items.length && !items[items.length - 1].answer) items[items.length - 1].answer = block.replace(/\n/g, ' ');
+    return items;
+  }, []).filter((item) => item.answer);
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -27,7 +35,16 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
     url,
     publisher: { '@type': 'Organization', name: site.brand, url: site.url },
   };
-  return <main className="section rich-article-main"><JsonLd data={schema}/><article className="container rich-article">
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: { '@type': 'Answer', text: item.answer },
+    })),
+  };
+  return <main className="section rich-article-main"><JsonLd data={schema}/>{faqs.length ? <JsonLd data={faqSchema}/> : null}<article className="container rich-article">
     <p className="eyebrow">{entry.category}</p>
     <h1>{entry.title}</h1>
     <p className="lead">{entry.description}</p>
@@ -42,5 +59,9 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
       if (block.split('\n').every((line) => line.startsWith('- '))) return <ul key={index}>{block.split('\n').map((line) => <li key={line}>{inline(line.slice(2))}</li>)}</ul>;
       return <p key={index}>{inline(block.replace(/\n/g, ' '))}</p>;
     })}
+    {entry.related.length ? <aside className="article-related" aria-labelledby="related-content"><h2 id="related-content">Related content</h2><ul>{entry.related.map((href) => {
+      const label = href.split('/').filter(Boolean).pop()?.replace(/-/g, ' ') || 'Related guide';
+      return <li key={href}><a href={href}>{label}</a></li>;
+    })}</ul></aside> : null}
   </article><CTA/></main>;
 }
