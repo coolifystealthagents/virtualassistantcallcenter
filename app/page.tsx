@@ -1,5 +1,10 @@
 import { Header, Footer, JsonLd } from './components';
 import { blogPosts, faqs, industries, qaScorecard, roles, site, workflowSteps } from './data';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: { canonical: '/' },
+};
 
 const schema = {
   '@context': 'https://schema.org',
