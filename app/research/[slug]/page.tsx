@@ -1,1 +1,5 @@
-import {notFound} from 'next/navigation';import {Header,Footer} from '../../components';import {researchPosts} from '../../fleet-content';export function generateStaticParams(){return researchPosts.map(p=>({slug:p.slug}))}export default async function ResearchArticle({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const post=researchPosts.find(p=>p.slug===slug);if(!post)notFound();return <><Header/><main className="fleet-main"><article className="section article-shell"><p className="eyebrow">Philippines staffing research</p><h1>{post.title}</h1><p className="lead">{post.excerpt}</p>{post.body.map((x,i)=><p key={i}>{x}</p>)}</article></main><Footer/></>}
+import {notFound} from 'next/navigation';
+import {getContent} from '../../content';
+import {ContentArticle} from '../../content-article';
+export function generateStaticParams(){return getContent('research').map(p=>({slug:p.slug}))}
+export default async function ResearchArticle({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const post=getContent('research').find(p=>p.slug===slug);if(!post)notFound();return <ContentArticle entry={post}/>}
