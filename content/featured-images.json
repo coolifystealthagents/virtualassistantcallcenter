@@ -19,5 +19,159 @@
     "category": "Lead follow-up",
     "image": "/thumbnails/outbound-lead-follow-up-virtual-assistant-philippines.svg",
     "imageAlt": "Outbound lead follow-up guide for a Philippines virtual assistant using consent and stop-request controls"
+  },
+  {
+    "slug": "appointment-setting-workflow-for-small-business",
+    "title": "Appointment setting workflow for a small business",
+    "category": "Appointment setting",
+    "image": "/thumbnails/appointment-setting-workflow-for-small-business.svg",
+    "imageAlt": "Appointment setting workflow for a small business showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "after-hours-call-answering-playbook",
+    "title": "An after-hours call answering playbook",
+    "category": "After-hours coverage",
+    "image": "/thumbnails/after-hours-call-answering-playbook.svg",
+    "imageAlt": "An after-hours call answering playbook showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "virtual-receptionist-call-transfer-rules",
+    "title": "Virtual receptionist call transfer rules",
+    "category": "Call transfers",
+    "image": "/thumbnails/virtual-receptionist-call-transfer-rules.svg",
+    "imageAlt": "Virtual receptionist call transfer rules showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "inbound-customer-call-intake-checklist",
+    "title": "An inbound customer call intake checklist",
+    "category": "Inbound intake",
+    "image": "/thumbnails/inbound-customer-call-intake-checklist.svg",
+    "imageAlt": "An inbound customer call intake checklist showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "lead-qualification-call-script",
+    "title": "A practical lead qualification call script",
+    "category": "Lead qualification",
+    "image": "/thumbnails/lead-qualification-call-script.svg",
+    "imageAlt": "A practical lead qualification call script showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-center-qa-review-routine",
+    "title": "A call center quality review routine",
+    "category": "Quality assurance",
+    "image": "/thumbnails/call-center-qa-review-routine.svg",
+    "imageAlt": "A call center quality review routine showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "appointment-reminder-call-workflow",
+    "title": "An appointment reminder call workflow",
+    "category": "Appointment reminders",
+    "image": "/thumbnails/appointment-reminder-call-workflow.svg",
+    "imageAlt": "An appointment reminder call workflow showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "customer-callback-queue-management",
+    "title": "Customer callback queue management",
+    "category": "Callback queues",
+    "image": "/thumbnails/customer-callback-queue-management.svg",
+    "imageAlt": "Customer callback queue management showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "virtual-assistant-call-notes-template",
+    "title": "A virtual assistant call notes template",
+    "category": "Call documentation",
+    "image": "/thumbnails/virtual-assistant-call-notes-template.svg",
+    "imageAlt": "A virtual assistant call notes template showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-routing-for-multi-location-businesses",
+    "title": "Call routing for multi-location businesses",
+    "category": "Call routing",
+    "image": "/thumbnails/call-routing-for-multi-location-businesses.svg",
+    "imageAlt": "Call routing for multi-location businesses showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "service-business-phone-intake-workflow",
+    "title": "A service-business phone intake workflow",
+    "category": "Service intake",
+    "image": "/thumbnails/service-business-phone-intake-workflow.svg",
+    "imageAlt": "A service-business phone intake workflow showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "healthcare-appointment-call-handoff",
+    "title": "Healthcare appointment call handoff basics",
+    "category": "Healthcare calls",
+    "image": "/thumbnails/healthcare-appointment-call-handoff.svg",
+    "imageAlt": "Healthcare appointment call handoff basics showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-screening-for-small-business",
+    "title": "Call screening for small business teams",
+    "category": "Call screening",
+    "image": "/thumbnails/call-screening-for-small-business.svg",
+    "imageAlt": "Call screening for small business teams showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "outbound-follow-up-call-workflow",
+    "title": "An outbound follow-up call workflow",
+    "category": "Outbound follow-up",
+    "image": "/thumbnails/outbound-follow-up-call-workflow.svg",
+    "imageAlt": "An outbound follow-up call workflow showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "missed-call-recovery-script",
+    "title": "A missed call recovery script that sounds human",
+    "category": "Recovery scripts",
+    "image": "/thumbnails/missed-call-recovery-script.svg",
+    "imageAlt": "A missed call recovery script that sounds human showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-escalation-matrix-for-small-business",
+    "title": "A call escalation matrix for small business",
+    "category": "Escalation",
+    "image": "/thumbnails/call-escalation-matrix-for-small-business.svg",
+    "imageAlt": "A call escalation matrix for small business showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "business-hours-coverage-plan",
+    "title": "A business-hours phone coverage plan",
+    "category": "Coverage planning",
+    "image": "/thumbnails/business-hours-coverage-plan.svg",
+    "imageAlt": "A business-hours phone coverage plan showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-backlog-triage-process",
+    "title": "A call backlog triage process",
+    "category": "Backlog triage",
+    "image": "/thumbnails/call-backlog-triage-process.svg",
+    "imageAlt": "A call backlog triage process showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "virtual-receptionist-handoff-checklist",
+    "title": "A virtual receptionist handoff checklist",
+    "category": "Handoffs",
+    "image": "/thumbnails/virtual-receptionist-handoff-checklist.svg",
+    "imageAlt": "A virtual receptionist handoff checklist showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-answering-policy-for-new-leads",
+    "title": "A call answering policy for new leads",
+    "category": "New lead handling",
+    "image": "/thumbnails/call-answering-policy-for-new-leads.svg",
+    "imageAlt": "A call answering policy for new leads showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "phone-support-workflow-for-growing-teams",
+    "title": "A phone support workflow for growing teams",
+    "category": "Team workflows",
+    "image": "/thumbnails/phone-support-workflow-for-growing-teams.svg",
+    "imageAlt": "A phone support workflow for growing teams showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-coverage-scorecard",
+    "title": "A call coverage scorecard for managers",
+    "category": "Coverage metrics",
+    "image": "/thumbnails/call-coverage-scorecard.svg",
+    "imageAlt": "A call coverage scorecard for managers showing a structured phone support workflow with routing, notes, and owner review"
   }
 ]
