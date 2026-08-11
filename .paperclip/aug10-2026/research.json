@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "contract": "sites3-aug10-public-date-v6",
+  "targetDate": "2026-08-10",
+  "family": "research",
+  "domain": "virtualassistantcallcenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "minimum": 10,
+  "priorRunId": "b42c61d4-387a-4366-a129-4c05cfbb9fd2",
+  "priorIssueId": "0c3ea077-f2e0-4914-8c11-19b835f9437b",
+  "validationCommands": [
+    "python3 scripts/validate_content.py",
+    "python3 scripts/validate_aug10_research.py",
+    "npm run build"
+  ],
+  "cleanBuildPassed": true,
+  "existingCompliancePassed": true,
+  "indexNewestFirstPassed": true,
+  "entries": [
+    {"slug":"appointment-reminder-call-outcome-measurement","route":"/research/appointment-reminder-call-outcome-measurement","sourcePath":"content/research/appointment-reminder-call-outcome-measurement.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-center-accessibility-accommodation-review","route":"/research/call-center-accessibility-accommodation-review","sourcePath":"content/research/call-center-accessibility-accommodation-review.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-center-escalation-ownership-audit","route":"/research/call-center-escalation-ownership-audit","sourcePath":"content/research/call-center-escalation-ownership-audit.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-center-knowledge-base-change-control","route":"/research/call-center-knowledge-base-change-control","sourcePath":"content/research/call-center-knowledge-base-change-control.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-center-queue-priority-audit","route":"/research/call-center-queue-priority-audit","sourcePath":"content/research/call-center-queue-priority-audit.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-intake-identity-verification-controls","route":"/research/call-intake-identity-verification-controls","sourcePath":"content/research/call-intake-identity-verification-controls.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"call-recording-consent-review-method","route":"/research/call-recording-consent-review-method","sourcePath":"content/research/call-recording-consent-review-method.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"customer-callback-exception-recovery-study","route":"/research/customer-callback-exception-recovery-study","sourcePath":"content/research/customer-callback-exception-recovery-study.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"lead-intake-response-evidence-study","route":"/research/lead-intake-response-evidence-study","sourcePath":"content/research/lead-intake-response-evidence-study.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"multi-location-call-ownership-review","route":"/research/multi-location-call-ownership-review","sourcePath":"content/research/multi-location-call-ownership-review.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"phone-intake-source-traceability-study","route":"/research/phone-intake-source-traceability-study","sourcePath":"content/research/phone-intake-source-traceability-study.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"virtual-assistant-call-note-minimization-study","route":"/research/virtual-assistant-call-note-minimization-study","sourcePath":"content/research/virtual-assistant-call-note-minimization-study.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"virtual-receptionist-after-hours-routing-study","route":"/research/virtual-receptionist-after-hours-routing-study","sourcePath":"content/research/virtual-receptionist-after-hours-routing-study.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"},
+    {"slug":"virtual-receptionist-callback-queue-aging","route":"/research/virtual-receptionist-callback-queue-aging","sourcePath":"content/research/virtual-receptionist-callback-queue-aging.md","provenance":"original-aug10-batch","introducedByCommit":"fcf9680174754948662467c4b1b9698a408a0e34","sourceDateField":"published","sourceDate":"2026-08-10","renderedDateFields":["datePublished"],"renderedDate":"2026-08-10"}
+  ]
+}
