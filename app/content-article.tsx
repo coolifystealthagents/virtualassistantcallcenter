@@ -48,6 +48,7 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
     <p className="eyebrow">{entry.category}</p>
     <h1>{entry.title}</h1>
     <p className="lead">{entry.description}</p>
+    <p className="article-date"><time dateTime={entry.published}>Published {new Date(`${entry.published}T00:00:00Z`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time></p>
     <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
     {headings.length > 1 ? <nav className="article-toc" aria-label="Table of contents"><strong>On this page</strong><ol>{headings.map((heading) => <li key={heading}><a href={`#${heading.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}>{heading}</a></li>)}</ol></nav> : null}
     {blocks.map((block, index) => {
