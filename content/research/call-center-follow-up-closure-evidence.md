@@ -46,7 +46,35 @@ Contact records cannot prove that a caller accepted the result unless the approv
 
 Follow-up evidence is strongest when intent, acceptance, action, result, and exception state remain connected. That chain gives managers a defensible closure measure without confusing activity with an outcome.
 
+## Additional analysis
+
+Closure definitions should be written from the caller's requested next step. A request for a callback may require owner acceptance and a recorded attempt. A request for a policy answer may require the approved answer and a confirmation that it was delivered. A request for a decision may remain open until the decision owner responds. These states should not share a single completed label because the evidence and authority differ.
+
+The study should examine the boundary between assignment and acceptance. A name in a queue can be useful routing information, but it does not prove that the person saw the request or agreed to act. If the owner is unavailable, the record should move to the written fallback with a new accountable owner. If no fallback exists, report a policy gap instead of marking the item as waiting without ownership.
+
+Follow-up records also need a safe correction path. A caller may say the information was wrong, the request changed, or the wrong person was contacted. Preserve the correction request, the time it was received, and the owner who must resolve it. Do not overwrite the first account of the request when the local policy requires history. A correction is evidence about the process, not automatically evidence of poor handling.
+
+Review the caller-facing expectation alongside the internal record. If a message states that a callback will occur during a particular period, compare that statement with the approved owner route and the actual follow-up state. Do not publish a timing claim from a convenience sample. A qualitative finding that expectations are unclear may be more defensible than a rate based on an unstable denominator.
+
+Stratify by request type, channel, location, operating hours, and exception state when those fields exist. An aggregate closure rate can hide a failure in urgent or accessibility-related requests. If a stratum is small, give its count and describe the evidence rather than ranking it. Include duplicates and unreachable cases under the defined eligibility rule so the measure does not reward removing difficult requests.
+
+The article's bounded conclusion should distinguish process evidence from customer outcome. A recorded owner acceptance does not prove satisfaction. A completed contact attempt does not prove that the caller received the answer. Those outcomes require separate evidence. Keeping the measures separate allows a business to improve routing and record design without making claims the source records cannot support.
+
+## Conclusion
+
+Follow-up closure is credible when intent, acceptance, action, result, and exceptions are connected. The review should make uncertainty visible, use counts with defined denominators, and reserve consequential decisions for the owner authorized to make them.
+
+The report should distinguish a request that was closed by caller confirmation from one closed under an approved no-response rule. Those are different outcomes and may require different evidence. A no-response rule should state the number of attempts, interval, channel, and owner authority before it is used. The study should not invent those values or present them as universal practice. If the policy is silent, mark the request unresolved and identify the policy owner.
+
+Follow-up cohorts should also preserve the original intake route. A request captured by voicemail, web form, transfer, or direct owner contact may have a different acceptance event and different missing fields. Combine routes only after confirming that the definitions match. If the source system cannot link a later response to the original request, report that linkage gap as a limitation rather than assuming that a similar name or phone number proves continuity.
+For each closure category, identify the person or role allowed to approve it. A specialist may record caller confirmation, while an owner may need to approve closure for a disputed or sensitive matter. Test whether the record shows that authority, not merely whether a status changed. If a status can be changed by anyone with access, note that control limitation and avoid treating the status as independent evidence.
+
+The final table should show closure by request type and by evidence class. A caller-confirmed result, an owner-confirmed result, and an approved no-response closure should not be merged without explanation. Report unresolved and disputed records in the same view. If the source system cannot distinguish these states, that is a record-design finding. It is better to publish an incomplete but honest measure than a precise percentage built from ambiguous statuses.
+
+If the follow-up route changes during the review period, preserve the old and new definitions and identify the boundary date. A change in owner policy, source system, or closure status can alter the observed result without changing caller behavior. Separate those cohorts and state which evidence supports each one. This makes the final measure auditable and prevents a process change from being mistaken for a service trend.
+
 ## Sources
+
 1. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 2. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 3. [W3C Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/)

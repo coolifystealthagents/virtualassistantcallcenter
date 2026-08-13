@@ -42,7 +42,37 @@ Call records cannot prove that an unknown person was acting maliciously. They ca
 
 Good verification boundaries are narrow, purpose-specific, and honest about uncertainty. They protect callers by making escalation visible rather than asking frontline staff to improvise identity decisions.
 
+## Additional analysis
+
+Verification should begin with the requested action, not with a general desire to collect more facts. A caller asking for a public callback may need a safe return channel. A caller asking to change a protected record may need a separate owner-controlled process. The policy should state the minimum evidence for each action and identify what the frontline route must not disclose before the check succeeds. This keeps privacy protection proportional to purpose.
+
+A useful test matrix includes a normal request, a caller who cannot provide one approved field, a correction to an existing record, a delegated caller, a disputed account, and an urgent request. For each case, record the approved response and whether the caller received a clear explanation. Do not turn a failed check into a judgment about the caller's character. It is a process state that requires a safe next step.
+
+Knowledge-based questions can be exposed through social media, old records, or shared household information. The study should therefore evaluate whether the chosen evidence is appropriate for the action and whether the caller was asked for a secret that the business should not retain. A support specialist should not reveal an answer while asking the question. If the policy uses a one-time code or owner callback, the route should document acceptance without copying the code into a general note.
+
+Identity uncertainty can coexist with a legitimate request. A caller may have a new number, a changed name, an interpreter, or an accessibility need. The fallback should preserve the request while withholding protected details until the owner resolves verification. Measure whether the fallback was offered and accepted separately from verification success. That distinction helps a business see whether its process is safe and usable.
+
+Review corrections and overrides. An owner may approve an exception, but the record should show who approved it, why the ordinary check did not apply, and what information was disclosed. An unexplained override is not evidence of flexibility; it is an audit gap. Retain only the details needed under the approved retention policy and restrict access to the people who need them.
+
+## Conclusion
+
+Caller authentication is a boundary-setting problem. A purpose-specific check, explicit failure state, and accountable fallback protect both privacy and service continuity. The study should report what the record proves and leave unsupported identity judgments out of the result.
+
+The report should identify the authority for each verification rule and the date it was approved. Rules can differ by account action, channel, jurisdiction, or risk. A general intake route should not silently inherit a high-risk check, and a sensitive route should not rely on an informal question created for convenience. If a rule changed during the sample period, separate the cohorts and explain which records used each version.
+
+Measure usability as well as protection. A caller who cannot complete the check may abandon the request, seek a different channel, or reach an owner through an exception. Those outcomes do not prove that the caller was fraudulent. They show how the boundary behaves for people with changed contact details, limited access to a device, communication accommodations, or delegated authority. Review the available fallback and record whether it preserved the request without disclosing protected information.
+An authentication review should never publish example answers that could be reused against a real account. Public research can describe evidence categories and decision boundaries while omitting values, formats, and account-specific clues. Measure usability as well as protection. A caller who cannot complete the check may have changed contact details, need an accommodation, or have delegated authority. Those cases show how the boundary behaves; they do not prove fraud.
+
+The sample should include records that passed the check and records that used a fallback. Compare the requested action, evidence type, owner acceptance, and disclosure outcome. A check can be completed while the wrong action is still taken, so verification should not be used as a substitute for authorization. The article should also say whether the source records were audio, structured events, or notes, because each source supports a different level of confidence.
+
+Where a verification check fails, record whether the caller received an explanation and a safe next option. A silent failure can look like caller abandonment when the route itself caused the loss. Compare the fallback by request type and owner, and retain only the evidence needed to support the approved action. This keeps the research focused on process behavior rather than speculation about people.
+
+The report should distinguish a policy failure from a caller's inability to complete an approved check. If the route offers no safe fallback, the policy is incomplete. If the fallback exists but the record does not show it was offered, the evidence is incomplete. If the caller declines the fallback, record that state without implying intent. These categories give the owner clearer corrective choices than a generic failed-verification count.
+
+Use the same evidence definitions for all records in a cohort, and record any approved exception explicitly.
+
 ## Sources
+
 1. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 2. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 3. [FTC small-business cybersecurity](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity)

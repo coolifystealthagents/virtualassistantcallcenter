@@ -46,6 +46,32 @@ Calendar data cannot prove that a caller attended. Call notes cannot prove that 
 
 Appointment intake integrity depends on provenance. Following the request through confirmation, calendar ownership, and correction gives a business a better diagnostic signal than counting final statuses alone.
 
+## Additional analysis
+
+An appointment request should be treated as a sequence of state changes, not a single booking flag. The caller may ask for a service, offer a date, accept an alternative, request a change, or withdraw the request. Each event has a different owner and evidence requirement. A study that inspects only the final calendar row cannot tell whether a mismatch began in speech recognition, read-back, time-zone conversion, calendar entry, or later correction. Preserve those possible sources in the review model.
+
+The sample frame should include appointments that were never successfully booked when those requests are part of the service population. Excluding them produces a clean calendar but removes the cases where intake breaks down. Classify the reason for non-booking where the evidence supports it: no availability, caller withdrawal, missing information, failed handoff, duplicate, or unknown. Do not infer a reason from a blank status.
+
+Read-back is a control, not a guarantee. It gives the caller an opportunity to correct date, time, zone, location, and service before the event is stored. The study should record whether that opportunity existed and whether a correction was made. If a business does not use read-back for a particular appointment type, state that limitation. Do not award the same evidence standard to routes with different policies.
+
+Calendar ownership also needs an observable event. A staff name on an appointment can identify a destination, but it does not prove that the person accepted responsibility or that the event was visible in the correct calendar. Review owner acceptance separately from calendar creation. For shared calendars, document who may make corrections and how conflicting edits are resolved.
+
+Time zones should be analyzed with the caller's stated context, not only the browser or phone system default. A caller working remotely may have a different zone from the business location. If the approved policy requires the location's zone, the confirmation should say so. If the zone is unknown, keep it unknown until the owner resolves it. A guessed zone can create a material attendance error while appearing technically complete.
+
+Corrections should be grouped by source and period. A late correction may reflect caller preference, staff availability, a system error, or an ordinary reschedule. Only the evidence can distinguish those cases. Report the number of corrections, the number with a recorded reason, and the number where the original value is recoverable. This makes the research useful for record design without blaming a route on the basis of an unexplained status.
+
+## Conclusion
+
+Provenance turns an appointment review into a diagnostic study. It shows what the caller requested, what was confirmed, what the calendar stored, and who owned each correction. That chain supports safer intake and more honest interpretation than a final booked or missed label.
+
+The report should include the number of requests reviewed, the number with complete source chains, and the number where one or more links were unavailable. A 12-record sample with four missing confirmations should not be described as a 100 percent accurate calendar simply because all twelve rows contain dates. Explain whether the missing evidence came from audio retention, a system export, an owner process, or an unknown cause. That explanation directs the next improvement and keeps the result bounded.
+
+When the service covers several appointment types, review each type before combining them. A clinic consultation, a service estimate, and a simple information call may use different confirmation rules. A combined error figure can overweight the easiest route. If the business later changes its form or calendar integration, start a new cohort and preserve the old definition. Provenance includes the process version, not only the appointment values.
+
+A reviewer should check the handoff between intake and the calendar owner. The requested appointment may be correctly summarized while the owner receives an incomplete location, channel, or accommodation detail. Review the source request and destination view together where approved access permits it. If the destination cannot show required context, mark the handoff incomplete and escalate the record-design issue. Do not solve the gap by copying all caller details into a broader system.
+
+The analysis should state whether the appointment was requested by the caller, an authorized representative, or an owner acting on an existing record. That context can affect the permitted correction and the evidence required. Do not infer authority from a familiar name. If the record lacks the needed authority evidence, keep the change disputed and route it to the owner. This keeps the calendar accurate without turning intake staff into decision-makers for sensitive changes.
+
 ## Sources
 
 1. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)

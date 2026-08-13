@@ -94,6 +94,10 @@ Report counts before percentages. State the numerator, denominator, period, and 
 
 The review should also state what it cannot determine. A disposition audit cannot establish whether a caller liked the interaction unless satisfaction was measured with a separate method. It cannot establish that a route is legally adequate without the relevant owner or counsel. It cannot establish a workforce claim from a handful of records. These limits are not weaknesses in the article; they prevent readers from using a narrow control measure as a broad business conclusion.
 
+The reviewer should preserve the difference between a record that is incomplete and a record that is complete with an unresolved result. For example, an owner may document that a caller declined a callback. That can satisfy the evidence rule for a declined request even though it should not be counted as a completed callback. The dictionary should define both the evidence and the outcome vocabulary. This distinction prevents managers from rewarding closure labels that merely remove work from view.
+
+Before publishing a result, conduct a second-pass check on the denominator. Reconcile the source export with the sample list, note duplicate identifiers, and explain any records removed after selection. If the eligible population changed during the review, freeze the original count and report the change. These steps are small, but they keep a local audit from looking more precise than its records allow.
+
 ## Sources
 
 1. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)

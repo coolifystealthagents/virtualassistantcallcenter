@@ -100,6 +100,10 @@ Report the number of records, reviewers, dimensions, rubric version, agreement m
 
 Calibration is strongest when it leads to a bounded change and a later recheck. The recheck should use a newly defined period or a clearly separated sample. Comparing scores after a rubric change without acknowledging the change confounds the result. Preserve the old evidence and decision so a later reviewer can understand the path from initial judgment to correction.
 
+The recheck should examine more than the headline agreement number. Look at which dimensions produce disagreement, whether one reviewer sees a different mix of call types, and whether the unresolved cases cluster around one owner or route. If the sample contains 40 records and 8 are disputed, an 80 percent agreement statement hides the fact that the disputes may all concern a sensitive route. Report the count and the pattern. A calibration session is useful when it identifies a definition that needs attention, not only when it produces a high score.
+
+Calibration records should also protect the people whose calls are reviewed. Limit access to recordings and notes, remove identifying details from examples, and publish only abstracted findings. The business owner should set the retention period and correction authority. A rubric can improve consistency without giving every reviewer access to every detail. This matters when call quality work includes health, payment, identity, or safety information.
+
 ## Sources
 
 1. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
