@@ -2,8 +2,8 @@
 slug: call-intake-for-veterinary-clinics
 title: Call intake for veterinary clinics
 description: A compassionate veterinary clinic intake guide for appointments, medication questions, records requests, and urgent concerns.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Veterinary Clinic Intake
 image: /thumbnails/call-intake-for-veterinary-clinics.svg
 imageAlt: Call intake for veterinary clinics showing a clear phone intake and routing path for callers

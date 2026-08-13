@@ -2,8 +2,8 @@
 slug: call-intake-for-funeral-homes
 title: Call intake for funeral homes
 description: A sensitive phone intake guide for funeral homes focused on respectful routing, immediate needs, and careful handling of family questions.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Funeral Home Intake
 image: /thumbnails/call-intake-for-funeral-homes.svg
 imageAlt: Call intake for funeral homes showing a clear phone intake and routing path for callers

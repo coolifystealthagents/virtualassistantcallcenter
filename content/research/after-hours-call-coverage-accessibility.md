@@ -2,8 +2,8 @@
 slug: after-hours-call-coverage-accessibility
 title: After-hours call coverage and accessibility research
 description: A research framework for reviewing after-hours call paths for understandable options, urgent exceptions, ownership, and accessible fallback.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: After-hours research
 image: /thumbnails/after-hours-call-coverage-accessibility.svg
 imageAlt: After-hours call coverage accessibility research showing clear options, urgent exceptions, fallback, and ownership

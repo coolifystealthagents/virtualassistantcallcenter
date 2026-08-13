@@ -2,8 +2,8 @@
 slug: call-routing-for-home-care
 title: Call routing for home care agencies
 description: A phone routing guide for home care agencies that separates new-care inquiries, current-client updates, caregiver calls, and urgent concerns.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Home Care Agency Routing
 image: /thumbnails/call-routing-for-home-care.svg
 imageAlt: Call routing for home care agencies showing a clear phone intake and routing path for callers

@@ -2,8 +2,8 @@
 slug: call-intake-minimum-necessary-information
 title: Call intake minimum-necessary information research
 description: Research on defining the smallest useful call-intake record while preserving routing accuracy, consent context, and accountable follow-up.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Privacy-aware intake
 image: /thumbnails/call-intake-minimum-necessary-information.svg
 imageAlt: Minimum-necessary call intake research showing purpose, required fields, redaction, and owner review

@@ -2,8 +2,8 @@
 slug: property-manager-maintenance-call-answering
 title: Property manager maintenance call answering
 description: A resident-friendly maintenance call guide for property managers that captures urgency, access details, and a safe next step.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Maintenance Call Intake
 image: /thumbnails/property-manager-maintenance-call-answering.svg
 imageAlt: Property manager maintenance call answering showing a clear phone intake and routing path for callers

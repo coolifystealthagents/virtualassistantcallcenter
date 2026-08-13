@@ -2,8 +2,8 @@
 slug: call-intake-for-architects
 title: Call intake for architecture firms
 description: A phone intake framework for architecture firms that distinguishes new project inquiries, active-project requests, vendor calls, and document follow-up.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Architecture Firm Intake
 image: /thumbnails/call-intake-for-architects.svg
 imageAlt: Call intake for architecture firms showing a clear phone intake and routing path for callers

@@ -2,8 +2,8 @@
 slug: call-intake-for-nonprofit-events
 title: Call intake for nonprofit event teams
 description: A useful call-intake framework for nonprofit event teams managing registrations, sponsorship questions, volunteer interest, and donor callbacks.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Nonprofit Event Intake
 image: /thumbnails/call-intake-for-nonprofit-events.svg
 imageAlt: Call intake for nonprofit event teams showing a clear phone intake and routing path for callers

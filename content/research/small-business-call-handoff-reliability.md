@@ -2,8 +2,8 @@
 slug: small-business-call-handoff-reliability
 title: Small-business call handoff reliability research
 description: A research method for distinguishing attempted transfers from accepted handoffs and finding where small-business call ownership breaks down.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Handoff research
 image: /thumbnails/small-business-call-handoff-reliability.svg
 imageAlt: Small-business call handoff reliability study showing transfer attempt, owner acceptance, fallback, and evidence

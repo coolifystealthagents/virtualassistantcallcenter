@@ -2,8 +2,8 @@
 slug: call-intake-for-translation-services
 title: Call intake for translation services
 description: A practical intake guide for translation and interpreting firms that captures language, format, deadline, and confidentiality needs before specialist review.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Translation Intake
 image: /thumbnails/call-intake-for-translation-services.svg
 imageAlt: Call intake for translation services showing a clear phone intake and routing path for callers

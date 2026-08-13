@@ -2,8 +2,8 @@
 slug: customer-call-record-integrity
 title: Customer call record integrity research
 description: A source-led study of call-record integrity, including source traceability, correction history, minimum data, and accountable disposition.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Record integrity
 image: /thumbnails/customer-call-record-integrity.svg
 imageAlt: Customer call record integrity study showing source traceability, corrections, minimum data, and disposition

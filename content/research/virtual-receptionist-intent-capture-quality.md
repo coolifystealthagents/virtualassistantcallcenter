@@ -2,8 +2,8 @@
 slug: virtual-receptionist-intent-capture-quality
 title: Virtual receptionist intent capture quality research
 description: A source-led method for testing whether receptionist notes preserve caller intent without over-collecting information or promising an outcome.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Intake quality
 image: /thumbnails/virtual-receptionist-intent-capture-quality.svg
 imageAlt: Virtual receptionist intent capture research with caller intent, minimum data, confirmation, and escalation

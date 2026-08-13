@@ -2,8 +2,8 @@
 slug: appointment-intake-for-therapists
 title: Appointment intake for therapy practices
 description: A practical phone intake guide for therapy practices that need respectful scheduling, clear boundaries, and reliable next steps for new callers.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Therapy Practice Intake
 image: /thumbnails/appointment-intake-for-therapists.svg
 imageAlt: Appointment intake for therapy practices showing a clear phone intake and routing path for callers

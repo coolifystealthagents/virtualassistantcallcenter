@@ -2,8 +2,8 @@
 slug: dental-emergency-call-triage
 title: Dental emergency call triage for front desks
 description: A focused dental front-desk guide for separating urgent callers from routine requests while keeping intake factual and escalation clear.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Dental Front Desk Triage
 image: /thumbnails/dental-emergency-call-triage.svg
 imageAlt: Dental emergency call triage for front desks showing a clear phone intake and routing path for callers

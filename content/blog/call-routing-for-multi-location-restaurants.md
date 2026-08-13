@@ -2,8 +2,8 @@
 slug: call-routing-for-multi-location-restaurants
 title: Call routing for multi-location restaurants
 description: A location-aware call routing guide for restaurant groups handling reservations, catering questions, delivery issues, and manager callbacks.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Restaurant Group Routing
 image: /thumbnails/call-routing-for-multi-location-restaurants.svg
 imageAlt: Call routing for multi-location restaurants showing a clear phone intake and routing path for callers

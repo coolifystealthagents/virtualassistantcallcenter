@@ -2,8 +2,8 @@
 slug: call-answering-for-landscapers
 title: Call answering for landscaping companies
 description: A seasonal landscaping call-answering framework for quote requests, recurring service, storm cleanup, and property-specific callbacks.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Landscaping Call Handling
 image: /thumbnails/call-answering-for-landscapers.svg
 imageAlt: Call answering for landscaping companies showing a clear phone intake and routing path for callers

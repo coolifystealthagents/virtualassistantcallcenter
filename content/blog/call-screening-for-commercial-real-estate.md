@@ -2,8 +2,8 @@
 slug: call-screening-for-commercial-real-estate
 title: Call screening for commercial real estate teams
 description: Screen commercial real estate calls by property, transaction stage, and requested action so brokers can focus on well-documented opportunities and active deals.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Commercial Real Estate Screening
 image: /thumbnails/call-screening-for-commercial-real-estate.svg
 imageAlt: Call screening for commercial real estate teams showing a clear phone intake and routing path for callers

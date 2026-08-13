@@ -2,8 +2,8 @@
 slug: call-answering-for-event-venues
 title: Call answering for event venues
 description: A structured call-answering guide for event venues handling tours, date availability, vendor questions, and active-event changes.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Event Venue Calls
 image: /thumbnails/call-answering-for-event-venues.svg
 imageAlt: Call answering for event venues showing a clear phone intake and routing path for callers

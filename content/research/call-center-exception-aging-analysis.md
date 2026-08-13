@@ -2,8 +2,8 @@
 slug: call-center-exception-aging-analysis
 title: Call-center exception aging analysis research
 description: Research on measuring unresolved call exceptions by age, owner, next action, and risk without treating an old item as completed.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Exception analysis
 image: /thumbnails/call-center-exception-aging-analysis.svg
 imageAlt: Call-center exception aging analysis showing age bands, owners, next actions, and escalation risk

@@ -2,8 +2,8 @@
 slug: call-intake-for-pet-groomers
 title: Call intake for pet grooming businesses
 description: A practical phone intake guide for pet grooming businesses that captures service needs, timing, pet details, and a clear appointment handoff.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Pet Grooming Calls
 image: /thumbnails/call-intake-for-pet-groomers.svg
 imageAlt: Call intake for pet grooming businesses showing a clear service request and appointment handoff

@@ -2,8 +2,8 @@
 slug: appointment-call-confirmation-evidence
 title: Appointment call confirmation evidence research
 description: Research on proving that appointment requests and confirmations preserve intent, time-zone context, owner acceptance, and exception handling.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Appointment research
 image: /thumbnails/appointment-call-confirmation-evidence.svg
 imageAlt: Appointment call confirmation evidence research showing request, time-zone confirmation, owner acceptance, and exception

@@ -2,8 +2,8 @@
 slug: call-answering-for-physical-therapy-clinics
 title: Call answering for physical therapy clinics
 description: Help physical therapy clinics turn missed calls into complete appointment requests without losing referral details, timing, or the patient's preferred location.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Physical Therapy Calls
 image: /thumbnails/call-answering-for-physical-therapy-clinics.svg
 imageAlt: Call answering for physical therapy clinics showing a clear phone intake and routing path for callers

@@ -2,8 +2,8 @@
 slug: medical-office-referral-call-intake
 title: Medical office referral call intake
 description: A clear intake pattern for medical offices receiving referral calls, with privacy-aware notes and a defined handoff to the scheduling team.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Referral Call Intake
 image: /thumbnails/medical-office-referral-call-intake.svg
 imageAlt: Medical office referral call intake showing a clear phone intake and routing path for callers

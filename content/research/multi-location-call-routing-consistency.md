@@ -2,8 +2,8 @@
 slug: multi-location-call-routing-consistency
 title: Multi-location call routing consistency research
 description: A research method for comparing call-routing rules across locations while preserving local exceptions, ownership, accessibility, and evidence.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Routing research
 image: /thumbnails/multi-location-call-routing-consistency.svg
 imageAlt: Multi-location call routing consistency research showing shared rules, local exceptions, owners, and evidence

@@ -2,8 +2,8 @@
 slug: home-inspection-call-answering
 title: Home inspection call answering guide
 description: Help home inspection companies capture property details, inspection timing, and buyer or seller context so each call reaches the right scheduling path.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Home Inspection Calls
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Home inspection call answering guide showing a clear phone intake and routing path for callers

@@ -2,8 +2,8 @@
 slug: virtual-assistant-service-boundary-research
 title: Virtual assistant service boundary research
 description: Research on defining safe service boundaries for call assistance, including authority limits, escalation evidence, privacy, and caller clarity.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Service boundaries
 image: /thumbnails/virtual-assistant-service-boundary-research.svg
 imageAlt: Virtual assistant service boundary research showing permitted assistance, owner decisions, privacy, and escalation

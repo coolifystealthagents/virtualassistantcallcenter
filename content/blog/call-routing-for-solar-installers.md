@@ -2,8 +2,8 @@
 slug: call-routing-for-solar-installers
 title: Call routing for solar installation companies
 description: Route solar installation calls by project stage, service area, system question, and appointment need without making technical or savings promises.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Solar Installer Routing
 image: /thumbnails/call-routing-for-solar-installers.svg
 imageAlt: Call routing for solar installation companies showing a clear phone intake and routing path for callers

@@ -2,8 +2,8 @@
 slug: call-answering-for-accounting-firms
 title: Call answering for accounting firms outside tax season
 description: A practical accounting firm call-answering guide for bookkeeping, payroll, document requests, and client callbacks throughout the year.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Accounting Firm Calls
 image: /thumbnails/call-answering-for-accounting-firms.svg
 imageAlt: Call answering for accounting firms outside tax season showing a clear phone intake and routing path for callers

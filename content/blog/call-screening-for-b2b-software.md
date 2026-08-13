@@ -2,8 +2,8 @@
 slug: call-screening-for-b2b-software
 title: Call screening for B2B software companies
 description: A focused call-screening guide for B2B software teams handling demos, support requests, renewals, and implementation questions.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: B2B Software Calls
 image: /thumbnails/call-screening-for-b2b-software.svg
 imageAlt: Call screening for B2B software companies showing a clear phone intake and routing path for callers

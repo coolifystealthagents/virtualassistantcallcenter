@@ -2,8 +2,8 @@
 slug: call-center-callback-ownership-evidence
 title: Call-center callback ownership evidence study
 description: Research on proving callback ownership from the original request through acceptance, exception handling, and customer-safe closure.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Callback research
 image: /thumbnails/call-center-callback-ownership-evidence.svg
 imageAlt: Callback ownership evidence study showing request capture, named ownership, acceptance, and closure

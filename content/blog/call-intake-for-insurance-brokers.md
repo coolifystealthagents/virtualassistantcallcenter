@@ -2,8 +2,8 @@
 slug: call-intake-for-insurance-brokers
 title: Call intake for independent insurance brokers
 description: Organize first calls for independent insurance brokers by coverage question, renewal timing, and follow-up owner without giving policy advice on the phone.
-published: 2026-08-11
-updated: 2026-08-11
+published: 2026-08-12
+updated: 2026-08-12
 category: Insurance Broker Intake
 image: /thumbnails/call-intake-for-insurance-brokers.svg
 imageAlt: Call intake for independent insurance brokers showing a clear phone intake and routing path for callers
