@@ -50,9 +50,9 @@ export default function Home() {
               <p className="signal-kicker"><span>Philippines call support</span> Built around your script</p>
               <h1>Every call gets a clear next step.</h1>
               <ul className="signal-points">
-                <li><img src="/icons/getillustrations/blueprint-communication/business-call-answering.svg" alt="" aria-hidden="true" />A Filipino receptionist answers in your business name</li>
-                <li><img src="/icons/getillustrations/blueprint-communication/booking-and-routing.svg" alt="" aria-hidden="true" />Book, route, or follow up from one script</li>
-                <li><img src="/icons/getillustrations/blueprint-communication/call-notes-review.svg" alt="" aria-hidden="true" />Review notes and call quality each week</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/business-call-answering.svg" alt="Business call answering" />A Filipino receptionist answers in your business name</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/booking-and-routing.svg" alt="Appointment booking and call routing" />Book, route, or follow up from one script</li>
+                <li><img src="/icons/getillustrations/blueprint-communication/call-notes-review.svg" alt="Call notes quality review" />Review notes and call quality each week</li>
               </ul>
               <a className="signal-button" href="/contact">Map my call coverage</a>
               <p className="signal-tagline">A calm voice for callers. A clean handoff for your team.</p>
