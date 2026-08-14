@@ -5,7 +5,7 @@ description: Create a bounded medical equipment inquiry path that records the re
 published: 2026-08-14
 updated: 2026-08-14
 category: Healthcare call support
-image: /thumbnails/phone-intake-minimum-necessary-information.svg
+image: /thumbnails/call-intake-for-medical-offices.svg
 imageAlt: Medical equipment supplier call intake guide with delivery and support routing
 related: /services/inbound-customer-calls
 ---
