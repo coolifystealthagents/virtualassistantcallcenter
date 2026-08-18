@@ -2,8 +2,8 @@
 slug: after-hours-call-continuity-cohort
 title: After-hours call continuity: measuring handoff reliability
 description: After-hours research should distinguish caller access, message capture, owner acknowledgment, and eventual disposition across a declared time window.
-published: 2026-08-17
-updated: 2026-08-17
+published: 2026-08-14
+updated: 2026-08-14
 category: Service continuity research
 image: /thumbnails/after-hours-call-continuity-cohort.svg
 imageAlt: After-hours call continuity research showing access, message capture, owner acknowledgment, and disposition

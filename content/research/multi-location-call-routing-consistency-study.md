@@ -2,8 +2,8 @@
 slug: multi-location-call-routing-consistency-study
 title: Multi-location call routing: a consistency study with local exceptions
 description: Routing consistency research should compare shared definitions while preserving location-specific hours, ownership, access, and escalation rules.
-published: 2026-08-17
-updated: 2026-08-17
+published: 2026-08-14
+updated: 2026-08-14
 category: Routing research
 image: /thumbnails/multi-location-call-routing-consistency-study.svg
 imageAlt: Multi-location routing research showing shared call categories, local exceptions, and owner review

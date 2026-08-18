@@ -2,8 +2,8 @@
 slug: call-recording-consent-evidence-study
 title: Call-recording consent: an evidence and exception review
 description: A call-recording study should identify the consent rule, captured signal, retention owner, and exceptions without treating a recording as automatically necessary.
-published: 2026-08-17
-updated: 2026-08-17
+published: 2026-08-14
+updated: 2026-08-14
 category: Call-governance research
 image: /thumbnails/call-recording-consent-evidence-study.svg
 imageAlt: Call recording consent research showing consent state, purpose, retention, and exception review

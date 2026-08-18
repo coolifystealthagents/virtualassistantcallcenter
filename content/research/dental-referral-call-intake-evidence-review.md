@@ -2,8 +2,8 @@
 slug: dental-referral-call-intake-evidence-review
 title: Dental referral calls: a study of completeness and safe escalation
 description: Dental referral intake can measure field completeness and handoff reliability while keeping diagnosis, urgency, and treatment decisions with clinicians.
-published: 2026-08-17
-updated: 2026-08-17
+published: 2026-08-14
+updated: 2026-08-14
 category: Healthcare call research
 image: /thumbnails/dental-referral-call-intake-evidence-review.svg
 imageAlt: Dental referral call research showing structured intake fields and clinician escalation
