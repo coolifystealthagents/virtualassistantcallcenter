@@ -2,8 +2,8 @@
 slug: property-maintenance-call-priority-cohort
 title: Property-maintenance calls: building a priority cohort without inventing severity
 description: Property maintenance research should compare reported condition, lease-approved rules, access constraints, and owner acknowledgment as separate measures.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Property-services research
 image: /thumbnails/property-maintenance-call-priority-cohort.svg
 imageAlt: Property maintenance call research showing reported conditions, priority rules, and owner acknowledgment

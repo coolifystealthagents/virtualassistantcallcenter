@@ -2,8 +2,8 @@
 slug: legal-intake-conflict-boundary-study
 title: Legal intake calls: measuring useful capture without giving legal advice
 description: A bounded research design for legal intake records that separates caller facts, conflict checks, urgency, and attorney-owned decisions.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Professional-services research
 image: /thumbnails/legal-intake-conflict-boundary-study.svg
 imageAlt: Legal intake research showing fact capture, conflict screening, and attorney review boundaries

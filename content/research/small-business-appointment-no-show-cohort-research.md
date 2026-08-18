@@ -2,8 +2,8 @@
 slug: small-business-appointment-no-show-cohort-research
 title: Appointment no-shows: a cohort design for small-business call records
 description: No-show analysis needs a clear appointment cohort, attendance definition, cancellation window, and limitation statement before any intervention is judged.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Appointment research
 image: /thumbnails/small-business-appointment-no-show-cohort-research.svg
 imageAlt: Appointment no-show cohort research showing dates, attendance states, and a bounded analysis

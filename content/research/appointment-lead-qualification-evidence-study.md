@@ -2,8 +2,8 @@
 slug: appointment-lead-qualification-evidence-study
 title: Appointment lead qualification: what the record can actually prove
 description: A research framework for separating a caller’s stated need, eligibility evidence, and appointment outcome without overstating conversion.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Appointment research
 image: /thumbnails/appointment-lead-qualification-evidence-study.svg
 imageAlt: Appointment lead qualification research showing a call record, eligibility fields, and an outcome review

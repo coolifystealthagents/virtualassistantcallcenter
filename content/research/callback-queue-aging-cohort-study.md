@@ -2,8 +2,8 @@
 slug: callback-queue-aging-cohort-study
 title: Callback queue aging: a study design for ownership and uncertainty
 description: Callback research should track request age, ownership, contact outcome, and unresolved states without turning an attempt into a promise.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Callback research
 image: /thumbnails/callback-queue-aging-cohort-study.svg
 imageAlt: Callback queue research showing request age, owner status, contact outcomes, and unresolved work

@@ -2,8 +2,8 @@
 slug: home-service-call-triage-risk-boundaries
 title: Home-service call triage: separating urgency from uncertainty
 description: A bounded study of home-service calls should classify reported urgency, evidence quality, and escalation without pretending to diagnose the underlying problem.
-published: 2026-08-14
-updated: 2026-08-14
+published: 2026-08-17
+updated: 2026-08-17
 category: Service-call research
 image: /thumbnails/home-service-call-triage-risk-boundaries.svg
 imageAlt: Home-service call triage research showing urgency categories, evidence boundaries, and escalation
