@@ -1,0 +1,16 @@
+{
+  "campaignDate": "2026-08-18",
+  "family": "research",
+  "entries": [
+    {"route":"/research/virtual-assistant-call-classification-confidence-study","sourcePaths":["content/research/virtual-assistant-call-classification-confidence-study.md"]},
+    {"route":"/research/virtual-assistant-timezone-coverage-overlap-study","sourcePaths":["content/research/virtual-assistant-timezone-coverage-overlap-study.md"]},
+    {"route":"/research/virtual-assistant-call-consent-boundary-review","sourcePaths":["content/research/virtual-assistant-call-consent-boundary-review.md"]},
+    {"route":"/research/virtual-assistant-callback-queue-fairness-study","sourcePaths":["content/research/virtual-assistant-callback-queue-fairness-study.md"]},
+    {"route":"/research/virtual-assistant-voicemail-transcription-error-review","sourcePaths":["content/research/virtual-assistant-voicemail-transcription-error-review.md"]},
+    {"route":"/research/virtual-assistant-emergency-call-triage-evidence","sourcePaths":["content/research/virtual-assistant-emergency-call-triage-evidence.md"]},
+    {"route":"/research/virtual-assistant-knowledge-base-change-control-study","sourcePaths":["content/research/virtual-assistant-knowledge-base-change-control-study.md"]},
+    {"route":"/research/virtual-assistant-call-abandonment-measurement-review","sourcePaths":["content/research/virtual-assistant-call-abandonment-measurement-review.md"]},
+    {"route":"/research/virtual-assistant-appointment-reminder-evidence-review","sourcePaths":["content/research/virtual-assistant-appointment-reminder-evidence-review.md"]},
+    {"route":"/research/virtual-assistant-call-identity-verification-study","sourcePaths":["content/research/virtual-assistant-call-identity-verification-study.md"]}
+  ]
+}
