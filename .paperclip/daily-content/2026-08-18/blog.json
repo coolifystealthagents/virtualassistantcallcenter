@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "contract": "august-18-2026-fleet-authoring-contract-v2",
+  "targetDate": "2026-08-18",
+  "family": "blog",
+  "domain": "virtualassistantcallcenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "minimum": 22,
+  "entries": [
+    {
+      "slug": "call-answering-for-motorcycle-dealers",
+      "route": "/blog/call-answering-for-motorcycle-dealers",
+      "sourcePath": "content/blog/call-answering-for-motorcycle-dealers.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-commercial-landlords",
+      "route": "/blog/call-intake-for-commercial-landlords",
+      "sourcePath": "content/blog/call-intake-for-commercial-landlords.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-screening-for-recruiting-agencies",
+      "route": "/blog/call-screening-for-recruiting-agencies",
+      "sourcePath": "content/blog/call-screening-for-recruiting-agencies.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "after-hours-call-answering-for-restoration-companies",
+      "route": "/blog/after-hours-call-answering-for-restoration-companies",
+      "sourcePath": "content/blog/after-hours-call-answering-for-restoration-companies.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-routing-for-multi-location-gyms",
+      "route": "/blog/call-routing-for-multi-location-gyms",
+      "sourcePath": "content/blog/call-routing-for-multi-location-gyms.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-accounting-bookkeeping-firms",
+      "route": "/blog/call-intake-for-accounting-bookkeeping-firms",
+      "sourcePath": "content/blog/call-intake-for-accounting-bookkeeping-firms.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-answering-for-wedding-venues",
+      "route": "/blog/call-answering-for-wedding-venues",
+      "sourcePath": "content/blog/call-answering-for-wedding-venues.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "missed-call-recovery-for-appliance-repair",
+      "route": "/blog/missed-call-recovery-for-appliance-repair",
+      "sourcePath": "content/blog/missed-call-recovery-for-appliance-repair.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-adult-learning-centers",
+      "route": "/blog/call-intake-for-adult-learning-centers",
+      "sourcePath": "content/blog/call-intake-for-adult-learning-centers.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-routing-for-independent-insurance-brokers",
+      "route": "/blog/call-routing-for-independent-insurance-brokers",
+      "sourcePath": "content/blog/call-routing-for-independent-insurance-brokers.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-answering-for-digital-health-startups",
+      "route": "/blog/call-answering-for-digital-health-startups",
+      "sourcePath": "content/blog/call-answering-for-digital-health-startups.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-home-care-referral-partners",
+      "route": "/blog/call-intake-for-home-care-referral-partners",
+      "sourcePath": "content/blog/call-intake-for-home-care-referral-partners.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-screening-for-b2b-consultancies",
+      "route": "/blog/call-screening-for-b2b-consultancies",
+      "sourcePath": "content/blog/call-screening-for-b2b-consultancies.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-answering-for-plumbing-supply-distributors",
+      "route": "/blog/call-answering-for-plumbing-supply-distributors",
+      "sourcePath": "content/blog/call-answering-for-plumbing-supply-distributors.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-community-theaters",
+      "route": "/blog/call-intake-for-community-theaters",
+      "sourcePath": "content/blog/call-intake-for-community-theaters.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-routing-for-hoa-management",
+      "route": "/blog/call-routing-for-hoa-management",
+      "sourcePath": "content/blog/call-routing-for-hoa-management.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-answering-for-freight-forwarders",
+      "route": "/blog/call-answering-for-freight-forwarders",
+      "sourcePath": "content/blog/call-answering-for-freight-forwarders.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-veterinary-emergency-referrals",
+      "route": "/blog/call-intake-for-veterinary-emergency-referrals",
+      "sourcePath": "content/blog/call-intake-for-veterinary-emergency-referrals.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "missed-call-recovery-for-property-inspectors",
+      "route": "/blog/missed-call-recovery-for-property-inspectors",
+      "sourcePath": "content/blog/missed-call-recovery-for-property-inspectors.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-screening-for-creative-production-studios",
+      "route": "/blog/call-screening-for-creative-production-studios",
+      "sourcePath": "content/blog/call-screening-for-creative-production-studios.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-routing-for-childcare-enrollment",
+      "route": "/blog/call-routing-for-childcare-enrollment",
+      "sourcePath": "content/blog/call-routing-for-childcare-enrollment.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    },
+    {
+      "slug": "call-intake-for-renovation-designers",
+      "route": "/blog/call-intake-for-renovation-designers",
+      "sourcePath": "content/blog/call-intake-for-renovation-designers.md",
+      "sourceDateField": "published",
+      "sourceDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished"
+      ],
+      "renderedDate": "2026-08-18"
+    }
+  ]
+}
