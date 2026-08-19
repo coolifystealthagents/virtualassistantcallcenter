@@ -13,6 +13,10 @@ imageAlt: Virtual assistant voicemail transcription error review
 
 Which voicemail transcription errors are operationally dangerous for a virtual assistant: misspelled names, incorrect numbers, lost negation, or a wrong interpretation of urgency? Treating all errors as equal makes review inefficient. Treating a transcript as a verbatim record makes it unsafe. This review asks how a call operation should use transcription while preserving the audio, uncertainty, and caller's intended next action.
 
+## Methodology
+
+This qualitative failure analysis uses three authoritative sources: NIST's AI Risk Management Framework, W3C accessibility principles, and NIST material on usability and human factors. I extracted their shared ideas about trustworthy representation, understandable interaction, and correction, then applied them to five voicemail fields that can change a virtual assistant call center's next action: identity, callback number, request, timing, and negation. I compared low-consequence transcription differences with errors that could change a disclosure, appointment, or escalation. The sources do not measure a particular transcription engine, so field priorities and controls below are operational analysis rather than a reported accuracy result. The scope is voicemail intake with permissioned access to source audio where policy allows; it excludes a universal retention standard.
+
 ## Evidence scope and method
 
 The evidence base is NIST's guidance on trustworthy systems, W3C's accessibility principles, and the National Institute of Standards and Technology's usability-oriented human factors material. The sources do not test a particular transcription engine. I use them to frame a qualitative failure analysis of voicemail fields: identity, contact route, request, timing, and negative terms. I then distinguish factual source principles from recommended controls for virtual assistant teams.
@@ -48,6 +52,10 @@ The highest-value transcript control is selective verification. Asking a reviewe
 The conclusion should name which fields were verified and which remained uncertain. A polished transcript is not evidence of a correct callback number or action. Reporting uncertainty by field lets the authorized owner decide what must be clarified before the record moves forward.
 
 Message handlers should also avoid treating the transcript as a complete summary when the caller used a conditional phrase. “Call if the appointment is still open” and “call because the appointment is not open” can look similar in a short note while requiring opposite actions. The relevant review question is not whether the text sounds professional; it is whether the recorded meaning supports the next action. When it does not, clarification is the evidence-led result.
+
+## Field-level measurement boundary
+
+An evaluation should count field decisions, not just messages. A voicemail may have a usable request but an unusable phone number, or a correct number but uncertain timing. Report fields verified, corrected, left uncertain, and escalated, along with the consequence of the downstream action. Do not convert a small sample into a general word-error rate. Include ordinary messages and deliberate cases with names, digits, background noise, accents, and conditional language. This shows whether a virtual assistant call center needs better audio capture, a clarification call, or a human review rule. The measurement remains bounded: it describes the tested sample and fields, not every future caller.
 
 ## Sources
 

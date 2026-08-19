@@ -49,6 +49,10 @@ The conclusion should preserve the event definition and observation window. A re
 
 The same record can support several questions, but the answers should not be collapsed. A manager may ask how many calls ended before answer, how many callers received a usable alternative, and how many follow-ups were accepted. Those are related measures with different denominators. Keeping them separate allows the virtual assistant team to identify whether the problem is availability, routing, message clarity, or ownership instead of assigning every disconnect to one vague performance score.
 
+## Methodology clarification
+
+This review uses a qualitative measurement analysis. I compared FCC consumer communication material, OMB customer-experience resources, and NIST risk-management guidance for principles about explicit definitions, user effort, reliable records, and contextual interpretation. I mapped those principles to a call event sequence: offered, answered, disconnected, message left, callback created, callback accepted, and outcome observed. The proposed categories are analytical interpretations for virtual assistant call centers, not a formula published by any cited authority. I excluded claims about a universal target because the evidence does not provide one. The scope is inbound business-call measurement; it does not estimate satisfaction, technical fault rates, or causal effects without local event data and a defined observation window.
+
 ## Sources
 
 1. [FCC consumer communications](https://www.fcc.gov/consumers)

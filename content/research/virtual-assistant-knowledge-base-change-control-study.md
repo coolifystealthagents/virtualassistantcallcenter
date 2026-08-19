@@ -45,6 +45,10 @@ The conclusion should identify the effective source and the owner of unresolved 
 
 Change control also protects role boundaries. When an article or policy adds a new answer, it should say whether the assistant may provide it directly, capture it for review, or use it only as context for an owner. Otherwise a content edit can silently expand authority. That risk is especially relevant to a virtual assistant call center because a short sentence about a service may be interpreted as permission to promise, schedule, disclose, or change something the source never authorized.
 
+## Evidence boundary
+
+The sources support disciplined ownership and traceability, but they do not prove that a particular knowledge article is correct for every business or caller. A change-control record should distinguish source confirmation from operational approval. A reviewer can verify that an approved service note or current owner instruction was consulted; that verification does not authorize the assistant to extend the rule to a new service. When evidence conflicts, the safe outcome is a bounded answer and an escalation, not a blended sentence that hides disagreement. This boundary matters because a stale answer can be repeated consistently and still be wrong. Review should sample unchanged and recently changed answers, including questions that combine two policies, so maintenance follows consequence rather than edit volume.
+
 ## Sources
 
 1. [ISO quality management principles](https://www.iso.org/quality-management/principles)

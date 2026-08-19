@@ -13,6 +13,10 @@ imageAlt: Virtual assistant consent boundary review
 
 When a caller asks a virtual assistant to record consent, disclose information, or change an account, what can the assistant safely do before a responsible owner reviews the request? This is a role-boundary question rather than a script question. A polished greeting does not establish authority. The useful outcome is a decision rule that captures the request, states what happens next, and avoids implying that a recording or disclosure is valid merely because it was spoken on a call.
 
+## Methodology
+
+I conducted a qualitative review of three authoritative sources: NIST's Privacy Framework, HHS guidance describing the scope of HIPAA materials, and FCC consumer guidance about unwanted calls. I compared the sources for recurring control ideas, then mapped them to four call-center states: notice, request, authority, and outcome. The method treats the sources as different kinds of evidence rather than combining them into one legal rule. I used representative virtual assistant intake scenarios involving recordings, disclosures, and account changes to test whether a proposed action preserved a clear owner boundary. Statements about what the sources say are facts; the four-state model and examples are operational analysis. The review covers general business intake and does not determine jurisdiction-specific requirements.
+
 ## Evidence method
 
 This review uses the Federal Communications Commission's consumer guidance on unwanted calls, the U.S. Department of Health and Human Services' HIPAA guidance as an example of sector-specific sensitivity, and NIST's Privacy Framework. These are different authorities and are not interchangeable legal advice. I use them to identify recurring control ideas: notice, purpose limitation, minimum necessary access, and documented responsibility. The scope is general business intake by a virtual assistant; readers must apply sector, jurisdiction, and contract requirements separately.
@@ -46,6 +50,10 @@ Consent-sensitive handling benefits from separating notice, request, authority, 
 The conclusion should name the unresolved authority rather than imply that a handoff is approval. Report what was captured, what was withheld, and which owner must decide. This keeps a public-facing conversation clear while preventing a virtual assistant from making a legal or policy claim that the evidence does not support.
 
 The same boundary applies when a caller presses for speed. A request can be urgent to the caller without becoming authorized through urgency. The assistant may explain that review is required and preserve the requested outcome, but should not skip a control to make the conversation feel complete. Reviewers should look for that pressure case because it reveals whether the written boundary works when ordinary politeness and operational convenience pull in different directions.
+
+## Evidence boundary
+
+The review should record which source principle supports each control and which question remains for the authorized policy owner. Minimum-necessary collection can guide the intake record, but it does not answer whether a particular employee may approve a disclosure. A notice can make a call understandable, but it does not by itself establish authority. This separation is important because callers may interpret a confident response as a completed decision. The evidence supports making the unresolved decision visible; it does not support filling that gap with an invented rule. A later audit should sample both completed and escalated requests so the operation can see whether its boundary is applied consistently.
 
 ## Sources
 

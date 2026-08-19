@@ -47,6 +47,10 @@ The conclusion should identify the requested action, the verification state, and
 
 Verification should be understandable enough that a caller can tell what will happen if the check succeeds or fails. The assistant should not reveal hidden account details while explaining the process, and it should not treat a refusal to answer an unnecessary question as evidence of bad intent. A proportional alternative may be a secure owner callback or a channel with a stronger approved control. The important evidence is that the alternative preserves the action boundary rather than bypassing it.
 
+## Verification evidence boundary
+
+An evaluation should record the requested action before judging whether a verification step was sufficient. For each sampled call, note the consequence class, approved factor used, completion state, information disclosed or changed, and whether an authorized owner accepted the handoff. Do not score a conversation as secure merely because the caller answered a question, and do not score it as a failure merely because an approved alternative was used. Report unavailable outcomes and repeat attempts, since they can reveal friction without proving fraud or successful authentication. This action-first method keeps a virtual assistant call center from optimizing for short calls at the expense of proportional protection. It describes the tested process and its boundaries; it does not establish a universal identity standard.
+
 ## Sources
 
 1. [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)

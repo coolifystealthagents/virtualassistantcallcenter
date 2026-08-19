@@ -13,6 +13,10 @@ imageAlt: Virtual assistant call classification confidence study
 
 When a virtual assistant receives an unfamiliar business call, does a confidence score improve routing, or does it merely hide uncertainty behind a number? This question matters to a call center because the first classification changes the next human action: a caller may need scheduling, a message, a transfer, or a safety escalation. A useful system must make uncertainty visible and preserve the caller's intent, rather than rewarding fast guesses.
 
+## Methodology
+
+This is a qualitative evidence review, not a benchmark of a particular virtual assistant. I selected three authoritative sources that address trustworthy automated decisions, understandable interaction, and protection of business information: NIST's AI Risk Management Framework, W3C accessibility guidance, and FTC small-business cybersecurity guidance. I extracted principles relevant to call intake, mapped them to classification, clarification, review, and disclosure decisions, and tested the interpretation against ordinary, ambiguous, and sensitive call scenarios. Source-supported facts are kept separate from proposed thresholds and routing examples, which are analysis. The scope excludes model training, a measured accuracy claim, and legal advice. This matters because a confidence score cannot be evaluated apart from the consequence of the route it triggers.
+
 ## Evidence and method
 
 This review compares guidance from NIST on risk management, W3C on understandable and operable interfaces, and the Federal Trade Commission's business guidance on protecting information. The evidence is normative and operational, not a controlled study of this company's calls. I translate those principles into a small-business call-intake scenario, then distinguish observed facts in the sources from analysis about virtual assistants. The scope is classification at intake; it does not claim to measure a particular model's accuracy or promise a particular result.
@@ -44,6 +48,10 @@ Test the policy with calls that contain the same intent expressed in different w
 Confidence is most useful when it changes the next safe action. A high score on a routine request may allow a normal queue, while a high score on a sensitive request should still require authorization. A low score is not a failure if it produces a clear clarification or review path. Supervisors should compare confidence with later corrections, but should not treat every correction as a model defect; the caller may have changed the request or the policy may have been unclear. The durable evidence is the complete sequence from stated intent to accepted owner.
 
 The conclusion should be reported with denominators and exclusions. State how many calls were eligible, how many required review, and which outcomes were unavailable. This prevents a confidence field from becoming an unsupported quality claim. The same discipline helps a manager decide whether a new category is needed or whether the existing category is too broad.
+
+## Measurement boundary
+
+Any local evaluation should define the eligible call population before calculating a confidence result. Exclude calls without enough information to determine the caller's eventual intent, but report that exclusion rather than silently removing difficult cases. Compare the proposed category with a later owner disposition and record reversals, clarification requests, and escalations separately. This does not turn the review into a validated accuracy study; it prevents a polished dashboard from hiding the cases that matter most. Revisit thresholds when a new service, transfer destination, or privacy rule changes the cost of an error. The route remains a controlled operational decision, not a permanent property of the score.
 
 ## Sources
 

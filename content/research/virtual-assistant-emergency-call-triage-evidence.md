@@ -47,6 +47,10 @@ The conclusion should state whether the escalation was accepted, not merely crea
 
 The caller-facing explanation should match the internal state. If a message was recorded but no owner has accepted it, say that a request was recorded and explain the next available path. If an owner accepts it, say who or which role will continue when that information may be shared. Avoid precise timing unless the operation has evidence for it. This is a communication control that protects against false reassurance without requiring the assistant to solve the underlying event.
 
+## Evidence boundary
+
+The evidence also limits what a call-center metric can claim. A faster transfer does not prove that the triage judgment was correct, and a completed handoff does not prove that the caller received the right care or service. Reviewers should separate recognition of urgency, execution of escalation, and later outcome. These events have different owners and different evidence. That separation prevents a routing record from becoming an unsupported medical, safety, or service conclusion. It also helps identify whether a defect came from caller language, missing coverage, an unclear role boundary, or a failed connection. The appropriate response to an uncertain record is a defined human or emergency path, not a more confident label.
+
 ## Sources
 
 1. [CDC emergency risk communication principles](https://emergency.cdc.gov/cerc/)

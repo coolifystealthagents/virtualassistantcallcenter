@@ -53,6 +53,10 @@ The conclusion should separate delivery, response, rescheduling, and attendance.
 
 The operation should also respect the caller's preferred route where that preference is available and approved. A reminder that reaches the wrong person or reveals unnecessary detail can create a privacy problem even if it is delivered. When contact fails, the assistant should record the failure and route the next action rather than multiplying attempts without a defined purpose. This keeps reminder work tied to clear service intent instead of treating volume as evidence of care.
 
+## Measurement boundary
+
+For a virtual assistant call center, reminder evidence should be organized as a sequence rather than one success flag. Record the intended recipient and purpose, attempted channel and time, delivery or connection evidence, the caller's explicit response, owner action, and eventual appointment status when available. Keep “no response,” “not reached,” “declined,” “rescheduled,” and “attended” separate because they answer different questions. A small sample should state its appointment types, channels, and missing outcomes. This method does not control for every reason attendance changes, but it prevents a contact attempt from being presented as a confirmed result. It helps an owner identify whether the next improvement belongs in wording, accessibility, routing, or appointment policy.
+
 ## Sources
 
 1. [AHRQ patient safety resources](https://www.ahrq.gov/patient-safety/index.html)
