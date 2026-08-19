@@ -41,6 +41,8 @@ The evidence should also state when the outcome was unavailable, rather than tre
 
 It also keeps reminder evidence descriptive.
 
+The scope remains limited to call operations.
+
 ## Further interpretation
 
 Reminder quality depends on the meaning of the response. A delivered message is not a confirmation, and a confirmation is not attendance. A rescheduling request is a useful outcome when it reaches an owner who can act. The record should separate attempted contact, reachable contact, explicit response, and appointment result. This lets the virtual assistant support scheduling without claiming control over a caller's circumstances. It also gives operators a way to inspect whether the reminder created a clear next step or merely added another message to a crowded channel.
