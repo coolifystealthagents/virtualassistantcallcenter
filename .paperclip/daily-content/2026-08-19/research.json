@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-19",
+  "articles": [
+    {
+      "route": "/research/call-center-assistant-source-quality-evidence-research",
+      "source": "content/research/call-center-assistant-source-quality-evidence-research.md"
+    },
+    {
+      "route": "/research/call-center-assistant-exception-aging-patterns-research",
+      "source": "content/research/call-center-assistant-exception-aging-patterns-research.md"
+    },
+    {
+      "route": "/research/call-center-assistant-review-consistency-research",
+      "source": "content/research/call-center-assistant-review-consistency-research.md"
+    },
+    {
+      "route": "/research/call-center-assistant-access-governance-research",
+      "source": "content/research/call-center-assistant-access-governance-research.md"
+    },
+    {
+      "route": "/research/call-center-assistant-handoff-reliability-research",
+      "source": "content/research/call-center-assistant-handoff-reliability-research.md"
+    }
+  ]
+}

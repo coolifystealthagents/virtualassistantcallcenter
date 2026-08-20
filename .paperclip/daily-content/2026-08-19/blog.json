@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-19",
+  "articles": [
+    {
+      "route": "/blog/call-center-assistant-intake-source-register",
+      "source": "content/blog/call-center-assistant-intake-source-register.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-approval-evidence-matrix",
+      "source": "content/blog/call-center-assistant-approval-evidence-matrix.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-exception-queue-triage",
+      "source": "content/blog/call-center-assistant-exception-queue-triage.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-quality-review-cadence",
+      "source": "content/blog/call-center-assistant-quality-review-cadence.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-handoff-acceptance-log",
+      "source": "content/blog/call-center-assistant-handoff-acceptance-log.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-access-recertification-review",
+      "source": "content/blog/call-center-assistant-access-recertification-review.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-weekly-decision-brief",
+      "source": "content/blog/call-center-assistant-weekly-decision-brief.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-source-of-truth-map",
+      "source": "content/blog/call-center-assistant-source-of-truth-map.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-change-control-record",
+      "source": "content/blog/call-center-assistant-change-control-record.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-work-queue-ownership",
+      "source": "content/blog/call-center-assistant-work-queue-ownership.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-escalation-path-design",
+      "source": "content/blog/call-center-assistant-escalation-path-design.md"
+    },
+    {
+      "route": "/blog/call-center-assistant-launch-readiness-review",
+      "source": "content/blog/call-center-assistant-launch-readiness-review.md"
+    }
+  ]
+}
