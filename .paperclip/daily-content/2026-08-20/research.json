@@ -1,0 +1,7 @@
+[
+  {"route":"/research/call-intake-identity-verification-boundaries","sourcePaths":["content/research/call-intake-identity-verification-boundaries.md"]},
+  {"route":"/research/after-hours-call-coverage-handoff-research","sourcePaths":["content/research/after-hours-call-coverage-handoff-research.md"]},
+  {"route":"/research/virtual-assistant-call-note-data-minimization-study","sourcePaths":["content/research/virtual-assistant-call-note-data-minimization-study.md"]},
+  {"route":"/research/call-center-queue-priority-evidence-model","sourcePaths":["content/research/call-center-queue-priority-evidence-model.md"]},
+  {"route":"/research/virtual-assistant-call-quality-sampling-study","sourcePaths":["content/research/virtual-assistant-call-quality-sampling-study.md"]}
+]
