@@ -1,0 +1,102 @@
+{
+  "campaignDate": "2026-08-21",
+  "family": "blog",
+  "entries": [
+    {
+      "route": "/blog/home-warranty-call-intake-boundaries",
+      "sourcePath": "content/blog/home-warranty-call-intake-boundaries.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/home-warranty-call-intake-boundaries.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/home-warranty-call-intake-boundaries.txt"
+    },
+    {
+      "route": "/blog/nonprofit-helpline-call-routing",
+      "sourcePath": "content/blog/nonprofit-helpline-call-routing.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/nonprofit-helpline-call-routing.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/nonprofit-helpline-call-routing.txt"
+    },
+    {
+      "route": "/blog/physical-therapy-appointment-setting",
+      "sourcePath": "content/blog/physical-therapy-appointment-setting.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/physical-therapy-appointment-setting.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/physical-therapy-appointment-setting.txt"
+    },
+    {
+      "route": "/blog/auto-repair-missed-call-recovery",
+      "sourcePath": "content/blog/auto-repair-missed-call-recovery.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/auto-repair-missed-call-recovery.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/auto-repair-missed-call-recovery.txt"
+    },
+    {
+      "route": "/blog/subscription-customer-support-triage",
+      "sourcePath": "content/blog/subscription-customer-support-triage.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/subscription-customer-support-triage.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/subscription-customer-support-triage.txt"
+    },
+    {
+      "route": "/blog/veterinary-after-hours-call-answering",
+      "sourcePath": "content/blog/veterinary-after-hours-call-answering.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/veterinary-after-hours-call-answering.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/veterinary-after-hours-call-answering.txt"
+    },
+    {
+      "route": "/blog/real-estate-call-note-handoff",
+      "sourcePath": "content/blog/real-estate-call-note-handoff.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/real-estate-call-note-handoff.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/real-estate-call-note-handoff.txt"
+    },
+    {
+      "route": "/blog/solar-installer-lead-qualification",
+      "sourcePath": "content/blog/solar-installer-lead-qualification.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/solar-installer-lead-qualification.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/solar-installer-lead-qualification.txt"
+    },
+    {
+      "route": "/blog/legal-intake-call-transfer-rules",
+      "sourcePath": "content/blog/legal-intake-call-transfer-rules.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/legal-intake-call-transfer-rules.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/legal-intake-call-transfer-rules.txt"
+    },
+    {
+      "route": "/blog/small-business-voicemail-triage",
+      "sourcePath": "content/blog/small-business-voicemail-triage.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/small-business-voicemail-triage.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/small-business-voicemail-triage.txt"
+    },
+    {
+      "route": "/blog/call-recording-quality-review",
+      "sourcePath": "content/blog/call-recording-quality-review.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/call-recording-quality-review.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/call-recording-quality-review.txt"
+    },
+    {
+      "route": "/blog/call-back-queue-for-medical-suppliers",
+      "sourcePath": "content/blog/call-back-queue-for-medical-suppliers.md",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "imagePath": "public/aug21-heroes/call-back-queue-for-medical-suppliers.png",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/call-back-queue-for-medical-suppliers.txt"
+    }
+  ]
+}
