@@ -1,0 +1,11 @@
+{
+  "campaignDate": "2026-08-21",
+  "family": "research",
+  "entries": [
+    {"route": "/research/virtual-assistant-call-queue-forecasting-study", "sourcePath": "content/research/virtual-assistant-call-queue-forecasting-study.md", "datePublished": "2026-08-21", "imagePath": "public/aug21-research-heroes/virtual-assistant-call-queue-forecasting-study.png", "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-call-queue-forecasting-study.txt"},
+    {"route": "/research/virtual-assistant-call-note-completeness-study", "sourcePath": "content/research/virtual-assistant-call-note-completeness-study.md", "datePublished": "2026-08-21", "imagePath": "public/aug21-research-heroes/virtual-assistant-call-note-completeness-study.png", "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-call-note-completeness-study.txt"},
+    {"route": "/research/virtual-assistant-call-transfer-failure-study", "sourcePath": "content/research/virtual-assistant-call-transfer-failure-study.md", "datePublished": "2026-08-21", "imagePath": "public/aug21-research-heroes/virtual-assistant-call-transfer-failure-study.png", "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-call-transfer-failure-study.txt"},
+    {"route": "/research/virtual-assistant-appointment-intake-data-quality-study", "sourcePath": "content/research/virtual-assistant-appointment-intake-data-quality-study.md", "datePublished": "2026-08-21", "imagePath": "public/aug21-research-heroes/virtual-assistant-appointment-intake-data-quality-study.png", "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-appointment-intake-data-quality-study.txt"},
+    {"route": "/research/virtual-assistant-call-recording-review-method", "sourcePath": "content/research/virtual-assistant-call-recording-review-method.md", "datePublished": "2026-08-21", "imagePath": "public/aug21-research-heroes/virtual-assistant-call-recording-review-method.png", "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-call-recording-review-method.txt"}
+  ]
+}
