@@ -1,0 +1,98 @@
+[
+  {
+    "route": "/blog/call-answering-for-solar-permit-coordinators",
+    "sourcePaths": [
+      "content/blog/call-answering-for-solar-permit-coordinators.md"
+    ],
+    "imagePath": "public/thumbnails/call-answering-for-solar-permit-coordinators.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about technical prequalification and handoff for solar permit coordinators, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-intake-for-underserved-care-networks",
+    "sourcePaths": [
+      "content/blog/call-intake-for-underserved-care-networks.md"
+    ],
+    "imagePath": "public/thumbnails/call-intake-for-underserved-care-networks.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about safe intake and role boundaries for underserved care networks, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-routing-for-fitness-franchises",
+    "sourcePaths": [
+      "content/blog/call-routing-for-fitness-franchises.md"
+    ],
+    "imagePath": "public/thumbnails/call-routing-for-fitness-franchises.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about location-aware routing for fitness franchises, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/missed-call-recovery-for-landscaping-companies",
+    "sourcePaths": [
+      "content/blog/missed-call-recovery-for-landscaping-companies.md"
+    ],
+    "imagePath": "public/thumbnails/missed-call-recovery-for-landscaping-companies.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about seasonal callback recovery for landscaping companies, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-screening-for-commercial-brokers",
+    "sourcePaths": [
+      "content/blog/call-screening-for-commercial-brokers.md"
+    ],
+    "imagePath": "public/thumbnails/call-screening-for-commercial-brokers.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about deal-context screening for commercial brokers, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/appointment-setting-for-pediatric-therapists",
+    "sourcePaths": [
+      "content/blog/appointment-setting-for-pediatric-therapists.md"
+    ],
+    "imagePath": "public/thumbnails/appointment-setting-for-pediatric-therapists.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about fit-aware scheduling for pediatric therapists, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-answering-for-memorial-service-directors",
+    "sourcePaths": [
+      "content/blog/call-answering-for-memorial-service-directors.md"
+    ],
+    "imagePath": "public/thumbnails/call-answering-for-memorial-service-directors.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about compassionate ownership for memorial service directors, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-intake-for-durable-care-suppliers",
+    "sourcePaths": [
+      "content/blog/call-intake-for-durable-care-suppliers.md"
+    ],
+    "imagePath": "public/thumbnails/call-intake-for-durable-care-suppliers.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about operational triage for durable care suppliers, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-routing-for-property-maintenance",
+    "sourcePaths": [
+      "content/blog/call-routing-for-property-maintenance.md"
+    ],
+    "imagePath": "public/thumbnails/call-routing-for-property-maintenance.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about maintenance dispatch context for property maintenance teams, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-intake-for-language-schools",
+    "sourcePaths": [
+      "content/blog/call-intake-for-language-schools.md"
+    ],
+    "imagePath": "public/thumbnails/call-intake-for-language-schools.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about education-fit intake for language schools, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-answering-for-cargo-brokerages",
+    "sourcePaths": [
+      "content/blog/call-answering-for-cargo-brokerages.md"
+    ],
+    "imagePath": "public/thumbnails/call-answering-for-cargo-brokerages.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about shipment-context handoff for cargo brokerages, navy and gold palette, no people, no logos, 1200x630."
+  },
+  {
+    "route": "/blog/call-coverage-for-bookkeeping-practices",
+    "sourcePaths": [
+      "content/blog/call-coverage-for-bookkeeping-practices.md"
+    ],
+    "imagePath": "public/thumbnails/call-coverage-for-bookkeeping-practices.svg",
+    "promptReceipt": "Gemini editorial prompt: a distinct flat editorial illustration about seasonal coverage governance for bookkeeping practices, navy and gold palette, no people, no logos, 1200x630."
+  }
+]
