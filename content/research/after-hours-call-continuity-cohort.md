@@ -3,7 +3,7 @@ slug: after-hours-call-continuity-cohort
 title: After-hours call continuity: measuring handoff reliability
 description: After-hours research should distinguish caller access, message capture, owner acknowledgment, and eventual disposition across a declared time window.
 published: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-21
 category: Service continuity research
 image: /thumbnails/after-hours-call-continuity-cohort.svg
 imageAlt: After-hours call continuity research showing access, message capture, owner acknowledgment, and disposition
@@ -12,7 +12,7 @@ related: virtual-receptionist-after-hours-routing-study, small-business-voicemai
 
 ## Research question
 
-An after-hours service can be reachable while still failing to create an owned next step. Research should separate whether a caller reached the approved path, whether the request was captured, whether an owner acknowledged it, and whether a later disposition was recorded. A voicemail, automated message, or callback attempt is not the same as resolution.
+An after-hours service can be reachable while still failing to create an owned next step. A [Philippines-based after-hours answering service](/services/after-hours-answering) can record and route approved call types, but the buyer still needs to name the owners, coverage window, and emergency directions.
 
 This distinction is especially important for small businesses with changing hours. A continuity study must state the calendar, time zone, holiday exceptions, emergency rules, and destination owner. Without those facts, “after-hours” is just a label.
 
