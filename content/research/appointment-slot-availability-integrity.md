@@ -3,7 +3,7 @@ slug: appointment-slot-availability-integrity
 title: Appointment slot availability integrity research
 description: Evidence-led research on whether a phone-offered slot matches the service, duration, owner, location, time zone, and authoritative calendar.
 published: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-23
 category: Appointment research
 image: /thumbnails/appointment-booking-no-show-research.svg
 imageAlt: Appointment slot availability integrity research with caller evidence, ownership, and bounded interpretation
@@ -54,6 +54,8 @@ Collect and review only the information needed for the stated research question.
 ## Operational implications
 
 The result should point to a bounded decision that the responsible business can review. That may be a clearer field definition, an owner acknowledgment, a revised fallback, a protected read-back, or a new sample after a rule change. It should not promise that one measurement will solve every service problem. Compare periods only when the population, definitions, and routing conditions are stable. Where they are not stable, describe the change and treat the next period as a new cohort. This keeps research useful without turning a local observation into a fabricated benchmark.
+
+A [Philippines-based appointment setting service](/services/appointment-setting) can use the approved calendar and record the caller's choice. The business must set the booking rules, hold time, and owner path before the assistant works the queue.
 
 ## Review questions
 
