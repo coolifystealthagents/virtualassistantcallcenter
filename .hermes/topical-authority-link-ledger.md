@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-08-22
+Updated: 2026-08-28
 
 ## Scope
 
@@ -11,7 +11,7 @@ This is an editorial queue for the existing Philippines-based call-support servi
 | Service pillar | Existing service URL | Best supporting intent | First candidate source route | Link purpose | Status |
 | --- | --- | --- | --- | --- | --- |
 | Inbound customer calls | `/services/inbound-customer-calls` | Capture a caller's request, record the facts, and name the next owner. | `/blog/call-intake-for-home-services` | The source already links to the service. Keep it as the reference pattern for a clear intake handoff. | Existing |
-| Appointment setting | `/services/appointment-setting` | Confirm availability without making promises outside an approved calendar. | `/research/appointment-slot-availability-integrity` | Add only if the research page needs a reader path from calendar-control evidence to a defined support role. | Audit before edit |
+| Appointment setting | `/services/appointment-setting` | Confirm availability without making promises outside an approved calendar. | `/research/appointment-slot-availability-integrity` | The source already gives readers a contextual path from calendar-control evidence to the defined support role. Do not add another link from this route. | Verified 2026-08-28 |
 | After-hours answering | `/services/after-hours-answering` | Record urgent calls and route exceptions to the right owner after normal hours. | `/research/after-hours-call-continuity-cohort` | The source now has a verified contextual handoff to this service. Do not add another link from this route. | Verified 2026-08-21 |
 | Outbound lead qualification | `/services/outbound-lead-qualification` | Use approved questions, record consent and disposition, then send edge cases to an owner. | `/research/lead-follow-up-consent-recordkeeping` | Link only beside a paragraph about approved follow-up work, never as a promise of lead results. | Audit before edit |
 | Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | Connect measurement guidance with a buyer who needs help setting up a reviewable QA lane. | Audit before edit |
@@ -26,4 +26,4 @@ This is an editorial queue for the existing Philippines-based call-support servi
 
 ## Next safe action
 
-Audit `/research/appointment-slot-availability-integrity` against `/services/appointment-setting`. The source must have a concrete paragraph about approved calendar rules and no equivalent service handoff already rendered. If it passes, add one contextual inline link, then run the site gates and full source-to-public release proof.
+Audit `/research/call-quality-sampling-methodology` against `/services/call-quality-assurance`. The source must have a concrete paragraph about a reviewable scorecard and no equivalent service handoff already rendered. If it passes, add one contextual inline link, then run the site gates and full source-to-public release proof.
