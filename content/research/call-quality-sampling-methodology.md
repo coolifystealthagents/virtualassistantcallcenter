@@ -3,7 +3,7 @@ slug: call-quality-sampling-methodology
 title: Call quality sampling methodology for small call teams
 description: A transparent sampling method gives small teams useful quality signals without pretending that a handful of calls represents every interaction.
 published: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-31
 category: Quality assurance
 image: /thumbnails/call-quality-sampling-methodology.svg
 imageAlt: Call quality sampling methodology for small call teams with a documented workflow, owner handoff, and evidence-first controls
@@ -28,7 +28,7 @@ This research note compares the ten public sources listed below with established
 
 Start with a queue definition. Name the caller intent, the allowed action, the required note fields, the destination owner, and the fallback when the destination is unavailable. Keep a separate disposition for “needs review” so unresolved work is not hidden inside a successful count.
 
-For call quality audit, use a timestamped record with the source interaction, the action taken, and the next action. A virtual assistant can collect and normalize information, but the business owner retains authority over exceptions, regulated decisions, refunds, safety matters, and claims about outcomes. This keeps conversion behavior direct while avoiding public pricing or unsupported guarantees.
+For a call quality audit, use a timestamped record with the source interaction, the action taken, and the next action. Teams that need help preparing this review lane can use the [call quality assurance service](/services/call-quality-assurance) for queue preparation, source-record checks, and exception logging. A virtual assistant can collect and normalize information, but the business owner retains authority over exceptions, regulated decisions, refunds, safety matters, and claims about outcomes.
 
 ## Measurement table
 
