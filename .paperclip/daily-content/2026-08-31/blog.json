@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "overflow-call-coverage-without-losing-context",
+    "route": "/blog/overflow-call-coverage-without-losing-context",
+    "sourcePath": "content/blog/overflow-call-coverage-without-losing-context.md"
+  },
+  {
+    "slug": "handling-uncertain-caller-requests",
+    "route": "/blog/handling-uncertain-caller-requests",
+    "sourcePath": "content/blog/handling-uncertain-caller-requests.md"
+  },
+  {
+    "slug": "designing-call-tags-that-people-use",
+    "route": "/blog/designing-call-tags-that-people-use",
+    "sourcePath": "content/blog/designing-call-tags-that-people-use.md"
+  },
+  {
+    "slug": "weather-disruption-call-plan",
+    "route": "/blog/weather-disruption-call-plan",
+    "sourcePath": "content/blog/weather-disruption-call-plan.md"
+  },
+  {
+    "slug": "callback-window-language-guide",
+    "route": "/blog/callback-window-language-guide",
+    "sourcePath": "content/blog/callback-window-language-guide.md"
+  },
+  {
+    "slug": "bilingual-call-handoff-preparation",
+    "route": "/blog/bilingual-call-handoff-preparation",
+    "sourcePath": "content/blog/bilingual-call-handoff-preparation.md"
+  },
+  {
+    "slug": "returning-caller-recognition-workflow",
+    "route": "/blog/returning-caller-recognition-workflow",
+    "sourcePath": "content/blog/returning-caller-recognition-workflow.md"
+  },
+  {
+    "slug": "call-coverage-shift-change-brief",
+    "route": "/blog/call-coverage-shift-change-brief",
+    "sourcePath": "content/blog/call-coverage-shift-change-brief.md"
+  },
+  {
+    "slug": "appointment-request-vs-booking-boundary",
+    "route": "/blog/appointment-request-vs-booking-boundary",
+    "sourcePath": "content/blog/appointment-request-vs-booking-boundary.md"
+  },
+  {
+    "slug": "after-hours-vendor-call-routing",
+    "route": "/blog/after-hours-vendor-call-routing",
+    "sourcePath": "content/blog/after-hours-vendor-call-routing.md"
+  },
+  {
+    "slug": "caller-emotion-deescalation-boundaries",
+    "route": "/blog/caller-emotion-deescalation-boundaries",
+    "sourcePath": "content/blog/caller-emotion-deescalation-boundaries.md"
+  },
+  {
+    "slug": "temporary-hours-change-call-checklist",
+    "route": "/blog/temporary-hours-change-call-checklist",
+    "sourcePath": "content/blog/temporary-hours-change-call-checklist.md"
+  }
+]

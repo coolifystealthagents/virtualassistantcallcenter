@@ -1,8 +1,12 @@
 ---
+slug: remote-support-vacancy-watch
 title: "An employer-page desk for Remote Support Vacancy Watch careers"
 description: "A distinct remote support vacancy watch assessment of direct employer-page vacancy alerts."
-date: "2026-08-28"
-published: true
+published: 2026-08-28
+updated: 2026-08-28
+category: Career Resources
+image: /call-team.jpg
+imageAlt: Remote support call team collaborating at a shared customer service workspace
 ---
 
 # An employer-page desk for Remote Support Vacancy Watch careers

@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "virtual-call-center-hold-message-comprehension-study",
+    "route": "/research/virtual-call-center-hold-message-comprehension-study",
+    "sourcePath": "content/research/virtual-call-center-hold-message-comprehension-study.md"
+  },
+  {
+    "slug": "virtual-receptionist-name-spelling-error-study",
+    "route": "/research/virtual-receptionist-name-spelling-error-study",
+    "sourcePath": "content/research/virtual-receptionist-name-spelling-error-study.md"
+  },
+  {
+    "slug": "call-disposition-other-category-drift-study",
+    "route": "/research/call-disposition-other-category-drift-study",
+    "sourcePath": "content/research/call-disposition-other-category-drift-study.md"
+  },
+  {
+    "slug": "virtual-call-transfer-introduction-study",
+    "route": "/research/virtual-call-transfer-introduction-study",
+    "sourcePath": "content/research/virtual-call-transfer-introduction-study.md"
+  },
+  {
+    "slug": "after-hours-call-triage-threshold-study",
+    "route": "/research/after-hours-call-triage-threshold-study",
+    "sourcePath": "content/research/after-hours-call-triage-threshold-study.md"
+  }
+]
