@@ -1,0 +1,16 @@
+{
+  "campaignDate": "2026-09-03",
+  "family": "research",
+  "entries": [
+    {"route": "/research/call-queue-closure-notice-comprehension-study", "sourcePath": "content/research/call-queue-closure-notice-comprehension-study.md"},
+    {"route": "/research/voicemail-callback-consent-expiry-study", "sourcePath": "content/research/voicemail-callback-consent-expiry-study.md"},
+    {"route": "/research/scheduled-callback-timezone-interpretation-research", "sourcePath": "content/research/scheduled-callback-timezone-interpretation-research.md"},
+    {"route": "/research/transfer-destination-hours-mismatch-study", "sourcePath": "content/research/transfer-destination-hours-mismatch-study.md"},
+    {"route": "/research/call-note-correction-provenance-study", "sourcePath": "content/research/call-note-correction-provenance-study.md"}
+  ],
+  "imageGeneration": {
+    "status": "text-complete-fallback",
+    "provider": "Gemini",
+    "blocker": "No Gemini image-generation capability was available in this execution environment. No stock image or uncertain substitute was created; existing repository imagery was preserved and referenced."
+  }
+}
