@@ -1,0 +1,16 @@
+{
+  "campaignDate": "2026-08-23",
+  "family": "research",
+  "entries": [
+    {"route": "/research/call-intake-interruption-recovery-study", "sourcePath": "content/research/call-intake-interruption-recovery-study.md"},
+    {"route": "/research/warm-transfer-caller-repetition-burden-study", "sourcePath": "content/research/warm-transfer-caller-repetition-burden-study.md"},
+    {"route": "/research/call-script-version-drift-research", "sourcePath": "content/research/call-script-version-drift-research.md"},
+    {"route": "/research/callback-identity-mismatch-resolution-study", "sourcePath": "content/research/callback-identity-mismatch-resolution-study.md"},
+    {"route": "/research/bilingual-call-escalation-comprehension-study", "sourcePath": "content/research/bilingual-call-escalation-comprehension-study.md"}
+  ],
+  "imageGeneration": {
+    "status": "text-complete-fallback",
+    "provider": "Gemini",
+    "blocker": "No Gemini image-generation tool or credential was available in this execution environment. No stock or uncertain substitute was created; each route retains an existing repository image reference."
+  }
+}
