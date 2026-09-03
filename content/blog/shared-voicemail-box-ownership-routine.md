@@ -5,7 +5,7 @@ description: Keep a shared voicemail box actionable with scheduled review, consi
 published: 2026-09-01
 updated: 2026-09-01
 category: Queue Management
-image: /thumbnails/small-business-voicemail-triage.svg
+image: /thumbnails/small-business-voicemail-triage-workflow.svg
 imageAlt: Shared voicemail inbox organized by review times, callback owners, and completion status
 ---
 
