@@ -1,0 +1,14 @@
+[
+  {"route":"/blog/call-whisper-introduction-check","sourcePath":"content/blog/call-whisper-introduction-check.md"},
+  {"route":"/blog/callback-voicemail-reply-routing","sourcePath":"content/blog/callback-voicemail-reply-routing.md"},
+  {"route":"/blog/calendar-double-booking-recovery","sourcePath":"content/blog/calendar-double-booking-recovery.md"},
+  {"route":"/blog/phone-number-porting-call-continuity","sourcePath":"content/blog/phone-number-porting-call-continuity.md"},
+  {"route":"/blog/shared-contact-preference-update","sourcePath":"content/blog/shared-contact-preference-update.md"},
+  {"route":"/blog/duplicate-lead-merge-boundary","sourcePath":"content/blog/duplicate-lead-merge-boundary.md"},
+  {"route":"/blog/caller-written-confirmation-request","sourcePath":"content/blog/caller-written-confirmation-request.md"},
+  {"route":"/blog/rotating-on-call-schedule-handoff","sourcePath":"content/blog/rotating-on-call-schedule-handoff.md"},
+  {"route":"/blog/call-recording-pause-resume-procedure","sourcePath":"content/blog/call-recording-pause-resume-procedure.md"},
+  {"route":"/blog/manual-call-log-reconciliation","sourcePath":"content/blog/manual-call-log-reconciliation.md"},
+  {"route":"/blog/call-shadowing-access-boundary","sourcePath":"content/blog/call-shadowing-access-boundary.md"},
+  {"route":"/blog/return-call-context-verification","sourcePath":"content/blog/return-call-context-verification.md"}
+]

@@ -1,0 +1,22 @@
+{
+  "campaignDate": "2026-09-03",
+  "family": "blog",
+  "provider": "Gemini",
+  "status": "text-complete-fallback",
+  "blocker": "No Gemini image-generation capability or Gemini credential was available in this execution environment.",
+  "substitutionPolicy": "No stock or uncertain generated image was created. The existing repository brand asset remains referenced because the native content schema requires an image path.",
+  "routes": [
+    "/blog/call-whisper-introduction-check",
+    "/blog/callback-voicemail-reply-routing",
+    "/blog/calendar-double-booking-recovery",
+    "/blog/phone-number-porting-call-continuity",
+    "/blog/shared-contact-preference-update",
+    "/blog/duplicate-lead-merge-boundary",
+    "/blog/caller-written-confirmation-request",
+    "/blog/rotating-on-call-schedule-handoff",
+    "/blog/call-recording-pause-resume-procedure",
+    "/blog/manual-call-log-reconciliation",
+    "/blog/call-shadowing-access-boundary",
+    "/blog/return-call-context-verification"
+  ]
+}
