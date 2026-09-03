@@ -1,0 +1,22 @@
+{
+  "campaignDate": "2026-08-23",
+  "family": "blog",
+  "provider": "Gemini",
+  "status": "text-complete-fallback",
+  "blocker": "No Gemini image-generation tool or Gemini credential was available in this execution environment.",
+  "substitutionPolicy": "No stock, template, or uncertain generated image was substituted. The existing repository brand asset remains referenced by the new text records because the native schema requires an image path.",
+  "routes": [
+    "/blog/call-note-correction-protocol",
+    "/blog/appointment-timezone-readback",
+    "/blog/caller-refuses-intake-field",
+    "/blog/callback-number-mismatch-handling",
+    "/blog/escalation-acknowledgment-loop",
+    "/blog/phone-line-opening-test",
+    "/blog/voicemail-greeting-change-control",
+    "/blog/calendar-buffer-call-booking",
+    "/blog/caller-authorized-representative-intake",
+    "/blog/call-queue-capacity-status",
+    "/blog/conference-call-request-routing",
+    "/blog/interrupted-call-recovery-procedure"
+  ]
+}

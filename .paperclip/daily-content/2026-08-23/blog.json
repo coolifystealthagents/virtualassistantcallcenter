@@ -1,0 +1,14 @@
+[
+  {"route":"/blog/call-note-correction-protocol","sourcePath":"content/blog/call-note-correction-protocol.md"},
+  {"route":"/blog/appointment-timezone-readback","sourcePath":"content/blog/appointment-timezone-readback.md"},
+  {"route":"/blog/caller-refuses-intake-field","sourcePath":"content/blog/caller-refuses-intake-field.md"},
+  {"route":"/blog/callback-number-mismatch-handling","sourcePath":"content/blog/callback-number-mismatch-handling.md"},
+  {"route":"/blog/escalation-acknowledgment-loop","sourcePath":"content/blog/escalation-acknowledgment-loop.md"},
+  {"route":"/blog/phone-line-opening-test","sourcePath":"content/blog/phone-line-opening-test.md"},
+  {"route":"/blog/voicemail-greeting-change-control","sourcePath":"content/blog/voicemail-greeting-change-control.md"},
+  {"route":"/blog/calendar-buffer-call-booking","sourcePath":"content/blog/calendar-buffer-call-booking.md"},
+  {"route":"/blog/caller-authorized-representative-intake","sourcePath":"content/blog/caller-authorized-representative-intake.md"},
+  {"route":"/blog/call-queue-capacity-status","sourcePath":"content/blog/call-queue-capacity-status.md"},
+  {"route":"/blog/conference-call-request-routing","sourcePath":"content/blog/conference-call-request-routing.md"},
+  {"route":"/blog/interrupted-call-recovery-procedure","sourcePath":"content/blog/interrupted-call-recovery-procedure.md"}
+]
