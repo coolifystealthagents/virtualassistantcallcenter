@@ -1,0 +1,11 @@
+{
+  "campaignDate": "2026-09-04",
+  "family": "research",
+  "entries": [
+    {"route":"/research/callback-readback-error-detection-study","sourcePath":"content/research/callback-readback-error-detection-study.md"},
+    {"route":"/research/after-hours-acknowledgment-delay-study","sourcePath":"content/research/after-hours-acknowledgment-delay-study.md"},
+    {"route":"/research/caller-consent-record-completeness-study","sourcePath":"content/research/caller-consent-record-completeness-study.md"},
+    {"route":"/research/call-transfer-destination-accuracy-study","sourcePath":"content/research/call-transfer-destination-accuracy-study.md"},
+    {"route":"/research/intake-field-refusal-outcome-study","sourcePath":"content/research/intake-field-refusal-outcome-study.md"}
+  ]
+}

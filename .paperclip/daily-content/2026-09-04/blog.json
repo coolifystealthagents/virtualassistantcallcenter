@@ -1,0 +1,18 @@
+{
+  "campaignDate": "2026-09-04",
+  "family": "blog",
+  "entries": [
+    {"route":"/blog/after-hours-locksmith-call-intake","sourcePath":"content/blog/after-hours-locksmith-call-intake.md"},
+    {"route":"/blog/hvac-no-cooling-call-priority","sourcePath":"content/blog/hvac-no-cooling-call-priority.md"},
+    {"route":"/blog/veterinary-prescription-refill-call-routing","sourcePath":"content/blog/veterinary-prescription-refill-call-routing.md"},
+    {"route":"/blog/property-management-water-leak-intake","sourcePath":"content/blog/property-management-water-leak-intake.md"},
+    {"route":"/blog/funeral-home-first-call-message","sourcePath":"content/blog/funeral-home-first-call-message.md"},
+    {"route":"/blog/roofing-storm-damage-call-queue","sourcePath":"content/blog/roofing-storm-damage-call-queue.md"},
+    {"route":"/blog/legal-intake-conflict-check-boundary","sourcePath":"content/blog/legal-intake-conflict-check-boundary.md"},
+    {"route":"/blog/dental-cancellation-waitlist-call","sourcePath":"content/blog/dental-cancellation-waitlist-call.md"},
+    {"route":"/blog/ecommerce-damaged-order-call-intake","sourcePath":"content/blog/ecommerce-damaged-order-call-intake.md"},
+    {"route":"/blog/accounting-client-document-status-call","sourcePath":"content/blog/accounting-client-document-status-call.md"},
+    {"route":"/blog/home-care-family-update-call","sourcePath":"content/blog/home-care-family-update-call.md"},
+    {"route":"/blog/insurance-certificate-request-call","sourcePath":"content/blog/insurance-certificate-request-call.md"}
+  ]
+}
