@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-08-28
+Updated: 2026-09-05
 
 ## Scope
 
@@ -14,7 +14,7 @@ This is an editorial queue for the existing Philippines-based call-support servi
 | Appointment setting | `/services/appointment-setting` | Confirm availability without making promises outside an approved calendar. | `/research/appointment-slot-availability-integrity` | The source already gives readers a contextual path from calendar-control evidence to the defined support role. Do not add another link from this route. | Verified 2026-08-28 |
 | After-hours answering | `/services/after-hours-answering` | Record urgent calls and route exceptions to the right owner after normal hours. | `/research/after-hours-call-continuity-cohort` | The source now has a verified contextual handoff to this service. Do not add another link from this route. | Verified 2026-08-21 |
 | Outbound lead qualification | `/services/outbound-lead-qualification` | Use approved questions, record consent and disposition, then send edge cases to an owner. | `/research/lead-follow-up-consent-recordkeeping` | Link only beside a paragraph about approved follow-up work, never as a promise of lead results. | Audit before edit |
-| Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | Connect measurement guidance with a buyer who needs help setting up a reviewable QA lane. | Audit before edit |
+| Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | The source already gives readers a contextual path from a documented audit record to the defined QA lane. Do not add another link from this route. | Verified 2026-09-05 |
 
 ## Selection rules
 
@@ -26,4 +26,4 @@ This is an editorial queue for the existing Philippines-based call-support servi
 
 ## Next safe action
 
-Audit `/research/call-quality-sampling-methodology` against `/services/call-quality-assurance`. The source must have a concrete paragraph about a reviewable scorecard and no equivalent service handoff already rendered. If it passes, add one contextual inline link, then run the site gates and full source-to-public release proof.
+Audit `/research/lead-follow-up-consent-recordkeeping` against `/services/outbound-lead-qualification`. The source must have a concrete paragraph about approved follow-up work and no equivalent service handoff already rendered. If it passes, add one contextual inline link, then run the site gates and full source-to-public release proof.
