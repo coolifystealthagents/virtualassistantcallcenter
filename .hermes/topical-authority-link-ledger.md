@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 
 ## Scope
 
@@ -13,7 +13,7 @@ This is an editorial queue for the existing Philippines-based call-support servi
 | Inbound customer calls | `/services/inbound-customer-calls` | Capture a caller's request, record the facts, and name the next owner. | `/blog/call-intake-for-home-services` | The source already links to the service. Keep it as the reference pattern for a clear intake handoff. | Existing |
 | Appointment setting | `/services/appointment-setting` | Confirm availability without making promises outside an approved calendar. | `/research/appointment-slot-availability-integrity` | The source already gives readers a contextual path from calendar-control evidence to the defined support role. Do not add another link from this route. | Verified 2026-08-28 |
 | After-hours answering | `/services/after-hours-answering` | Record urgent calls and route exceptions to the right owner after normal hours. | `/research/after-hours-call-continuity-cohort` | The source now has a verified contextual handoff to this service. Do not add another link from this route. | Verified 2026-08-21 |
-| Outbound lead qualification | `/services/outbound-lead-qualification` | Use approved questions, record consent and disposition, then send edge cases to an owner. | `/research/lead-follow-up-consent-recordkeeping` | Link only beside a paragraph about approved follow-up work, never as a promise of lead results. | Audit before edit |
+| Outbound lead qualification | `/services/outbound-lead-qualification` | Use approved questions, record consent and disposition, then send edge cases to an owner. | `/research/lead-follow-up-consent-recordkeeping` | The source has one route-local handoff beside approved follow-up work. It preserves owner approval for exceptions and sensitive decisions; do not add another link from this route. | Delivered locally 2026-09-06; public stale |
 | Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | The source already gives readers a contextual path from a documented audit record to the defined QA lane. Do not add another link from this route. | Verified 2026-09-05 |
 
 ## Selection rules
@@ -26,4 +26,4 @@ This is an editorial queue for the existing Philippines-based call-support servi
 
 ## Next safe action
 
-Audit `/research/lead-follow-up-consent-recordkeeping` against `/services/outbound-lead-qualification`. The source must have a concrete paragraph about approved follow-up work and no equivalent service handoff already rendered. If it passes, add one contextual inline link, then run the site gates and full source-to-public release proof.
+Do not add another link from `/research/lead-follow-up-consent-recordkeeping`. Cache-busted apex and www currently serve the prior paragraph, so public verification remains pending until the established deployment workflow publishes the rendered source commit.
