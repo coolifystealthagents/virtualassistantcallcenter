@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Deterministically assign an approved SVG background and composite article text."""
-import hashlib, html, json, re
+import hashlib, html, json, os, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,16 +20,18 @@ def wrap(title, limit=30):
 def main():
     if not BACKGROUNDS: raise SystemExit("No approved backgrounds found")
     OUTPUT.mkdir(parents=True, exist_ok=True)
+    requested = {slug for slug in os.environ.get("THUMBNAIL_SLUGS", "").split(",") if slug}
     entries = []
     for path in sorted((ROOT / "content").glob("*/*.md")):
         raw = path.read_text(encoding="utf-8")
         header = raw.split("---", 2)[1]
         meta = {k.strip(): v.strip() for k, v in (line.split(":", 1) for line in header.splitlines() if ":" in line)}
-        if meta.get("slug") and meta.get("title"):
+        if meta.get("slug") and meta.get("title") and (not requested or meta["slug"] in requested):
             entries.append((str(path.relative_to(ROOT)), meta))
     manifest = ROOT / "content" / "featured-images.json"
     for meta in json.loads(manifest.read_text(encoding="utf-8")):
-        entries.append((str(manifest.relative_to(ROOT)), meta))
+        if not requested or meta.get("slug") in requested:
+            entries.append((str(manifest.relative_to(ROOT)), meta))
     for source, meta in entries:
         index = int(hashlib.sha256(meta["slug"].encode()).hexdigest()[:8], 16) % len(BACKGROUNDS)
         background = re.sub(r"</svg>\s*$", "", BACKGROUNDS[index].read_text(encoding="utf-8"))
