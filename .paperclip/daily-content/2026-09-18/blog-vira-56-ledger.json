@@ -1,29 +1,203 @@
 {
   "issue": "VIRA-56",
   "requiredCount": 12,
-  "verifiedCount": 0,
+  "verifiedCount": 12,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "branch": "main",
   "contentCommit": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
   "deployment": {
     "applicationUuid": "y148qys7s5r45aii1ywbci8x",
     "latestContainingCommit": "69d78f3cddf34e1f6e7f38bbd70df894aba2bb13",
-    "status": "queued",
-    "deploymentUuid": "tku0sighvzpov9zexlxljfxm"
+    "status": "live-public-verified",
+    "deploymentUuid": "tku0sighvzpov9zexlxljfxm",
+    "verifiedAt": "2026-09-18T15:58:00.924683Z"
   },
-  "validation": {"contentValidator": "passed", "productionBuild": "passed", "staticPages": 613},
+  "validation": {
+    "contentValidator": "passed",
+    "productionBuild": "passed",
+    "staticPages": 613
+  },
   "articles": [
-    {"family":"blog","topic":"appointment cancellation call handling","slug":"appointment-cancellation-call-handling-guide","sources":["https://www.sba.gov/business-guide/manage-your-business","https://www.nist.gov/privacy-framework"],"contentHash":"9d729c61a86e53f8e88b6a80c3fbb80383efef9c8f9b86f7c4fa9b14198d18a6","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/appointment-cancellation-call-handling-guide","verificationTime":null},
-    {"family":"blog","topic":"after-call work checklist","slug":"call-center-after-call-work-checklist","sources":["https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm","https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"],"contentHash":"539f3e5d8ee68630910fea935c8acb94b4695ad03dd8520efc50274de8aa2969","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/call-center-after-call-work-checklist","verificationTime":null},
-    {"family":"blog","topic":"virtual receptionist onboarding","slug":"virtual-receptionist-onboarding-30-day-checklist","sources":["https://www.nist.gov/itl/smallbusinesscyber","https://www.cisa.gov/topics/cyber-threats-and-advisories/phishing"],"contentHash":"dfb7aa48d18bc2dfd9792f9cb7ebc1bd5ce9d7f6b2030644576634b78279081b","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/virtual-receptionist-onboarding-30-day-checklist","verificationTime":null},
-    {"family":"blog","topic":"average speed of answer","slug":"average-speed-of-answer-for-small-call-teams","sources":["https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm","https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final"],"contentHash":"1d5099fa04abb8ccfe007408f359903bf56ab29d20b0d28a7aa701a8c6542503","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/average-speed-of-answer-for-small-call-teams","verificationTime":null},
-    {"family":"blog","topic":"call recording consent","slug":"call-recording-consent-script-and-workflow","sources":["https://www.ftc.gov/business-guidance/privacy-security","https://www.nist.gov/privacy-framework"],"contentHash":"29d03a25c636df01ab96bd8fdbf2006649be5b2cbf2eba6c04f6b9716cc5a7c7","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/call-recording-consent-script-and-workflow","verificationTime":null},
-    {"family":"blog","topic":"call center KPI dictionary","slug":"call-center-kpi-dictionary-for-small-business","sources":["https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final","https://www.sba.gov/business-guide/manage-your-business"],"contentHash":"fefe05953b2ab1d02145998c55a4b89d1d70067e2f909b0ca7ff259a6be90091","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/call-center-kpi-dictionary-for-small-business","verificationTime":null},
-    {"family":"blog","topic":"call center service level","slug":"call-center-service-level-measurement-guide","sources":["https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm","https://www.nist.gov/services-resources/software"],"contentHash":"5ffc7626c18afd89ebf2d0e8c9f457a0ae9532c97bea070a6bba66ae6aa822f2","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/call-center-service-level-measurement-guide","verificationTime":null},
-    {"family":"blog","topic":"customer call disposition design","slug":"customer-call-disposition-design-guide","sources":["https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm","https://www.nist.gov/privacy-framework"],"contentHash":"c50cbcb2079ed42632a2af7abfe50c9f9ca5a90c5038e0c6383ae4bb334b5b86","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/customer-call-disposition-design-guide","verificationTime":null},
-    {"family":"blog","topic":"customer service escalation matrix","slug":"customer-service-escalation-priority-matrix","sources":["https://www.cisa.gov/resources-tools/resources/incident-response","https://www.sba.gov/business-guide/manage-your-business"],"contentHash":"e0676b4bf4b4f2cf5480e46659b22b2e0dea96296ce584061767b9aa6cd470cc","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/customer-service-escalation-priority-matrix","verificationTime":null},
-    {"family":"blog","topic":"missed-call response workflow","slug":"missed-call-response-workflow-for-small-business","sources":["https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts","https://www.ftc.gov/legal-library/browse/rules/telemarketing-sales-rule"],"contentHash":"7809b5792a792d1e267d63d49973a8ef414ca1e972f2f3322bd75750804a962a","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/missed-call-response-workflow-for-small-business","verificationTime":null},
-    {"family":"blog","topic":"accessible phone intake testing","slug":"accessible-phone-intake-testing-checklist","sources":["https://www.w3.org/WAI/standards-guidelines/","https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs"],"contentHash":"c1ec1a372addd314bf2cd0a992d6693cc2afddf3f6fac51c3aebdeb3886fa1d1","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/accessible-phone-intake-testing-checklist","verificationTime":null},
-    {"family":"blog","topic":"small business call routing failover","slug":"small-business-call-routing-failover-plan","sources":["https://www.cisa.gov/topics/risk-management/business-continuity-planning-suite","https://www.nist.gov/itl/smallbusinesscyber"],"contentHash":"7661b221a2a9ae6c5383fc1793919ae79113cb7aecbf9d60342793e5a49397b7","publicationDate":null,"commitSha":"61b32de58f72d3e562f40116b75d30e31fa97aa7","deploymentEvidence":"queued","liveUrl":"https://virtualassistantcallcenter.com/blog/small-business-call-routing-failover-plan","verificationTime":null}
-  ]
+    {
+      "family": "blog",
+      "topic": "appointment cancellation call handling",
+      "slug": "appointment-cancellation-call-handling-guide",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business",
+        "https://www.nist.gov/privacy-framework"
+      ],
+      "contentHash": "9d729c61a86e53f8e88b6a80c3fbb80383efef9c8f9b86f7c4fa9b14198d18a6",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/appointment-cancellation-call-handling-guide",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "after-call work checklist",
+      "slug": "call-center-after-call-work-checklist",
+      "sources": [
+        "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+        "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      ],
+      "contentHash": "539f3e5d8ee68630910fea935c8acb94b4695ad03dd8520efc50274de8aa2969",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-center-after-call-work-checklist",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "virtual receptionist onboarding",
+      "slug": "virtual-receptionist-onboarding-30-day-checklist",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber",
+        "https://www.cisa.gov/topics/cyber-threats-and-advisories/phishing"
+      ],
+      "contentHash": "dfb7aa48d18bc2dfd9792f9cb7ebc1bd5ce9d7f6b2030644576634b78279081b",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/virtual-receptionist-onboarding-30-day-checklist",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "average speed of answer",
+      "slug": "average-speed-of-answer-for-small-call-teams",
+      "sources": [
+        "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+        "https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final"
+      ],
+      "contentHash": "1d5099fa04abb8ccfe007408f359903bf56ab29d20b0d28a7aa701a8c6542503",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/average-speed-of-answer-for-small-call-teams",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "call recording consent",
+      "slug": "call-recording-consent-script-and-workflow",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/privacy-security",
+        "https://www.nist.gov/privacy-framework"
+      ],
+      "contentHash": "29d03a25c636df01ab96bd8fdbf2006649be5b2cbf2eba6c04f6b9716cc5a7c7",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-recording-consent-script-and-workflow",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "call center KPI dictionary",
+      "slug": "call-center-kpi-dictionary-for-small-business",
+      "sources": [
+        "https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final",
+        "https://www.sba.gov/business-guide/manage-your-business"
+      ],
+      "contentHash": "fefe05953b2ab1d02145998c55a4b89d1d70067e2f909b0ca7ff259a6be90091",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-center-kpi-dictionary-for-small-business",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "call center service level",
+      "slug": "call-center-service-level-measurement-guide",
+      "sources": [
+        "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+        "https://www.nist.gov/services-resources/software"
+      ],
+      "contentHash": "5ffc7626c18afd89ebf2d0e8c9f457a0ae9532c97bea070a6bba66ae6aa822f2",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-center-service-level-measurement-guide",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "customer call disposition design",
+      "slug": "customer-call-disposition-design-guide",
+      "sources": [
+        "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+        "https://www.nist.gov/privacy-framework"
+      ],
+      "contentHash": "c50cbcb2079ed42632a2af7abfe50c9f9ca5a90c5038e0c6383ae4bb334b5b86",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/customer-call-disposition-design-guide",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "customer service escalation matrix",
+      "slug": "customer-service-escalation-priority-matrix",
+      "sources": [
+        "https://www.cisa.gov/resources-tools/resources/incident-response",
+        "https://www.sba.gov/business-guide/manage-your-business"
+      ],
+      "contentHash": "e0676b4bf4b4f2cf5480e46659b22b2e0dea96296ce584061767b9aa6cd470cc",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/customer-service-escalation-priority-matrix",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "missed-call response workflow",
+      "slug": "missed-call-response-workflow-for-small-business",
+      "sources": [
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.ftc.gov/legal-library/browse/rules/telemarketing-sales-rule"
+      ],
+      "contentHash": "7809b5792a792d1e267d63d49973a8ef414ca1e972f2f3322bd75750804a962a",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/missed-call-response-workflow-for-small-business",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "accessible phone intake testing",
+      "slug": "accessible-phone-intake-testing-checklist",
+      "sources": [
+        "https://www.w3.org/WAI/standards-guidelines/",
+        "https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs"
+      ],
+      "contentHash": "c1ec1a372addd314bf2cd0a992d6693cc2afddf3f6fac51c3aebdeb3886fa1d1",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/accessible-phone-intake-testing-checklist",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    },
+    {
+      "family": "blog",
+      "topic": "small business call routing failover",
+      "slug": "small-business-call-routing-failover-plan",
+      "sources": [
+        "https://www.cisa.gov/topics/risk-management/business-continuity-planning-suite",
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "7661b221a2a9ae6c5383fc1793919ae79113cb7aecbf9d60342793e5a49397b7",
+      "publicationDate": "2026-09-18",
+      "commitSha": "61b32de58f72d3e562f40116b75d30e31fa97aa7",
+      "deploymentEvidence": "HTTP 200; canonical, title, unique content, image, Article schema, and sitemap verified",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/small-business-call-routing-failover-plan",
+      "verificationTime": "2026-09-18T15:58:00.924683Z"
+    }
+  ],
+  "remoteSha": "10a65488467c2da18f659f3652ab027016445f5c"
 }

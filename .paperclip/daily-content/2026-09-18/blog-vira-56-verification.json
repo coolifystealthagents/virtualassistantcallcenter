@@ -1,0 +1,23 @@
+{
+  "issue": "VIRA-56",
+  "verifiedAt": "2026-09-18T15:58:00.924683Z",
+  "publicationDate": "2026-09-18",
+  "requiredCount": 12,
+  "verifiedCount": 12,
+  "remoteSha": "10a65488467c2da18f659f3652ab027016445f5c",
+  "checks": ["http-200", "title", "unique-content", "canonical", "image", "article-schema-datePublished", "sitemap"],
+  "urls": [
+    "https://virtualassistantcallcenter.com/blog/appointment-cancellation-call-handling-guide",
+    "https://virtualassistantcallcenter.com/blog/call-center-after-call-work-checklist",
+    "https://virtualassistantcallcenter.com/blog/virtual-receptionist-onboarding-30-day-checklist",
+    "https://virtualassistantcallcenter.com/blog/average-speed-of-answer-for-small-call-teams",
+    "https://virtualassistantcallcenter.com/blog/call-recording-consent-script-and-workflow",
+    "https://virtualassistantcallcenter.com/blog/call-center-kpi-dictionary-for-small-business",
+    "https://virtualassistantcallcenter.com/blog/call-center-service-level-measurement-guide",
+    "https://virtualassistantcallcenter.com/blog/customer-call-disposition-design-guide",
+    "https://virtualassistantcallcenter.com/blog/customer-service-escalation-priority-matrix",
+    "https://virtualassistantcallcenter.com/blog/missed-call-response-workflow-for-small-business",
+    "https://virtualassistantcallcenter.com/blog/accessible-phone-intake-testing-checklist",
+    "https://virtualassistantcallcenter.com/blog/small-business-call-routing-failover-plan"
+  ]
+}
