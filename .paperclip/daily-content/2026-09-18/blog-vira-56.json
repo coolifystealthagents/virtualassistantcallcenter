@@ -1,0 +1,50 @@
+[
+  {
+    "route": "/blog/appointment-cancellation-call-handling-guide",
+    "sourcePath": "content/blog/appointment-cancellation-call-handling-guide.md"
+  },
+  {
+    "route": "/blog/call-center-after-call-work-checklist",
+    "sourcePath": "content/blog/call-center-after-call-work-checklist.md"
+  },
+  {
+    "route": "/blog/virtual-receptionist-onboarding-30-day-checklist",
+    "sourcePath": "content/blog/virtual-receptionist-onboarding-30-day-checklist.md"
+  },
+  {
+    "route": "/blog/average-speed-of-answer-for-small-call-teams",
+    "sourcePath": "content/blog/average-speed-of-answer-for-small-call-teams.md"
+  },
+  {
+    "route": "/blog/call-recording-consent-script-and-workflow",
+    "sourcePath": "content/blog/call-recording-consent-script-and-workflow.md"
+  },
+  {
+    "route": "/blog/call-center-kpi-dictionary-for-small-business",
+    "sourcePath": "content/blog/call-center-kpi-dictionary-for-small-business.md"
+  },
+  {
+    "route": "/blog/call-center-service-level-measurement-guide",
+    "sourcePath": "content/blog/call-center-service-level-measurement-guide.md"
+  },
+  {
+    "route": "/blog/customer-call-disposition-design-guide",
+    "sourcePath": "content/blog/customer-call-disposition-design-guide.md"
+  },
+  {
+    "route": "/blog/customer-service-escalation-priority-matrix",
+    "sourcePath": "content/blog/customer-service-escalation-priority-matrix.md"
+  },
+  {
+    "route": "/blog/missed-call-response-workflow-for-small-business",
+    "sourcePath": "content/blog/missed-call-response-workflow-for-small-business.md"
+  },
+  {
+    "route": "/blog/accessible-phone-intake-testing-checklist",
+    "sourcePath": "content/blog/accessible-phone-intake-testing-checklist.md"
+  },
+  {
+    "route": "/blog/small-business-call-routing-failover-plan",
+    "sourcePath": "content/blog/small-business-call-routing-failover-plan.md"
+  }
+]
