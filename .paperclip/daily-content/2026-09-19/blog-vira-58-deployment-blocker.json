@@ -1,0 +1,27 @@
+{
+  "issue": "VIRA-58",
+  "requiredCount": 12,
+  "createdCount": 12,
+  "verifiedCount": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "contentCommit": "d0b639b746403c75e4f376950ccd261b22f40f93",
+  "remoteSha": "d0b639b746403c75e4f376950ccd261b22f40f93",
+  "validation": {
+    "contentValidator": "passed with zero errors",
+    "productionBuild": "passed",
+    "staticPages": 631
+  },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "status": "blocked",
+    "authenticatedApplicationLookup": "HTTP 302 redirect to login",
+    "authenticatedDeployRequest": "HTTP 419",
+    "publicChecks": "12 of 12 routes returned HTTP 404 after bounded transition checks",
+    "checkedAt": "2026-09-19T01:02:00Z"
+  },
+  "blocker": {
+    "owner": "VirtualAssistantCallCenter infrastructure owner",
+    "action": "Restore the configured Coolify3 API credential or trigger application y148qys7s5r45aii1ywbci8x from main at d0b639b746403c75e4f376950ccd261b22f40f93, then rerun live verification and write the final article ledger."
+  }
+}
