@@ -1,20 +1,22 @@
 {
   "issue": "VIRA-59",
   "requiredCount": 5,
-  "verifiedCount": 0,
+  "verifiedCount": 5,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "branch": "main",
   "contentCommit": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
   "sourceProductionSha": "d0b639b746403c75e4f376950ccd261b22f40f93",
   "deployment": {
     "applicationUuid": "y148qys7s5r45aii1ywbci8x",
-    "status": "predeployment",
-    "verifiedAt": null
+    "deploymentUuid": "onu0tlk0ugnfwdrgs0puwomg",
+    "deployedCommit": "642d436b5547114c226cb7c66b8b48da7b03491a",
+    "status": "live-public-verified",
+    "verifiedAt": "2026-09-19T01:08:17Z"
   },
   "validation": {
     "contentValidator": "passed with python3; zero errors",
     "productionBuild": "passed",
-    "staticPages": 623
+    "staticPages": 636
   },
   "articles": [
     {
@@ -30,9 +32,9 @@
       "contentHash": "a7732f7aa00df946578eedfe9757fae85f281142caab26a20d632b08d8340b1a",
       "publicationDate": "2026-09-19",
       "commitSha": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
-      "deploymentEvidence": "pending",
+      "deploymentEvidence": "HTTP 200; title, canonical, dedicated image, Article schema datePublished 2026-09-19, and sitemap entry verified",
       "liveUrl": "https://virtualassistantcallcenter.com/research/holiday-hours-routing-source-freshness-study",
-      "verificationTime": null
+      "verificationTime": "2026-09-19T01:08:17Z"
     },
     {
       "family": "research",
@@ -47,9 +49,9 @@
       "contentHash": "d82c95ca6e5e986d3c1dcdf0d2cc9098bc5b0a519affde36fc28e4e0ec064267",
       "publicationDate": "2026-09-19",
       "commitSha": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
-      "deploymentEvidence": "pending",
+      "deploymentEvidence": "HTTP 200; title, canonical, dedicated image, Article schema datePublished 2026-09-19, and sitemap entry verified",
       "liveUrl": "https://virtualassistantcallcenter.com/research/caller-hold-time-expectation-accuracy-study",
-      "verificationTime": null
+      "verificationTime": "2026-09-19T01:08:17Z"
     },
     {
       "family": "research",
@@ -64,9 +66,9 @@
       "contentHash": "e6148e767b874e65a8343a678758ed29cc6b387249524a7aec6bd05cac4e3243",
       "publicationDate": "2026-09-19",
       "commitSha": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
-      "deploymentEvidence": "pending",
+      "deploymentEvidence": "HTTP 200; title, canonical, dedicated image, Article schema datePublished 2026-09-19, and sitemap entry verified",
       "liveUrl": "https://virtualassistantcallcenter.com/research/escalation-notification-delivery-confirmation-study",
-      "verificationTime": null
+      "verificationTime": "2026-09-19T01:08:17Z"
     },
     {
       "family": "research",
@@ -81,9 +83,9 @@
       "contentHash": "4102a7818bcdddd1735cd5547a186b7db5ffece9fc984365a781ec0774d69d37",
       "publicationDate": "2026-09-19",
       "commitSha": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
-      "deploymentEvidence": "pending",
+      "deploymentEvidence": "HTTP 200; title, canonical, dedicated image, Article schema datePublished 2026-09-19, and sitemap entry verified",
       "liveUrl": "https://virtualassistantcallcenter.com/research/call-intake-required-field-bypass-study",
-      "verificationTime": null
+      "verificationTime": "2026-09-19T01:08:17Z"
     },
     {
       "family": "research",
@@ -98,9 +100,9 @@
       "contentHash": "0fd8c773b135335f9fcc57da6f42f351ce09138560d1e95391e7fe24abbea529",
       "publicationDate": "2026-09-19",
       "commitSha": "10c7fb12db9282bbb1fd7260337e41ee09b2e5f3",
-      "deploymentEvidence": "pending",
+      "deploymentEvidence": "HTTP 200; title, canonical, dedicated image, Article schema datePublished 2026-09-19, and sitemap entry verified",
       "liveUrl": "https://virtualassistantcallcenter.com/research/supervisor-routing-override-audit-study",
-      "verificationTime": null
+      "verificationTime": "2026-09-19T01:08:17Z"
     }
   ]
 }
