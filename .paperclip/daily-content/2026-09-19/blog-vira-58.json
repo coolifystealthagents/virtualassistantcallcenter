@@ -1,0 +1,50 @@
+[
+  {
+    "route": "/blog/towing-dispatch-call-intake-workflow",
+    "sourcePath": "content/blog/towing-dispatch-call-intake-workflow.md"
+  },
+  {
+    "route": "/blog/self-storage-rental-inquiry-call-script",
+    "sourcePath": "content/blog/self-storage-rental-inquiry-call-script.md"
+  },
+  {
+    "route": "/blog/electrician-emergency-call-screening",
+    "sourcePath": "content/blog/electrician-emergency-call-screening.md"
+  },
+  {
+    "route": "/blog/commercial-cleaning-quote-call-intake",
+    "sourcePath": "content/blog/commercial-cleaning-quote-call-intake.md"
+  },
+  {
+    "route": "/blog/mobile-pet-grooming-booking-calls",
+    "sourcePath": "content/blog/mobile-pet-grooming-booking-calls.md"
+  },
+  {
+    "route": "/blog/moving-company-estimate-call-intake",
+    "sourcePath": "content/blog/moving-company-estimate-call-intake.md"
+  },
+  {
+    "route": "/blog/landscaping-estimate-call-qualification",
+    "sourcePath": "content/blog/landscaping-estimate-call-qualification.md"
+  },
+  {
+    "route": "/blog/multilingual-caller-interpreter-handoff",
+    "sourcePath": "content/blog/multilingual-caller-interpreter-handoff.md"
+  },
+  {
+    "route": "/blog/pool-service-repair-call-intake",
+    "sourcePath": "content/blog/pool-service-repair-call-intake.md"
+  },
+  {
+    "route": "/blog/appliance-repair-scheduling-intake",
+    "sourcePath": "content/blog/appliance-repair-scheduling-intake.md"
+  },
+  {
+    "route": "/blog/roofing-storm-lead-call-intake",
+    "sourcePath": "content/blog/roofing-storm-lead-call-intake.md"
+  },
+  {
+    "route": "/blog/ecommerce-damaged-order-support-calls",
+    "sourcePath": "content/blog/ecommerce-damaged-order-support-calls.md"
+  }
+]
