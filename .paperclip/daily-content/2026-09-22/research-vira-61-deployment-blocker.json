@@ -1,0 +1,19 @@
+{
+  "issue": "VIRA-61",
+  "recordedAt": "2026-09-22T16:40:00Z",
+  "blocker": "Coolify deployment queue capacity",
+  "platformResponse": {
+    "httpStatus": 429,
+    "message": "Deployment queue is full. Please wait for existing deployments to complete."
+  },
+  "attempts": 2,
+  "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+  "contentCommit": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+  "remoteMainSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+  "publicState": {
+    "probeUrl": "https://virtualassistantcallcenter.com/research/lead-qualification-answer-provenance-study",
+    "httpStatus": 404,
+    "verifiedCount": 0
+  },
+  "recoveryAction": "Coolify platform owner should allow queued deployments to drain, then deploy application y148qys7s5r45aii1ywbci8x from current origin/main and resume live verification for all five URLs before marking complete."
+}

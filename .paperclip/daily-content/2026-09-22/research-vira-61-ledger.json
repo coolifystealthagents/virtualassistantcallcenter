@@ -1,0 +1,85 @@
+{
+  "issue": "VIRA-61",
+  "requiredCount": 5,
+  "verifiedCount": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "sourceProductionSha": "91b62f86ea446e26e9cd7e80ccfc4a76199a19b4",
+  "contentCommit": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+  "remoteShaAfterContentPush": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+  "validation": {
+    "contentValidator": "passed; zero errors",
+    "productionBuild": "passed",
+    "staticPages": 641,
+    "gitDiffCheck": "passed"
+  },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "status": "blocked-before-deployment",
+    "reason": "Coolify API returned HTTP 429: Deployment queue is full. Please wait for existing deployments to complete.",
+    "checkedAt": "2026-09-22T16:40:00Z",
+    "publicProbe": "lead-qualification-answer-provenance-study returned HTTP 404"
+  },
+  "articles": [
+    {
+      "family": "research",
+      "topic": "lead-qualification answer provenance",
+      "slug": "lead-qualification-answer-provenance-study",
+      "sources": ["https://www.nist.gov/privacy-framework", "https://doi.org/10.6028/NIST.SP.800-53r5", "https://www.ftc.gov/business-guidance/privacy-security/data-security", "https://www.w3.org/WAI/fundamentals/accessibility-principles/"],
+      "contentHash": "f4127538b764d8b36323cea6c60d55f6b61852e307c20ccacf809ebf0deb17e0",
+      "publicationDate": null,
+      "commitSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/research/lead-qualification-answer-provenance-study",
+      "verificationTime": null
+    },
+    {
+      "family": "research",
+      "topic": "appointment service-duration matching",
+      "slug": "appointment-service-duration-match-study",
+      "sources": ["https://www.nist.gov/cyberframework", "https://doi.org/10.6028/NIST.SP.800-53r5", "https://www.ftc.gov/business-guidance/resources/start-security-guide-business", "https://www.w3.org/WAI/fundamentals/accessibility-principles/"],
+      "contentHash": "2b9e57904ff0946746f29d00f0bbbe55e84a565cb7c214413ff442881b0527a4",
+      "publicationDate": null,
+      "commitSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/research/appointment-service-duration-match-study",
+      "verificationTime": null
+    },
+    {
+      "family": "research",
+      "topic": "preferred contact-channel capture",
+      "slug": "preferred-contact-channel-capture-study",
+      "sources": ["https://www.nist.gov/privacy-framework", "https://doi.org/10.6028/NIST.SP.800-53r5", "https://www.ftc.gov/business-guidance/privacy-security", "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts", "https://www.w3.org/WAI/fundamentals/accessibility-principles/"],
+      "contentHash": "655457d66bf006c9b0abd4a6bf3394b846e8330a57b27492772b89bbecdfbe78",
+      "publicationDate": null,
+      "commitSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/research/preferred-contact-channel-capture-study",
+      "verificationTime": null
+    },
+    {
+      "family": "research",
+      "topic": "disconnected-call recovery ownership",
+      "slug": "disconnected-call-recovery-ownership-study",
+      "sources": ["https://www.nist.gov/cyberframework", "https://doi.org/10.6028/NIST.SP.800-53r5", "https://www.fcc.gov/consumers/guides/dropped-calls", "https://www.ftc.gov/business-guidance/resources/start-security-guide-business", "https://www.w3.org/WAI/fundamentals/accessibility-principles/"],
+      "contentHash": "420db71df2c204985c99f69988c96b9f87c0041db415b2be59ab7fc02c54ef4d",
+      "publicationDate": null,
+      "commitSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/research/disconnected-call-recovery-ownership-study",
+      "verificationTime": null
+    },
+    {
+      "family": "research",
+      "topic": "CRM call-note write-back delay",
+      "slug": "crm-call-note-writeback-delay-study",
+      "sources": ["https://www.nist.gov/cyberframework", "https://doi.org/10.6028/NIST.SP.800-53r5", "https://www.nist.gov/privacy-framework", "https://www.ftc.gov/business-guidance/resources/start-security-guide-business"],
+      "contentHash": "3441efba6972f7ca82841a0398157278607e22001f6b08acae3f9c8387f75c3a",
+      "publicationDate": null,
+      "commitSha": "90c3c91bbdc6ebbb460d0e357054e0d46b3ffde0",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/research/crm-call-note-writeback-delay-study",
+      "verificationTime": null
+    }
+  ]
+}
