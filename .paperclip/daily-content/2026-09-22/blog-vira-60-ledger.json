@@ -1,0 +1,233 @@
+{
+  "issue": "VIRA-60",
+  "required": 12,
+  "verified": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "runBranch": "vira-60-daily-blog-20260922",
+  "baseSha": "9b37bca0e818f5336dd0b748b07ace7d1411f62b",
+  "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+  "validation": {
+    "content": "passed",
+    "build": "passed",
+    "staticPages": 648
+  },
+  "articles": [
+    {
+      "family": "blog",
+      "topic": "After-hours property maintenance vendor dispatch: an owner-controlled workflow",
+      "slug": "after-hours-property-maintenance-vendor-dispatch",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:69ebbcd1d77268cee66ab51b54481450690ae2193e042d76614d424aaabf1f5b",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/after-hours-property-maintenance-vendor-dispatch",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "How managers should review call disposition reports",
+      "slug": "call-disposition-reporting-manager-review",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:aa91c3016bc2ee5986c35dee970d21d27322924cfead8f9de7ac04c4bb238d51",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-disposition-reporting-manager-review",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "A call quality coaching session agenda for small teams",
+      "slug": "call-quality-coaching-session-agenda",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:7d9a87f8f9cfa8904fe179c1077081567ff6e1d5023009551c7dfc4a51909c63",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/call-quality-coaching-session-agenda",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Customer win-back calls with a clear opt-out workflow",
+      "slug": "customer-win-back-opt-out-workflow",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:cfb33c0e92b491982686a566326e78627facfd0f4993dfa75e85b928ba4f4c1d",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/customer-win-back-opt-out-workflow",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Dental insurance verification calls: what a virtual assistant can record",
+      "slug": "dental-insurance-verification-call-boundaries",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:73637137cf136435f0db0c8a412d1b7b6c7f620ad6cc6f571d590aa25de6c279",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/dental-insurance-verification-call-boundaries",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Home care new-client call intake: facts to collect and decisions to escalate",
+      "slug": "home-care-new-client-call-intake",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:eee22756ea9329eaa51eaa1443c2fad5209fb40d96a7c16ef951da2dc41f8f65",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/home-care-new-client-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "HVAC maintenance agreement renewal calls: a practical workflow",
+      "slug": "hvac-maintenance-agreement-renewal-calls",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:1e9227eb99810b944c6fb3202d26b668c156c3816fe218f4488f9ca6c6725df3",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/hvac-maintenance-agreement-renewal-calls",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Multi-location appointment routing for virtual receptionists",
+      "slug": "multi-location-appointment-routing-guide",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:a98524d598681837678ecb3328734d45fc6c5a71e1b352ba6065bd9b4fce93f4",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/multi-location-appointment-routing-guide",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Order status calls and address-change verification boundaries",
+      "slug": "order-status-address-change-verification",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:06fd5d2926e5e7a7aea2c4e2013939a8db17bfc3f8466fd18a8d37085af929ce",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/order-status-address-change-verification",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Outbound lead qualification and disqualification rules that teams can audit",
+      "slug": "outbound-lead-qualification-disqualification-rules",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:2245068ff44b24a09ec90eb746525ccee905adc8f4ffbe44f1a88d24bb2cbffd",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/outbound-lead-qualification-disqualification-rules",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Patient scheduling calls when a referral may be expired",
+      "slug": "patient-scheduling-referral-expiration-calls",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:9e15a3f1eb49750b2f617a6c7284d1b0106a2970f432297c3947c79f2f5b0707",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/patient-scheduling-referral-expiration-calls",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Real estate showing request call intake without overpromising",
+      "slug": "real-estate-showing-request-call-intake",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+        "https://www.nist.gov/privacy-framework",
+        "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+      ],
+      "contentHash": "sha256:055104bf8ed8ea7992e76ce4fbd70146f99584c447d6fefcc6f1c1c56869ad0f",
+      "publicationDate": "2026-09-22",
+      "contentCommit": "828196468ab089ff7e0d169f86b6dd8a396f7b8d",
+      "deploymentEvidence": null,
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/real-estate-showing-request-call-intake",
+      "verificationTime": null,
+      "verified": false
+    }
+  ]
+}
