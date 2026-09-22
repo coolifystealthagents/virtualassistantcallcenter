@@ -17,8 +17,8 @@
     "applicationUuid": "y148qys7s5r45aii1ywbci8x",
     "status": "blocked-before-deployment",
     "reason": "Coolify API returned HTTP 429: Deployment queue is full. Please wait for existing deployments to complete.",
-    "checkedAt": "2026-09-22T16:40:00Z",
-    "publicProbe": "lead-qualification-answer-provenance-study returned HTTP 404"
+    "checkedAt": "2026-09-22T16:49:40Z",
+    "publicProbe": "all five intended Research URLs returned HTTP 404; resumed deploy attempt also returned HTTP 429"
   },
   "articles": [
     {
