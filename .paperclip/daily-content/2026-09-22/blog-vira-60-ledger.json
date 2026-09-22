@@ -12,6 +12,14 @@
     "build": "passed",
     "staticPages": 648
   },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "domain": "https://virtualassistantcallcenter.com",
+    "requestedAt": "2026-09-22T16:33:00Z",
+    "status": "blocked",
+    "evidence": "Coolify API returned HTTP 429 twice: Deployment queue is full. Please wait for existing deployments to complete.",
+    "recoveryAction": "Coolify platform owner drains the shared deployment queue; rerun deployment for main SHA 52574b761c03e01224b4376c953bbf0b3f40634a, then live-verify all 12 URLs and finalize this ledger."
+  },
   "articles": [
     {
       "family": "blog",
