@@ -173,10 +173,124 @@
     "category": "Coverage metrics",
     "image": "/thumbnails/call-coverage-scorecard.svg",
     "imageAlt": "A call coverage scorecard for managers showing a structured phone support workflow with routing, notes, and owner review"
+  },
+  {
+    "slug": "call-intake-identity-verification-boundaries",
+    "title": "Where should a virtual assistant stop during caller identity verification?",
+    "category": "Research",
+    "image": "/thumbnails/call-intake-identity-verification-boundaries.svg",
+    "imageAlt": "Abstract illustration of a virtual assistant call intake record separated from an owner approval boundary"
+  },
+  {
+    "slug": "after-hours-call-coverage-handoff-research",
+    "title": "What makes an after-hours call handoff reliable for a virtual assistant call center?",
+    "category": "Research",
+    "image": "/thumbnails/after-hours-call-coverage-handoff-research.svg",
+    "imageAlt": "Abstract illustration of an after-hours call handoff moving through a documented queue to an owner"
+  },
+  {
+    "slug": "virtual-assistant-call-note-data-minimization-study",
+    "title": "How much information should a virtual assistant call note contain?",
+    "category": "Research",
+    "image": "/thumbnails/virtual-assistant-call-note-data-minimization-study.svg",
+    "imageAlt": "Abstract illustration of a concise virtual assistant call note with sensitive details screened before routing"
+  },
+  {
+    "slug": "call-center-queue-priority-evidence-model",
+    "title": "Can a virtual assistant call queue prioritize fairly without hiding uncertainty?",
+    "category": "Research",
+    "image": "/thumbnails/call-center-queue-priority-evidence-model.svg",
+    "imageAlt": "Abstract illustration of a virtual assistant call queue with labeled priority lanes and an exception review marker"
+  },
+  {
+    "slug": "virtual-assistant-call-quality-sampling-study",
+    "title": "What should a virtual assistant call quality sample actually test?",
+    "category": "Research",
+    "image": "/thumbnails/virtual-assistant-call-quality-sampling-study.svg",
+    "imageAlt": "Abstract illustration of a virtual assistant call quality review with distinct evidence and escalation indicators"
+  },
+  {
+    "slug": "hvac-maintenance-agreement-renewal-calls",
+    "title": "HVAC maintenance agreement renewal calls: a practical workflow",
+    "category": "HVAC phone support",
+    "image": "/thumbnails/hvac-maintenance-agreement-renewal-calls.svg",
+    "imageAlt": "Workflow diagram for maintenance agreement renewal showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "dental-insurance-verification-call-boundaries",
+    "title": "Dental insurance verification calls: what a virtual assistant can record",
+    "category": "Healthcare calls",
+    "image": "/thumbnails/dental-insurance-verification-call-boundaries.svg",
+    "imageAlt": "Workflow diagram for dental insurance verification showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "real-estate-showing-request-call-intake",
+    "title": "Real estate showing request call intake without overpromising",
+    "category": "Real estate calls",
+    "image": "/thumbnails/real-estate-showing-request-call-intake.svg",
+    "imageAlt": "Workflow diagram for showing request intake showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "order-status-address-change-verification",
+    "title": "Order status calls and address-change verification boundaries",
+    "category": "Order support",
+    "image": "/thumbnails/order-status-address-change-verification.svg",
+    "imageAlt": "Workflow diagram for order status and address-change requests showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "home-care-new-client-call-intake",
+    "title": "Home care new-client call intake: facts to collect and decisions to escalate",
+    "category": "Home care calls",
+    "image": "/thumbnails/home-care-new-client-call-intake.svg",
+    "imageAlt": "Workflow diagram for new-client home care intake showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "customer-win-back-opt-out-workflow",
+    "title": "Customer win-back calls with a clear opt-out workflow",
+    "category": "Outbound calls",
+    "image": "/thumbnails/customer-win-back-opt-out-workflow.svg",
+    "imageAlt": "Workflow diagram for customer win-back outreach showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "multi-location-appointment-routing-guide",
+    "title": "Multi-location appointment routing for virtual receptionists",
+    "category": "Appointment setting",
+    "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+    "imageAlt": "Workflow diagram for multi-location appointment routing showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "after-hours-property-maintenance-vendor-dispatch",
+    "title": "After-hours property maintenance vendor dispatch: an owner-controlled workflow",
+    "category": "After-hours answering",
+    "image": "/thumbnails/after-hours-property-maintenance-vendor-dispatch.svg",
+    "imageAlt": "Workflow diagram for after-hours maintenance dispatch showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "call-quality-coaching-session-agenda",
+    "title": "A call quality coaching session agenda for small teams",
+    "category": "Call quality",
+    "image": "/thumbnails/call-quality-coaching-session-agenda.svg",
+    "imageAlt": "Workflow diagram for call quality coaching showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "outbound-lead-qualification-disqualification-rules",
+    "title": "Outbound lead qualification and disqualification rules that teams can audit",
+    "category": "Lead qualification",
+    "image": "/thumbnails/outbound-lead-qualification-disqualification-rules.svg",
+    "imageAlt": "Workflow diagram for lead qualification and disqualification showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "patient-scheduling-referral-expiration-calls",
+    "title": "Patient scheduling calls when a referral may be expired",
+    "category": "Healthcare scheduling",
+    "image": "/thumbnails/patient-scheduling-referral-expiration-calls.svg",
+    "imageAlt": "Workflow diagram for referral expiration scheduling showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "call-disposition-reporting-manager-review",
+    "title": "How managers should review call disposition reports",
+    "category": "Call reporting",
+    "image": "/thumbnails/call-disposition-reporting-manager-review.svg",
+    "imageAlt": "Workflow diagram for call disposition reporting showing caller intake, verification, owner review, and documented follow-up"
   }
-  ,{"slug":"call-intake-identity-verification-boundaries","title":"Where should a virtual assistant stop during caller identity verification?","category":"Research","image":"/thumbnails/call-intake-identity-verification-boundaries.svg","imageAlt":"Abstract illustration of a virtual assistant call intake record separated from an owner approval boundary"}
-  ,{"slug":"after-hours-call-coverage-handoff-research","title":"What makes an after-hours call handoff reliable for a virtual assistant call center?","category":"Research","image":"/thumbnails/after-hours-call-coverage-handoff-research.svg","imageAlt":"Abstract illustration of an after-hours call handoff moving through a documented queue to an owner"}
-  ,{"slug":"virtual-assistant-call-note-data-minimization-study","title":"How much information should a virtual assistant call note contain?","category":"Research","image":"/thumbnails/virtual-assistant-call-note-data-minimization-study.svg","imageAlt":"Abstract illustration of a concise virtual assistant call note with sensitive details screened before routing"}
-  ,{"slug":"call-center-queue-priority-evidence-model","title":"Can a virtual assistant call queue prioritize fairly without hiding uncertainty?","category":"Research","image":"/thumbnails/call-center-queue-priority-evidence-model.svg","imageAlt":"Abstract illustration of a virtual assistant call queue with labeled priority lanes and an exception review marker"}
-  ,{"slug":"virtual-assistant-call-quality-sampling-study","title":"What should a virtual assistant call quality sample actually test?","category":"Research","image":"/thumbnails/virtual-assistant-call-quality-sampling-study.svg","imageAlt":"Abstract illustration of a virtual assistant call quality review with distinct evidence and escalation indicators"}
 ]
