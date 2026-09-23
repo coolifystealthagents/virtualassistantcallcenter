@@ -1,0 +1,32 @@
+{
+  "issue": "VIRA-63",
+  "requiredCount": 5,
+  "verifiedCount": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "sourceProductionSha": "ac04630c97b9f90952a9814b225f62ff8480c224",
+  "contentCommit": "572249892312a4b15ece48e0464882bd10007b7d",
+  "remoteShaAfterContentPush": "572249892312a4b15ece48e0464882bd10007b7d",
+  "validation": {
+    "contentValidator": "passed; zero errors",
+    "productionBuild": "passed",
+    "staticPages": 658,
+    "gitDiffCheck": "passed with blank-line-at-EOF notices only"
+  },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "deploymentUuid": "0oj1forgtq1q0cm5b2ohwluv",
+    "status": "queued",
+    "queuedAt": "2026-09-23T17:23:21Z",
+    "observedCommit": "9b37bca0e818f5336dd0b748b07ace7d1411f62b",
+    "reason": "Coolify accepted the deployment but it remained queued through bounded polling and resolved its deployment record to a stale commit rather than the pushed production SHA.",
+    "recoveryAction": "Coolify platform owner should let the queue drain, confirm deployment 0oj1forgtq1q0cm5b2ohwluv builds main SHA 572249892312a4b15ece48e0464882bd10007b7d (or trigger that SHA explicitly), then live-verify all five URLs. If verification occurs after September 23 in America/New_York, update frontmatter, datePublished, sitemap metadata, manifest path, and ledger to the actual publication date before counting any article."
+  },
+  "articles": [
+    {"family":"research","topic":"service-address capture accuracy","slug":"caller-address-capture-accuracy-study","sources":["https://www.nist.gov/cyberframework","https://doi.org/10.6028/NIST.SP.800-53r5","https://www.ftc.gov/business-guidance/resources/start-security-guide-business","https://www.w3.org/WAI/fundamentals/accessibility-principles/"],"contentHash":"a9a4d532ef4ae813629ea33f787d9c8d9753b72de2feac00c40df6b5edc4c57d","publicationDate":null,"commitSha":"572249892312a4b15ece48e0464882bd10007b7d","deploymentEvidence":null,"liveUrl":"https://virtualassistantcallcenter.com/research/caller-address-capture-accuracy-study","verificationTime":null},
+    {"family":"research","topic":"customer account-reference capture","slug":"customer-account-number-readback-study","sources":["https://www.nist.gov/cyberframework","https://doi.org/10.6028/NIST.SP.800-53r5","https://www.ftc.gov/business-guidance/resources/start-security-guide-business","https://www.w3.org/WAI/fundamentals/accessibility-principles/"],"contentHash":"f1b5290a2fa0b5851e00ea81d7b08e0dc8c2ce97047fcafcd31269f21fa30f73","publicationDate":null,"commitSha":"572249892312a4b15ece48e0464882bd10007b7d","deploymentEvidence":null,"liveUrl":"https://virtualassistantcallcenter.com/research/customer-account-number-readback-study","verificationTime":null},
+    {"family":"research","topic":"appointment timezone confirmation","slug":"appointment-timezone-confirmation-study","sources":["https://www.nist.gov/cyberframework","https://doi.org/10.6028/NIST.SP.800-53r5","https://www.ftc.gov/business-guidance/resources/start-security-guide-business","https://www.w3.org/WAI/fundamentals/accessibility-principles/"],"contentHash":"7c27e923f9cc39030ddc01fecd07acd822300d94abf279fbf2eb4760382eabaa","publicationDate":null,"commitSha":"572249892312a4b15ece48e0464882bd10007b7d","deploymentEvidence":null,"liveUrl":"https://virtualassistantcallcenter.com/research/appointment-timezone-confirmation-study","verificationTime":null},
+    {"family":"research","topic":"urgent-call acknowledgment loop","slug":"urgent-call-acknowledgment-loop-study","sources":["https://www.nist.gov/cyberframework","https://doi.org/10.6028/NIST.SP.800-53r5","https://www.ftc.gov/business-guidance/resources/start-security-guide-business","https://www.w3.org/WAI/fundamentals/accessibility-principles/"],"contentHash":"1954fc8c1fd3915647fbc41d6c5464965eec888e489fd871ea6e90daf2685d20","publicationDate":null,"commitSha":"572249892312a4b15ece48e0464882bd10007b7d","deploymentEvidence":null,"liveUrl":"https://virtualassistantcallcenter.com/research/urgent-call-acknowledgment-loop-study","verificationTime":null},
+    {"family":"research","topic":"CRM duplicate contact creation","slug":"crm-duplicate-contact-creation-study","sources":["https://www.nist.gov/cyberframework","https://doi.org/10.6028/NIST.SP.800-53r5","https://www.ftc.gov/business-guidance/resources/start-security-guide-business","https://www.w3.org/WAI/fundamentals/accessibility-principles/"],"contentHash":"6826e70366fbdd89a43e23d1f4171c597880b1fb8af84c5f562d6be14c82b49a","publicationDate":null,"commitSha":"572249892312a4b15ece48e0464882bd10007b7d","deploymentEvidence":null,"liveUrl":"https://virtualassistantcallcenter.com/research/crm-duplicate-contact-creation-study","verificationTime":null}
+  ]
+}
