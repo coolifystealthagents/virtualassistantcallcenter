@@ -292,15 +292,110 @@
     "category": "Call reporting",
     "image": "/thumbnails/call-disposition-reporting-manager-review.svg",
     "imageAlt": "Workflow diagram for call disposition reporting showing caller intake, verification, owner review, and documented follow-up"
+  },
+  {
+    "slug": "lead-qualification-answer-provenance-study",
+    "title": "Can a call team prove where each lead-qualification answer came from?",
+    "category": "Lead intake research",
+    "image": "/thumbnails/lead-qualification-answer-provenance-study.svg",
+    "imageAlt": "Lead qualification evidence study separating caller statements, assistant observations, inferences, and owner decisions"
+  },
+  {
+    "slug": "appointment-service-duration-match-study",
+    "title": "Does phone scheduling match each appointment to the right service duration?",
+    "category": "Appointment research",
+    "image": "/thumbnails/appointment-service-duration-match-study.svg",
+    "imageAlt": "Appointment scheduling study connecting caller need, approved service, duration rule, calendar slot, and owner review"
+  },
+  {
+    "slug": "preferred-contact-channel-capture-study",
+    "title": "Does call intake preserve the caller's preferred contact channel?",
+    "category": "Call intake research",
+    "image": "/thumbnails/preferred-contact-channel-capture-study.svg",
+    "imageAlt": "Contact preference study tracing caller choice, permission, fallback channel, downstream use, and correction evidence"
+  },
+  {
+    "slug": "disconnected-call-recovery-ownership-study",
+    "title": "Who owns recovery when an intake call disconnects?",
+    "category": "Call recovery research",
+    "image": "/thumbnails/disconnected-call-recovery-ownership-study.svg",
+    "imageAlt": "Disconnected call recovery study showing detection, partial record, callback permission, queue owner, and closure evidence"
+  },
+  {
+    "slug": "crm-call-note-writeback-delay-study",
+    "title": "How long can a call note remain outside the CRM before the handoff becomes unsafe?",
+    "category": "CRM operations research",
+    "image": "/thumbnails/crm-call-note-writeback-delay-study.svg",
+    "imageAlt": "CRM write-back delay study connecting call completion, note save, queue visibility, owner acceptance, and reconciliation"
+  },
+  {
+    "slug": "caller-address-capture-accuracy-study",
+    "title": "Does phone intake capture a service address accurately enough to act on?",
+    "category": "Call intake research",
+    "image": "/thumbnails/caller-address-capture-accuracy-study.svg",
+    "imageAlt": "Phone intake address study linking caller wording, read-back, normalized fields, owner review, and correction"
+  },
+  {
+    "slug": "customer-account-number-readback-study",
+    "title": "Does phone support capture account references without creating avoidable errors?",
+    "category": "Customer support research",
+    "image": "/thumbnails/customer-account-number-readback-study.svg",
+    "imageAlt": "Account reference study showing masked capture, lookup result, mismatch state, approved handoff, and audit trail"
+  },
+  {
+    "slug": "appointment-timezone-confirmation-study",
+    "title": "Do phone-booked appointments preserve the caller's intended timezone?",
+    "category": "Appointment research",
+    "image": "/thumbnails/appointment-timezone-confirmation-study.svg",
+    "imageAlt": "Appointment timezone study connecting caller locale, source time, conversion rule, calendar event, confirmation, and correction"
+  },
+  {
+    "slug": "urgent-call-acknowledgment-loop-study",
+    "title": "Does an urgent-call handoff close the acknowledgment loop?",
+    "category": "Escalation research",
+    "image": "/thumbnails/urgent-call-acknowledgment-loop-study.svg",
+    "imageAlt": "Urgent call study following classification, approved contact, acknowledgment timer, fallback path, and caller update"
+  },
+  {
+    "slug": "crm-duplicate-contact-creation-study",
+    "title": "Does phone intake avoid creating duplicate CRM contacts?",
+    "category": "CRM research",
+    "image": "/thumbnails/crm-duplicate-contact-creation-study.svg",
+    "imageAlt": "CRM duplicate study connecting caller details, search candidates, match confidence, create-or-review decision, and merge history"
+  },
+  {
+    "slug": "consent-withdrawal-propagation-study",
+    "title": "Does a caller\u2019s withdrawal of contact consent reach every follow-up queue?",
+    "category": "Research",
+    "image": "/thumbnails/consent-withdrawal-propagation-study.svg",
+    "imageAlt": "Consent withdrawal study connecting the caller request, suppression record, active queues, owner review, and correction"
+  },
+  {
+    "slug": "calendar-double-booking-detection-study",
+    "title": "Can phone scheduling detect a calendar conflict before confirming an appointment?",
+    "category": "Research",
+    "image": "/thumbnails/calendar-double-booking-detection-study.svg",
+    "imageAlt": "Double-booking study linking availability lookup, temporary hold, committed event, confirmation, and conflict resolution"
+  },
+  {
+    "slug": "voicemail-retention-deletion-evidence-study",
+    "title": "Can a voicemail workflow prove that recordings are retained and deleted under policy?",
+    "category": "Research",
+    "image": "/thumbnails/voicemail-retention-deletion-evidence-study.svg",
+    "imageAlt": "Voicemail retention study following recording creation, approved access, derived copies, deletion job, and exception review"
+  },
+  {
+    "slug": "language-assistance-request-routing-study",
+    "title": "Does phone intake preserve and route a caller\u2019s language-assistance request?",
+    "category": "Research",
+    "image": "/thumbnails/language-assistance-request-routing-study.svg",
+    "imageAlt": "Language assistance study connecting caller preference, approved capability, routing destination, acknowledgment, and fallback"
+  },
+  {
+    "slug": "abandoned-call-recontact-eligibility-study",
+    "title": "When is an abandoned inbound call eligible for a follow-up attempt?",
+    "category": "Research",
+    "image": "/thumbnails/abandoned-call-recontact-eligibility-study.svg",
+    "imageAlt": "Abandoned call study linking disconnect evidence, caller intent, contact permission, suppression checks, ownership, and outcome"
   }
-  ,{"slug":"lead-qualification-answer-provenance-study","title":"Can a call team prove where each lead-qualification answer came from?","category":"Lead intake research","image":"/thumbnails/lead-qualification-answer-provenance-study.svg","imageAlt":"Lead qualification evidence study separating caller statements, assistant observations, inferences, and owner decisions"}
-  ,{"slug":"appointment-service-duration-match-study","title":"Does phone scheduling match each appointment to the right service duration?","category":"Appointment research","image":"/thumbnails/appointment-service-duration-match-study.svg","imageAlt":"Appointment scheduling study connecting caller need, approved service, duration rule, calendar slot, and owner review"}
-  ,{"slug":"preferred-contact-channel-capture-study","title":"Does call intake preserve the caller's preferred contact channel?","category":"Call intake research","image":"/thumbnails/preferred-contact-channel-capture-study.svg","imageAlt":"Contact preference study tracing caller choice, permission, fallback channel, downstream use, and correction evidence"}
-  ,{"slug":"disconnected-call-recovery-ownership-study","title":"Who owns recovery when an intake call disconnects?","category":"Call recovery research","image":"/thumbnails/disconnected-call-recovery-ownership-study.svg","imageAlt":"Disconnected call recovery study showing detection, partial record, callback permission, queue owner, and closure evidence"}
-  ,{"slug":"crm-call-note-writeback-delay-study","title":"How long can a call note remain outside the CRM before the handoff becomes unsafe?","category":"CRM operations research","image":"/thumbnails/crm-call-note-writeback-delay-study.svg","imageAlt":"CRM write-back delay study connecting call completion, note save, queue visibility, owner acceptance, and reconciliation"}
-  ,{"slug":"caller-address-capture-accuracy-study","title":"Does phone intake capture a service address accurately enough to act on?","category":"Call intake research","image":"/thumbnails/caller-address-capture-accuracy-study.svg","imageAlt":"Phone intake address study linking caller wording, read-back, normalized fields, owner review, and correction"}
-  ,{"slug":"customer-account-number-readback-study","title":"Does phone support capture account references without creating avoidable errors?","category":"Customer support research","image":"/thumbnails/customer-account-number-readback-study.svg","imageAlt":"Account reference study showing masked capture, lookup result, mismatch state, approved handoff, and audit trail"}
-  ,{"slug":"appointment-timezone-confirmation-study","title":"Do phone-booked appointments preserve the caller's intended timezone?","category":"Appointment research","image":"/thumbnails/appointment-timezone-confirmation-study.svg","imageAlt":"Appointment timezone study connecting caller locale, source time, conversion rule, calendar event, confirmation, and correction"}
-  ,{"slug":"urgent-call-acknowledgment-loop-study","title":"Does an urgent-call handoff close the acknowledgment loop?","category":"Escalation research","image":"/thumbnails/urgent-call-acknowledgment-loop-study.svg","imageAlt":"Urgent call study following classification, approved contact, acknowledgment timer, fallback path, and caller update"}
-  ,{"slug":"crm-duplicate-contact-creation-study","title":"Does phone intake avoid creating duplicate CRM contacts?","category":"CRM research","image":"/thumbnails/crm-duplicate-contact-creation-study.svg","imageAlt":"CRM duplicate study connecting caller details, search candidates, match confidence, create-or-review decision, and merge history"}
 ]
