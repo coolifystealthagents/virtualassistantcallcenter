@@ -1,0 +1,204 @@
+{
+  "issue": "VIRA-64",
+  "required": 12,
+  "verified": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "runBranch": "routine/vira-64-2026-09-24",
+  "baseSha": "bf57c5ea12de8e8bd1d1835db4f0f5d2c19a5218",
+  "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+  "remoteSha": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+  "validation": {
+    "content": "passed",
+    "typescript": "passed",
+    "build": "passed",
+    "staticPages": 684
+  },
+  "deployment": {
+    "applicationUuid": "configured dedicated resource",
+    "status": "blocked",
+    "evidence": "Configured Coolify API redirected authenticated GET to login and POST deploy returned HTTP 419 CSRF token mismatch; bounded public checks returned 404."
+  },
+  "articles": [
+    {
+      "family": "blog",
+      "topic": "Dental laboratory case status calls without promising a delivery date",
+      "slug": "dental-laboratory-case-status-call-intake",
+      "sources": [
+        "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/index.html"
+      ],
+      "contentHash": "sha256:fb08ce07b75472a8b6ea73104f909fcad6abd3fccb70fc426531c5c676ea9075",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/dental-laboratory-case-status-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Hospice referral call intake with clinical and privacy boundaries",
+      "slug": "hospice-referral-call-intake-boundaries",
+      "sources": [
+        "https://www.medicare.gov/coverage/hospice-care"
+      ],
+      "contentHash": "sha256:6fce19ebd31ff3f01686cefdf99feaa1e1f119644a2bb75824d3f90d2262f2ac",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/hospice-referral-call-intake-boundaries",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Occupational health employer calls without disclosing employee health information",
+      "slug": "occupational-health-employer-call-intake",
+      "sources": [
+        "https://www.hhs.gov/hipaa/for-individuals/employers-health-information-workplace/index.html"
+      ],
+      "contentHash": "sha256:a9a6b3b4cd54ff11129440cef17c094a431d15e527620a7ac4fc925ed0941476",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/occupational-health-employer-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Equipment rental reservation calls with availability and safety controls",
+      "slug": "equipment-rental-reservation-call-intake",
+      "sources": [
+        "https://www.osha.gov/construction"
+      ],
+      "contentHash": "sha256:c361ccf8cc82249c19510e717272788fd3990c698c3bc2f927b646b60be0bd36",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/equipment-rental-reservation-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Security alarm service calls without weakening account safeguards",
+      "slug": "security-alarm-service-call-intake",
+      "sources": [
+        "https://www.cisa.gov/topics/physical-security"
+      ],
+      "contentHash": "sha256:736bc256869afd84fcb17e83c665b4f6a3adca1907bbb61dc279ed61c660eb3c",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/security-alarm-service-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Title company closing inquiry calls with wire-fraud safeguards",
+      "slug": "title-company-closing-inquiry-call-intake",
+      "sources": [
+        "https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-scams-and-crimes/business-email-compromise"
+      ],
+      "contentHash": "sha256:506de42c3d414064770b469e7b5cf3220e487da96c4586215bfb297ce0c50482",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/title-company-closing-inquiry-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Termite inspection scheduling calls without making treatment claims",
+      "slug": "termite-inspection-scheduling-call-intake",
+      "sources": [
+        "https://www.epa.gov/safepestcontrol/citizens-guide-pest-control-and-pesticide-safety"
+      ],
+      "contentHash": "sha256:c2fcb2753954bf56f34cbf81019c5d4138966768fad9966cb77977961e8cb3a4",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/termite-inspection-scheduling-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Mobility equipment repair calls that protect safety and clinical boundaries",
+      "slug": "mobility-equipment-repair-call-intake",
+      "sources": [
+        "https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report-medical-device-problems"
+      ],
+      "contentHash": "sha256:90732dd6ba1db50f1c2eff6d6685d46e61b04a007e1fe022ce77f7f1e9b2e962",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/mobility-equipment-repair-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Laboratory specimen courier pickup calls with chain-of-custody controls",
+      "slug": "laboratory-specimen-courier-pickup-call-intake",
+      "sources": [
+        "https://www.cdc.gov/infectious-diseases-labs/php/specimen-submission/index.html"
+      ],
+      "contentHash": "sha256:0de93b80053083726db9c010a3459185f6470eb5f1e676df091b3bd90229badf",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/laboratory-specimen-courier-pickup-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Document shredding service calls with custody and access controls",
+      "slug": "document-shredding-service-call-intake",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/resources/disposing-consumer-report-information-rule-tells-how"
+      ],
+      "contentHash": "sha256:8fd0809f9ced98ee9f952976f1ea367eedccf9625e42c33bb7162122f823a951",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/document-shredding-service-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Water well service calls with contamination and equipment boundaries",
+      "slug": "water-well-service-call-intake",
+      "sources": [
+        "https://www.epa.gov/privatewells"
+      ],
+      "contentHash": "sha256:9c9bc1af1b205e49e9d3c8cd8518bb2ef8c08ba72d966e7b193f1ae432b616ba",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/water-well-service-call-intake",
+      "verificationTime": null,
+      "verified": false
+    },
+    {
+      "family": "blog",
+      "topic": "Veterinary pharmacy prescription status calls without clinical advice",
+      "slug": "veterinary-pharmacy-prescription-status-calls",
+      "sources": [
+        "https://www.fda.gov/animal-veterinary/animal-health-literacy"
+      ],
+      "contentHash": "sha256:125cb339d524b0513de5b52d43837df8fa6b5c99b12a087e3307ee812f8d23ab",
+      "publicationDate": null,
+      "contentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+      "deploymentEvidence": "awaiting Coolify deployment",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/veterinary-pharmacy-prescription-status-calls",
+      "verificationTime": null,
+      "verified": false
+    }
+  ]
+}
