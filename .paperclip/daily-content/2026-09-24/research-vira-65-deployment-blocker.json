@@ -1,0 +1,30 @@
+{
+  "issue": "VIRA-65",
+  "requiredCount": 5,
+  "verifiedCount": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "contentCommit": "309acae26a4d7170aeb7e71f7ce6cf456d979d58",
+  "observedRemoteSha": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+  "validation": {
+    "contentValidator": "passed; zero errors",
+    "typescript": "passed",
+    "productionBuild": "passed",
+    "staticPages": 676,
+    "gitDiffCheck": "passed"
+  },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "authenticatedStatus": "unavailable: configured Coolify API credential returned HTTP 401",
+    "publicTransitionChecks": 3,
+    "result": "all five routes remained HTTP 404 and absent from the production sitemap through 2026-09-24T15:02:00Z",
+    "recoveryAction": "Coolify3 owner must restore the application API credential or deployment connection and deploy current main; rerun live verification and correct publication dates if local midnight has passed"
+  },
+  "articles": [
+    {"family":"research","topic":"abandoned-call recontact eligibility","slug":"abandoned-call-recontact-eligibility-study","sources":["FTC Telemarketing Sales Rule","FCC consumer guide to unwanted calls and texts","NIST Cybersecurity Framework 2.0","NIST SP 800-53 Revision 5"],"contentHash":"a952958bd00a243d61fd1a38c9c94f75fb73f9ad8af34771d8bbd1b76ab83d38","publicationDate":"2026-09-24","commitSha":"309acae26a4d7170aeb7e71f7ce6cf456d979d58","liveUrl":"https://virtualassistantcallcenter.com/research/abandoned-call-recontact-eligibility-study","verified":false},
+    {"family":"research","topic":"calendar double-booking detection","slug":"calendar-double-booking-detection-study","sources":["NIST Cybersecurity Framework 2.0","W3C accessibility principles","NIST SP 800-53 Revision 5"],"contentHash":"7f768b5e75a09a175cb7d80fb23d9f6047710ddeabfb9ad4187345c303f2c4de","publicationDate":"2026-09-24","commitSha":"309acae26a4d7170aeb7e71f7ce6cf456d979d58","liveUrl":"https://virtualassistantcallcenter.com/research/calendar-double-booking-detection-study","verified":false},
+    {"family":"research","topic":"consent-withdrawal propagation","slug":"consent-withdrawal-propagation-study","sources":["FTC Telemarketing Sales Rule","FCC consumer guide to unwanted calls and texts","NIST Cybersecurity Framework 2.0","NIST SP 800-53 Revision 5"],"contentHash":"cd8625d95e28a0a64f758e23f18e61c57af195308c35235911163999d31ef348","publicationDate":"2026-09-24","commitSha":"309acae26a4d7170aeb7e71f7ce6cf456d979d58","liveUrl":"https://virtualassistantcallcenter.com/research/consent-withdrawal-propagation-study","verified":false},
+    {"family":"research","topic":"language-assistance request routing","slug":"language-assistance-request-routing-study","sources":["US Department of Justice language access guidance","W3C accessibility principles","NIST Cybersecurity Framework 2.0","NIST SP 800-53 Revision 5"],"contentHash":"bc2522f6d05553d13d96dcd600f118969a9301c6154a56d53b3c3def5be7f1dd","publicationDate":"2026-09-24","commitSha":"309acae26a4d7170aeb7e71f7ce6cf456d979d58","liveUrl":"https://virtualassistantcallcenter.com/research/language-assistance-request-routing-study","verified":false},
+    {"family":"research","topic":"voicemail retention and deletion evidence","slug":"voicemail-retention-deletion-evidence-study","sources":["NIST Privacy Framework","FTC data security guidance","NIST Cybersecurity Framework 2.0","NIST SP 800-53 Revision 5"],"contentHash":"3516aedc244947fb7b0723dd0c9ff508a2fccdc81cf9c06037c89fbbd499a8ac","publicationDate":"2026-09-24","commitSha":"309acae26a4d7170aeb7e71f7ce6cf456d979d58","liveUrl":"https://virtualassistantcallcenter.com/research/voicemail-retention-deletion-evidence-study","verified":false}
+  ]
+}
