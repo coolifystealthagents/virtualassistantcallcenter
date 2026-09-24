@@ -1,0 +1,20 @@
+{
+  "issues": ["VIRA-64", "VIRA-65"],
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "preBatchBaseSha": "bf57c5ea12de8e8bd1d1835db4f0f5d2c19a5218",
+  "blogContentCommit": "67b01aa57d847c5a43765605022ff2bdea2df9f7",
+  "researchContentCommit": "309acae26a4d7170aeb7e71f7ce6cf456d979d58",
+  "combinedParentSha": "13c9c1ebf85b21baf37c2eedf3338cf7bcacda48",
+  "required": {"blog": 12, "research": 5, "total": 17},
+  "pushed": {"blog": 12, "research": 5, "total": 17},
+  "liveVerified": {"blog": 0, "research": 0, "total": 0},
+  "scopeEvidence": "Diff from pre-batch base contains exactly 12 added content/blog Markdown files, 5 added content/research Markdown files, and 17 corresponding thumbnails.",
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "policy": "one combined Git-to-deployment push only; no research-only deployment retry",
+    "authenticatedStatus": "unavailable: configured Coolify3 API credential returned HTTP 401",
+    "status": "awaiting combined-head push and public transition verification"
+  },
+  "publicationDatePolicy": "Use each article's actual first-live date in the configured site timezone; update source metadata and ledgers before counting any route if that date is not 2026-09-24."
+}
