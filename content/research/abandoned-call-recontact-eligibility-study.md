@@ -4,11 +4,11 @@ title: When is an abandoned inbound call eligible for a follow-up attempt?
 description: A reproducible study of abandoned-call evidence, caller intent, consent, suppression checks, ownership, and follow-up outcomes.
 datePublished: 2026-09-24
 published: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-25
 category: Callback research
 image: /thumbnails/abandoned-call-recontact-eligibility-study.svg
 imageAlt: Abandoned call study linking disconnect evidence, caller intent, contact permission, suppression checks, ownership, and outcome
-related: /services/customer-support, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact
 ---
 
 ## Research question
@@ -86,6 +86,6 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 ## Related paths
 
-- [/services/customer-support](/services/customer-support)
+- [Inbound customer calls](/services/inbound-customer-calls)
 - [Research library](/research)
 - [Discuss an owner-controlled workflow](/contact)
