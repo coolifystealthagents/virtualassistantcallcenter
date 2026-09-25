@@ -7,6 +7,19 @@
   "productionBranch": "main",
   "researchBranch": "vira-66-daily-research-20260925",
   "baseSha": "2d14923c05989c65aba91a5c1746dcad19f939b1",
+  "contentCommitSha": "a0398ca1a09e373264cb25a32018c06ab591a268",
+  "validation": {
+    "contentGate": "passed; zero errors; five new Research entries",
+    "typecheck": "passed; npm run lint",
+    "productionBuild": "passed; Next.js generated 694 static pages including all five new Research routes",
+    "wordCounts": {
+      "appointment-cancellation-effective-time-study": 1758,
+      "callback-number-correction-propagation-study": 1760,
+      "knowledge-base-answer-expiration-study": 1756,
+      "voicemail-sensitive-detail-minimization-study": 1765,
+      "warm-transfer-acceptance-timeout-study": 1747
+    }
+  },
   "deployment": "prohibited for Research; Blog is sole combined-release integrator",
   "items": [
     {
