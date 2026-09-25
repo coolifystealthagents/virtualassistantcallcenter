@@ -397,5 +397,40 @@
     "category": "Research",
     "image": "/thumbnails/abandoned-call-recontact-eligibility-study.svg",
     "imageAlt": "Abandoned call study linking disconnect evidence, caller intent, contact permission, suppression checks, ownership, and outcome"
+  },
+  {
+    "slug": "appointment-cancellation-effective-time-study",
+    "title": "When does a phone appointment cancellation become effective?",
+    "category": "Appointment research",
+    "image": "/thumbnails/appointment-cancellation-effective-time-study.svg",
+    "imageAlt": "Appointment cancellation study linking caller request, identity check, calendar update, notification delivery, and exception ownership"
+  },
+  {
+    "slug": "knowledge-base-answer-expiration-study",
+    "title": "Does a phone-support answer expire when its source changes?",
+    "category": "Knowledge research",
+    "image": "/thumbnails/knowledge-base-answer-expiration-study.svg",
+    "imageAlt": "Knowledge answer expiration study linking source owner, approved version, change signal, assistant access, correction, and review"
+  },
+  {
+    "slug": "warm-transfer-acceptance-timeout-study",
+    "title": "When should a warm transfer stop waiting and use a fallback?",
+    "category": "Transfer research",
+    "image": "/thumbnails/warm-transfer-acceptance-timeout-study.svg",
+    "imageAlt": "Warm transfer timeout study connecting caller consent, destination readiness, wait updates, acceptance evidence, fallback, and owner"
+  },
+  {
+    "slug": "voicemail-sensitive-detail-minimization-study",
+    "title": "How much sensitive detail should a callback voicemail contain?",
+    "category": "Voicemail research",
+    "image": "/thumbnails/voicemail-sensitive-detail-minimization-study.svg",
+    "imageAlt": "Sensitive voicemail minimization study linking approved purpose, recipient confidence, message template, callback route, and review"
+  },
+  {
+    "slug": "callback-number-correction-propagation-study",
+    "title": "Does a corrected callback number reach every active call queue?",
+    "category": "Callback research",
+    "image": "/thumbnails/callback-number-correction-propagation-study.svg",
+    "imageAlt": "Callback number correction study connecting caller correction, authoritative record, active queues, old-number suppression, and closure"
   }
 ]

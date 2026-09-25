@@ -1,0 +1,163 @@
+{
+  "issue": "VIRA-66",
+  "cycleLabel": "2026-09-25 recovery",
+  "requiredCount": 5,
+  "stagedCount": 5,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "researchBranch": "vira-66-daily-research-20260925",
+  "baseSha": "2d14923c05989c65aba91a5c1746dcad19f939b1",
+  "deployment": "prohibited for Research; Blog is sole combined-release integrator",
+  "items": [
+    {
+      "family": "research",
+      "topic": "When does a phone appointment cancellation become effective?",
+      "slug": "appointment-cancellation-effective-time-study",
+      "sources": [
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Security and Privacy Controls for Information Systems and Organizations, SP 800-53 Rev. 5",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Health Information Privacy",
+          "publisher": "U.S. Department of Health and Human Services",
+          "url": "https://www.hhs.gov/hipaa/index.html",
+          "checkedDate": "2026-09-25"
+        }
+      ],
+      "contentSha256": "f22b0922270fb60c43efb1913e697369039fb3750fde5f97379f2280f7bc2f69",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/appointment-cancellation-effective-time-study",
+      "verification": "local validation pending; public verification owned by user after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "Does a phone-support answer expire when its source changes?",
+      "slug": "knowledge-base-answer-expiration-study",
+      "sources": [
+        {
+          "title": "Cybersecurity Framework 2.0",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/cyberframework",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Security and Privacy Controls for Information Systems and Organizations, SP 800-53 Rev. 5",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Web Content Accessibility Guidelines 2.2",
+          "publisher": "World Wide Web Consortium",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "checkedDate": "2026-09-25"
+        }
+      ],
+      "contentSha256": "332ae270cc53710459d5bf0f513f3e87f49f6d3f62bb89932b4751e6badbdb77",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/knowledge-base-answer-expiration-study",
+      "verification": "local validation pending; public verification owned by user after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "When should a warm transfer stop waiting and use a fallback?",
+      "slug": "warm-transfer-acceptance-timeout-study",
+      "sources": [
+        {
+          "title": "Web Content Accessibility Guidelines 2.2",
+          "publisher": "World Wide Web Consortium",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Guidance on Web Accessibility and the ADA",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.ada.gov/resources/web-guidance/",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Cybersecurity Framework 2.0",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/cyberframework",
+          "checkedDate": "2026-09-25"
+        }
+      ],
+      "contentSha256": "bda2f35a854754661190c325b3a504928de5694d52e4c69e65a1adb7c47ed495",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/warm-transfer-acceptance-timeout-study",
+      "verification": "local validation pending; public verification owned by user after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "How much sensitive detail should a callback voicemail contain?",
+      "slug": "voicemail-sensitive-detail-minimization-study",
+      "sources": [
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Health Information Privacy",
+          "publisher": "U.S. Department of Health and Human Services",
+          "url": "https://www.hhs.gov/hipaa/index.html",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Security and Privacy Controls for Information Systems and Organizations, SP 800-53 Rev. 5",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+          "checkedDate": "2026-09-25"
+        }
+      ],
+      "contentSha256": "c453a2bc261d588ac87bbb0648312d22b621f7bb9f527af8927c5f42074979bb",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/voicemail-sensitive-detail-minimization-study",
+      "verification": "local validation pending; public verification owned by user after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "Does a corrected callback number reach every active call queue?",
+      "slug": "callback-number-correction-propagation-study",
+      "sources": [
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Cybersecurity Framework 2.0",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/cyberframework",
+          "checkedDate": "2026-09-25"
+        },
+        {
+          "title": "Security and Privacy Controls for Information Systems and Organizations, SP 800-53 Rev. 5",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+          "checkedDate": "2026-09-25"
+        }
+      ],
+      "contentSha256": "b289bf8820667cc904fd09f7b4d9308130ce6a9cc680872889178df4d7a4426b",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/callback-number-correction-propagation-study",
+      "verification": "local validation pending; public verification owned by user after combined release"
+    }
+  ]
+}
