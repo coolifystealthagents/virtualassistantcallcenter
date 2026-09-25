@@ -7,7 +7,9 @@
   "productionBranch": "main",
   "researchBranch": "vira-66-daily-research-20260925",
   "baseSha": "2d14923c05989c65aba91a5c1746dcad19f939b1",
-  "contentCommitSha": "a0398ca1a09e373264cb25a32018c06ab591a268",
+  "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
+  "integratedBy": "VIRA-67",
+  "integrationBranch": "vira-67-combined-20260925",
   "validation": {
     "contentGate": "passed; zero errors; five new Research entries",
     "typecheck": "passed; npm run lint",
@@ -47,6 +49,7 @@
         }
       ],
       "contentSha256": "f22b0922270fb60c43efb1913e697369039fb3750fde5f97379f2280f7bc2f69",
+      "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
       "publicationDate": "2026-09-25",
       "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
       "liveUrl": "https://virtualassistantcallcenter.com/research/appointment-cancellation-effective-time-study",
@@ -77,6 +80,7 @@
         }
       ],
       "contentSha256": "332ae270cc53710459d5bf0f513f3e87f49f6d3f62bb89932b4751e6badbdb77",
+      "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
       "publicationDate": "2026-09-25",
       "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
       "liveUrl": "https://virtualassistantcallcenter.com/research/knowledge-base-answer-expiration-study",
@@ -107,6 +111,7 @@
         }
       ],
       "contentSha256": "bda2f35a854754661190c325b3a504928de5694d52e4c69e65a1adb7c47ed495",
+      "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
       "publicationDate": "2026-09-25",
       "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
       "liveUrl": "https://virtualassistantcallcenter.com/research/warm-transfer-acceptance-timeout-study",
@@ -137,6 +142,7 @@
         }
       ],
       "contentSha256": "c453a2bc261d588ac87bbb0648312d22b621f7bb9f527af8927c5f42074979bb",
+      "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
       "publicationDate": "2026-09-25",
       "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
       "liveUrl": "https://virtualassistantcallcenter.com/research/voicemail-sensitive-detail-minimization-study",
@@ -167,6 +173,7 @@
         }
       ],
       "contentSha256": "b289bf8820667cc904fd09f7b4d9308130ce6a9cc680872889178df4d7a4426b",
+      "contentCommitSha": "0b68a0cb6b070aa2934b03beeb6cebdc16dc1c71",
       "publicationDate": "2026-09-25",
       "publicationDateStatus": "candidate; Blog integrator must change all date fields if first public availability is after the site's September 25 local date",
       "liveUrl": "https://virtualassistantcallcenter.com/research/callback-number-correction-propagation-study",

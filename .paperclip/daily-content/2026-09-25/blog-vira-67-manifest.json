@@ -1,0 +1,189 @@
+{
+  "issue": "VIRA-67",
+  "cycleLabel": "2026-09-25 recovery",
+  "requiredCount": 12,
+  "stagedCount": 12,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "integrationBranch": "vira-67-combined-20260925",
+  "baseSha": "2d14923c05989c65aba91a5c1746dcad19f939b1",
+  "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+  "siteTimezone": "UTC (renderer configuration)",
+  "validation": {
+    "contentGate": "passed; zero errors; twelve unique new Blog entries",
+    "typecheck": "passed",
+    "productionBuild": "passed; Blog-only build generated 701 static pages",
+    "wordCountGate": "passed; every new Blog body exceeds 2,000 words"
+  },
+  "deployment": "prohibited in task; browser operator owns one combined deployment",
+  "items": [
+    {
+      "family": "blog",
+      "topic": "Process server status calls: protect case details and route updates",
+      "slug": "process-server-status-call-intake",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security"
+      ],
+      "contentSha256": "466c22816c67c176175402ef1fd430f38bd05e282f7afbedaf3239793c34809a",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/process-server-status-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Home care caregiver call-off intake without making coverage promises",
+      "slug": "home-care-caregiver-call-off-intake",
+      "sources": [
+        "https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html"
+      ],
+      "contentSha256": "c2b37b71c115910975571b57fe7af59781dd8656943049500a6c148facb68caf",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/home-care-caregiver-call-off-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Managed IT password reset calls: verify before routing support",
+      "slug": "managed-it-password-reset-call-intake",
+      "sources": [
+        "https://pages.nist.gov/800-63-4/sp800-63b.html"
+      ],
+      "contentSha256": "a7e118b90dc3f1ca06445e6e89d6910bad045e382dc235c72e80b4dadfc3c21b",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/managed-it-password-reset-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Auto recall appointment calls: separate recall lookup from booking",
+      "slug": "auto-recall-appointment-call-intake",
+      "sources": [
+        "https://www.nhtsa.gov/recalls"
+      ],
+      "contentSha256": "1e6e833ef6710c7a1ff570abf832c579c3ebc7dd00c5a68fb2d3ac9b0b153721",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/auto-recall-appointment-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Senior living tour inquiry calls: qualify logistics, not care needs",
+      "slug": "senior-living-tour-inquiry-call-intake",
+      "sources": [
+        "https://www.medicare.gov/care-compare/?providerType=NursingHome"
+      ],
+      "contentSha256": "9bbd66b93410605167f1c50a02b6b4883ce91e29eb284ad83d4bc1ba2e2a23dd",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/senior-living-tour-inquiry-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Payroll support calls: verify employees without exposing account data",
+      "slug": "payroll-support-employee-verification-calls",
+      "sources": [
+        "https://www.irs.gov/identity-theft-fraud-scams/identity-theft-information-for-businesses"
+      ],
+      "contentSha256": "bd56223bb2d65ee1a2b40486fbd88ce8c5a24369b5fc74cd10aa4fb026d76046",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/payroll-support-employee-verification-calls",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Dental new-patient calls: handle insurance questions without guarantees",
+      "slug": "dental-new-patient-insurance-call-intake",
+      "sources": [
+        "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/index.html"
+      ],
+      "contentSha256": "6f72e1e5dc48997286decffda6539e11755ddd173bb95207f7018534781f8798",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/dental-new-patient-insurance-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Pharmacy refill status calls: route questions without clinical advice",
+      "slug": "pharmacy-refill-status-call-routing",
+      "sources": [
+        "https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines"
+      ],
+      "contentSha256": "199a50fb6d2f81aa65efdbe2a1763ddc749a8d6187abd2de2d0f0374bc22cc9e",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/pharmacy-refill-status-call-routing",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Certificate of insurance request calls: capture facts, not coverage opinions",
+      "slug": "commercial-insurance-certificate-request-calls",
+      "sources": [
+        "https://content.naic.org/consumer.htm"
+      ],
+      "contentSha256": "8758483cae6d0344425bedbada67be1b344c7bdd96009cf3cdb73d30d7418db7",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-insurance-certificate-request-calls",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Nonprofit volunteer hotline calls: screen availability and safeguarding needs",
+      "slug": "nonprofit-volunteer-hotline-call-intake",
+      "sources": [
+        "https://www.councilofnonprofits.org/running-nonprofit/employment-hr/volunteers"
+      ],
+      "contentSha256": "8e7109892309a6a28bed5327a4276d094b78d44678deb2990f29bcf6db83e7af",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/nonprofit-volunteer-hotline-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Solar warranty service calls: separate symptoms, ownership, and promises",
+      "slug": "solar-warranty-service-call-intake",
+      "sources": [
+        "https://consumer.ftc.gov/consumer-alerts/2024/08/how-avoid-getting-burned-solar-or-clean-energy-scams"
+      ],
+      "contentSha256": "e56e1f1c0020c65aa7b01975fb7f0a79ec197ada6f59c990940b1a2f7ca48257",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/solar-warranty-service-call-intake",
+      "verification": "public route verification owned by user after the single combined release"
+    },
+    {
+      "family": "blog",
+      "topic": "Resident lockout calls: verify, route, and avoid unsafe access promises",
+      "slug": "resident-lockout-property-management-calls",
+      "sources": [
+        "https://www.cisa.gov/topics/physical-security"
+      ],
+      "contentSha256": "ebeb50d23a716c468453f2d49977e4a6b3110c5ff099764ed063511b3f166380",
+      "publicationDate": "2026-09-25",
+      "publicationDateStatus": "candidate; browser operator must update/rebuild before deployment if first public availability is after the site's September 25 UTC date",
+      "contentCommitSha": "12fbad269da3744bc6c4dc0f8907dc3ecbacbf76",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/resident-lockout-property-management-calls",
+      "verification": "public route verification owned by user after the single combined release"
+    }
+  ]
+}
