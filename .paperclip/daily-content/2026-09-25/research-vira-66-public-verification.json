@@ -1,0 +1,29 @@
+{
+  "issue": "VIRA-66",
+  "recordedAt": "2026-09-25T16:29:22Z",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "renderedSourceCommit": "d6f4d67f527ee14a5005e1feb9db62581f670663",
+  "route": "/research/abandoned-call-recontact-eligibility-study",
+  "sourceVerification": {
+    "gitDiffCheck": "passed",
+    "lint": "passed",
+    "contentValidation": "passed",
+    "productionBuild": "passed",
+    "generatedArtifact": "passed: exact canonical and H1; 2026-09-25 Article update; zero retired /services/customer-support links; two /services/inbound-customer-calls hrefs inside main; sitemap route present"
+  },
+  "deployment": {
+    "applicationUuid": "y148qys7s5r45aii1ywbci8x",
+    "applicationProbe": "HTTP 401 application/json",
+    "deploymentCollectionProbe": "HTTP 404 application/json",
+    "triggered": false,
+    "reason": "Configured credential could not authorize the repository-approved application; no deployment trigger was attempted."
+  },
+  "publicVerification": {
+    "classification": "deployment_pending_public_verification / public_stale",
+    "canonicalHost": "HTTP 200 text/html; expected H1 and canonical present; new inbound-customer-calls marker and href absent; retired customer-support path present; 2026-09-25 update absent",
+    "wwwHost": "HTTP 200 text/html; expected H1 and apex canonical present; new inbound-customer-calls marker and href absent; retired customer-support path present; 2026-09-25 update absent",
+    "sitemaps": "Both hosts returned parseable XML with one exact canonical route record and no lastmod by repository contract."
+  },
+  "nextAction": "An authorized Coolify owner must restore application access or deployment connection, deploy current origin/main, then recheck both hosts for the new service path and updated date."
+}
