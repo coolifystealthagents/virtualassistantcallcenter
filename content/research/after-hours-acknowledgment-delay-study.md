@@ -3,11 +3,11 @@ slug: after-hours-acknowledgment-delay-study
 title: How should an after-hours call team measure acknowledgment delay?
 description: A research protocol for measuring the handoff between virtual assistants and on-call owners without confusing acknowledgment with resolution.
 published: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-27
 category: Handoff reliability research
 image: /thumbnails/after-hours-call-coverage-handoff-research.svg
 imageAlt: After-hours handoff timeline separating call receipt acknowledgment ownership and resolution
-related: /research/warm-transfer-caller-repetition-burden-study, /blog/rotating-on-call-schedule-handoff
+related: /services/after-hours-answering, /research/warm-transfer-caller-repetition-burden-study, /blog/rotating-on-call-schedule-handoff
 ---
 ## Research question
 
