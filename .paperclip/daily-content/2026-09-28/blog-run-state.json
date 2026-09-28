@@ -1,0 +1,92 @@
+{
+  "cycleLabel": "September28",
+  "taskId": "VIRA-69",
+  "runId": "c04a4a53-f49c-44bd-b579-225051ef22d8",
+  "family": "blog",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "baselineSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
+  "workingBranch": "vira-69-daily-blog-20260928",
+  "durableWorktree": "_worktrees/vira-69",
+  "timezone": "UTC",
+  "publicationDate": null,
+  "publicationDateRule": "Set from each article's first successful public verification; never infer from the cycle label.",
+  "pairedResearchTask": "VIRA-68",
+  "researchHandoff": null,
+  "releasePolicy": "One non-force push of exactly 12 Blog and 5 Research articles after the Research handoff and combined validation. Browser operator owns deployment.",
+  "status": "inventory_reserved",
+  "inventory": [
+    {
+      "slug": "bilingual-call-routing-language-preference-handoff",
+      "topic": "Capturing language preference and interpreter handoff without overstating bilingual coverage",
+      "pillar": "call-routing",
+      "primarySource": "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html"
+    },
+    {
+      "slug": "property-restoration-emergency-call-intake",
+      "topic": "Property restoration emergency intake that separates immediate hazards from dispatch facts",
+      "pillar": "emergency-intake",
+      "primarySource": "https://www.ready.gov/home-fires"
+    },
+    {
+      "slug": "elevator-entrapment-service-call-routing",
+      "topic": "Elevator entrapment calls: emergency routing, location confirmation, and technician handoff",
+      "pillar": "emergency-intake",
+      "primarySource": "https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116"
+    },
+    {
+      "slug": "hvac-refrigerant-leak-call-boundaries",
+      "topic": "HVAC refrigerant leak calls: safe intake boundaries and licensed-service escalation",
+      "pillar": "field-service-intake",
+      "primarySource": "https://www.epa.gov/section608"
+    },
+    {
+      "slug": "fire-sprinkler-impairment-service-call-intake",
+      "topic": "Fire sprinkler impairment service calls: capture, escalation, and authority boundaries",
+      "pillar": "emergency-intake",
+      "primarySource": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159"
+    },
+    {
+      "slug": "title-company-payoff-request-call-intake",
+      "topic": "Title company payoff request calls: identity, authorization, document channel, and ownership",
+      "pillar": "professional-services-intake",
+      "primarySource": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/"
+    },
+    {
+      "slug": "water-utility-service-interruption-call-intake",
+      "topic": "Water utility service interruption calls: outage facts, vulnerable-customer routing, and updates",
+      "pillar": "public-service-intake",
+      "primarySource": "https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities"
+    },
+    {
+      "slug": "alarm-company-false-alarm-verification-calls",
+      "topic": "Alarm company false-alarm calls: verification scripts, cancellation limits, and dispatch records",
+      "pillar": "security-call-workflows",
+      "primarySource": "https://www.fcc.gov/consumers/guides/911-and-e911-services"
+    },
+    {
+      "slug": "appliance-repair-warranty-authorization-calls",
+      "topic": "Appliance repair warranty authorization calls: proof, coverage boundaries, and appointment status",
+      "pillar": "field-service-intake",
+      "primarySource": "https://consumer.ftc.gov/articles/warranties"
+    },
+    {
+      "slug": "staffing-agency-shift-cancellation-call-intake",
+      "topic": "Staffing agency shift cancellation calls: assignment identity, timing, acknowledgment, and replacement ownership",
+      "pillar": "workforce-call-workflows",
+      "primarySource": "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+    },
+    {
+      "slug": "marina-transient-slip-inquiry-call-intake",
+      "topic": "Marina transient slip inquiries: vessel-fit facts, arrival windows, and reservation boundaries",
+      "pillar": "reservation-call-workflows",
+      "primarySource": "https://www.navcen.uscg.gov/navigation-rules-amalgamated"
+    },
+    {
+      "slug": "pest-control-exposure-call-escalation",
+      "topic": "Pest control exposure calls: information capture, poison-control routing, and technician escalation",
+      "pillar": "field-service-intake",
+      "primarySource": "https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident"
+    }
+  ]
+}
