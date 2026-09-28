@@ -1,0 +1,192 @@
+{
+  "issue": "VIRA-68",
+  "runId": "0170d9d8-6fec-4a8f-accd-8b95ab424424",
+  "cycleLabel": "September 28, 2026 combined release",
+  "requiredCount": 5,
+  "stagedCount": 5,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "researchBranch": "vira-68-daily-research-20260928",
+  "worktree": "/paperclip/instances/default/projects/bd046bb4-562b-437b-a789-170ecfb3c57d/5fee718e-6cbb-42c9-ae67-639fb487f652/_default/_worktrees/vira-68",
+  "baseSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
+  "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+  "siteTimezone": "not declared in repository; integrator must confirm before release",
+  "validation": {
+    "contentGate": "passed; zero errors; exactly five new Research entries",
+    "typecheck": "passed; npm run lint",
+    "productionBuild": "passed; Next.js generated 711 static pages including all five routes",
+    "bodyOnlyWordCounts": {
+      "relay-call-handling-parity-study": 1315,
+      "payment-card-detail-containment-study": 1387,
+      "third-party-caller-authority-boundary-study": 1420,
+      "outbound-callback-identity-before-disclosure-study": 1403,
+      "call-script-exception-approval-provenance-study": 1281
+    },
+    "maxPairwiseFiveWordShingleJaccard": 0.007516,
+    "maxExistingInventoryFiveWordShingleJaccardBySlug": {
+      "relay-call-handling-parity-study": 0.004245,
+      "payment-card-detail-containment-study": 0.005979,
+      "third-party-caller-authority-boundary-study": 0.003434,
+      "outbound-callback-identity-before-disclosure-study": 0.004444,
+      "call-script-exception-approval-provenance-study": 0.005751
+    }
+  },
+  "deployment": "prohibited for Research; Blog is sole combined-release integrator; Browser Operator owns deployment",
+  "items": [
+    {
+      "family": "research",
+      "topic": "Do relay calls receive the same intake outcome as voice calls?",
+      "slug": "relay-call-handling-parity-study",
+      "sources": [
+        {
+          "title": "ADA Requirements: Effective Communication",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.ada.gov/resources/effective-communication/",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "Web Content Accessibility Guidelines 2.2",
+          "publisher": "World Wide Web Consortium",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-28"
+        }
+      ],
+      "contentSha256": "886e7b6caf17792bf3e7f88e37160e9eb35a50c8be7d9f6fd46af7ed84126dff",
+      "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+      "publicationDate": "2026-09-28",
+      "publicationDateStatus": "candidate; Blog integrator must reconcile every date field to actual first public availability in the site timezone before the sole combined push",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/relay-call-handling-parity-study",
+      "verification": "local validation complete; public route/date verification is user-owned after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "Can a call team keep payment-card details out of general notes?",
+      "slug": "payment-card-detail-containment-study",
+      "sources": [
+        {
+          "title": "Protecting Personal Information: A Guide for Business",
+          "publisher": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "Start with Security: A Guide for Business",
+          "publisher": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-28"
+        }
+      ],
+      "contentSha256": "692fd8030d5dc827686191878adc20c134d328d53cf759d29dfda591e6c705d3",
+      "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+      "publicationDate": "2026-09-28",
+      "publicationDateStatus": "candidate; Blog integrator must reconcile every date field to actual first public availability in the site timezone before the sole combined push",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/payment-card-detail-containment-study",
+      "verification": "local validation complete; public route/date verification is user-owned after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "What can a call team do when someone calls for another person?",
+      "slug": "third-party-caller-authority-boundary-study",
+      "sources": [
+        {
+          "title": "Digital Identity Guidelines",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "ADA Requirements: Effective Communication",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.ada.gov/resources/effective-communication/",
+          "checkedDate": "2026-09-28"
+        }
+      ],
+      "contentSha256": "8c0f3f328dbb61d4c0e72528b5ce0de87523c6c877232e2d6d2f0ecbc0bd7d7c",
+      "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+      "publicationDate": "2026-09-28",
+      "publicationDateStatus": "candidate; Blog integrator must reconcile every date field to actual first public availability in the site timezone before the sole combined push",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/third-party-caller-authority-boundary-study",
+      "verification": "local validation complete; public route/date verification is user-owned after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "Does an outbound callback verify the recipient before revealing context?",
+      "slug": "outbound-callback-identity-before-disclosure-study",
+      "sources": [
+        {
+          "title": "Protecting Personal Information: A Guide for Business",
+          "publisher": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "Digital Identity Guidelines",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "NIST Privacy Framework",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/privacy-framework",
+          "checkedDate": "2026-09-28"
+        }
+      ],
+      "contentSha256": "3ca5229a38dd2b25bee7201a00156b714f09a714cda9a2563791e2e6884598f4",
+      "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+      "publicationDate": "2026-09-28",
+      "publicationDateStatus": "candidate; Blog integrator must reconcile every date field to actual first public availability in the site timezone before the sole combined push",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/outbound-callback-identity-before-disclosure-study",
+      "verification": "local validation complete; public route/date verification is user-owned after combined release"
+    },
+    {
+      "family": "research",
+      "topic": "Can a call team prove who approved an exception to the script?",
+      "slug": "call-script-exception-approval-provenance-study",
+      "sources": [
+        {
+          "title": "Cybersecurity Framework 2.0",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://www.nist.gov/cyberframework",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "Security and Privacy Controls for Information Systems and Organizations, SP 800-53 Rev. 5",
+          "publisher": "National Institute of Standards and Technology",
+          "url": "https://doi.org/10.6028/NIST.SP.800-53r5",
+          "checkedDate": "2026-09-28"
+        },
+        {
+          "title": "Start with Security: A Guide for Business",
+          "publisher": "Federal Trade Commission",
+          "url": "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+          "checkedDate": "2026-09-28"
+        }
+      ],
+      "contentSha256": "3e74a0cde653222613a967ad0b081563f4a4a0a902b14fe777af6711e26585bd",
+      "contentCommitSha": "f39655124920eea88491619b074e79f4b5e8e987",
+      "publicationDate": "2026-09-28",
+      "publicationDateStatus": "candidate; Blog integrator must reconcile every date field to actual first public availability in the site timezone before the sole combined push",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/call-script-exception-approval-provenance-study",
+      "verification": "local validation complete; public route/date verification is user-owned after combined release"
+    }
+  ]
+}
