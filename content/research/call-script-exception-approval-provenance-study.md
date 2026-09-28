@@ -8,7 +8,7 @@ updated: 2026-09-28
 category: Change control research
 image: /thumbnails/new-client-call-script-approval-process.svg
 imageAlt: Script exception study tracing request evidence approver wording affected queues expiration monitoring and rollback
-related: /services/customer-support, /research/call-script-version-drift-research, /contact
+related: /services/call-quality-assurance, /research/call-script-version-drift-research, /contact
 ---
 
 ## Why script exceptions deserve their own study
