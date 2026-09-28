@@ -4,78 +4,123 @@
   "taskId": "VIRA-69",
   "baselineSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
   "publicationDate": "2026-09-28",
+  "validation": {
+    "minimumBodyWords": 900,
+    "fiveWordShingleThreshold": 0.5,
+    "maximumPairwiseOverlap": {
+      "left": "hvac-refrigerant-leak-call-boundaries",
+      "right": "fire-sprinkler-impairment-service-call-intake",
+      "jaccard": 0.43536
+    }
+  },
   "entries": [
     {
       "slug": "bilingual-call-routing-language-preference-handoff",
       "sourcePath": "content/blog/bilingual-call-routing-language-preference-handoff.md",
       "route": "/blog/bilingual-call-routing-language-preference-handoff",
-      "source": "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html"
+      "source": "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html",
+      "bodyWordCount": 1484,
+      "contentSha256": "0c778617b721b2c420b2bf53018f0cd5f18fc1dbbc67f1ebf43f7047db0b9f13",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "property-restoration-emergency-call-intake",
       "sourcePath": "content/blog/property-restoration-emergency-call-intake.md",
       "route": "/blog/property-restoration-emergency-call-intake",
-      "source": "https://www.ready.gov/home-fires"
+      "source": "https://www.ready.gov/home-fires",
+      "bodyWordCount": 1476,
+      "contentSha256": "bb2fc435dd2f3a2a732da6b9ed2340bb3310e5a516987502583c33a9cf149543",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "elevator-entrapment-service-call-routing",
       "sourcePath": "content/blog/elevator-entrapment-service-call-routing.md",
       "route": "/blog/elevator-entrapment-service-call-routing",
-      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116"
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116",
+      "bodyWordCount": 1507,
+      "contentSha256": "c3ffd5695c75008ff1144bd4136db4ac5ec4ec5b2f7fce9f6c9616a0a729194b",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "hvac-refrigerant-leak-call-boundaries",
       "sourcePath": "content/blog/hvac-refrigerant-leak-call-boundaries.md",
       "route": "/blog/hvac-refrigerant-leak-call-boundaries",
-      "source": "https://www.epa.gov/section608"
+      "source": "https://www.epa.gov/section608",
+      "bodyWordCount": 1469,
+      "contentSha256": "55053783c62853d96ec902ef868c89f4328bda97061b9632039872c34fa1b8f8",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "fire-sprinkler-impairment-service-call-intake",
       "sourcePath": "content/blog/fire-sprinkler-impairment-service-call-intake.md",
       "route": "/blog/fire-sprinkler-impairment-service-call-intake",
-      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159"
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159",
+      "bodyWordCount": 1480,
+      "contentSha256": "392d926d39002aec83697827323372b65c2d58d9e88bc10cedd1c42f650d4afc",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "title-company-payoff-request-call-intake",
       "sourcePath": "content/blog/title-company-payoff-request-call-intake.md",
       "route": "/blog/title-company-payoff-request-call-intake",
-      "source": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/"
+      "source": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/",
+      "bodyWordCount": 1491,
+      "contentSha256": "c584c4568cf15bfe1603efcfdc918b92db541b1357ccfebe69c770395518f0fe",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "water-utility-service-interruption-call-intake",
       "sourcePath": "content/blog/water-utility-service-interruption-call-intake.md",
       "route": "/blog/water-utility-service-interruption-call-intake",
-      "source": "https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities"
+      "source": "https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities",
+      "bodyWordCount": 1508,
+      "contentSha256": "2defe4c0ef9d50f6229951c98b127214e0146d67e16abdc37943b0770b3093f7",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "alarm-company-false-alarm-verification-calls",
       "sourcePath": "content/blog/alarm-company-false-alarm-verification-calls.md",
       "route": "/blog/alarm-company-false-alarm-verification-calls",
-      "source": "https://www.fcc.gov/consumers/guides/911-and-e911-services"
+      "source": "https://www.fcc.gov/consumers/guides/911-and-e911-services",
+      "bodyWordCount": 1503,
+      "contentSha256": "63cf95e34827a961d505c0c6fe27899302fb8d6869720fab6c055228e04b79ff",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "appliance-repair-warranty-authorization-calls",
       "sourcePath": "content/blog/appliance-repair-warranty-authorization-calls.md",
       "route": "/blog/appliance-repair-warranty-authorization-calls",
-      "source": "https://consumer.ftc.gov/articles/warranties"
+      "source": "https://consumer.ftc.gov/articles/warranties",
+      "bodyWordCount": 1478,
+      "contentSha256": "120efad6e6f8e3eee18684282f91288bbee9ebf240a1c6fd73bc8c36ad323124",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "staffing-agency-shift-cancellation-call-intake",
       "sourcePath": "content/blog/staffing-agency-shift-cancellation-call-intake.md",
       "route": "/blog/staffing-agency-shift-cancellation-call-intake",
-      "source": "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+      "source": "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship",
+      "bodyWordCount": 1481,
+      "contentSha256": "18311b2406017b65e7b9efacb1f02178e199c43574dd99f87cdea3c42522a152",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "marina-transient-slip-inquiry-call-intake",
       "sourcePath": "content/blog/marina-transient-slip-inquiry-call-intake.md",
       "route": "/blog/marina-transient-slip-inquiry-call-intake",
-      "source": "https://www.navcen.uscg.gov/navigation-rules-amalgamated"
+      "source": "https://www.navcen.uscg.gov/navigation-rules-amalgamated",
+      "bodyWordCount": 1471,
+      "contentSha256": "fcbd58d843b4419ea41e7600cbf769be020bbf54c5603350d349f41a6095cd63",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
       "slug": "pest-control-exposure-call-escalation",
       "sourcePath": "content/blog/pest-control-exposure-call-escalation.md",
       "route": "/blog/pest-control-exposure-call-escalation",
-      "source": "https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident"
+      "source": "https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident",
+      "bodyWordCount": 1526,
+      "contentSha256": "4bd3dc8d6e754514e4c0aafd82e64ef1787beefc7bcb3286154a773176ab90ab",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     }
   ]
 }

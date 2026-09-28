@@ -1,6 +1,8 @@
 from pathlib import Path
 import json
 import re
+import hashlib
+import itertools
 
 ROOT = Path(__file__).parents[1]
 DATE = "2026-09-28"
@@ -75,11 +77,37 @@ for item in items:
         article_body = re.sub(rf"\b{old}\b", new, article_body, flags=re.IGNORECASE)
     (out / f"{item['slug']}.md").write_text(front + article_body, encoding="utf-8")
 
+entries = []
+shingle_sets = {}
+for x in items:
+    source_path = f"content/blog/{x['slug']}.md"
+    raw = (ROOT / source_path).read_text(encoding="utf-8")
+    substantive = raw.split("---", 2)[-1].split("## Source")[0]
+    words = re.findall(r"[A-Za-z0-9']+", substantive)
+    shingle_sets[x["slug"]] = {tuple(w.lower() for w in words[i:i + 5]) for i in range(len(words) - 4)}
+    entries.append({
+        "slug": x["slug"], "sourcePath": source_path,
+        "route": f"/blog/{x['slug']}", "source": x["source"],
+        "bodyWordCount": len(words),
+        "contentSha256": hashlib.sha256(raw.encode("utf-8")).hexdigest(),
+        "imagePath": IMAGE,
+    })
+pairwise = []
+for left, right in itertools.combinations(shingle_sets, 2):
+    a, b = shingle_sets[left], shingle_sets[right]
+    pairwise.append({"left": left, "right": right, "jaccard": round(len(a & b) / len(a | b), 6)})
+pairwise.sort(key=lambda row: row["jaccard"], reverse=True)
+
 manifest = {
     "cycleLabel": "September28", "family": "blog", "taskId": "VIRA-69",
     "baselineSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
     "publicationDate": DATE,
-    "entries": [{"slug": x["slug"], "sourcePath": f"content/blog/{x['slug']}.md", "route": f"/blog/{x['slug']}", "source": x["source"]} for x in items]
+    "validation": {
+        "minimumBodyWords": 900,
+        "fiveWordShingleThreshold": 0.5,
+        "maximumPairwiseOverlap": pairwise[0],
+    },
+    "entries": entries,
 }
 path = ROOT / ".paperclip/daily-content/2026-09-28/blog.json"
 path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
