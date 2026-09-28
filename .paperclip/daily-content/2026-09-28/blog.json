@@ -1,0 +1,81 @@
+{
+  "cycleLabel": "September28",
+  "family": "blog",
+  "taskId": "VIRA-69",
+  "baselineSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
+  "publicationDate": "2026-09-28",
+  "entries": [
+    {
+      "slug": "bilingual-call-routing-language-preference-handoff",
+      "sourcePath": "content/blog/bilingual-call-routing-language-preference-handoff.md",
+      "route": "/blog/bilingual-call-routing-language-preference-handoff",
+      "source": "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html"
+    },
+    {
+      "slug": "property-restoration-emergency-call-intake",
+      "sourcePath": "content/blog/property-restoration-emergency-call-intake.md",
+      "route": "/blog/property-restoration-emergency-call-intake",
+      "source": "https://www.ready.gov/home-fires"
+    },
+    {
+      "slug": "elevator-entrapment-service-call-routing",
+      "sourcePath": "content/blog/elevator-entrapment-service-call-routing.md",
+      "route": "/blog/elevator-entrapment-service-call-routing",
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116"
+    },
+    {
+      "slug": "hvac-refrigerant-leak-call-boundaries",
+      "sourcePath": "content/blog/hvac-refrigerant-leak-call-boundaries.md",
+      "route": "/blog/hvac-refrigerant-leak-call-boundaries",
+      "source": "https://www.epa.gov/section608"
+    },
+    {
+      "slug": "fire-sprinkler-impairment-service-call-intake",
+      "sourcePath": "content/blog/fire-sprinkler-impairment-service-call-intake.md",
+      "route": "/blog/fire-sprinkler-impairment-service-call-intake",
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159"
+    },
+    {
+      "slug": "title-company-payoff-request-call-intake",
+      "sourcePath": "content/blog/title-company-payoff-request-call-intake.md",
+      "route": "/blog/title-company-payoff-request-call-intake",
+      "source": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/"
+    },
+    {
+      "slug": "water-utility-service-interruption-call-intake",
+      "sourcePath": "content/blog/water-utility-service-interruption-call-intake.md",
+      "route": "/blog/water-utility-service-interruption-call-intake",
+      "source": "https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities"
+    },
+    {
+      "slug": "alarm-company-false-alarm-verification-calls",
+      "sourcePath": "content/blog/alarm-company-false-alarm-verification-calls.md",
+      "route": "/blog/alarm-company-false-alarm-verification-calls",
+      "source": "https://www.fcc.gov/consumers/guides/911-and-e911-services"
+    },
+    {
+      "slug": "appliance-repair-warranty-authorization-calls",
+      "sourcePath": "content/blog/appliance-repair-warranty-authorization-calls.md",
+      "route": "/blog/appliance-repair-warranty-authorization-calls",
+      "source": "https://consumer.ftc.gov/articles/warranties"
+    },
+    {
+      "slug": "staffing-agency-shift-cancellation-call-intake",
+      "sourcePath": "content/blog/staffing-agency-shift-cancellation-call-intake.md",
+      "route": "/blog/staffing-agency-shift-cancellation-call-intake",
+      "source": "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+    },
+    {
+      "slug": "marina-transient-slip-inquiry-call-intake",
+      "sourcePath": "content/blog/marina-transient-slip-inquiry-call-intake.md",
+      "route": "/blog/marina-transient-slip-inquiry-call-intake",
+      "source": "https://www.navcen.uscg.gov/navigation-rules-amalgamated"
+    },
+    {
+      "slug": "pest-control-exposure-call-escalation",
+      "sourcePath": "content/blog/pest-control-exposure-call-escalation.md",
+      "route": "/blog/pest-control-exposure-call-escalation",
+      "source": "https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident"
+    }
+  ]
+}
