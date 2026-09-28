@@ -1,0 +1,232 @@
+{
+  "cycleLabel": "September28",
+  "publicationDate": "2026-09-28",
+  "siteTimezone": "UTC",
+  "baselineSha": "eda5b12b6f7516b6521b3eba36f77b7ea3d8894f",
+  "researchHandoffSha": "d29e98d83584df5c2de534dbd35e0f1cc45b4066",
+  "deploymentOwner": "Browser Operator",
+  "publicVerificationOwner": "user",
+  "status": "passed",
+  "errors": [],
+  "families": {
+    "blog": {
+      "count": 12,
+      "minimumBodyWords": 900,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "hvac-refrigerant-leak-call-boundaries",
+        "right": "fire-sprinkler-impairment-service-call-intake",
+        "jaccard": 0.43536
+      },
+      "items": [
+        {
+          "slug": "bilingual-call-routing-language-preference-handoff",
+          "path": "content/blog/bilingual-call-routing-language-preference-handoff.md",
+          "bodyWordCount": 1484,
+          "contentSha256": "0c778617b721b2c420b2bf53018f0cd5f18fc1dbbc67f1ebf43f7047db0b9f13",
+          "sources": [
+            "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/bilingual-call-routing-language-preference-handoff"
+        },
+        {
+          "slug": "property-restoration-emergency-call-intake",
+          "path": "content/blog/property-restoration-emergency-call-intake.md",
+          "bodyWordCount": 1476,
+          "contentSha256": "bb2fc435dd2f3a2a732da6b9ed2340bb3310e5a516987502583c33a9cf149543",
+          "sources": [
+            "https://www.ready.gov/home-fires"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/property-restoration-emergency-call-intake"
+        },
+        {
+          "slug": "elevator-entrapment-service-call-routing",
+          "path": "content/blog/elevator-entrapment-service-call-routing.md",
+          "bodyWordCount": 1507,
+          "contentSha256": "c3ffd5695c75008ff1144bd4136db4ac5ec4ec5b2f7fce9f6c9616a0a729194b",
+          "sources": [
+            "https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/elevator-entrapment-service-call-routing"
+        },
+        {
+          "slug": "hvac-refrigerant-leak-call-boundaries",
+          "path": "content/blog/hvac-refrigerant-leak-call-boundaries.md",
+          "bodyWordCount": 1469,
+          "contentSha256": "55053783c62853d96ec902ef868c89f4328bda97061b9632039872c34fa1b8f8",
+          "sources": [
+            "https://www.epa.gov/section608"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/hvac-refrigerant-leak-call-boundaries"
+        },
+        {
+          "slug": "fire-sprinkler-impairment-service-call-intake",
+          "path": "content/blog/fire-sprinkler-impairment-service-call-intake.md",
+          "bodyWordCount": 1480,
+          "contentSha256": "392d926d39002aec83697827323372b65c2d58d9e88bc10cedd1c42f650d4afc",
+          "sources": [
+            "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/fire-sprinkler-impairment-service-call-intake"
+        },
+        {
+          "slug": "title-company-payoff-request-call-intake",
+          "path": "content/blog/title-company-payoff-request-call-intake.md",
+          "bodyWordCount": 1491,
+          "contentSha256": "c584c4568cf15bfe1603efcfdc918b92db541b1357ccfebe69c770395518f0fe",
+          "sources": [
+            "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/title-company-payoff-request-call-intake"
+        },
+        {
+          "slug": "water-utility-service-interruption-call-intake",
+          "path": "content/blog/water-utility-service-interruption-call-intake.md",
+          "bodyWordCount": 1508,
+          "contentSha256": "2defe4c0ef9d50f6229951c98b127214e0146d67e16abdc37943b0770b3093f7",
+          "sources": [
+            "https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/water-utility-service-interruption-call-intake"
+        },
+        {
+          "slug": "alarm-company-false-alarm-verification-calls",
+          "path": "content/blog/alarm-company-false-alarm-verification-calls.md",
+          "bodyWordCount": 1503,
+          "contentSha256": "63cf95e34827a961d505c0c6fe27899302fb8d6869720fab6c055228e04b79ff",
+          "sources": [
+            "https://www.fcc.gov/consumers/guides/911-and-e911-services"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/alarm-company-false-alarm-verification-calls"
+        },
+        {
+          "slug": "appliance-repair-warranty-authorization-calls",
+          "path": "content/blog/appliance-repair-warranty-authorization-calls.md",
+          "bodyWordCount": 1478,
+          "contentSha256": "120efad6e6f8e3eee18684282f91288bbee9ebf240a1c6fd73bc8c36ad323124",
+          "sources": [
+            "https://consumer.ftc.gov/articles/warranties"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/appliance-repair-warranty-authorization-calls"
+        },
+        {
+          "slug": "staffing-agency-shift-cancellation-call-intake",
+          "path": "content/blog/staffing-agency-shift-cancellation-call-intake.md",
+          "bodyWordCount": 1481,
+          "contentSha256": "18311b2406017b65e7b9efacb1f02178e199c43574dd99f87cdea3c42522a152",
+          "sources": [
+            "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/staffing-agency-shift-cancellation-call-intake"
+        },
+        {
+          "slug": "marina-transient-slip-inquiry-call-intake",
+          "path": "content/blog/marina-transient-slip-inquiry-call-intake.md",
+          "bodyWordCount": 1471,
+          "contentSha256": "fcbd58d843b4419ea41e7600cbf769be020bbf54c5603350d349f41a6095cd63",
+          "sources": [
+            "https://www.navcen.uscg.gov/navigation-rules-amalgamated"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/marina-transient-slip-inquiry-call-intake"
+        },
+        {
+          "slug": "pest-control-exposure-call-escalation",
+          "path": "content/blog/pest-control-exposure-call-escalation.md",
+          "bodyWordCount": 1526,
+          "contentSha256": "4bd3dc8d6e754514e4c0aafd82e64ef1787beefc7bcb3286154a773176ab90ab",
+          "sources": [
+            "https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/pest-control-exposure-call-escalation"
+        }
+      ]
+    },
+    "research": {
+      "count": 5,
+      "minimumBodyWords": 1200,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "third-party-caller-authority-boundary-study",
+        "right": "outbound-callback-identity-before-disclosure-study",
+        "jaccard": 0.007516
+      },
+      "items": [
+        {
+          "slug": "relay-call-handling-parity-study",
+          "path": "content/research/relay-call-handling-parity-study.md",
+          "bodyWordCount": 1315,
+          "contentSha256": "886e7b6caf17792bf3e7f88e37160e9eb35a50c8be7d9f6fd46af7ed84126dff",
+          "sources": [
+            "https://www.ada.gov/resources/effective-communication/",
+            "https://www.w3.org/TR/WCAG22/",
+            "https://www.nist.gov/privacy-framework"
+          ],
+          "image": "/thumbnails/phone-intake-accessibility-testing.svg",
+          "route": "/research/relay-call-handling-parity-study"
+        },
+        {
+          "slug": "payment-card-detail-containment-study",
+          "path": "content/research/payment-card-detail-containment-study.md",
+          "bodyWordCount": 1387,
+          "contentSha256": "692fd8030d5dc827686191878adc20c134d328d53cf759d29dfda591e6c705d3",
+          "sources": [
+            "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+            "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+            "https://www.nist.gov/privacy-framework"
+          ],
+          "image": "/thumbnails/privacy-by-design-call-notes.svg",
+          "route": "/research/payment-card-detail-containment-study"
+        },
+        {
+          "slug": "third-party-caller-authority-boundary-study",
+          "path": "content/research/third-party-caller-authority-boundary-study.md",
+          "bodyWordCount": 1420,
+          "contentSha256": "8c0f3f328dbb61d4c0e72528b5ce0de87523c6c877232e2d6d2f0ecbc0bd7d7c",
+          "sources": [
+            "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines",
+            "https://www.nist.gov/privacy-framework",
+            "https://www.ada.gov/resources/effective-communication/"
+          ],
+          "image": "/thumbnails/virtual-assistant-call-identity-verification-study.svg",
+          "route": "/research/third-party-caller-authority-boundary-study"
+        },
+        {
+          "slug": "outbound-callback-identity-before-disclosure-study",
+          "path": "content/research/outbound-callback-identity-before-disclosure-study.md",
+          "bodyWordCount": 1403,
+          "contentSha256": "3ca5229a38dd2b25bee7201a00156b714f09a714cda9a2563791e2e6884598f4",
+          "sources": [
+            "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+            "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines",
+            "https://www.nist.gov/privacy-framework"
+          ],
+          "image": "/thumbnails/outbound-follow-up-consent-controls.svg",
+          "route": "/research/outbound-callback-identity-before-disclosure-study"
+        },
+        {
+          "slug": "call-script-exception-approval-provenance-study",
+          "path": "content/research/call-script-exception-approval-provenance-study.md",
+          "bodyWordCount": 1281,
+          "contentSha256": "3e74a0cde653222613a967ad0b081563f4a4a0a902b14fe777af6711e26585bd",
+          "sources": [
+            "https://www.nist.gov/cyberframework",
+            "https://doi.org/10.6028/NIST.SP.800-53r5",
+            "https://www.ftc.gov/business-guidance/resources/start-security-guide-business"
+          ],
+          "image": "/thumbnails/new-client-call-script-approval-process.svg",
+          "route": "/research/call-script-exception-approval-provenance-study"
+        }
+      ]
+    }
+  }
+}
