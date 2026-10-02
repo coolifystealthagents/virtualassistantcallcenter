@@ -15,9 +15,9 @@
       "count": 12,
       "minimumBodyWords": 900,
       "maximumPairwiseFiveWordShingleJaccard": {
-        "left": "commercial-laundry-equipment-service-call-intake",
+        "left": "commercial-door-access-control-service-call-intake",
         "right": "commercial-refrigeration-temperature-alarm-call-intake",
-        "jaccard": 0.462035
+        "jaccard": 0.455217
       },
       "items": [
         {
@@ -34,8 +34,8 @@
         {
           "slug": "commercial-laundry-equipment-service-call-intake",
           "path": "content/blog/commercial-laundry-equipment-service-call-intake.md",
-          "bodyWordCount": 1562,
-          "contentSha256": "3be9b39f489229495735191b60fc63aaaf5bdd2821d7c9b69a514c98f711a98f",
+          "bodyWordCount": 1343,
+          "contentSha256": "7708a0ba8941d271c84822be4ba73062fd3516fe4c9ca549bc5981b4ecde46a4",
           "sources": [
             "https://www.osha.gov/machine-guarding"
           ],
