@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Identity and safe intake research
 image: /thumbnails/caller-id-spoofing-intake-safeguard-study.svg
 imageAlt: Caller ID safeguard study separating a displayed phone number from verified identity and authorized routing
-related: /services/virtual-receptionist, /research/call-intake-identity-verification-boundaries, /contact
+related: /services/inbound-customer-calls, /research/call-intake-identity-verification-boundaries, /contact
 ---
 
 ## The decision behind the displayed number
@@ -101,7 +101,7 @@ Recordings and transcripts can contain sensitive information. Minimize copied da
 
 The workflow is ready when a displayed number improves routing without changing the evidence required for a protected action; matched-record details remain undisclosed until the appropriate boundary is met; assistants can explain and escalate uncertainty; callbacks use an independent approved source; and records distinguish display, claim, verification, authority, and outcome.
 
-For a buyer evaluating [virtual receptionist support](/services/virtual-receptionist), this creates a practical question set. Ask which actions caller ID may accelerate, which it may never authorize, how the interface labels matches, what happens when signals conflict, and how the provider tests both disclosure risk and caller friction. The aim is not to distrust every call. It is to use each signal for the limited purpose it can actually support.
+For a buyer evaluating [virtual receptionist support](/services/inbound-customer-calls), this creates a practical question set. Ask which actions caller ID may accelerate, which it may never authorize, how the interface labels matches, what happens when signals conflict, and how the provider tests both disclosure risk and caller friction. The aim is not to distrust every call. It is to use each signal for the limited purpose it can actually support.
 
 ## Sources
 

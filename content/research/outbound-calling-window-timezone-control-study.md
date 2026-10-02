@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Outbound timing controls research
 image: /thumbnails/outbound-calling-window-timezone-control-study.svg
 imageAlt: Outbound calling-window study resolving conflicting phone address and timezone signals before a call enters the eligible queue
-related: /services/outbound-calling, /research/scheduled-callback-timezone-interpretation-research, /contact
+related: /services/outbound-lead-qualification, /research/scheduled-callback-timezone-interpretation-research, /contact
 ---
 
 ## The same clock is not local to every recipient
@@ -111,7 +111,7 @@ Synthetic cases test logic but not every production race condition. Log timestam
 
 The control is ready when every campaign has an approved local-time basis; source provenance and freshness are visible; conflicts follow a documented hierarchy; timezone identifiers replace bare offsets; daylight-saving edges are tested; queues recheck eligibility at execution; manual calls and retries use the same gate; overrides are bounded; and failures can be reproduced from raw source through dial event.
 
-For a business reviewing [outbound calling support](/services/outbound-calling), ask which location controls each campaign, how conflicting signals are resolved, whether queued calls are rechecked, how daylight-saving transitions are tested, and what manual callers see. The answer should describe an evidence path, not simply “the dialer handles timezones.”
+For a business reviewing [outbound calling support](/services/outbound-lead-qualification), ask which location controls each campaign, how conflicting signals are resolved, whether queued calls are rechecked, how daylight-saving transitions are tested, and what manual callers see. The answer should describe an evidence path, not simply “the dialer handles timezones.”
 
 ## Sources
 

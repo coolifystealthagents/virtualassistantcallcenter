@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Outbound consent controls research
 image: /thumbnails/do-not-call-request-suppression-latency-study.svg
 imageAlt: Do-not-call request moving from a caller conversation through suppression controls across multiple outbound queues
-related: /services/outbound-calling, /research/outbound-follow-up-consent-controls, /contact
+related: /services/outbound-lead-qualification, /research/outbound-follow-up-consent-controls, /contact
 ---
 
 ## The risk lives between acknowledgment and enforcement
@@ -114,7 +114,7 @@ Synthetic tests do not reproduce every production integration, and retrospective
 
 An outbound process is ready for approval when every call origin is known, each eligible request receives an authoritative timestamp and seller scope, equivalent number formats are handled, queued and manual calls recheck eligibility, downstream rejection has an owner, reimports cannot silently erase suppression, and monitoring reports the slowest path rather than only the first database update.
 
-For a business evaluating [outbound calling support](/services/outbound-calling), ask to see the propagation map and evidence model. Who receives the request? Which system is authoritative? How are vendors and existing queues updated? What happens to duplicates and old exports? How is a late attempt investigated? Those questions turn a polite acknowledgment into a control that can be observed from conversation through enforcement.
+For a business evaluating [outbound calling support](/services/outbound-lead-qualification), ask to see the propagation map and evidence model. Who receives the request? Which system is authoritative? How are vendors and existing queues updated? What happens to duplicates and old exports? How is a late attempt investigated? Those questions turn a polite acknowledgment into a control that can be observed from conversation through enforcement.
 
 ## Sources
 

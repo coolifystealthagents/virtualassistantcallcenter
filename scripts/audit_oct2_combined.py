@@ -20,6 +20,13 @@ errors = []
 evidence = {}
 blog_paragraph_owners = {}
 blog_heading_sequences = {}
+service_slugs = set(re.findall(r'"slug":\s*"([^"]+)"', (ROOT / "app/fleet-content.ts").read_text()))
+expected_service_destinations = {
+    "caller-id-spoofing-intake-safeguard-study": "/services/inbound-customer-calls",
+    "do-not-call-request-suppression-latency-study": "/services/outbound-lead-qualification",
+    "outbound-calling-window-timezone-control-study": "/services/outbound-lead-qualification",
+    "voicemail-greeting-version-drift-study": "/services/after-hours-answering",
+}
 
 for family, rows in families.items():
     if len(rows) != expected[family]:
@@ -55,10 +62,16 @@ for family, rows in families.items():
         for source in row["sources"]:
             if source not in raw:
                 errors.append(f"{row['slug']}: source absent from article: {source}")
-        for link in re.findall(r"\]\((/[^)#?]+)", body):
+        internal_links = re.findall(r"\]\((/[^)#?]+)", body)
+        for link in internal_links:
             top = link.strip("/").split("/", 1)[0]
             if top not in {"blog", "research", "services", "workflows", "qa-scorecard", "contact"}:
                 errors.append(f"{row['slug']}: unsupported internal link {link}")
+            if top == "services" and link.split("/", 2)[-1] not in service_slugs:
+                errors.append(f"{row['slug']}: nonexistent service destination {link}")
+        expected_service = expected_service_destinations.get(row["slug"])
+        if expected_service and expected_service not in internal_links:
+            errors.append(f"{row['slug']}: expected contextual service destination {expected_service}")
         output.append({"slug": row["slug"], "path": row["path"], "bodyWordCount": len(words), "contentSha256": digest, "sources": row["sources"], "image": image.group(1) if image else None, "route": f"/{family}/{row['slug']}"})
     pairs = []
     for left, right in itertools.combinations(shingles, 2):

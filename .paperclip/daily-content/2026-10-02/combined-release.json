@@ -158,14 +158,14 @@
       "maximumPairwiseFiveWordShingleJaccard": {
         "left": "do-not-call-request-suppression-latency-study",
         "right": "outbound-calling-window-timezone-control-study",
-        "jaccard": 0.000848
+        "jaccard": 0.001131
       },
       "items": [
         {
           "slug": "caller-id-spoofing-intake-safeguard-study",
           "path": "content/research/caller-id-spoofing-intake-safeguard-study.md",
-          "bodyWordCount": 1841,
-          "contentSha256": "e1f89c3b22311e03ddd6104196ac5b660afccf781bb579cd1d520527936145e3",
+          "bodyWordCount": 1842,
+          "contentSha256": "f213dc58581cae8c8809e2d5ac9fe3e15e3bfea9108dc3c393dbeb314ba4e3d9",
           "sources": [
             "https://www.fcc.gov/call-authentication",
             "https://www.fcc.gov/spoofing",
@@ -178,8 +178,8 @@
         {
           "slug": "do-not-call-request-suppression-latency-study",
           "path": "content/research/do-not-call-request-suppression-latency-study.md",
-          "bodyWordCount": 1850,
-          "contentSha256": "38982b8fd3639bd4ae543b898de473119719e0bf23b5cfa6faf33b2ff88ab64c",
+          "bodyWordCount": 1851,
+          "contentSha256": "1941f6196a1155398297a1fd6846cc310f2a1eceea4c973a0184ce8fbc4c8ade",
           "sources": [
             "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
             "https://www.ftc.gov/legal-library/browse/rules/telemarketing-sales-rule",
@@ -206,8 +206,8 @@
         {
           "slug": "outbound-calling-window-timezone-control-study",
           "path": "content/research/outbound-calling-window-timezone-control-study.md",
-          "bodyWordCount": 1699,
-          "contentSha256": "836589ba76dfd905ac32a1de6aa7445da90f29220052fdd61b3cf3d2c6ab56cf",
+          "bodyWordCount": 1700,
+          "contentSha256": "5c8f7b158c2be73ded88eebec6ed03be1a1b1d36ec8f4005c2fe4bde834af66b",
           "sources": [
             "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
             "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
@@ -220,8 +220,8 @@
         {
           "slug": "voicemail-greeting-version-drift-study",
           "path": "content/research/voicemail-greeting-version-drift-study.md",
-          "bodyWordCount": 1795,
-          "contentSha256": "d8f1cbe0f4c9cfb2ebdfe767ec84ac7c26dd441d0ef4c48f655b2d5552dee02e",
+          "bodyWordCount": 1794,
+          "contentSha256": "c957fb5344378beae92ea471b55d0444df181e94cc4f1b1d18f00669e406e10b",
           "sources": [
             "https://doi.org/10.6028/NIST.CSWP.29",
             "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20",

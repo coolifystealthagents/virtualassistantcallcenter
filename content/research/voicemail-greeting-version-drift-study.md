@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: After-hours continuity research
 image: /thumbnails/voicemail-greeting-version-drift-study.svg
 imageAlt: Voicemail greeting version study comparing approved wording schedule states active audio and actual callback workflow
-related: /services/after-hours-call-answering, /research/holiday-hours-routing-source-freshness-study, /contact
+related: /services/after-hours-answering, /research/holiday-hours-routing-source-freshness-study, /contact
 ---
 
 ## The recording may outlive the process it describes
@@ -119,7 +119,7 @@ Callback samples may be too small to estimate reliable service levels, and staff
 
 The greeting estate is ready when every known entry path and schedule branch has an owner; active audio is observed externally; each variable claim has a current source; promises match the receiving workflow; timezone and holiday boundaries are tested; temporary and multilingual versions expire correctly; urgent routes reach their approved destinations; and corrections are retested from the caller's perspective.
 
-For a business evaluating [after-hours call answering](/services/after-hours-call-answering), ask for more than a sample script. Ask how all live greetings are inventoried, which source controls hours, how temporary recordings retire, who validates callback promises, and how the actual caller path is retested. The most polished recording is useful only when it describes the service that will happen next.
+For a business evaluating [after-hours call answering](/services/after-hours-answering), ask for more than a sample script. Ask how all live greetings are inventoried, which source controls hours, how temporary recordings retire, who validates callback promises, and how the actual caller path is retested. The most polished recording is useful only when it describes the service that will happen next.
 
 ## Sources
 
