@@ -4,7 +4,7 @@
   "cycleLabel": "2026-10-02 combined release",
   "status": "direct-drafting-in-progress",
   "requiredCount": 5,
-  "stagedCount": 3,
+  "stagedCount": 4,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "productionBranch": "main",
   "researchBranch": "vira-70-daily-research-20261002",
@@ -48,6 +48,15 @@
       "imagePath": "public/thumbnails/ai-call-summary-source-fidelity-study.svg",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "all four NIST sources returned HTTP 200",
+      "publicationStatus": "candidate only; not pushed or public"
+    },
+    {
+      "slug": "outbound-calling-window-timezone-control-study",
+      "bodyWordCount": 1655,
+      "contentPath": "content/research/outbound-calling-window-timezone-control-study.md",
+      "imagePath": "public/thumbnails/outbound-calling-window-timezone-control-study.svg",
+      "focusedContentValidation": "passed with zero errors",
+      "sourceReachability": "IANA source HTTP 200; FTC and FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
       "publicationStatus": "candidate only; not pushed or public"
     }
   ],
