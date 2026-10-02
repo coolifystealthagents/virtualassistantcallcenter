@@ -1,0 +1,79 @@
+{
+  "issue": "VIRA-70",
+  "runId": "0affce37-b357-4616-a240-60dc00109538",
+  "cycleLabel": "2026-10-02 combined release",
+  "status": "topic-and-source-research-complete",
+  "requiredCount": 5,
+  "stagedCount": 0,
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "researchBranch": "vira-70-daily-research-20261002",
+  "worktree": "/paperclip/instances/default/projects/bd046bb4-562b-437b-a789-170ecfb3c57d/5fee718e-6cbb-42c9-ae67-639fb487f652/_default/_worktrees/vira-70",
+  "baseSha": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
+  "siteTimezone": "not declared in repository; Blog integrator must confirm before release",
+  "generator": {
+    "provider": "Gemini CLI",
+    "result": "failed",
+    "evidence": "HTTP 400 API_KEY_INVALID on 2026-10-02; direct drafting fallback required"
+  },
+  "inventoryAudit": {
+    "existingResearchCount": 156,
+    "october2ExistingResearchWork": 0,
+    "slugCollisionCount": 0,
+    "priorCycleReuseCount": 0
+  },
+  "reservedItems": [
+    {
+      "slug": "caller-id-spoofing-intake-safeguard-study",
+      "topic": "Treating caller ID as a routing hint rather than identity proof in virtual call intake",
+      "pillar": "identity verification and safe intake",
+      "primarySources": [
+        {"title": "Caller ID Authentication", "publisher": "Federal Communications Commission", "url": "https://www.fcc.gov/call-authentication", "checkedDate": "2026-10-02"},
+        {"title": "Digital Identity Guidelines", "publisher": "National Institute of Standards and Technology", "url": "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines", "checkedDate": "2026-10-02"}
+      ]
+    },
+    {
+      "slug": "do-not-call-request-suppression-latency-study",
+      "topic": "Testing propagation of entity-specific do-not-call requests across outbound queues",
+      "pillar": "outbound follow-up consent controls",
+      "primarySources": [
+        {"title": "Complying with the Telemarketing Sales Rule", "publisher": "Federal Trade Commission", "url": "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule", "checkedDate": "2026-10-02"},
+        {"title": "Telemarketing Sales Rule", "publisher": "Federal Trade Commission", "url": "https://www.ftc.gov/legal-library/browse/rules/telemarketing-sales-rule", "checkedDate": "2026-10-02"}
+      ]
+    },
+    {
+      "slug": "ai-call-summary-source-fidelity-study",
+      "topic": "Evaluating AI-generated call summaries against authorized source records",
+      "pillar": "call notes and evidence quality",
+      "primarySources": [
+        {"title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile", "publisher": "National Institute of Standards and Technology", "url": "https://doi.org/10.6028/NIST.AI.600-1", "checkedDate": "2026-10-02"},
+        {"title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)", "publisher": "National Institute of Standards and Technology", "url": "https://doi.org/10.6028/NIST.AI.100-1", "checkedDate": "2026-10-02"}
+      ]
+    },
+    {
+      "slug": "outbound-calling-window-timezone-control-study",
+      "topic": "Preventing outbound follow-up outside applicable local calling windows when location signals disagree",
+      "pillar": "outbound follow-up governance",
+      "primarySources": [
+        {"title": "Complying with the Telemarketing Sales Rule", "publisher": "Federal Trade Commission", "url": "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule", "checkedDate": "2026-10-02"},
+        {"title": "Telemarketing", "publisher": "Federal Trade Commission", "url": "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing", "checkedDate": "2026-10-02"}
+      ]
+    },
+    {
+      "slug": "voicemail-greeting-version-drift-study",
+      "topic": "Measuring stale closed-hours and overflow greetings that create false callback expectations",
+      "pillar": "after-hours coverage and knowledge freshness",
+      "primarySources": [
+        {"title": "Cybersecurity Framework 2.0", "publisher": "National Institute of Standards and Technology", "url": "https://doi.org/10.6028/NIST.CSWP.29", "checkedDate": "2026-10-02"},
+        {"title": "Standards for Internal Control in the Federal Government", "publisher": "U.S. Government Accountability Office", "url": "https://www.gao.gov/products/gao-14-704g", "checkedDate": "2026-10-02"}
+      ]
+    }
+  ],
+  "remaining": [
+    "Draft five independent articles with at least 1,200 substantive body words each",
+    "Create and render-check five unique SVG thumbnails",
+    "Run source, internal-link, metadata, canonical, originality, repeated-paragraph, and shared-argument audits",
+    "Run dependency check, typecheck, tests, and clean production build",
+    "Replace this run-state file with the final Research handoff manifest, commit locally, and notify VIRA-71"
+  ]
+}
