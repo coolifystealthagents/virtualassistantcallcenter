@@ -15,9 +15,9 @@
       "count": 12,
       "minimumBodyWords": 900,
       "maximumPairwiseFiveWordShingleJaccard": {
-        "left": "medical-waste-pickup-call-intake",
-        "right": "portable-restroom-service-call-intake",
-        "jaccard": 0.43151
+        "left": "portable-restroom-service-call-intake",
+        "right": "property-survey-scheduling-call-intake",
+        "jaccard": 0.427146
       },
       "items": [
         {
@@ -111,8 +111,8 @@
         {
           "slug": "medical-waste-pickup-call-intake",
           "path": "content/blog/medical-waste-pickup-call-intake.md",
-          "bodyWordCount": 1525,
-          "contentSha256": "e8a8c55c8016d9557b969954a1094c7b93e70f36d51801081accb3c8fbb292c0",
+          "bodyWordCount": 1133,
+          "contentSha256": "89d805f126eb685165d53a72f57213ce484628bb5d2a9072295a1b0e16da3b4c",
           "sources": [
             "https://www.epa.gov/rcra/medical-waste"
           ],
