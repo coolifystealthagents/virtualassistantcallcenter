@@ -2,9 +2,9 @@
   "issue": "VIRA-70",
   "runId": "0affce37-b357-4616-a240-60dc00109538",
   "cycleLabel": "2026-10-02 combined release",
-  "status": "direct-drafting-in-progress",
+  "status": "five-drafts-complete-full-gates-pending",
   "requiredCount": 5,
-  "stagedCount": 4,
+  "stagedCount": 5,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "productionBranch": "main",
   "researchBranch": "vira-70-daily-research-20261002",
@@ -57,6 +57,15 @@
       "imagePath": "public/thumbnails/outbound-calling-window-timezone-control-study.svg",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "IANA source HTTP 200; FTC and FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
+      "publicationStatus": "candidate only; not pushed or public"
+    },
+    {
+      "slug": "voicemail-greeting-version-drift-study",
+      "bodyWordCount": 1758,
+      "contentPath": "content/research/voicemail-greeting-version-drift-study.md",
+      "imagePath": "public/thumbnails/voicemail-greeting-version-drift-study.svg",
+      "focusedContentValidation": "passed with zero errors",
+      "sourceReachability": "NIST and DOJ sources HTTP 200; GAO source returned bot-policy HTTP 403 and remains an authoritative public URL",
       "publicationStatus": "candidate only; not pushed or public"
     }
   ],
