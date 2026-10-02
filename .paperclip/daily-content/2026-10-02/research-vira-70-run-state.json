@@ -4,7 +4,7 @@
   "cycleLabel": "2026-10-02 combined release",
   "status": "direct-drafting-in-progress",
   "requiredCount": 5,
-  "stagedCount": 1,
+  "stagedCount": 2,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "productionBranch": "main",
   "researchBranch": "vira-70-daily-research-20261002",
@@ -30,6 +30,15 @@
       "imagePath": "public/thumbnails/caller-id-spoofing-intake-safeguard-study.svg",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "NIST sources HTTP 200; FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
+      "publicationStatus": "candidate only; not pushed or public"
+    },
+    {
+      "slug": "do-not-call-request-suppression-latency-study",
+      "bodyWordCount": 1822,
+      "contentPath": "content/research/do-not-call-request-suppression-latency-study.md",
+      "imagePath": "public/thumbnails/do-not-call-request-suppression-latency-study.svg",
+      "focusedContentValidation": "passed with zero errors",
+      "sourceReachability": "National Do Not Call Registry HTTP 200; FTC guidance URLs returned bot-policy HTTP 403 and remain authoritative public URLs",
       "publicationStatus": "candidate only; not pushed or public"
     }
   ],
