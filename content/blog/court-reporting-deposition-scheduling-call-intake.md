@@ -1,6 +1,6 @@
 ---
 slug: court-reporting-deposition-scheduling-call-intake
-title: "Deposition scheduling calls: capture constraints without interpreting the notice"
+title: Deposition scheduling calls: capture constraints without interpreting the notice
 description: A practical intake workflow for court reporting firms that keeps scheduling useful without turning reception into legal review.
 published: 2026-10-02
 updated: 2026-10-02

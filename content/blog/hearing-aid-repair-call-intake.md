@@ -1,6 +1,6 @@
 ---
 slug: hearing-aid-repair-call-intake
-title: "Hearing-aid repair calls: separate device logistics from clinical questions"
+title: Hearing-aid repair calls: separate device logistics from clinical questions
 description: A phone intake guide for lost, damaged, intermittent, or nonworking hearing aids without crossing into clinical advice.
 published: 2026-10-02
 updated: 2026-10-02

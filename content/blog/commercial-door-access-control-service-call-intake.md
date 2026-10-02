@@ -1,6 +1,6 @@
 ---
 slug: commercial-door-access-control-service-call-intake
-title: "Access-control service calls: restore routing without exposing security details"
+title: Access-control service calls: restore routing without exposing security details
 description: A verification-first phone workflow for failed readers, locked entrances, door hardware, credentials, and access-control service.
 published: 2026-10-02
 updated: 2026-10-02

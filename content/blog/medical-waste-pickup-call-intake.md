@@ -1,6 +1,6 @@
 ---
 slug: medical-waste-pickup-call-intake
-title: "Medical-waste pickup calls: record container and incident facts without handling advice"
+title: Medical-waste pickup calls: record container and incident facts without handling advice
 description: A practical phone workflow for routine pickups, missed service, damaged containers, and reported medical-waste incidents.
 published: 2026-10-02
 updated: 2026-10-02

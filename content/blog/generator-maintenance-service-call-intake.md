@@ -1,6 +1,6 @@
 ---
 slug: generator-maintenance-service-call-intake
-title: "Standby generator calls: route test failures and outages without remote troubleshooting"
+title: Standby generator calls: route test failures and outages without remote troubleshooting
 description: A call intake workflow for generator alarms, failed exercises, unexpected operation, and outage response.
 published: 2026-10-02
 updated: 2026-10-02

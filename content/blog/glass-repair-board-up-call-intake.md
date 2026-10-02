@@ -1,6 +1,6 @@
 ---
 slug: glass-repair-board-up-call-intake
-title: "Emergency glass and board-up calls: capture exposure, occupancy, and access facts"
+title: Emergency glass and board-up calls: capture exposure, occupancy, and access facts
 description: A practical phone workflow for broken storefronts, damaged door glass, unsecured openings, and after-hours board-up requests.
 published: 2026-10-02
 updated: 2026-10-02

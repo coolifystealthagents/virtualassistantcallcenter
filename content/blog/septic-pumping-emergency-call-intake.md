@@ -1,6 +1,6 @@
 ---
 slug: septic-pumping-emergency-call-intake
-title: "Septic emergency calls: distinguish backup hazards from routine pumping requests"
+title: Septic emergency calls: distinguish backup hazards from routine pumping requests
 description: A practical intake guide for septic companies handling backups, alarms, surfacing wastewater, and routine pumping calls.
 published: 2026-10-02
 updated: 2026-10-02

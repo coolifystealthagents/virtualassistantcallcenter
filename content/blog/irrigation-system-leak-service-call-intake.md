@@ -1,6 +1,6 @@
 ---
 slug: irrigation-system-leak-service-call-intake
-title: "Irrigation leak calls: collect zone and property facts without unsafe shutoff advice"
+title: Irrigation leak calls: collect zone and property facts without unsafe shutoff advice
 description: A practical intake workflow for continuous watering, pooling, broken heads, low pressure, and suspected irrigation leaks.
 published: 2026-10-02
 updated: 2026-10-02

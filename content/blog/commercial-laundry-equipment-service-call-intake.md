@@ -1,6 +1,6 @@
 ---
 slug: commercial-laundry-equipment-service-call-intake
-title: "Commercial laundry service calls: identify downtime and machine risk before dispatch"
+title: Commercial laundry service calls: identify downtime and machine risk before dispatch
 description: A field-ready phone intake guide for commercial laundry breakdowns, from asset identification through technician acknowledgment.
 published: 2026-10-02
 updated: 2026-10-02
