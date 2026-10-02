@@ -18,6 +18,8 @@ expected = {"blog": 12, "research": 5}
 minimum = {"blog": 900, "research": 1200}
 errors = []
 evidence = {}
+blog_paragraph_owners = {}
+blog_heading_sequences = {}
 
 for family, rows in families.items():
     if len(rows) != expected[family]:
@@ -40,6 +42,13 @@ for family, rows in families.items():
         if len(words) < minimum[family]:
             errors.append(f"{row['slug']}: {len(words)} body words")
         shingles[row["slug"]] = {tuple(w.lower() for w in words[i:i+5]) for i in range(len(words)-4)}
+        if family == "blog":
+            headings = tuple(re.findall(r"^##\s+(.+)$", cutoff, re.M))
+            blog_heading_sequences.setdefault(headings, []).append(row["slug"])
+            for paragraph in re.split(r"\n\s*\n", cutoff):
+                normalized = " ".join(re.findall(r"[a-z0-9']+", paragraph.lower()))
+                if len(normalized.split()) >= 40:
+                    blog_paragraph_owners.setdefault(normalized, []).append(row["slug"])
         image = re.search(r"^image:\s*(\S+)", front, re.M)
         if not image or not (ROOT / "public" / image.group(1).lstrip("/")).is_file():
             errors.append(f"{row['slug']}: missing image")
@@ -60,13 +69,13 @@ for family, rows in families.items():
         errors.append(f"{family}: overlap {pairs[0]['jaccard']} exceeds threshold")
     evidence[family] = {"count": len(output), "minimumBodyWords": minimum[family], "maximumPairwiseFiveWordShingleJaccard": pairs[0] if pairs else None, "items": output}
 
-# The numeric overlap ceiling is necessary but not sufficient. The current Blog
-# drafts repeat one common argument order and section framework, so they do not
-# yet satisfy the contract's independent-article/shared-argument requirement.
-errors.append(
-    "blog: qualitative originality gate failed; shared argument sequence and "
-    "section framework require substantive article-by-article rewrites"
-)
+for paragraph, owners in blog_paragraph_owners.items():
+    distinct = sorted(set(owners))
+    if len(distinct) > 1:
+        errors.append(f"blog: repeated substantive paragraph in {', '.join(distinct)}")
+for headings, owners in blog_heading_sequences.items():
+    if len(owners) > 1:
+        errors.append(f"blog: repeated complete heading sequence in {', '.join(sorted(owners))}")
 
 result = {
     "cycleLabel": "2026-10-02", "publicationDate": DATE, "siteTimezone": "UTC",

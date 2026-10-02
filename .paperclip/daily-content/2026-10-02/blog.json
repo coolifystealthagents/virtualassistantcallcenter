@@ -8,9 +8,9 @@
     "minimumBodyWords": 900,
     "fiveWordShingleThreshold": 0.5,
     "maximumPairwiseOverlap": {
-      "left": "commercial-laundry-equipment-service-call-intake",
-      "right": "commercial-refrigeration-temperature-alarm-call-intake",
-      "jaccard": 0.462035
+      "left": "septic-pumping-emergency-call-intake",
+      "right": "irrigation-system-leak-service-call-intake",
+      "jaccard": 0.007398
     }
   },
   "entries": [
@@ -100,8 +100,8 @@
       "sourcePath": "content/blog/portable-restroom-service-call-intake.md",
       "route": "/blog/portable-restroom-service-call-intake",
       "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51",
-      "bodyWordCount": 1576,
-      "contentSha256": "63232e0d159c3e68823d3e80adb21c15d2756216965fad2dd52049e935504142",
+      "bodyWordCount": 1386,
+      "contentSha256": "af6cf1558f6866b2c6a6d8cd5ad7fe2159e466d9779c316ae7591be5c08599d5",
       "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
@@ -109,8 +109,8 @@
       "sourcePath": "content/blog/property-survey-scheduling-call-intake.md",
       "route": "/blog/property-survey-scheduling-call-intake",
       "source": "https://www.blm.gov/programs/lands-and-realty/cadastral-survey",
-      "bodyWordCount": 1616,
-      "contentSha256": "46844e94e2dcebd2bc31469cea96408dd8443307f759f172f756b682b90bd53c",
+      "bodyWordCount": 1197,
+      "contentSha256": "03136a7311a75e866f0e80bd7918fb7f0bb51a423b6b1875c306d083753c1298",
       "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     },
     {
@@ -118,8 +118,8 @@
       "sourcePath": "content/blog/commercial-refrigeration-temperature-alarm-call-intake.md",
       "route": "/blog/commercial-refrigeration-temperature-alarm-call-intake",
       "source": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
-      "bodyWordCount": 1610,
-      "contentSha256": "3c592d369b38bae7e6b6745709d54b0b6c9cf3f83193b78ed83d65e09d80afef",
+      "bodyWordCount": 1300,
+      "contentSha256": "521adf7989a193c694865eb27eb15c57550ca2cdf9d52e41455dfd19b241d804",
       "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
     }
   ]

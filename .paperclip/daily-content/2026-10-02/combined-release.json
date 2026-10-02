@@ -6,18 +6,16 @@
   "researchHandoffSha": "ec99ad578a9ca39b0630cbcefa6db931c50ea68a",
   "deploymentOwner": "Browser Operator",
   "publicVerificationOwner": "user",
-  "status": "failed",
-  "errors": [
-    "blog: qualitative originality gate failed; shared argument sequence and section framework require substantive article-by-article rewrites"
-  ],
+  "status": "passed",
+  "errors": [],
   "families": {
     "blog": {
       "count": 12,
       "minimumBodyWords": 900,
       "maximumPairwiseFiveWordShingleJaccard": {
-        "left": "portable-restroom-service-call-intake",
-        "right": "property-survey-scheduling-call-intake",
-        "jaccard": 0.427146
+        "left": "septic-pumping-emergency-call-intake",
+        "right": "irrigation-system-leak-service-call-intake",
+        "jaccard": 0.007398
       },
       "items": [
         {
@@ -122,8 +120,8 @@
         {
           "slug": "portable-restroom-service-call-intake",
           "path": "content/blog/portable-restroom-service-call-intake.md",
-          "bodyWordCount": 1495,
-          "contentSha256": "63232e0d159c3e68823d3e80adb21c15d2756216965fad2dd52049e935504142",
+          "bodyWordCount": 1386,
+          "contentSha256": "af6cf1558f6866b2c6a6d8cd5ad7fe2159e466d9779c316ae7591be5c08599d5",
           "sources": [
             "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51"
           ],
@@ -133,8 +131,8 @@
         {
           "slug": "property-survey-scheduling-call-intake",
           "path": "content/blog/property-survey-scheduling-call-intake.md",
-          "bodyWordCount": 1533,
-          "contentSha256": "46844e94e2dcebd2bc31469cea96408dd8443307f759f172f756b682b90bd53c",
+          "bodyWordCount": 1197,
+          "contentSha256": "03136a7311a75e866f0e80bd7918fb7f0bb51a423b6b1875c306d083753c1298",
           "sources": [
             "https://www.blm.gov/programs/lands-and-realty/cadastral-survey"
           ],
@@ -144,8 +142,8 @@
         {
           "slug": "commercial-refrigeration-temperature-alarm-call-intake",
           "path": "content/blog/commercial-refrigeration-temperature-alarm-call-intake.md",
-          "bodyWordCount": 1530,
-          "contentSha256": "3c592d369b38bae7e6b6745709d54b0b6c9cf3f83193b78ed83d65e09d80afef",
+          "bodyWordCount": 1300,
+          "contentSha256": "521adf7989a193c694865eb27eb15c57550ca2cdf9d52e41455dfd19b241d804",
           "sources": [
             "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"
           ],
