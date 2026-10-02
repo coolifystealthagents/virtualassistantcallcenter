@@ -2,9 +2,9 @@
   "issue": "VIRA-70",
   "runId": "0affce37-b357-4616-a240-60dc00109538",
   "cycleLabel": "2026-10-02 combined release",
-  "status": "topic-and-source-research-complete",
+  "status": "direct-drafting-in-progress",
   "requiredCount": 5,
-  "stagedCount": 0,
+  "stagedCount": 1,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
   "productionBranch": "main",
   "researchBranch": "vira-70-daily-research-20261002",
@@ -22,6 +22,17 @@
     "slugCollisionCount": 0,
     "priorCycleReuseCount": 0
   },
+  "draftedItems": [
+    {
+      "slug": "caller-id-spoofing-intake-safeguard-study",
+      "bodyWordCount": 1820,
+      "contentPath": "content/research/caller-id-spoofing-intake-safeguard-study.md",
+      "imagePath": "public/thumbnails/caller-id-spoofing-intake-safeguard-study.svg",
+      "focusedContentValidation": "passed with zero errors",
+      "sourceReachability": "NIST sources HTTP 200; FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
+      "publicationStatus": "candidate only; not pushed or public"
+    }
+  ],
   "reservedItems": [
     {
       "slug": "caller-id-spoofing-intake-safeguard-study",
