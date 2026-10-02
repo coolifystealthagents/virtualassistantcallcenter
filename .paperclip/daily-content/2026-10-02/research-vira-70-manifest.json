@@ -2,7 +2,7 @@
   "issue": "VIRA-70",
   "runId": "0affce37-b357-4616-a240-60dc00109538",
   "cycleLabel": "2026-10-02 combined release",
-  "status": "five-drafts-complete-full-gates-pending",
+  "status": "local-handoff-complete",
   "requiredCount": 5,
   "stagedCount": 5,
   "repository": "coolifystealthagents/virtualassistantcallcenter",
@@ -10,6 +10,8 @@
   "researchBranch": "vira-70-daily-research-20261002",
   "worktree": "/paperclip/instances/default/projects/bd046bb4-562b-437b-a789-170ecfb3c57d/5fee718e-6cbb-42c9-ae67-639fb487f652/_default/_worktrees/vira-70",
   "baseSha": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
+  "contentCommitSha": "269598088a38a81d45178facab2a78b064202ff8",
+  "remoteMainShaAtFinalValidation": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
   "siteTimezone": "not declared in repository; Blog integrator must confirm before release",
   "generator": {
     "provider": "Gemini CLI",
@@ -22,12 +24,32 @@
     "slugCollisionCount": 0,
     "priorCycleReuseCount": 0
   },
+  "validation": {
+    "dependencyInstall": "npm ci --include=dev --ignore-scripts passed; npm audit reported 3 high and 1 critical vulnerability in the inherited dependency tree",
+    "contentValidation": "passed with zero errors",
+    "typecheck": "npm run lint passed",
+    "focusedTests": "2 passed: research canonical and content thumbnail references",
+    "productionBuild": "passed; Next.js generated 729 static pages including all five new Research routes",
+    "bodyWordCounts": {
+      "caller-id-spoofing-intake-safeguard-study": 1820,
+      "do-not-call-request-suppression-latency-study": 1822,
+      "ai-call-summary-source-fidelity-study": 1824,
+      "outbound-calling-window-timezone-control-study": 1655,
+      "voicemail-greeting-version-drift-study": 1758
+    },
+    "maxPairwiseFiveWordShingleJaccard": 0.001081,
+    "maxExistingInventoryFiveWordShingleJaccard": 0.002389,
+    "repeatedParagraphCount": 0,
+    "sharedArgumentAudit": "passed; five distinct research designs cover identity scenarios, suppression propagation, claim-level AI fidelity, timezone conflict eligibility, and voicemail route observation"
+  },
   "draftedItems": [
     {
       "slug": "caller-id-spoofing-intake-safeguard-study",
       "bodyWordCount": 1820,
       "contentPath": "content/research/caller-id-spoofing-intake-safeguard-study.md",
       "imagePath": "public/thumbnails/caller-id-spoofing-intake-safeguard-study.svg",
+      "contentSha256": "e1f89c3b22311e03ddd6104196ac5b660afccf781bb579cd1d520527936145e3",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/caller-id-spoofing-intake-safeguard-study",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "NIST sources HTTP 200; FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
       "publicationStatus": "candidate only; not pushed or public"
@@ -37,6 +59,8 @@
       "bodyWordCount": 1822,
       "contentPath": "content/research/do-not-call-request-suppression-latency-study.md",
       "imagePath": "public/thumbnails/do-not-call-request-suppression-latency-study.svg",
+      "contentSha256": "38982b8fd3639bd4ae543b898de473119719e0bf23b5cfa6faf33b2ff88ab64c",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/do-not-call-request-suppression-latency-study",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "National Do Not Call Registry HTTP 200; FTC guidance URLs returned bot-policy HTTP 403 and remain authoritative public URLs",
       "publicationStatus": "candidate only; not pushed or public"
@@ -46,6 +70,8 @@
       "bodyWordCount": 1824,
       "contentPath": "content/research/ai-call-summary-source-fidelity-study.md",
       "imagePath": "public/thumbnails/ai-call-summary-source-fidelity-study.svg",
+      "contentSha256": "eb2efd14360ff085c576250ca6f84274dcca3b5615a7474a01e82bb42173136f",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/ai-call-summary-source-fidelity-study",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "all four NIST sources returned HTTP 200",
       "publicationStatus": "candidate only; not pushed or public"
@@ -55,6 +81,8 @@
       "bodyWordCount": 1655,
       "contentPath": "content/research/outbound-calling-window-timezone-control-study.md",
       "imagePath": "public/thumbnails/outbound-calling-window-timezone-control-study.svg",
+      "contentSha256": "836589ba76dfd905ac32a1de6aa7445da90f29220052fdd61b3cf3d2c6ab56cf",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/outbound-calling-window-timezone-control-study",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "IANA source HTTP 200; FTC and FCC sources returned bot-policy HTTP 403 and remain authoritative public URLs",
       "publicationStatus": "candidate only; not pushed or public"
@@ -64,6 +92,8 @@
       "bodyWordCount": 1758,
       "contentPath": "content/research/voicemail-greeting-version-drift-study.md",
       "imagePath": "public/thumbnails/voicemail-greeting-version-drift-study.svg",
+      "contentSha256": "d8f1cbe0f4c9cfb2ebdfe767ec84ac7c26dd441d0ef4c48f655b2d5552dee02e",
+      "liveUrl": "https://virtualassistantcallcenter.com/research/voicemail-greeting-version-drift-study",
       "focusedContentValidation": "passed with zero errors",
       "sourceReachability": "NIST and DOJ sources HTTP 200; GAO source returned bot-policy HTTP 403 and remains an authoritative public URL",
       "publicationStatus": "candidate only; not pushed or public"
@@ -116,11 +146,12 @@
       ]
     }
   ],
-  "remaining": [
-    "Draft five independent articles with at least 1,200 substantive body words each",
-    "Create and render-check five unique SVG thumbnails",
-    "Run source, internal-link, metadata, canonical, originality, repeated-paragraph, and shared-argument audits",
-    "Run dependency check, typecheck, tests, and clean production build",
-    "Replace this run-state file with the final Research handoff manifest, commit locally, and notify VIRA-71"
-  ]
+  "handoff": {
+    "integratorIssue": "VIRA-71",
+    "integrationMethod": "local cherry-pick or file incorporation by Blog sole integrator",
+    "push": "prohibited for Research and not performed",
+    "deployment": "Browser Operator only after the single combined production push",
+    "publicationDateStatus": "2026-10-02 is a candidate cycle date only; Blog integrator must reconcile all date fields to actual first public availability in the configured site timezone before the sole push",
+    "publicVerification": "pending combined deployment; all five routes require title, substantive body, date, canonical, rendered image, image response, Research index, and sitemap checks"
+  }
 }
