@@ -60,6 +60,6 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 ## Source
 
-- [U.S. Courts Federal Rules of Civil court-reporting procedure resources](https://www.uscourts.gov/court-programs/rules-policies/current-rules-practice-court-reporting procedure/federal-rules-civil-court-reporting procedure)
+- [U.S. Courts Federal Rules of Civil Procedure resources](https://www.uscourts.gov/court-programs/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)
 
 Need help designing the routing map, intake fields, and QA review for your call court-reporting queue? [Contact Virtual Assistant Call Center](/contact) to discuss the court-reporting workflow.

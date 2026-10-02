@@ -62,6 +62,13 @@ for item in items:
     }
     for old, new in terms.items():
         article_body = re.sub(rf"\b{old}\b", new, article_body, flags=re.IGNORECASE)
+    # Topic terminology substitutions must never rewrite an authoritative URL
+    # or its published source title.
+    article_body = re.sub(
+        r"(?m)^- \[[^]]+\]\([^)]+\)$",
+        f"- [{item['source_name']}]({item['source']})",
+        article_body,
+    )
     (out / f"{item['slug']}.md").write_text(front + article_body, encoding="utf-8")
 
 entries = []

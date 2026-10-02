@@ -1,0 +1,239 @@
+{
+  "cycleLabel": "2026-10-02",
+  "publicationDate": "2026-10-02",
+  "siteTimezone": "UTC",
+  "baselineSha": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
+  "researchHandoffSha": "ec99ad578a9ca39b0630cbcefa6db931c50ea68a",
+  "deploymentOwner": "Browser Operator",
+  "publicVerificationOwner": "user",
+  "status": "failed",
+  "errors": [
+    "blog: qualitative originality gate failed; shared argument sequence and section framework require substantive article-by-article rewrites"
+  ],
+  "families": {
+    "blog": {
+      "count": 12,
+      "minimumBodyWords": 900,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "commercial-laundry-equipment-service-call-intake",
+        "right": "commercial-refrigeration-temperature-alarm-call-intake",
+        "jaccard": 0.462035
+      },
+      "items": [
+        {
+          "slug": "court-reporting-deposition-scheduling-call-intake",
+          "path": "content/blog/court-reporting-deposition-scheduling-call-intake.md",
+          "bodyWordCount": 1558,
+          "contentSha256": "ced1bf3dea430e45ea96341a1ade1b56984cb4a2af2e570e78dce0ec0675ed89",
+          "sources": [
+            "https://www.uscourts.gov/court-programs/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/court-reporting-deposition-scheduling-call-intake"
+        },
+        {
+          "slug": "commercial-laundry-equipment-service-call-intake",
+          "path": "content/blog/commercial-laundry-equipment-service-call-intake.md",
+          "bodyWordCount": 1562,
+          "contentSha256": "3be9b39f489229495735191b60fc63aaaf5bdd2821d7c9b69a514c98f711a98f",
+          "sources": [
+            "https://www.osha.gov/machine-guarding"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/commercial-laundry-equipment-service-call-intake"
+        },
+        {
+          "slug": "septic-pumping-emergency-call-intake",
+          "path": "content/blog/septic-pumping-emergency-call-intake.md",
+          "bodyWordCount": 1579,
+          "contentSha256": "13982cd32cfc06597419e9a411104138b638a2931c3bac7e4942b4aa8ee724b6",
+          "sources": [
+            "https://www.epa.gov/septic"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/septic-pumping-emergency-call-intake"
+        },
+        {
+          "slug": "generator-maintenance-service-call-intake",
+          "path": "content/blog/generator-maintenance-service-call-intake.md",
+          "bodyWordCount": 1595,
+          "contentSha256": "aeaa0d775db47c7819b92db78f4dd5b9db15faba74196cab4410194f4c26c37c",
+          "sources": [
+            "https://www.ready.gov/power-outages"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/generator-maintenance-service-call-intake"
+        },
+        {
+          "slug": "hearing-aid-repair-call-intake",
+          "path": "content/blog/hearing-aid-repair-call-intake.md",
+          "bodyWordCount": 1572,
+          "contentSha256": "26ed9e83269e7c3cdcfe7ee1bce6a4968d0fb439211895f314726160bfc3b655",
+          "sources": [
+            "https://www.fda.gov/medical-devices/consumer-products/hearing-aids"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/hearing-aid-repair-call-intake"
+        },
+        {
+          "slug": "glass-repair-board-up-call-intake",
+          "path": "content/blog/glass-repair-board-up-call-intake.md",
+          "bodyWordCount": 1575,
+          "contentSha256": "4bf4de8ade5ee38fb965610f442437fc64ebe9c0dbf72921c95e05c7a5d02864",
+          "sources": [
+            "https://www.ready.gov/home-fires"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/glass-repair-board-up-call-intake"
+        },
+        {
+          "slug": "irrigation-system-leak-service-call-intake",
+          "path": "content/blog/irrigation-system-leak-service-call-intake.md",
+          "bodyWordCount": 1566,
+          "contentSha256": "94dda0520e3d12237bbd313d6a4402d28b7c933e41c34b974eea2d555fa43f0f",
+          "sources": [
+            "https://www.epa.gov/watersense/outdoors"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/irrigation-system-leak-service-call-intake"
+        },
+        {
+          "slug": "commercial-door-access-control-service-call-intake",
+          "path": "content/blog/commercial-door-access-control-service-call-intake.md",
+          "bodyWordCount": 1583,
+          "contentSha256": "57f7e616e1c938f4da11950d24c6b17b942fe126e6128cb403be105260d4dabc",
+          "sources": [
+            "https://www.cisa.gov/topics/physical-security"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/commercial-door-access-control-service-call-intake"
+        },
+        {
+          "slug": "medical-waste-pickup-call-intake",
+          "path": "content/blog/medical-waste-pickup-call-intake.md",
+          "bodyWordCount": 1584,
+          "contentSha256": "dc9979c4fc2d3b34a860666636355ba21c956e1885ed300eea89b8aa5c1da4a6",
+          "sources": [
+            "https://www.epa.gov/rcra/medical-waste"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/medical-waste-pickup-call-intake"
+        },
+        {
+          "slug": "portable-restroom-service-call-intake",
+          "path": "content/blog/portable-restroom-service-call-intake.md",
+          "bodyWordCount": 1554,
+          "contentSha256": "68b612df9eda027d4ba3964a07e7bae05a734d75d8248995541d3a09a85658fe",
+          "sources": [
+            "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/portable-restroom-service-call-intake"
+        },
+        {
+          "slug": "property-survey-scheduling-call-intake",
+          "path": "content/blog/property-survey-scheduling-call-intake.md",
+          "bodyWordCount": 1593,
+          "contentSha256": "20ee3b890e96b805cb386ccbafb91e819b12aab34db8b7a50a26a83982992774",
+          "sources": [
+            "https://www.blm.gov/programs/lands-and-realty/cadastral-survey"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/property-survey-scheduling-call-intake"
+        },
+        {
+          "slug": "commercial-refrigeration-temperature-alarm-call-intake",
+          "path": "content/blog/commercial-refrigeration-temperature-alarm-call-intake.md",
+          "bodyWordCount": 1576,
+          "contentSha256": "db1432e8ffb2f8640f57909814a05308e3b8680e4158d476b5ec85031481e0af",
+          "sources": [
+            "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"
+          ],
+          "image": "/thumbnails/multi-location-appointment-routing-guide.svg",
+          "route": "/blog/commercial-refrigeration-temperature-alarm-call-intake"
+        }
+      ]
+    },
+    "research": {
+      "count": 5,
+      "minimumBodyWords": 1200,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "do-not-call-request-suppression-latency-study",
+        "right": "outbound-calling-window-timezone-control-study",
+        "jaccard": 0.000848
+      },
+      "items": [
+        {
+          "slug": "caller-id-spoofing-intake-safeguard-study",
+          "path": "content/research/caller-id-spoofing-intake-safeguard-study.md",
+          "bodyWordCount": 1841,
+          "contentSha256": "e1f89c3b22311e03ddd6104196ac5b660afccf781bb579cd1d520527936145e3",
+          "sources": [
+            "https://www.fcc.gov/call-authentication",
+            "https://www.fcc.gov/",
+            "https://www.ni",
+            "https://www.ni"
+          ],
+          "image": "/thumbnails/caller-id-spoofing-intake-safeguard-study.svg",
+          "route": "/research/caller-id-spoofing-intake-safeguard-study"
+        },
+        {
+          "slug": "do-not-call-request-suppression-latency-study",
+          "path": "content/research/do-not-call-request-suppression-latency-study.md",
+          "bodyWordCount": 1850,
+          "contentSha256": "38982b8fd3639bd4ae543b898de473119719e0bf23b5cfa6faf33b2ff88ab64c",
+          "sources": [
+            "https://www.ftc.gov/bu",
+            "https://www.ftc.gov/legal-library/brow",
+            "https://www.ftc.gov/bu",
+            "https://www.donotcall.gov/"
+          ],
+          "image": "/thumbnails/do-not-call-request-suppression-latency-study.svg",
+          "route": "/research/do-not-call-request-suppression-latency-study"
+        },
+        {
+          "slug": "ai-call-summary-source-fidelity-study",
+          "path": "content/research/ai-call-summary-source-fidelity-study.md",
+          "bodyWordCount": 1856,
+          "contentSha256": "eb2efd14360ff085c576250ca6f84274dcca3b5615a7474a01e82bb42173136f",
+          "sources": [
+            "https://doi.org/10.6028/NIST.AI.600-1",
+            "https://doi.org/10.6028/NIST.AI.100-1",
+            "https://airc.ni",
+            "https://www.ni"
+          ],
+          "image": "/thumbnails/ai-call-summary-source-fidelity-study.svg",
+          "route": "/research/ai-call-summary-source-fidelity-study"
+        },
+        {
+          "slug": "outbound-calling-window-timezone-control-study",
+          "path": "content/research/outbound-calling-window-timezone-control-study.md",
+          "bodyWordCount": 1699,
+          "contentSha256": "836589ba76dfd905ac32a1de6aa7445da90f29220052fdd61b3cf3d2c6ab56cf",
+          "sources": [
+            "https://www.ftc.gov/bu",
+            "https://www.ftc.gov/bu",
+            "https://www.fcc.gov/con",
+            "https://www.iana.org/time-zone"
+          ],
+          "image": "/thumbnails/outbound-calling-window-timezone-control-study.svg",
+          "route": "/research/outbound-calling-window-timezone-control-study"
+        },
+        {
+          "slug": "voicemail-greeting-version-drift-study",
+          "path": "content/research/voicemail-greeting-version-drift-study.md",
+          "bodyWordCount": 1795,
+          "contentSha256": "d8f1cbe0f4c9cfb2ebdfe767ec84ac7c26dd441d0ef4c48f655b2d5552dee02e",
+          "sources": [
+            "https://doi.org/10.6028/NIST.CSWP.29",
+            "https://www.ni",
+            "https://www.gao.gov/product",
+            "https://www.ada.gov/re"
+          ],
+          "image": "/thumbnails/voicemail-greeting-version-drift-study.svg",
+          "route": "/research/voicemail-greeting-version-drift-study"
+        }
+      ]
+    }
+  }
+}
