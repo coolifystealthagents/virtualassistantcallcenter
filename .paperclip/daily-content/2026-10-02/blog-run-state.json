@@ -1,0 +1,91 @@
+{
+  "cycleLabel": "2026-10-02",
+  "family": "blog",
+  "taskId": "VIRA-71",
+  "pairedResearchTaskId": "VIRA-70",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "productionBranch": "main",
+  "baselineSha": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
+  "branch": "vira-71-daily-blog-20261002",
+  "siteTimezone": "UTC",
+  "publicationDate": null,
+  "publicationDatePolicy": "Set to the actual first-publication date immediately before the sole combined push; reconcile again if deployment crosses UTC midnight.",
+  "deploymentOwner": "Browser Operator",
+  "publicVerificationOwner": "existing company agent after exact-SHA deployment evidence",
+  "status": "inventory_reserved",
+  "researchHandoffSha": null,
+  "topics": [
+    {
+      "slug": "court-reporting-deposition-scheduling-call-intake",
+      "pillar": "professional-services-intake",
+      "decision": "How should a receptionist capture deposition scheduling constraints without interpreting a notice?",
+      "source": "https://www.uscourts.gov/court-programs/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure"
+    },
+    {
+      "slug": "commercial-laundry-equipment-service-call-intake",
+      "pillar": "field-service-intake",
+      "decision": "Which machine, site, safety, and downtime facts should reach a commercial laundry dispatcher?",
+      "source": "https://www.osha.gov/machine-guarding"
+    },
+    {
+      "slug": "septic-pumping-emergency-call-intake",
+      "pillar": "field-service-intake",
+      "decision": "How should an answering team separate backup hazards from routine septic scheduling?",
+      "source": "https://www.epa.gov/septic"
+    },
+    {
+      "slug": "generator-maintenance-service-call-intake",
+      "pillar": "field-service-intake",
+      "decision": "What should intake capture when a standby generator fails a test or starts during an outage?",
+      "source": "https://www.ready.gov/power-outages"
+    },
+    {
+      "slug": "hearing-aid-repair-call-intake",
+      "pillar": "appointment-intake",
+      "decision": "How can reception distinguish device repair logistics from hearing-health questions?",
+      "source": "https://www.fda.gov/medical-devices/consumer-products/hearing-aids"
+    },
+    {
+      "slug": "glass-repair-board-up-call-intake",
+      "pillar": "emergency-service-routing",
+      "decision": "Which occupancy, opening, injury, and access facts change a board-up dispatch?",
+      "source": "https://www.ready.gov/home-fires"
+    },
+    {
+      "slug": "irrigation-system-leak-service-call-intake",
+      "pillar": "field-service-intake",
+      "decision": "How should callers report active irrigation leaks without receiving unsafe shutoff advice?",
+      "source": "https://www.epa.gov/watersense/outdoors"
+    },
+    {
+      "slug": "commercial-door-access-control-service-call-intake",
+      "pillar": "security-service-routing",
+      "decision": "How should reception route door and access-control failures without exposing security details?",
+      "source": "https://www.cisa.gov/topics/physical-security"
+    },
+    {
+      "slug": "medical-waste-pickup-call-intake",
+      "pillar": "regulated-service-intake",
+      "decision": "Which container, location, pickup, and incident facts belong in a medical-waste service request?",
+      "source": "https://www.epa.gov/rcra/medical-waste"
+    },
+    {
+      "slug": "portable-restroom-service-call-intake",
+      "pillar": "event-and-field-service-intake",
+      "decision": "How should a call handler capture placement, access, service frequency, and sanitation complaints?",
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51"
+    },
+    {
+      "slug": "property-survey-scheduling-call-intake",
+      "pillar": "professional-services-intake",
+      "decision": "What property, access, deadline, and document facts should precede a surveyor callback?",
+      "source": "https://www.blm.gov/programs/lands-and-realty/cadastral-survey"
+    },
+    {
+      "slug": "commercial-refrigeration-temperature-alarm-call-intake",
+      "pillar": "emergency-service-routing",
+      "decision": "How should a receptionist capture a temperature alarm while leaving food-safety and technical decisions to authorized owners?",
+      "source": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"
+    }
+  ]
+}
