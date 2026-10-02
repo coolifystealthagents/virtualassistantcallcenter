@@ -1,0 +1,126 @@
+{
+  "cycleLabel": "2026-10-02",
+  "family": "blog",
+  "taskId": "VIRA-71",
+  "baselineSha": "1a1863a65f7c9c4935d048ef62faa27a57cfe8ae",
+  "publicationDate": "2026-10-02",
+  "validation": {
+    "minimumBodyWords": 900,
+    "fiveWordShingleThreshold": 0.5,
+    "maximumPairwiseOverlap": {
+      "left": "commercial-laundry-equipment-service-call-intake",
+      "right": "commercial-refrigeration-temperature-alarm-call-intake",
+      "jaccard": 0.462035
+    }
+  },
+  "entries": [
+    {
+      "slug": "court-reporting-deposition-scheduling-call-intake",
+      "sourcePath": "content/blog/court-reporting-deposition-scheduling-call-intake.md",
+      "route": "/blog/court-reporting-deposition-scheduling-call-intake",
+      "source": "https://www.uscourts.gov/court-programs/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure",
+      "bodyWordCount": 1558,
+      "contentSha256": "95f545e573c8c44041d8a76ce8d56d28fbd5abc1f6ea3b605200b36c90c97ada",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "commercial-laundry-equipment-service-call-intake",
+      "sourcePath": "content/blog/commercial-laundry-equipment-service-call-intake.md",
+      "route": "/blog/commercial-laundry-equipment-service-call-intake",
+      "source": "https://www.osha.gov/machine-guarding",
+      "bodyWordCount": 1562,
+      "contentSha256": "3be9b39f489229495735191b60fc63aaaf5bdd2821d7c9b69a514c98f711a98f",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "septic-pumping-emergency-call-intake",
+      "sourcePath": "content/blog/septic-pumping-emergency-call-intake.md",
+      "route": "/blog/septic-pumping-emergency-call-intake",
+      "source": "https://www.epa.gov/septic",
+      "bodyWordCount": 1579,
+      "contentSha256": "13982cd32cfc06597419e9a411104138b638a2931c3bac7e4942b4aa8ee724b6",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "generator-maintenance-service-call-intake",
+      "sourcePath": "content/blog/generator-maintenance-service-call-intake.md",
+      "route": "/blog/generator-maintenance-service-call-intake",
+      "source": "https://www.ready.gov/power-outages",
+      "bodyWordCount": 1595,
+      "contentSha256": "aeaa0d775db47c7819b92db78f4dd5b9db15faba74196cab4410194f4c26c37c",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "hearing-aid-repair-call-intake",
+      "sourcePath": "content/blog/hearing-aid-repair-call-intake.md",
+      "route": "/blog/hearing-aid-repair-call-intake",
+      "source": "https://www.fda.gov/medical-devices/consumer-products/hearing-aids",
+      "bodyWordCount": 1572,
+      "contentSha256": "26ed9e83269e7c3cdcfe7ee1bce6a4968d0fb439211895f314726160bfc3b655",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "glass-repair-board-up-call-intake",
+      "sourcePath": "content/blog/glass-repair-board-up-call-intake.md",
+      "route": "/blog/glass-repair-board-up-call-intake",
+      "source": "https://www.ready.gov/home-fires",
+      "bodyWordCount": 1575,
+      "contentSha256": "4bf4de8ade5ee38fb965610f442437fc64ebe9c0dbf72921c95e05c7a5d02864",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "irrigation-system-leak-service-call-intake",
+      "sourcePath": "content/blog/irrigation-system-leak-service-call-intake.md",
+      "route": "/blog/irrigation-system-leak-service-call-intake",
+      "source": "https://www.epa.gov/watersense/outdoors",
+      "bodyWordCount": 1566,
+      "contentSha256": "94dda0520e3d12237bbd313d6a4402d28b7c933e41c34b974eea2d555fa43f0f",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "commercial-door-access-control-service-call-intake",
+      "sourcePath": "content/blog/commercial-door-access-control-service-call-intake.md",
+      "route": "/blog/commercial-door-access-control-service-call-intake",
+      "source": "https://www.cisa.gov/topics/physical-security",
+      "bodyWordCount": 1583,
+      "contentSha256": "57f7e616e1c938f4da11950d24c6b17b942fe126e6128cb403be105260d4dabc",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "medical-waste-pickup-call-intake",
+      "sourcePath": "content/blog/medical-waste-pickup-call-intake.md",
+      "route": "/blog/medical-waste-pickup-call-intake",
+      "source": "https://www.epa.gov/rcra/medical-waste",
+      "bodyWordCount": 1584,
+      "contentSha256": "dc9979c4fc2d3b34a860666636355ba21c956e1885ed300eea89b8aa5c1da4a6",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "portable-restroom-service-call-intake",
+      "sourcePath": "content/blog/portable-restroom-service-call-intake.md",
+      "route": "/blog/portable-restroom-service-call-intake",
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51",
+      "bodyWordCount": 1554,
+      "contentSha256": "68b612df9eda027d4ba3964a07e7bae05a734d75d8248995541d3a09a85658fe",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "property-survey-scheduling-call-intake",
+      "sourcePath": "content/blog/property-survey-scheduling-call-intake.md",
+      "route": "/blog/property-survey-scheduling-call-intake",
+      "source": "https://www.blm.gov/programs/lands-and-realty/cadastral-survey",
+      "bodyWordCount": 1593,
+      "contentSha256": "20ee3b890e96b805cb386ccbafb91e819b12aab34db8b7a50a26a83982992774",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    },
+    {
+      "slug": "commercial-refrigeration-temperature-alarm-call-intake",
+      "sourcePath": "content/blog/commercial-refrigeration-temperature-alarm-call-intake.md",
+      "route": "/blog/commercial-refrigeration-temperature-alarm-call-intake",
+      "source": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
+      "bodyWordCount": 1576,
+      "contentSha256": "db1432e8ffb2f8640f57909814a05308e3b8680e4158d476b5ec85031481e0af",
+      "imagePath": "/thumbnails/multi-location-appointment-routing-guide.svg"
+    }
+  ]
+}
