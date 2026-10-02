@@ -168,9 +168,9 @@
           "contentSha256": "e1f89c3b22311e03ddd6104196ac5b660afccf781bb579cd1d520527936145e3",
           "sources": [
             "https://www.fcc.gov/call-authentication",
-            "https://www.fcc.gov/",
-            "https://www.ni",
-            "https://www.ni"
+            "https://www.fcc.gov/spoofing",
+            "https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines",
+            "https://www.nist.gov/privacy-framework"
           ],
           "image": "/thumbnails/caller-id-spoofing-intake-safeguard-study.svg",
           "route": "/research/caller-id-spoofing-intake-safeguard-study"
@@ -181,9 +181,9 @@
           "bodyWordCount": 1850,
           "contentSha256": "38982b8fd3639bd4ae543b898de473119719e0bf23b5cfa6faf33b2ff88ab64c",
           "sources": [
-            "https://www.ftc.gov/bu",
-            "https://www.ftc.gov/legal-library/brow",
-            "https://www.ftc.gov/bu",
+            "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+            "https://www.ftc.gov/legal-library/browse/rules/telemarketing-sales-rule",
+            "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
             "https://www.donotcall.gov/"
           ],
           "image": "/thumbnails/do-not-call-request-suppression-latency-study.svg",
@@ -197,8 +197,8 @@
           "sources": [
             "https://doi.org/10.6028/NIST.AI.600-1",
             "https://doi.org/10.6028/NIST.AI.100-1",
-            "https://airc.ni",
-            "https://www.ni"
+            "https://airc.nist.gov/airmf-resources/playbook/",
+            "https://www.nist.gov/privacy-framework"
           ],
           "image": "/thumbnails/ai-call-summary-source-fidelity-study.svg",
           "route": "/research/ai-call-summary-source-fidelity-study"
@@ -209,10 +209,10 @@
           "bodyWordCount": 1699,
           "contentSha256": "836589ba76dfd905ac32a1de6aa7445da90f29220052fdd61b3cf3d2c6ab56cf",
           "sources": [
-            "https://www.ftc.gov/bu",
-            "https://www.ftc.gov/bu",
-            "https://www.fcc.gov/con",
-            "https://www.iana.org/time-zone"
+            "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+            "https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing",
+            "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+            "https://www.iana.org/time-zones"
           ],
           "image": "/thumbnails/outbound-calling-window-timezone-control-study.svg",
           "route": "/research/outbound-calling-window-timezone-control-study"
@@ -224,9 +224,9 @@
           "contentSha256": "d8f1cbe0f4c9cfb2ebdfe767ec84ac7c26dd441d0ef4c48f655b2d5552dee02e",
           "sources": [
             "https://doi.org/10.6028/NIST.CSWP.29",
-            "https://www.ni",
-            "https://www.gao.gov/product",
-            "https://www.ada.gov/re"
+            "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20",
+            "https://www.gao.gov/products/gao-14-704g",
+            "https://www.ada.gov/resources/effective-communication/"
           ],
           "image": "/thumbnails/voicemail-greeting-version-drift-study.svg",
           "route": "/research/voicemail-greeting-version-drift-study"

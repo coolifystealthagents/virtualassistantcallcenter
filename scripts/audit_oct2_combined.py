@@ -12,7 +12,7 @@ research_manifest = json.loads((ROOT / ".paperclip/daily-content/2026-10-02/rese
 
 families = {
     "blog": [{**row, "path": row["sourcePath"], "sources": [row["source"]]} for row in blog_manifest["entries"]],
-    "research": [{**row, "path": row["contentPath"], "sources": re.findall(r"https://[^)\\s]+", (ROOT / row["contentPath"]).read_text())} for row in research_manifest["draftedItems"]],
+    "research": [{**row, "path": row["contentPath"], "sources": re.findall(r"https://[^)\s]+", (ROOT / row["contentPath"]).read_text())} for row in research_manifest["draftedItems"]],
 }
 expected = {"blog": 12, "research": 5}
 minimum = {"blog": 900, "research": 1200}
