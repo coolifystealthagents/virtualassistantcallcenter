@@ -131,7 +131,7 @@ test('August 17 research excludes public commerce copy, internal publishing mech
   }
 });
 
-test('research loader orders the exact August 17 family newest first and then by slug', () => {
+test('research loader keeps the August 17 family in stable date-and-slug order', () => {
   const loader = readFileSync(join(root, 'app', 'content.ts'), 'utf8');
   assert.match(loader, /const byDate = b\.published\.localeCompare\(a\.published\)/, 'loader must order publication dates newest first');
   assert.match(loader, /kind !== 'blog'[\s\S]*?return a\.slug\.localeCompare\(b\.slug\)/, 'research date ties must order by slug');
@@ -139,7 +139,11 @@ test('research loader orders the exact August 17 family newest first and then by
   const loadedOrder = [...researchRecords]
     .sort((a, b) => b.metadata.published.localeCompare(a.metadata.published) || a.metadata.slug.localeCompare(b.metadata.slug))
     .map(({ metadata }) => metadata.slug);
-  assert.deepEqual(loadedOrder.slice(0, 10), expectedSlugs, 'August 17 routes must lead the research loader in stable order');
+  assert.deepEqual(
+    loadedOrder.filter((slug) => expectedSlugs.includes(slug)),
+    expectedSlugs,
+    'August 17 routes must retain their stable order when newer research is added',
+  );
 });
 
 test('built August 17 routes expose visible dates, structured dates, and canonical identity', () => {
