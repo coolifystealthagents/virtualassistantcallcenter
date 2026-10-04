@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-09-24
+Updated: 2026-10-04
 
 ## Scope
 
@@ -21,6 +21,12 @@ This is an editorial inventory for existing Philippines-based call-support servi
 | Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | The research route links from a documented audit record to the QA lane. | Verified 2026-09-05; non-duplicable |
 | Call disposition reporting | `/services/call-disposition-reporting` | Apply approved disposition codes and send ambiguous, financial, or policy cases to the owner. | `/blog/nonprofit-donor-service-call-workflow` | The guide includes the disposition service in its route-local related path. | Existing; non-duplicable |
 
+## Verified-absent candidate
+
+| Service pillar | Existing service URL | Supporting-page intent | Verified supporting route | Artifact finding | Status |
+| --- | --- | --- | --- | --- | --- |
+| Call disposition reporting | `/services/call-disposition-reporting` | Test whether an expanding "Other" category hides calls that need a defined disposition or owner review. | `/research/call-disposition-other-category-drift-study` | Fresh 2026-10-04 build confirmed the source and target are self-canonical and sitemap-listed; the source route-local `<main>` contains zero links to this service. | Candidate only; one bounded contextual-link release may follow |
+
 ## Selection rules
 
 1. Verify the source route, target service route, target H1, source sitemap entry, and the exact existing paragraph or related-link context before changing copy.
@@ -31,4 +37,4 @@ This is an editorial inventory for existing Philippines-based call-support servi
 
 ## Next safe action
 
-All ten current service pillars have at least one confirmed supporting-page path. Do not recreate these links. Before any new rendered link, inspect a distinct source route in generated route-local `<main>` or `<article>` HTML and record one verified-absent, reader-useful source-to-service pair. That inventory finding is planning evidence only; it requires its own bounded rendered-change release.
+A distinct source-to-service candidate is now recorded above. Before a rendered change, recheck the built route-local `<main>` so the target remains absent, then add one contextual sentence only if it helps a reader decide how to classify a call and preserves owner review. Refresh the source route's `updated` value only with that rendered change; do not add another sitewide or footer-style link.
