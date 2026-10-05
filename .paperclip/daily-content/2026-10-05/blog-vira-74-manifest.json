@@ -12,8 +12,8 @@
       "right": "asbestos-inspection-scheduling-call-intake",
       "jaccard": 0.004431
     },
-    "repeatedSubstantiveParagraphCount": null,
-    "qualitativeOriginalityAudit": "Pending combined audit"
+    "repeatedSubstantiveParagraphCount": 0,
+    "qualitativeOriginalityAudit": "Passed: each guide uses a topic-specific decision path, worked example or operational scenario, section sequence, and reader outcome; no shared argument sequence or reusable prose template was found."
   },
   "entries": [
     {

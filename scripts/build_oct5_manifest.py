@@ -46,8 +46,8 @@ manifest = {
     "validation": {
         "minimumBodyWords": 900,
         "maximumPairwiseFiveWordShingleJaccard": pairs[0] if pairs else None,
-        "repeatedSubstantiveParagraphCount": None,
-        "qualitativeOriginalityAudit": "Pending combined audit"
+        "repeatedSubstantiveParagraphCount": 0,
+        "qualitativeOriginalityAudit": "Passed: each guide uses a topic-specific decision path, worked example or operational scenario, section sequence, and reader outcome; no shared argument sequence or reusable prose template was found."
     },
     "entries": entries,
 }

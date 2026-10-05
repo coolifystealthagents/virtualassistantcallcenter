@@ -1,0 +1,151 @@
+{
+  "status": "passed",
+  "errors": [],
+  "qualitativeAudit": "Distinct subject-specific decision, example, and section-sequence review completed; no reused worked examples or shared full argument sequence found.",
+  "items": [
+    {
+      "slug": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.00531,
+        "item": "blog/glass-repair-board-up-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.717391,
+        "item": "blog/commercial-cleaning-quote-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "piano-moving-estimate-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.002708,
+        "item": "blog/medical-waste-pickup-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.794118,
+        "item": "blog/moving-company-estimate-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "orthodontic-appliance-problem-call-routing",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.003335,
+        "item": "blog/hvac-refrigerant-leak-call-boundaries"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.617284,
+        "item": "blog/appliance-warranty-service-call-routing"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "funeral-monument-installation-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.002917,
+        "item": "blog/court-reporting-deposition-scheduling-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.666667,
+        "item": "blog/equipment-rental-reservation-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "home-oxygen-equipment-service-call-routing",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.003412,
+        "item": "blog/generator-maintenance-service-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.731707,
+        "item": "blog/elevator-entrapment-service-call-routing"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "asbestos-inspection-scheduling-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.005446,
+        "item": "blog/medical-waste-pickup-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.86747,
+        "item": "blog/termite-inspection-scheduling-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "parking-garage-gate-repair-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.005386,
+        "item": "blog/commercial-laundry-equipment-service-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.764706,
+        "item": "blog/hearing-aid-repair-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "chimney-inspection-scheduling-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.002956,
+        "item": "blog/commercial-door-access-control-service-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.878049,
+        "item": "blog/termite-inspection-scheduling-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "commercial-sign-repair-service-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.003343,
+        "item": "blog/medical-waste-pickup-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.805195,
+        "item": "blog/commercial-glass-repair-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "organ-and-tissue-transport-courier-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.003369,
+        "item": "blog/glass-repair-board-up-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.629213,
+        "item": "blog/dialysis-transportation-booking-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "water-treatment-equipment-service-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.004562,
+        "item": "blog/water-utility-service-interruption-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.731183,
+        "item": "blog/commercial-laundry-equipment-service-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    },
+    {
+      "slug": "commercial-dock-leveler-service-call-intake",
+      "maxPriorFiveWordShingleJaccard": {
+        "value": 0.002673,
+        "item": "blog/commercial-laundry-equipment-service-call-intake"
+      },
+      "nearestPriorSlug": {
+        "similarity": 0.774194,
+        "item": "blog/commercial-door-access-control-service-call-intake"
+      },
+      "repeatedPriorSubstantiveParagraphs": []
+    }
+  ]
+}
