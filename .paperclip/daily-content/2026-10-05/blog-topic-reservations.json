@@ -1,0 +1,83 @@
+{
+  "cycleLabel": "2026-10-05",
+  "taskId": "VIRA-74",
+  "family": "blog",
+  "baselineSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
+  "siteTimezone": "UTC",
+  "publicationDatePolicy": "Set to actual first-live UTC date immediately before the sole combined push; 2026-10-05 is only a cycle label.",
+  "status": "reserved",
+  "topics": [
+    {
+      "slug": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+      "pillar": "field-service scheduling",
+      "readerDecision": "What must reception capture before a hood-cleaning coordinator can assess access, shutdown, and service scope?",
+      "primarySource": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22"
+    },
+    {
+      "slug": "piano-moving-estimate-call-intake",
+      "pillar": "specialty moving intake",
+      "readerDecision": "How can reception document instrument, route, and access facts without promising feasibility or price?",
+      "primarySource": "https://www.fmcsa.dot.gov/protect-your-move"
+    },
+    {
+      "slug": "orthodontic-appliance-problem-call-routing",
+      "pillar": "healthcare appointment intake",
+      "readerDecision": "How should a call handler separate appointment logistics from clinical assessment when an appliance breaks or irritates tissue?",
+      "primarySource": "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies"
+    },
+    {
+      "slug": "funeral-monument-installation-call-intake",
+      "pillar": "sensitive professional-services intake",
+      "readerDecision": "Which cemetery, authorization, inscription, access, and timing facts belong in a monument-service handoff?",
+      "primarySource": "https://consumer.ftc.gov/articles/ftc-funeral-rule"
+    },
+    {
+      "slug": "home-oxygen-equipment-service-call-routing",
+      "pillar": "medical-equipment service intake",
+      "readerDecision": "How can reception route equipment trouble urgently while avoiding clinical or repair instructions?",
+      "primarySource": "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices"
+    },
+    {
+      "slug": "asbestos-inspection-scheduling-call-intake",
+      "pillar": "regulated inspection intake",
+      "readerDecision": "What building, disturbance, access, and project facts can reception collect without identifying material or giving abatement advice?",
+      "primarySource": "https://www.epa.gov/asbestos"
+    },
+    {
+      "slug": "parking-garage-gate-repair-call-intake",
+      "pillar": "access-system field service",
+      "readerDecision": "How should a call handler distinguish a trapped vehicle, unsafe moving gate, credential issue, and routine maintenance request?",
+      "primarySource": "https://www.osha.gov/machine-guarding"
+    },
+    {
+      "slug": "chimney-inspection-scheduling-call-intake",
+      "pillar": "home-service scheduling",
+      "readerDecision": "Which appliance, fuel, symptom, roof-access, and occupancy facts prepare an inspection without remote safety diagnosis?",
+      "primarySource": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/"
+    },
+    {
+      "slug": "commercial-sign-repair-service-call-intake",
+      "pillar": "commercial field-service intake",
+      "readerDecision": "How can reception document electrical symptoms, loose components, location, access, and public exposure for safe dispatch?",
+      "primarySource": "https://www.osha.gov/electrical"
+    },
+    {
+      "slug": "organ-and-tissue-transport-courier-call-intake",
+      "pillar": "time-critical courier intake",
+      "readerDecision": "What chain-of-custody, pickup, destination, timing, and escalation details can reception route without handling clinical decisions?",
+      "primarySource": "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs"
+    },
+    {
+      "slug": "water-treatment-equipment-service-call-intake",
+      "pillar": "home-equipment service intake",
+      "readerDecision": "How should reception capture equipment, water-condition, leakage, and access observations without declaring water safe?",
+      "primarySource": "https://www.epa.gov/ground-water-and-drinking-water"
+    },
+    {
+      "slug": "commercial-dock-leveler-service-call-intake",
+      "pillar": "industrial field-service intake",
+      "readerDecision": "How can reception record dock position, load, damage, traffic impact, and lockout status without directing equipment operation?",
+      "primarySource": "https://www.osha.gov/materials-handling"
+    }
+  ]
+}
