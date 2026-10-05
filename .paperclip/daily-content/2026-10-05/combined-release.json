@@ -1,0 +1,237 @@
+{
+  "cycleLabel": "2026-10-05",
+  "publicationDate": "2026-10-05",
+  "siteTimezone": "UTC",
+  "baselineSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
+  "researchHandoffSha": "15e8fcf09a04ef61c8f3fc4f86578a2c5cabc6fa",
+  "deploymentOwner": "Browser Operator",
+  "publicVerificationOwner": "user",
+  "status": "passed",
+  "errors": [],
+  "families": {
+    "blog": {
+      "count": 12,
+      "minimumBodyWords": 900,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+        "right": "asbestos-inspection-scheduling-call-intake",
+        "jaccard": 0.004431
+      },
+      "items": [
+        {
+          "slug": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+          "path": "content/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake.md",
+          "bodyWordCount": 1141,
+          "contentSha256": "cfdd2754be955dbbf8cf7cfa3252e17b708bf149ea27d22a43b3a37e32f7dc4a",
+          "sources": [
+            "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22"
+          ],
+          "image": "/thumbnails/commercial-kitchen-equipment-breakdown-call-intake.svg",
+          "route": "/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake"
+        },
+        {
+          "slug": "piano-moving-estimate-call-intake",
+          "path": "content/blog/piano-moving-estimate-call-intake.md",
+          "bodyWordCount": 1098,
+          "contentSha256": "c6aeba760e588cb05c7610869a0e35c09f591c8d41384079d4bc43730ad4cdff",
+          "sources": [
+            "https://www.fmcsa.dot.gov/protect-your-move"
+          ],
+          "image": "/thumbnails/moving-company-estimate-call-intake.svg",
+          "route": "/blog/piano-moving-estimate-call-intake"
+        },
+        {
+          "slug": "orthodontic-appliance-problem-call-routing",
+          "path": "content/blog/orthodontic-appliance-problem-call-routing.md",
+          "bodyWordCount": 1276,
+          "contentSha256": "9cdc7f97307f025a396033c2ba1f240e4e058d6ae64cce07b7eb7c05864c1913",
+          "sources": [
+            "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies"
+          ],
+          "image": "/thumbnails/dental-emergency-call-triage.svg",
+          "route": "/blog/orthodontic-appliance-problem-call-routing"
+        },
+        {
+          "slug": "funeral-monument-installation-call-intake",
+          "path": "content/blog/funeral-monument-installation-call-intake.md",
+          "bodyWordCount": 1090,
+          "contentSha256": "a6bef6247f0c0d377bc0534297910f13708e03e798609485a2476a67946d0272",
+          "sources": [
+            "https://consumer.ftc.gov/articles/ftc-funeral-rule"
+          ],
+          "image": "/thumbnails/call-answering-for-memorial-service-directors.svg",
+          "route": "/blog/funeral-monument-installation-call-intake"
+        },
+        {
+          "slug": "home-oxygen-equipment-service-call-routing",
+          "path": "content/blog/home-oxygen-equipment-service-call-routing.md",
+          "bodyWordCount": 1128,
+          "contentSha256": "b10bc81473b4ae6b1fb6272a6f4bfbd663fa093eb57b45a1a69324fbd5d4b99f",
+          "sources": [
+            "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices"
+          ],
+          "image": "/thumbnails/mobility-equipment-repair-call-intake.svg",
+          "route": "/blog/home-oxygen-equipment-service-call-routing"
+        },
+        {
+          "slug": "asbestos-inspection-scheduling-call-intake",
+          "path": "content/blog/asbestos-inspection-scheduling-call-intake.md",
+          "bodyWordCount": 907,
+          "contentSha256": "5d8e1cdc7516d442ca4517ccd398ce3f782c10d4506197afe9467e790765b778",
+          "sources": [
+            "https://www.epa.gov/asbestos"
+          ],
+          "image": "/thumbnails/home-inspection-call-answering.svg",
+          "route": "/blog/asbestos-inspection-scheduling-call-intake"
+        },
+        {
+          "slug": "parking-garage-gate-repair-call-intake",
+          "path": "content/blog/parking-garage-gate-repair-call-intake.md",
+          "bodyWordCount": 905,
+          "contentSha256": "ae06b2b51512b901f6f41ba4a1a4a62633d0480d3423385fd6b09729482ef7e6",
+          "sources": [
+            "https://www.osha.gov/machine-guarding"
+          ],
+          "image": "/thumbnails/garage-door-trapped-vehicle-call-intake.svg",
+          "route": "/blog/parking-garage-gate-repair-call-intake"
+        },
+        {
+          "slug": "chimney-inspection-scheduling-call-intake",
+          "path": "content/blog/chimney-inspection-scheduling-call-intake.md",
+          "bodyWordCount": 973,
+          "contentSha256": "c274483c436c6d8b622f98a852b3aa623df6c0bb8deb4053a6bbbd73958f566e",
+          "sources": [
+            "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/"
+          ],
+          "image": "/thumbnails/home-inspection-call-answering.svg",
+          "route": "/blog/chimney-inspection-scheduling-call-intake"
+        },
+        {
+          "slug": "commercial-sign-repair-service-call-intake",
+          "path": "content/blog/commercial-sign-repair-service-call-intake.md",
+          "bodyWordCount": 977,
+          "contentSha256": "7babe3836df3356b99942e473aa7cd8aa0b83e1cd1fc7ae328b3c615f3fa5341",
+          "sources": [
+            "https://www.osha.gov/electrical"
+          ],
+          "image": "/thumbnails/sign-company-installation-service-call-intake.svg",
+          "route": "/blog/commercial-sign-repair-service-call-intake"
+        },
+        {
+          "slug": "organ-and-tissue-transport-courier-call-intake",
+          "path": "content/blog/organ-and-tissue-transport-courier-call-intake.md",
+          "bodyWordCount": 954,
+          "contentSha256": "e3880e76ef0dbb61d9b9e85f7365d1bb6158e899739abf3109ded214b265e0cb",
+          "sources": [
+            "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs"
+          ],
+          "image": "/thumbnails/laboratory-specimen-courier-pickup-call-intake.svg",
+          "route": "/blog/organ-and-tissue-transport-courier-call-intake"
+        },
+        {
+          "slug": "water-treatment-equipment-service-call-intake",
+          "path": "content/blog/water-treatment-equipment-service-call-intake.md",
+          "bodyWordCount": 958,
+          "contentSha256": "e26736ad40cf32ab4779078f023d89155e946b2eed304fe198f05c57488ab723",
+          "sources": [
+            "https://www.epa.gov/ground-water-and-drinking-water"
+          ],
+          "image": "/thumbnails/water-well-service-call-intake.svg",
+          "route": "/blog/water-treatment-equipment-service-call-intake"
+        },
+        {
+          "slug": "commercial-dock-leveler-service-call-intake",
+          "path": "content/blog/commercial-dock-leveler-service-call-intake.md",
+          "bodyWordCount": 916,
+          "contentSha256": "05cd8dbb33bf34c0e80485e7811dd29500f5c16bf240b31ff06979ad9536a7c9",
+          "sources": [
+            "https://www.osha.gov/materials-handling"
+          ],
+          "image": "/thumbnails/commercial-equipment-warranty-call-intake.svg",
+          "route": "/blog/commercial-dock-leveler-service-call-intake"
+        }
+      ]
+    },
+    "research": {
+      "count": 5,
+      "minimumBodyWords": 1200,
+      "maximumPairwiseFiveWordShingleJaccard": {
+        "left": "warm-transfer-consultation-evidence-study",
+        "right": "queue-overflow-return-path-study",
+        "jaccard": 0.010931
+      },
+      "items": [
+        {
+          "slug": "hold-queue-estimate-accuracy-study",
+          "path": "content/research/hold-queue-estimate-accuracy-study.md",
+          "bodyWordCount": 1453,
+          "contentSha256": "49e306aa120cd79a96cca8c101f5be25673ccd74f56bd2eff2f26c057de180ed",
+          "sources": [
+            "https://www.itl.nist.gov/div898/handbook/",
+            "https://www.nist.gov/pml/nist-technical-note-1297",
+            "https://www.w3.org/TR/WCAG22/",
+            "https://www.ftc.gov/business-guidance/privacy-security/data-security"
+          ],
+          "image": "/thumbnails/virtual-call-center-hold-message-comprehension-study.svg",
+          "route": "/research/hold-queue-estimate-accuracy-study"
+        },
+        {
+          "slug": "call-disposition-reopening-evidence-study",
+          "path": "content/research/call-disposition-reopening-evidence-study.md",
+          "bodyWordCount": 1368,
+          "contentSha256": "1e0f2dce965560c0b6c02ce9cf22ad4bc163b0942f80804dd429e843bb714803",
+          "sources": [
+            "https://www.nist.gov/cyberframework",
+            "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+            "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+            "https://www.iso.org/quality-management-principles.html"
+          ],
+          "image": "/thumbnails/call-disposition-reporting-manager-review.svg",
+          "route": "/research/call-disposition-reopening-evidence-study"
+        },
+        {
+          "slug": "warm-transfer-consultation-evidence-study",
+          "path": "content/research/warm-transfer-consultation-evidence-study.md",
+          "bodyWordCount": 1317,
+          "contentSha256": "17f56fa84989dc12b2af2cb402cdef28e16afa732a0cbf97533233b5d425864e",
+          "sources": [
+            "https://www.nist.gov/privacy-framework",
+            "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+            "https://www.nist.gov/cyberframework",
+            "https://www.w3.org/TR/WCAG22/"
+          ],
+          "image": "/thumbnails/virtual-call-transfer-introduction-study.svg",
+          "route": "/research/warm-transfer-consultation-evidence-study"
+        },
+        {
+          "slug": "callback-preference-conflict-resolution-study",
+          "path": "content/research/callback-preference-conflict-resolution-study.md",
+          "bodyWordCount": 1309,
+          "contentSha256": "d6bed299419482f0e6858eee331ef9a8a80afa27bf1779a509a2bd5b6b59f155",
+          "sources": [
+            "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+            "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+            "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+            "https://www.nist.gov/privacy-framework"
+          ],
+          "image": "/thumbnails/preferred-contact-channel-capture-study.svg",
+          "route": "/research/callback-preference-conflict-resolution-study"
+        },
+        {
+          "slug": "queue-overflow-return-path-study",
+          "path": "content/research/queue-overflow-return-path-study.md",
+          "bodyWordCount": 1373,
+          "contentSha256": "0d1aa858bb2fd5b40f96349fac341ba1e1908be430b4d8200a54985d7aca927d",
+          "sources": [
+            "https://www.nist.gov/cyberframework",
+            "https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final",
+            "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+            "https://www.nist.gov/privacy-framework"
+          ],
+          "image": "/thumbnails/overflow-call-coverage-without-losing-context.svg",
+          "route": "/research/queue-overflow-return-path-study"
+        }
+      ]
+    }
+  }
+}

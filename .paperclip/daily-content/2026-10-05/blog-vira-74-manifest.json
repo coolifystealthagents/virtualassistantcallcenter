@@ -1,0 +1,152 @@
+{
+  "cycleLabel": "2026-10-05",
+  "taskId": "VIRA-74",
+  "family": "blog",
+  "baselineSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
+  "siteTimezone": "UTC",
+  "publicationDate": "2026-10-05",
+  "validation": {
+    "minimumBodyWords": 900,
+    "maximumPairwiseFiveWordShingleJaccard": {
+      "left": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+      "right": "asbestos-inspection-scheduling-call-intake",
+      "jaccard": 0.004431
+    },
+    "repeatedSubstantiveParagraphCount": null,
+    "qualitativeOriginalityAudit": "Pending combined audit"
+  },
+  "entries": [
+    {
+      "slug": "commercial-kitchen-hood-cleaning-scheduling-call-intake",
+      "topic": "What must reception capture before a hood-cleaning coordinator can assess access, shutdown, and service scope?",
+      "sourcePath": "content/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake.md",
+      "route": "/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake",
+      "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22",
+      "bodyWordCount": 1141,
+      "contentSha256": "cfdd2754be955dbbf8cf7cfa3252e17b708bf149ea27d22a43b3a37e32f7dc4a",
+      "imagePath": "/thumbnails/commercial-kitchen-equipment-breakdown-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake"
+    },
+    {
+      "slug": "piano-moving-estimate-call-intake",
+      "topic": "How can reception document instrument, route, and access facts without promising feasibility or price?",
+      "sourcePath": "content/blog/piano-moving-estimate-call-intake.md",
+      "route": "/blog/piano-moving-estimate-call-intake",
+      "source": "https://www.fmcsa.dot.gov/protect-your-move",
+      "bodyWordCount": 1098,
+      "contentSha256": "c6aeba760e588cb05c7610869a0e35c09f591c8d41384079d4bc43730ad4cdff",
+      "imagePath": "/thumbnails/moving-company-estimate-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/piano-moving-estimate-call-intake"
+    },
+    {
+      "slug": "orthodontic-appliance-problem-call-routing",
+      "topic": "How should a call handler separate appointment logistics from clinical assessment when an appliance breaks or irritates tissue?",
+      "sourcePath": "content/blog/orthodontic-appliance-problem-call-routing.md",
+      "route": "/blog/orthodontic-appliance-problem-call-routing",
+      "source": "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies",
+      "bodyWordCount": 1276,
+      "contentSha256": "9cdc7f97307f025a396033c2ba1f240e4e058d6ae64cce07b7eb7c05864c1913",
+      "imagePath": "/thumbnails/dental-emergency-call-triage.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/orthodontic-appliance-problem-call-routing"
+    },
+    {
+      "slug": "funeral-monument-installation-call-intake",
+      "topic": "Which cemetery, authorization, inscription, access, and timing facts belong in a monument-service handoff?",
+      "sourcePath": "content/blog/funeral-monument-installation-call-intake.md",
+      "route": "/blog/funeral-monument-installation-call-intake",
+      "source": "https://consumer.ftc.gov/articles/ftc-funeral-rule",
+      "bodyWordCount": 1090,
+      "contentSha256": "a6bef6247f0c0d377bc0534297910f13708e03e798609485a2476a67946d0272",
+      "imagePath": "/thumbnails/call-answering-for-memorial-service-directors.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/funeral-monument-installation-call-intake"
+    },
+    {
+      "slug": "home-oxygen-equipment-service-call-routing",
+      "topic": "How can reception route equipment trouble urgently while avoiding clinical or repair instructions?",
+      "sourcePath": "content/blog/home-oxygen-equipment-service-call-routing.md",
+      "route": "/blog/home-oxygen-equipment-service-call-routing",
+      "source": "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices",
+      "bodyWordCount": 1128,
+      "contentSha256": "b10bc81473b4ae6b1fb6272a6f4bfbd663fa093eb57b45a1a69324fbd5d4b99f",
+      "imagePath": "/thumbnails/mobility-equipment-repair-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/home-oxygen-equipment-service-call-routing"
+    },
+    {
+      "slug": "asbestos-inspection-scheduling-call-intake",
+      "topic": "What building, disturbance, access, and project facts can reception collect without identifying material or giving abatement advice?",
+      "sourcePath": "content/blog/asbestos-inspection-scheduling-call-intake.md",
+      "route": "/blog/asbestos-inspection-scheduling-call-intake",
+      "source": "https://www.epa.gov/asbestos",
+      "bodyWordCount": 907,
+      "contentSha256": "5d8e1cdc7516d442ca4517ccd398ce3f782c10d4506197afe9467e790765b778",
+      "imagePath": "/thumbnails/home-inspection-call-answering.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/asbestos-inspection-scheduling-call-intake"
+    },
+    {
+      "slug": "parking-garage-gate-repair-call-intake",
+      "topic": "How should a call handler distinguish a trapped vehicle, unsafe moving gate, credential issue, and routine maintenance request?",
+      "sourcePath": "content/blog/parking-garage-gate-repair-call-intake.md",
+      "route": "/blog/parking-garage-gate-repair-call-intake",
+      "source": "https://www.osha.gov/machine-guarding",
+      "bodyWordCount": 905,
+      "contentSha256": "ae06b2b51512b901f6f41ba4a1a4a62633d0480d3423385fd6b09729482ef7e6",
+      "imagePath": "/thumbnails/garage-door-trapped-vehicle-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/parking-garage-gate-repair-call-intake"
+    },
+    {
+      "slug": "chimney-inspection-scheduling-call-intake",
+      "topic": "Which appliance, fuel, symptom, roof-access, and occupancy facts prepare an inspection without remote safety diagnosis?",
+      "sourcePath": "content/blog/chimney-inspection-scheduling-call-intake.md",
+      "route": "/blog/chimney-inspection-scheduling-call-intake",
+      "source": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/",
+      "bodyWordCount": 973,
+      "contentSha256": "c274483c436c6d8b622f98a852b3aa623df6c0bb8deb4053a6bbbd73958f566e",
+      "imagePath": "/thumbnails/home-inspection-call-answering.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/chimney-inspection-scheduling-call-intake"
+    },
+    {
+      "slug": "commercial-sign-repair-service-call-intake",
+      "topic": "How can reception document electrical symptoms, loose components, location, access, and public exposure for safe dispatch?",
+      "sourcePath": "content/blog/commercial-sign-repair-service-call-intake.md",
+      "route": "/blog/commercial-sign-repair-service-call-intake",
+      "source": "https://www.osha.gov/electrical",
+      "bodyWordCount": 977,
+      "contentSha256": "7babe3836df3356b99942e473aa7cd8aa0b83e1cd1fc7ae328b3c615f3fa5341",
+      "imagePath": "/thumbnails/sign-company-installation-service-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-sign-repair-service-call-intake"
+    },
+    {
+      "slug": "organ-and-tissue-transport-courier-call-intake",
+      "topic": "What chain-of-custody, pickup, destination, timing, and escalation details can reception route without handling clinical decisions?",
+      "sourcePath": "content/blog/organ-and-tissue-transport-courier-call-intake.md",
+      "route": "/blog/organ-and-tissue-transport-courier-call-intake",
+      "source": "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs",
+      "bodyWordCount": 954,
+      "contentSha256": "e3880e76ef0dbb61d9b9e85f7365d1bb6158e899739abf3109ded214b265e0cb",
+      "imagePath": "/thumbnails/laboratory-specimen-courier-pickup-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/organ-and-tissue-transport-courier-call-intake"
+    },
+    {
+      "slug": "water-treatment-equipment-service-call-intake",
+      "topic": "How should reception capture equipment, water-condition, leakage, and access observations without declaring water safe?",
+      "sourcePath": "content/blog/water-treatment-equipment-service-call-intake.md",
+      "route": "/blog/water-treatment-equipment-service-call-intake",
+      "source": "https://www.epa.gov/ground-water-and-drinking-water",
+      "bodyWordCount": 958,
+      "contentSha256": "e26736ad40cf32ab4779078f023d89155e946b2eed304fe198f05c57488ab723",
+      "imagePath": "/thumbnails/water-well-service-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/water-treatment-equipment-service-call-intake"
+    },
+    {
+      "slug": "commercial-dock-leveler-service-call-intake",
+      "topic": "How can reception record dock position, load, damage, traffic impact, and lockout status without directing equipment operation?",
+      "sourcePath": "content/blog/commercial-dock-leveler-service-call-intake.md",
+      "route": "/blog/commercial-dock-leveler-service-call-intake",
+      "source": "https://www.osha.gov/materials-handling",
+      "bodyWordCount": 916,
+      "contentSha256": "05cd8dbb33bf34c0e80485e7811dd29500f5c16bf240b31ff06979ad9536a7c9",
+      "imagePath": "/thumbnails/commercial-equipment-warranty-call-intake.svg",
+      "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-dock-leveler-service-call-intake"
+    }
+  ]
+}
