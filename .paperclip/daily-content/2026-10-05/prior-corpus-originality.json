@@ -30,7 +30,7 @@
     {
       "slug": "orthodontic-appliance-problem-call-routing",
       "maxPriorFiveWordShingleJaccard": {
-        "value": 0.003335,
+        "value": 0.003325,
         "item": "blog/hvac-refrigerant-leak-call-boundaries"
       },
       "nearestPriorSlug": {
@@ -54,7 +54,7 @@
     {
       "slug": "home-oxygen-equipment-service-call-routing",
       "maxPriorFiveWordShingleJaccard": {
-        "value": 0.003412,
+        "value": 0.003393,
         "item": "blog/generator-maintenance-service-call-intake"
       },
       "nearestPriorSlug": {

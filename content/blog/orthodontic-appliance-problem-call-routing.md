@@ -34,7 +34,7 @@ When an approved trigger is present, follow the stated emergency or clinician-co
 
 Do not weaken a trigger because the schedule is full. Do not strengthen a description because the caller sounds anxious. The script should work the same way across weekday, lunch, and after-hours coverage. If the policy is unclear, escalate to the designated clinical owner rather than inventing a threshold.
 
-The [American Dental Association's dental emergency information](https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies) can inform the practice's policies. A call handler should rely on the practice's approved instructions for an individual caller, not interpret general online guidance as a patient-specific recommendation.
+The [American Dental Association's dental emergency guidance](https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf) can inform the practice's policies. A call handler should rely on the practice's approved instructions for an individual caller, not interpret general guidance as a patient-specific recommendation.
 
 ## Keep home-care questions with the clinical team
 

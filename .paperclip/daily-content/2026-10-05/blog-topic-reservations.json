@@ -23,7 +23,7 @@
       "slug": "orthodontic-appliance-problem-call-routing",
       "pillar": "healthcare appointment intake",
       "readerDecision": "How should a call handler separate appointment logistics from clinical assessment when an appliance breaks or irritates tissue?",
-      "primarySource": "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies"
+      "primarySource": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf"
     },
     {
       "slug": "funeral-monument-installation-call-intake",
@@ -35,7 +35,7 @@
       "slug": "home-oxygen-equipment-service-call-routing",
       "pillar": "medical-equipment service intake",
       "readerDecision": "How can reception route equipment trouble urgently while avoiding clinical or repair instructions?",
-      "primarySource": "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices"
+      "primarySource": "https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home"
     },
     {
       "slug": "asbestos-inspection-scheduling-call-intake",

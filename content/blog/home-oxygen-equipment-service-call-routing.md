@@ -40,7 +40,7 @@ Ask what the caller sees, hears, or smells, when it started, and what was happen
 
 Do not translate those observations into a diagnosis such as battery failure, blocked tubing, bad sensor, or inadequate oxygen delivery. Do not instruct the caller to open a cover, repair a connection, bypass an alarm, or use an unapproved power source. Technical support decides which scripted checks are permitted for that device and caller.
 
-The [FDA's home-use medical device resources](https://www.fda.gov/medical-devices/home-use-devices/home-use-devices) are useful background for provider policies on equipment used outside clinical facilities. The supplier should turn device instructions, manufacturer material, prescriptions, and applicable requirements into an exact support process. Reception should not browse general guidance to troubleshoot a live call.
+The [FDA's guidance on unique considerations for home-use devices](https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home) is useful background for provider policies on equipment used outside clinical facilities, including power, backup supplies, alarms, and supplemental-oxygen fire risk. The supplier should turn device instructions, manufacturer material, prescriptions, and applicable requirements into an exact support process. Reception should not browse general guidance to troubleshoot a live call.
 
 ## Distinguish equipment service from supply fulfillment
 

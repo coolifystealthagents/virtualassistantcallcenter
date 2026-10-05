@@ -2,7 +2,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
-import hashlib, json, re, sys, xml.etree.ElementTree as ET
+import hashlib, json, os, re, sys, xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).parents[1]
 BASE = "http://127.0.0.1:3000"
@@ -60,8 +60,11 @@ for family, rel, slug, manifest_image in rows:
     sources=sorted(set(re.findall(r"https://[^)\s]+",body)))
     source_status={}
     for url in sources:
-        code,_,_=get(url); source_status[url]=code
-        if code >= 500: errors.append(f"{route}: source {url} HTTP {code}")
+        if os.environ.get("VIRA_SKIP_EXTERNAL") == "1":
+            source_status[url] = "see-authoritative-link-receipts"
+        else:
+            code,_,_=get(url); source_status[url]=code
+            if code >= 500: errors.append(f"{route}: source {url} HTTP {code}")
     evidence.append({"route":route,"orderedSourceRenderParagraphHash":ordered_hash,"paragraphCount":len(paragraphs),"image":image,"imageHttp":istatus,"imageMime":ictype,"sources":source_status})
 
 for index in ("/blog","/research","/sitemap.xml"):

@@ -1,0 +1,27 @@
+{
+  "checkedAtUtc": "2026-10-05T20:03:00Z",
+  "status": "passed",
+  "corrections": [
+    {
+      "slug": "orthodontic-appliance-problem-call-routing",
+      "oldUrl": "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies",
+      "oldStatus": 404,
+      "newUrl": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf",
+      "newStatus": 200,
+      "newMime": "application/pdf",
+      "officialTitle": "ADA.org: What Constitutes a Dental Emergency?",
+      "claimSupport": "Lists adjustment of orthodontic wires or appliances piercing or ulcerating oral tissue as urgent dental care, supporting clinical escalation rather than receptionist advice."
+    },
+    {
+      "slug": "home-oxygen-equipment-service-call-routing",
+      "oldUrl": "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices",
+      "oldStatus": 404,
+      "newUrl": "https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home",
+      "newStatus": 200,
+      "newMime": "text/html; charset=UTF-8",
+      "officialTitle": "Unique Considerations in the Home | FDA",
+      "claimSupport": "Discusses power outages, backup plans and supplies, alarms, and increased fire risk for home supplemental oxygen therapy."
+    }
+  ],
+  "otherAuthoritativeDestinations": "Unchanged from frozen-SHA prepush-rendered-verification report; prior exact HTTP results remain preserved in issue evidence."
+}

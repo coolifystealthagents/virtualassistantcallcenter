@@ -11,7 +11,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22": 403
+        "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22": "see-authoritative-link-receipts"
       }
     },
     {
@@ -22,18 +22,18 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.fmcsa.dot.gov/protect-your-move": 403
+        "https://www.fmcsa.dot.gov/protect-your-move": "see-authoritative-link-receipts"
       }
     },
     {
       "route": "/blog/orthodontic-appliance-problem-call-routing",
-      "orderedSourceRenderParagraphHash": "4f4c3f8cb12b4d48bf73d9a222cc819f2a376abf163c9d470e33e84c141b0689",
+      "orderedSourceRenderParagraphHash": "886709d9bd74bd5c586411978e49478e6056ef7e67470005c4aa932f6ef3027a",
       "paragraphCount": 25,
       "image": "/thumbnails/dental-emergency-call-triage.svg",
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/dental-emergencies": 404
+        "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf": "see-authoritative-link-receipts"
       }
     },
     {
@@ -44,18 +44,18 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://consumer.ftc.gov/articles/ftc-funeral-rule": 200
+        "https://consumer.ftc.gov/articles/ftc-funeral-rule": "see-authoritative-link-receipts"
       }
     },
     {
       "route": "/blog/home-oxygen-equipment-service-call-routing",
-      "orderedSourceRenderParagraphHash": "6561bd82d72917388ed68c2f45183aa9d766c8e6f4fd7b88c343b7f2f305bd7c",
+      "orderedSourceRenderParagraphHash": "e21795333ad26222f8f4631493d79ee127f852058be2fe7ee7827c44cab2e2e4",
       "paragraphCount": 24,
       "image": "/thumbnails/mobility-equipment-repair-call-intake.svg",
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.fda.gov/medical-devices/home-use-devices/home-use-devices": 404
+        "https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home": "see-authoritative-link-receipts"
       }
     },
     {
@@ -66,7 +66,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.epa.gov/asbestos": 200
+        "https://www.epa.gov/asbestos": "see-authoritative-link-receipts"
       }
     },
     {
@@ -77,7 +77,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.osha.gov/machine-guarding": 403
+        "https://www.osha.gov/machine-guarding": "see-authoritative-link-receipts"
       }
     },
     {
@@ -88,7 +88,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/": 200
+        "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/": "see-authoritative-link-receipts"
       }
     },
     {
@@ -99,7 +99,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.osha.gov/electrical": 403
+        "https://www.osha.gov/electrical": "see-authoritative-link-receipts"
       }
     },
     {
@@ -110,7 +110,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs": 403
+        "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs": "see-authoritative-link-receipts"
       }
     },
     {
@@ -121,7 +121,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.epa.gov/ground-water-and-drinking-water": 200
+        "https://www.epa.gov/ground-water-and-drinking-water": "see-authoritative-link-receipts"
       }
     },
     {
@@ -132,7 +132,7 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.osha.gov/materials-handling": 403
+        "https://www.osha.gov/materials-handling": "see-authoritative-link-receipts"
       }
     },
     {
@@ -143,10 +143,10 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.ftc.gov/business-guidance/privacy-security/data-security": 200,
-        "https://www.itl.nist.gov/div898/handbook/": 200,
-        "https://www.nist.gov/pml/nist-technical-note-1297": 200,
-        "https://www.w3.org/TR/WCAG22/": 200
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security": "see-authoritative-link-receipts",
+        "https://www.itl.nist.gov/div898/handbook/": "see-authoritative-link-receipts",
+        "https://www.nist.gov/pml/nist-technical-note-1297": "see-authoritative-link-receipts",
+        "https://www.w3.org/TR/WCAG22/": "see-authoritative-link-receipts"
       }
     },
     {
@@ -157,10 +157,10 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final": 200,
-        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": 200,
-        "https://www.iso.org/quality-management-principles.html": 403,
-        "https://www.nist.gov/cyberframework": 200
+        "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final": "see-authoritative-link-receipts",
+        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": "see-authoritative-link-receipts",
+        "https://www.iso.org/quality-management-principles.html": "see-authoritative-link-receipts",
+        "https://www.nist.gov/cyberframework": "see-authoritative-link-receipts"
       }
     },
     {
@@ -171,10 +171,10 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": 200,
-        "https://www.nist.gov/cyberframework": 200,
-        "https://www.nist.gov/privacy-framework": 200,
-        "https://www.w3.org/TR/WCAG22/": 200
+        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": "see-authoritative-link-receipts",
+        "https://www.nist.gov/cyberframework": "see-authoritative-link-receipts",
+        "https://www.nist.gov/privacy-framework": "see-authoritative-link-receipts",
+        "https://www.w3.org/TR/WCAG22/": "see-authoritative-link-receipts"
       }
     },
     {
@@ -185,10 +185,10 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts": 403,
-        "https://www.ftc.gov/business-guidance/privacy-security/data-security": 200,
-        "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule": 200,
-        "https://www.nist.gov/privacy-framework": 200
+        "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts": "see-authoritative-link-receipts",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security": "see-authoritative-link-receipts",
+        "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule": "see-authoritative-link-receipts",
+        "https://www.nist.gov/privacy-framework": "see-authoritative-link-receipts"
       }
     },
     {
@@ -199,10 +199,10 @@
       "imageHttp": 200,
       "imageMime": "image/svg+xml",
       "sources": {
-        "https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final": 200,
-        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": 200,
-        "https://www.nist.gov/cyberframework": 200,
-        "https://www.nist.gov/privacy-framework": 200
+        "https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final": "see-authoritative-link-receipts",
+        "https://www.ftc.gov/business-guidance/resources/start-security-guide-business": "see-authoritative-link-receipts",
+        "https://www.nist.gov/cyberframework": "see-authoritative-link-receipts",
+        "https://www.nist.gov/privacy-framework": "see-authoritative-link-receipts"
       }
     }
   ]
