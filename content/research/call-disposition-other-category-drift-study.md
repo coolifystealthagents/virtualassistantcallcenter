@@ -3,7 +3,7 @@ slug: call-disposition-other-category-drift-study
 title: When “Other” Takes Over: Studying Call-Disposition Category Drift
 description: A research protocol for detecting when an Other label hides new demand, unclear definitions, or avoidable classification work.
 published: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-06
 category: Research
 image: /thumbnails/call-disposition-other-category-drift-study.svg
 imageAlt: Illustrated virtual call center workspace representing when “other” takes over: studying call-disposition category drift
@@ -58,6 +58,8 @@ Statistical significance is not the same as operational importance. Define a pra
 Report findings in a table with counts, denominators, rates, absolute differences, and uncertainty where calculated. Follow the table with a plain-language account of what changed, for whom, and under which conditions. Distinguish observed findings from explanations. If the result is mixed, say so and identify the next narrow question rather than forcing a positive conclusion.
 
 A reasonable decision rule has three paths. Adopt when the primary outcome improves beyond the preset practical threshold and guardrails remain stable. Revise and retest when process evidence suggests the idea is sound but execution is inconsistent. Stop when the outcome does not improve, burdens rise, or safe operation depends on exceptions that cannot be sustained.
+
+When the review shows a repeatable category problem, a [call disposition reporting workflow](/services/call-disposition-reporting) can prepare the queue, source records, and exception log for review. The business owner still defines the categories, approves changes, and decides how exceptions are handled.
 
 ## Conclusion
 
