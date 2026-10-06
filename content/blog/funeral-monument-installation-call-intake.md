@@ -2,8 +2,8 @@
 slug: funeral-monument-installation-call-intake
 title: Funeral monument calls: keep family decisions, cemetery rules, and installation separate
 description: A sensitive intake guide for monument inquiries, inscription requests, cemetery coordination, permissions, and installation scheduling.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: sensitive-professional-services-intake
 image: /thumbnails/call-answering-for-memorial-service-directors.svg
 imageAlt: Memorial service call handler recording cemetery and monument project details
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Funeral monument calls: keep family decisions, cemetery rules, and installation separate
 
-*October 5, 2026*
+*October 6, 2026*
 
 A monument inquiry can arrive months after a death, during an anniversary, or while several relatives are still deciding what they want. The caller may ask about a new marker, an added inscription, cleaning, repair, delivery, or an installation date. Reception should make the next conversation easier without treating a preliminary request as family authorization or cemetery approval.
 

@@ -2,8 +2,8 @@
 slug: callback-preference-conflict-resolution-study
 title: Which callback preference should govern when customer records conflict?
 description: Research into channel, number, timing, consent, and freshness conflicts before a virtual assistant initiates or queues a callback.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: Callback research
 image: /thumbnails/preferred-contact-channel-capture-study.svg
 imageAlt: Callback preference research comparing conflicting channel, number, time, consent, and source records

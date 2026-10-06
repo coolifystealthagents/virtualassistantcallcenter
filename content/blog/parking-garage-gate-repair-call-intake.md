@@ -2,8 +2,8 @@
 slug: parking-garage-gate-repair-call-intake
 title: Parking garage gate calls: separate trapped vehicles from routine access service
 description: A service-intake guide for moving-gate hazards, trapped vehicles, credential failures, lane impact, and repair dispatch.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: access-system-field-service
 image: /thumbnails/garage-door-trapped-vehicle-call-intake.svg
 imageAlt: Dispatcher mapping a parking garage gate failure and affected traffic lane
@@ -12,7 +12,7 @@ related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
 
 # Parking garage gate calls: separate trapped vehicles from routine access service
 
-*October 5, 2026*
+*October 6, 2026*
 
 A broken garage gate can be a credential problem, a traffic bottleneck, a vehicle trapped inside, or a moving mechanical hazard. Reception needs to identify which situation is happening before asking about contracts and appointment windows. The agent should route facts, not coach a caller through a bypass.
 

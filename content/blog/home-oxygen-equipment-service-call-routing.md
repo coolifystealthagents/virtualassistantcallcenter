@@ -2,8 +2,8 @@
 slug: home-oxygen-equipment-service-call-routing
 title: Home oxygen equipment calls: route device problems without giving clinical advice
 description: A call-routing framework for oxygen equipment service reports, supply requests, power concerns, travel questions, and urgent symptom escalation.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: medical-equipment-service-intake
 image: /thumbnails/mobility-equipment-repair-call-intake.svg
 imageAlt: Medical equipment service agent routing a home oxygen device call
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Home oxygen equipment calls: route device problems without giving clinical advice
 
-*October 5, 2026*
+*October 6, 2026*
 
 Home oxygen calls combine equipment logistics with health concerns. A patient may report an alarm, an empty cylinder, a delayed delivery, a concentrator that stopped during an outage, or shortness of breath while asking whether the machine is working. Reception must separate the service facts it can collect from clinical and technical decisions it cannot make.
 

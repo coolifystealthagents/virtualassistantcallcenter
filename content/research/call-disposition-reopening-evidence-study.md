@@ -2,8 +2,8 @@
 slug: call-disposition-reopening-evidence-study
 title: What evidence should reopen a completed call disposition?
 description: Research into corrections, later evidence, and ownership when a closed call record no longer describes the caller's request.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: Disposition research
 image: /thumbnails/call-disposition-reporting-manager-review.svg
 imageAlt: Disposition record showing an original classification, new evidence, approval, and a traceable corrected state

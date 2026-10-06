@@ -2,8 +2,8 @@
 slug: piano-moving-estimate-call-intake
 title: Piano-moving estimate calls: document the route before anyone quotes the job
 description: A practical intake guide for piano details, stairs, turns, property access, timing, and estimate handoff boundaries.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: specialty-moving-intake
 image: /thumbnails/moving-company-estimate-call-intake.svg
 imageAlt: Call handler mapping stairs and access details for a piano-moving estimate
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Piano-moving estimate calls: document the route before anyone quotes the job
 
-*October 5, 2026*
+*October 6, 2026*
 
 "It is an upright going across town" sounds like enough information until a crew reaches a narrow landing, a gravel approach, or a building that only allows moves during a two-hour window. A strong estimate call does not produce a price by intuition. It produces a route record that an estimator can review without making the customer repeat every detail.
 

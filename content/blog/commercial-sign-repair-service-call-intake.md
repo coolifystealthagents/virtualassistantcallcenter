@@ -2,8 +2,8 @@
 slug: commercial-sign-repair-service-call-intake
 title: Commercial sign repair calls: document public exposure before arranging service
 description: An intake process for damaged, dark, flickering, or loose commercial signs, with electrical boundaries and site-access planning.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: commercial-field-service-intake
 image: /thumbnails/sign-company-installation-service-call-intake.svg
 imageAlt: Sign service dispatcher recording damage and pedestrian exposure at a storefront
@@ -12,7 +12,7 @@ related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
 
 # Commercial sign repair calls: document public exposure before arranging service
 
-*October 5, 2026*
+*October 6, 2026*
 
 A sign that is dark is usually a different dispatch problem from a cabinet hanging over a sidewalk. Yet callers may describe both as "the sign is broken." Reception should locate the sign, screen for immediate exposure, capture its observed behavior, and prepare access. It should not ask a store employee to inspect wiring or stabilize a structure.
 

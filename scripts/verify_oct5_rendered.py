@@ -5,7 +5,7 @@ from urllib.error import HTTPError
 import hashlib, json, os, re, sys, xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).parents[1]
-BASE = "http://127.0.0.1:3000"
+BASE = os.environ.get("VIRA_RENDER_BASE", "http://127.0.0.1:3000")
 CYCLE = ROOT / ".paperclip/daily-content/2026-10-05"
 blog = json.loads((CYCLE / "blog-vira-74-manifest.json").read_text())
 research = json.loads((CYCLE / "research-vira-73-manifest.json").read_text())
@@ -36,9 +36,9 @@ for family, rel, slug, manifest_image in rows:
     route=f"/{family}/{slug}"
     status,ctype,data=get(BASE+route); html=data.decode("utf-8","replace")
     if status != 200: errors.append(f"{route}: HTTP {status}")
-    for needle,label in [(title,"title"),("2026-10-05","date"),(f"https://virtualassistantcallcenter.com{route}","canonical")]:
+    for needle,label in [(title,"title"),("2026-10-06","date"),(f"https://virtualassistantcallcenter.com{route}","canonical")]:
         if needle not in html: errors.append(f"{route}: missing {label}")
-    if '"datePublished":"2026-10-05"' not in html: errors.append(f"{route}: datePublished mismatch")
+    if '"datePublished":"2026-10-06"' not in html: errors.append(f"{route}: datePublished mismatch")
     parser=Text(); parser.feed(html); rendered=plain(" ".join(parser.parts))
     paragraphs=[]
     for block in re.split(r"\n\s*\n",body):

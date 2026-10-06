@@ -4,7 +4,7 @@
   "family": "blog",
   "baselineSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
   "siteTimezone": "UTC",
-  "publicationDate": "2026-10-05",
+  "publicationDate": "2026-10-06",
   "validation": {
     "minimumBodyWords": 900,
     "maximumPairwiseFiveWordShingleJaccard": {
@@ -23,7 +23,7 @@
       "route": "/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake",
       "source": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22",
       "bodyWordCount": 1141,
-      "contentSha256": "cfdd2754be955dbbf8cf7cfa3252e17b708bf149ea27d22a43b3a37e32f7dc4a",
+      "contentSha256": "fd3ffbb38ac5c63320276d1df9a9ebbf81b315c8db76a156eb4903ba9ef85b89",
       "imagePath": "/thumbnails/commercial-kitchen-equipment-breakdown-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-kitchen-hood-cleaning-scheduling-call-intake"
     },
@@ -34,7 +34,7 @@
       "route": "/blog/piano-moving-estimate-call-intake",
       "source": "https://www.fmcsa.dot.gov/protect-your-move",
       "bodyWordCount": 1098,
-      "contentSha256": "c6aeba760e588cb05c7610869a0e35c09f591c8d41384079d4bc43730ad4cdff",
+      "contentSha256": "dd067dfc6c09a49082b10b5fb68366ebdf3f38ede937c2e7560c2304117e62d6",
       "imagePath": "/thumbnails/moving-company-estimate-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/piano-moving-estimate-call-intake"
     },
@@ -45,7 +45,7 @@
       "route": "/blog/orthodontic-appliance-problem-call-routing",
       "source": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf",
       "bodyWordCount": 1284,
-      "contentSha256": "621787813a5672a95addc71563416626691c8ca66582f5c939ed9cf648fe942c",
+      "contentSha256": "5a7e5041d19809929badd387b0e2869619757fcb818b112f1d34ec1e17ffd288",
       "imagePath": "/thumbnails/dental-emergency-call-triage.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/orthodontic-appliance-problem-call-routing"
     },
@@ -56,7 +56,7 @@
       "route": "/blog/funeral-monument-installation-call-intake",
       "source": "https://consumer.ftc.gov/articles/ftc-funeral-rule",
       "bodyWordCount": 1090,
-      "contentSha256": "a6bef6247f0c0d377bc0534297910f13708e03e798609485a2476a67946d0272",
+      "contentSha256": "8c6edb209c30374e27762c48aec6c0d825bd31010ffe700a06b8d93ee4451f78",
       "imagePath": "/thumbnails/call-answering-for-memorial-service-directors.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/funeral-monument-installation-call-intake"
     },
@@ -67,7 +67,7 @@
       "route": "/blog/home-oxygen-equipment-service-call-routing",
       "source": "https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home",
       "bodyWordCount": 1141,
-      "contentSha256": "f7d7af0a1a80b8682d0a0b8c4022ab0fc6f96e5b309630c54cb796d378fc3cfb",
+      "contentSha256": "e2caf7071fdc4109030f738b03a97b165e77908a26d1710224df9ea23cc28ffe",
       "imagePath": "/thumbnails/mobility-equipment-repair-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/home-oxygen-equipment-service-call-routing"
     },
@@ -78,7 +78,7 @@
       "route": "/blog/asbestos-inspection-scheduling-call-intake",
       "source": "https://www.epa.gov/asbestos",
       "bodyWordCount": 907,
-      "contentSha256": "5d8e1cdc7516d442ca4517ccd398ce3f782c10d4506197afe9467e790765b778",
+      "contentSha256": "e9c5c536e79fc14c41b01010b49fe8fc68a018cd4487ea4642a3cf113896178f",
       "imagePath": "/thumbnails/home-inspection-call-answering.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/asbestos-inspection-scheduling-call-intake"
     },
@@ -89,7 +89,7 @@
       "route": "/blog/parking-garage-gate-repair-call-intake",
       "source": "https://www.osha.gov/machine-guarding",
       "bodyWordCount": 905,
-      "contentSha256": "ae06b2b51512b901f6f41ba4a1a4a62633d0480d3423385fd6b09729482ef7e6",
+      "contentSha256": "e19bef0f137e9c88d2a34324ce13323b35f7372ac9e84b2d689f9417af30c976",
       "imagePath": "/thumbnails/garage-door-trapped-vehicle-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/parking-garage-gate-repair-call-intake"
     },
@@ -100,7 +100,7 @@
       "route": "/blog/chimney-inspection-scheduling-call-intake",
       "source": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/",
       "bodyWordCount": 973,
-      "contentSha256": "c274483c436c6d8b622f98a852b3aa623df6c0bb8deb4053a6bbbd73958f566e",
+      "contentSha256": "f4bc414afdcf10b01ad409f9c7a0a435caa88368e2c6138672948b0924bbc6d8",
       "imagePath": "/thumbnails/home-inspection-call-answering.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/chimney-inspection-scheduling-call-intake"
     },
@@ -111,7 +111,7 @@
       "route": "/blog/commercial-sign-repair-service-call-intake",
       "source": "https://www.osha.gov/electrical",
       "bodyWordCount": 977,
-      "contentSha256": "7babe3836df3356b99942e473aa7cd8aa0b83e1cd1fc7ae328b3c615f3fa5341",
+      "contentSha256": "057169d364e91ac3578a4fcdd6bcd10e0d251f789e1c3361ee0c7570bcf30bd5",
       "imagePath": "/thumbnails/sign-company-installation-service-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-sign-repair-service-call-intake"
     },
@@ -122,7 +122,7 @@
       "route": "/blog/organ-and-tissue-transport-courier-call-intake",
       "source": "https://www.transportation.gov/briefing-room/usdot-announces-final-rule-transportation-human-organs",
       "bodyWordCount": 954,
-      "contentSha256": "e3880e76ef0dbb61d9b9e85f7365d1bb6158e899739abf3109ded214b265e0cb",
+      "contentSha256": "b8de4a2fb6232f45c15cc578bfed6bfb049f7d66bfce8edc9c9211934dfc8483",
       "imagePath": "/thumbnails/laboratory-specimen-courier-pickup-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/organ-and-tissue-transport-courier-call-intake"
     },
@@ -133,7 +133,7 @@
       "route": "/blog/water-treatment-equipment-service-call-intake",
       "source": "https://www.epa.gov/ground-water-and-drinking-water",
       "bodyWordCount": 958,
-      "contentSha256": "e26736ad40cf32ab4779078f023d89155e946b2eed304fe198f05c57488ab723",
+      "contentSha256": "b9c40b51f474e79680bf5855060a67242d83c47cfbcf0d9967593554b8768d59",
       "imagePath": "/thumbnails/water-well-service-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/water-treatment-equipment-service-call-intake"
     },
@@ -144,7 +144,7 @@
       "route": "/blog/commercial-dock-leveler-service-call-intake",
       "source": "https://www.osha.gov/materials-handling",
       "bodyWordCount": 916,
-      "contentSha256": "05cd8dbb33bf34c0e80485e7811dd29500f5c16bf240b31ff06979ad9536a7c9",
+      "contentSha256": "1c52984b8f18f1d6d1de2af8f2c8f77da3f8da45414e3f18e07c63e1640c11e5",
       "imagePath": "/thumbnails/commercial-equipment-warranty-call-intake.svg",
       "liveUrl": "https://virtualassistantcallcenter.com/blog/commercial-dock-leveler-service-call-intake"
     }

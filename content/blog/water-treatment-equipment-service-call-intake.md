@@ -2,8 +2,8 @@
 slug: water-treatment-equipment-service-call-intake
 title: Water treatment equipment calls: capture changes without declaring water safe
 description: A service-call guide for treatment equipment alarms, leakage, pressure, taste or odor reports, supply status, and technician handoff.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: home-equipment-service-intake
 image: /thumbnails/water-well-service-call-intake.svg
 imageAlt: Water equipment service representative recording an alarm and reported water change
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Water treatment equipment calls: capture changes without declaring water safe
 
-*October 5, 2026*
+*October 6, 2026*
 
 Customers may call because a softener is not cycling, a filter alarm appeared, water tastes different, pressure changed, salt is bridging, or water is leaking near equipment. Reception can organize those observations for service. It cannot test water by phone, certify it as safe, or prescribe a repair.
 

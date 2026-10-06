@@ -42,7 +42,7 @@ manifest = {
     "family": "blog",
     "baselineSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
     "siteTimezone": "UTC",
-    "publicationDate": "2026-10-05",
+    "publicationDate": "2026-10-06",
     "validation": {
         "minimumBodyWords": 900,
         "maximumPairwiseFiveWordShingleJaccard": pairs[0] if pairs else None,

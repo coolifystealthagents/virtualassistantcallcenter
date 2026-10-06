@@ -2,8 +2,8 @@
 slug: queue-overflow-return-path-study
 title: Can an overflowed call return to the right queue without losing ownership?
 description: A research method for following calls through overflow vendors, backup teams, voicemail, and return paths while preserving context and accountability.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: Continuity research
 image: /thumbnails/overflow-call-coverage-without-losing-context.svg
 imageAlt: Overflow call path showing primary queue, backup destination, return event, context record, and accepted owner

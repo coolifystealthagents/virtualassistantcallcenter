@@ -2,8 +2,8 @@
 slug: warm-transfer-consultation-evidence-study
 title: Does a warm-transfer consultation give the receiving owner usable context?
 description: A research design for testing the private consultation step before a caller is connected, including relevance, acceptance, and privacy boundaries.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: Transfer research
 image: /thumbnails/virtual-call-transfer-introduction-study.svg
 imageAlt: Warm transfer research showing caller intake, a bounded consultation, receiver acceptance, and caller reconnection

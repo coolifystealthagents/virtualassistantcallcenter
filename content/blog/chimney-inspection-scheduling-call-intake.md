@@ -2,8 +2,8 @@
 slug: chimney-inspection-scheduling-call-intake
 title: Chimney inspection calls: gather appliance and access facts without a remote safety verdict
 description: A scheduling guide for chimney inspections, reported odors or damage, appliance details, roof access, records, and qualified review.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: home-service-scheduling
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Home service call handler recording chimney appliance and roof access details
@@ -12,7 +12,7 @@ related: /services/appointment-setting, /workflows, /qa-scorecard, /contact
 
 # Chimney inspection calls: gather appliance and access facts without a remote safety verdict
 
-*October 5, 2026*
+*October 6, 2026*
 
 Homeowners call chimney companies before a seasonal fire, after buying a house, during a renovation, or when they notice an odor, stain, sound, or visible change. The first call should prepare a qualified inspection. It should not end with a receptionist declaring the system safe or diagnosing the flue.
 

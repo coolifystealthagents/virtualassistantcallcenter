@@ -2,8 +2,8 @@
 slug: hold-queue-estimate-accuracy-study
 title: When is a hold-queue wait estimate accurate enough to tell a caller?
 description: A research protocol for comparing announced wait estimates with caller-level outcomes without turning a forecast into a promise.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: Queue research
 image: /thumbnails/virtual-call-center-hold-message-comprehension-study.svg
 imageAlt: Queue research timeline comparing an announced wait estimate with connection, callback, and abandonment outcomes

@@ -2,8 +2,8 @@
 slug: orthodontic-appliance-problem-call-routing
 title: Orthodontic appliance problem calls: route symptoms without practicing dentistry
 description: A call-routing guide for broken brackets, loose wires, lost aligners, discomfort, and appointment requests that need clinical review.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: healthcare-appointment-intake
 image: /thumbnails/dental-emergency-call-triage.svg
 imageAlt: Orthodontic office receptionist routing an appliance problem to a clinical team member
@@ -12,7 +12,7 @@ related: /services/appointment-setting, /workflows, /qa-scorecard, /contact
 
 # Orthodontic appliance problem calls: route symptoms without practicing dentistry
 
-*October 5, 2026*
+*October 6, 2026*
 
 A parent says a wire is poking their child. An aligner patient has lost the next tray. Someone else reports swelling after a bracket came loose. All three callers may ask the receptionist the same question: "Can this wait?" The answer belongs to the practice's clinical team, not to a virtual receptionist working from a scheduling screen.
 

@@ -2,8 +2,8 @@
 slug: commercial-kitchen-hood-cleaning-scheduling-call-intake
 title: Commercial kitchen hood-cleaning calls: schedule access without guessing at service scope
 description: A phone-intake workflow for restaurant exhaust-cleaning requests, access constraints, shutdown timing, and conditions that need technical review.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: field-service-intake
 image: /thumbnails/commercial-kitchen-equipment-breakdown-call-intake.svg
 imageAlt: Restaurant manager giving access details for a kitchen exhaust service visit
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Commercial kitchen hood-cleaning calls: schedule access without guessing at service scope
 
-*October 5, 2026*
+*October 6, 2026*
 
 A restaurant manager may call about a routine cleaning, a failed inspection, grease found near a fan, or an exhaust system that is no longer working as expected. Those calls share a phone number, but they do not share the same next step. A receptionist can gather the scheduling facts and direct observations that a service coordinator needs. The receptionist should not decide whether the system is safe, compliant, or ready to operate.
 

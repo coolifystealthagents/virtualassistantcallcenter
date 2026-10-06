@@ -2,8 +2,8 @@
 slug: asbestos-inspection-scheduling-call-intake
 title: Asbestos inspection calls: schedule the survey without identifying material by phone
 description: A practical intake workflow for building history, planned disturbance, access, occupants, records, and qualified asbestos inspection review.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: regulated-inspection-intake
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Inspection coordinator reviewing building and access details from a caller
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Asbestos inspection calls: schedule the survey without identifying material by phone
 
-*October 5, 2026*
+*October 6, 2026*
 
 A caller may describe old pipe insulation, ceiling texture, flooring, siding, or debris and ask, "Is this asbestos?" A receptionist cannot answer from a description or photograph. The useful job is to understand why the caller needs an inspection, whether material has already been disturbed, who controls the property, and what a qualified inspector needs before accepting the work.
 

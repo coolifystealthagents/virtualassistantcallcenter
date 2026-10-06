@@ -6,7 +6,7 @@ import re
 import sys
 
 ROOT = Path(__file__).parents[1]
-DATE = "2026-10-05"
+DATE = "2026-10-06"
 blog_manifest = json.loads((ROOT / ".paperclip/daily-content/2026-10-05/blog-vira-74-manifest.json").read_text())
 research_manifest = json.loads((ROOT / ".paperclip/daily-content/2026-10-05/research-vira-73-manifest.json").read_text())
 

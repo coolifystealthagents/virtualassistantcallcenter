@@ -11,7 +11,7 @@
   "baseSha": "ba75b4fc3189bf5e5e19b81f6727523c614c2a9a",
   "contentCommitSha": "448b135eb22a769717fc7cb433db8d46a6a4d903",
   "siteTimezone": "UTC (app/content-article.tsx)",
-  "publicationDateCandidate": "2026-10-05",
+  "publicationDateCandidate": "2026-10-06",
   "publicationDateRule": "Blog integrator must reconcile every date field to the actual first-publication date in UTC immediately before the sole combined push; these items are not yet public.",
   "inventoryAudit": {
     "existingResearchCountBeforeDrafts": 226,
@@ -33,7 +33,7 @@
       "queue-overflow-return-path-study": 1373
     },
     "maxPairwiseFiveWordShingleJaccard": 0.010932,
-    "maxExistingInventoryFiveWordShingleJaccard": 0.020220,
+    "maxExistingInventoryFiveWordShingleJaccard": 0.02022,
     "repeatedSubstantiveParagraphCount": 0,
     "qualitativeOriginalityAudit": "Passed. The five articles use distinct questions, event models, evidence structures, failure modes, and reader decisions: estimate calibration, append-only disposition correction, consultation claim fidelity, preference precedence, and overflow return continuity. No shared worked example or repeated argument sequence was found.",
     "renderedMetadata": "all five built routes contain the candidate date and exact production canonical URL",
@@ -44,35 +44,35 @@
       "slug": "hold-queue-estimate-accuracy-study",
       "topic": "caller-level calibration of announced hold estimates",
       "contentPath": "content/research/hold-queue-estimate-accuracy-study.md",
-      "contentSha256": "49e306aa120cd79a96cca8c101f5be25673ccd74f56bd2eff2f26c057de180ed",
+      "contentSha256": "d2ff76e712ac9275c54e40f12e725a7cf9037c38e380fe418d04fc09fa7cf854",
       "liveUrl": "https://virtualassistantcallcenter.com/research/hold-queue-estimate-accuracy-study"
     },
     {
       "slug": "call-disposition-reopening-evidence-study",
       "topic": "evidence and provenance for reopening completed dispositions",
       "contentPath": "content/research/call-disposition-reopening-evidence-study.md",
-      "contentSha256": "1e0f2dce965560c0b6c02ce9cf22ad4bc163b0942f80804dd429e843bb714803",
+      "contentSha256": "ca7bf4881278363162254bdf347dd48121031ac87f0dcffdb084026e90cb49d1",
       "liveUrl": "https://virtualassistantcallcenter.com/research/call-disposition-reopening-evidence-study"
     },
     {
       "slug": "warm-transfer-consultation-evidence-study",
       "topic": "claim-level fidelity and privacy in warm-transfer consultations",
       "contentPath": "content/research/warm-transfer-consultation-evidence-study.md",
-      "contentSha256": "17f56fa84989dc12b2af2cb402cdef28e16afa732a0cbf97533233b5d425864e",
+      "contentSha256": "89083ae16c016ab637c67c89ec747355c54c65e422cadc5c8410e76b9de15b9b",
       "liveUrl": "https://virtualassistantcallcenter.com/research/warm-transfer-consultation-evidence-study"
     },
     {
       "slug": "callback-preference-conflict-resolution-study",
       "topic": "purpose-scoped precedence for conflicting callback preferences",
       "contentPath": "content/research/callback-preference-conflict-resolution-study.md",
-      "contentSha256": "d6bed299419482f0e6858eee331ef9a8a80afa27bf1779a509a2bd5b6b59f155",
+      "contentSha256": "a3a44224c06b706ab2ad3d46cb473409f07f2639447c5eaefb5f529cd3fe949f",
       "liveUrl": "https://virtualassistantcallcenter.com/research/callback-preference-conflict-resolution-study"
     },
     {
       "slug": "queue-overflow-return-path-study",
       "topic": "end-to-end ownership when overflow work returns to the primary operation",
       "contentPath": "content/research/queue-overflow-return-path-study.md",
-      "contentSha256": "0d1aa858bb2fd5b40f96349fac341ba1e1908be430b4d8200a54985d7aca927d",
+      "contentSha256": "799b164561120fc95ce8a73f3bde1a667a62dc0e377292c86b24b76bd7d29ff4",
       "liveUrl": "https://virtualassistantcallcenter.com/research/queue-overflow-return-path-study"
     }
   ],

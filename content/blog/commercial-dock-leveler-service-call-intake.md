@@ -2,8 +2,8 @@
 slug: commercial-dock-leveler-service-call-intake
 title: Dock leveler service calls: capture position, load, and traffic before dispatch
 description: An industrial service-intake guide for dock leveler failures, trailer position, visible damage, traffic impact, and safe technician access.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: industrial-field-service-intake
 image: /thumbnails/commercial-equipment-warranty-call-intake.svg
 imageAlt: Industrial service dispatcher recording a dock leveler failure and bay status
@@ -12,7 +12,7 @@ related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
 
 # Dock leveler service calls: capture position, load, and traffic before dispatch
 
-*October 5, 2026*
+*October 6, 2026*
 
 A dock leveler call can involve a bay out of service, a trailer waiting, a platform stopped in an unusual position, or reported damage after an impact. The dispatcher needs a precise picture before assigning service. Reception should gather that picture without telling warehouse staff to operate, enter, block, or repair the equipment.
 

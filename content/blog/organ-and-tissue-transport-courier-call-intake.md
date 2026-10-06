@@ -2,8 +2,8 @@
 slug: organ-and-tissue-transport-courier-call-intake
 title: Organ and tissue courier calls: preserve custody and timing without making clinical decisions
 description: A time-critical intake framework for authorized pickup, destination, package references, custody, flight details, and exception escalation.
-published: 2026-10-05
-updated: 2026-10-05
+published: 2026-10-06
+updated: 2026-10-06
 category: time-critical-courier-intake
 image: /thumbnails/laboratory-specimen-courier-pickup-call-intake.svg
 imageAlt: Medical courier coordinator verifying a time-critical pickup and custody handoff
@@ -12,7 +12,7 @@ related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
 
 # Organ and tissue courier calls: preserve custody and timing without making clinical decisions
 
-*October 5, 2026*
+*October 6, 2026*
 
 Time-critical medical transport calls demand accuracy, but urgency does not expand a receptionist's authority. The call handler can authenticate the request, preserve identifiers, establish pickup and delivery ownership, and escalate exceptions. Clinical suitability, packaging, acceptance, and transport decisions belong to authorized medical and logistics personnel.
 
