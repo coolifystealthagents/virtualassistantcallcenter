@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-10-04
+Updated: 2026-10-07
 
 ## Scope
 
@@ -21,20 +21,12 @@ This is an editorial inventory for existing Philippines-based call-support servi
 | Call quality assurance | `/services/call-quality-assurance` | Review a sample of calls against a defined scorecard and owner rules. | `/research/call-quality-sampling-methodology` | The research route links from a documented audit record to the QA lane. | Verified 2026-09-05; non-duplicable |
 | Call disposition reporting | `/services/call-disposition-reporting` | Apply approved disposition codes and send ambiguous, financial, or policy cases to the owner. | `/blog/nonprofit-donor-service-call-workflow` | The guide includes the disposition service in its route-local related path. | Existing; non-duplicable |
 
-## Verified-absent candidate
+## Reconciled delivery
 
-| Service pillar | Existing service URL | Supporting-page intent | Verified supporting route | Artifact finding | Status |
+| Service pillar | Existing service URL | Supporting-page intent | Verified supporting route | Fresh artifact finding | Status |
 | --- | --- | --- | --- | --- | --- |
-| Call disposition reporting | `/services/call-disposition-reporting` | Test whether an expanding "Other" category hides calls that need a defined disposition or owner review. | `/research/call-disposition-other-category-drift-study` | Fresh 2026-10-04 build confirmed the source and target are self-canonical and sitemap-listed; the source route-local `<main>` contains zero links to this service. | Candidate only; one bounded contextual-link release may follow |
-
-## Selection rules
-
-1. Verify the source route, target service route, target H1, source sitemap entry, and the exact existing paragraph or related-link context before changing copy.
-2. Link from a sentence that answers the reader's next question. Do not add a generic "learn more" link or a repeated footer-style CTA.
-3. Use plain language. Keep Philippines-based scope, owner approvals, and regulated or sensitive decisions with the buyer's team.
-4. Update the source route's `updated` date only when public content changes. Then verify the rendered link, Article schema date, canonical, and sitemap behavior after the build.
-5. Use one source route per rendered release. Do not batch this inventory into a sitewide link insertion.
+| Call disposition reporting | `/services/call-disposition-reporting` | Test whether an expanding "Other" category hides calls that need a defined disposition or owner review. | `/research/call-disposition-other-category-drift-study` | Fresh 2026-10-07 build confirmed source and target self-canonicals, both sitemap locations, and exactly one target link inside the source route-local `<main>`. | Delivered in source at `b05a7a40b2f580590cd9bffbbd36bc936a448dcb`; non-duplicable |
 
 ## Next safe action
 
-A distinct source-to-service candidate is now recorded above. Before a rendered change, recheck the built route-local `<main>` so the target remains absent, then add one contextual sentence only if it helps a reader decide how to classify a call and preserves owner review. Refresh the source route's `updated` value only with that rendered change; do not add another sitewide or footer-style link.
+This delivery is complete in the rendered source and must not be recreated. Before selecting another Call Disposition Reporting handoff, inventory its source route and target service in a fresh build and confirm that the reader's next decision is distinct from the category-drift review.
