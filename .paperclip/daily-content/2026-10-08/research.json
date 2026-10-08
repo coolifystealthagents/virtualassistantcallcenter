@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "callback-delay-outcome-evidence-study",
+    "route": "/research/callback-delay-outcome-evidence-study",
+    "sourcePath": "content/research/callback-delay-outcome-evidence-study.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "56076b05119c6937b906287afb347e2c2661c065190d76e9081fa3c1b9f25db5",
+    "sources": [
+      "https://www.nist.gov/privacy-framework",
+      "https://www.nist.gov/cyberframework",
+      "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+      "https://www.cisa.gov/topics/cyber-threats-and-advisories/identity-and-access-management",
+      "https://consumercomplaints.fcc.gov/hc/en-us",
+      "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+      "https://www.w3.org/TR/WCAG22/",
+      "https://www.gao.gov/products/gao-14-704g",
+      "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+      "https://pages.nist.gov/800-63-4/"
+    ]
+  },
+  {
+    "slug": "warm-transfer-failure-pattern-study",
+    "route": "/research/warm-transfer-failure-pattern-study",
+    "sourcePath": "content/research/warm-transfer-failure-pattern-study.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "5840375e7969edb19c337228582cdd6e235165cddf52f483091b146b8dcc3e19",
+    "sources": [
+      "https://www.nist.gov/privacy-framework",
+      "https://www.nist.gov/cyberframework",
+      "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+      "https://www.cisa.gov/topics/cyber-threats-and-advisories/identity-and-access-management",
+      "https://consumercomplaints.fcc.gov/hc/en-us",
+      "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+      "https://www.w3.org/TR/WCAG22/",
+      "https://www.gao.gov/products/gao-14-704g",
+      "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+      "https://pages.nist.gov/800-63-4/"
+    ]
+  },
+  {
+    "slug": "caller-repetition-burden-evidence-review",
+    "route": "/research/caller-repetition-burden-evidence-review",
+    "sourcePath": "content/research/caller-repetition-burden-evidence-review.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "2a0cd58d5456ff96cc9d3bf0d033923915468bd77ab1a8186a3b03fd80577074",
+    "sources": [
+      "https://www.nist.gov/privacy-framework",
+      "https://www.nist.gov/cyberframework",
+      "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+      "https://www.cisa.gov/topics/cyber-threats-and-advisories/identity-and-access-management",
+      "https://consumercomplaints.fcc.gov/hc/en-us",
+      "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+      "https://www.w3.org/TR/WCAG22/",
+      "https://www.gao.gov/products/gao-14-704g",
+      "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+      "https://pages.nist.gov/800-63-4/"
+    ]
+  },
+  {
+    "slug": "call-disposition-reviewer-agreement-study",
+    "route": "/research/call-disposition-reviewer-agreement-study",
+    "sourcePath": "content/research/call-disposition-reviewer-agreement-study.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "75b4c08eabaa17b91a4a9d2029141ad2fd6b11e7e29b21dcb5f541908521ea40",
+    "sources": [
+      "https://www.nist.gov/privacy-framework",
+      "https://www.nist.gov/cyberframework",
+      "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+      "https://www.cisa.gov/topics/cyber-threats-and-advisories/identity-and-access-management",
+      "https://consumercomplaints.fcc.gov/hc/en-us",
+      "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+      "https://www.w3.org/TR/WCAG22/",
+      "https://www.gao.gov/products/gao-14-704g",
+      "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+      "https://pages.nist.gov/800-63-4/"
+    ]
+  },
+  {
+    "slug": "call-script-change-effect-study",
+    "route": "/research/call-script-change-effect-study",
+    "sourcePath": "content/research/call-script-change-effect-study.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "79b8f95eee4f594a9d9e54fa40d17bea64dfa0a17c5ed4056d6a6bb40a367e7a",
+    "sources": [
+      "https://www.nist.gov/privacy-framework",
+      "https://www.nist.gov/cyberframework",
+      "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+      "https://www.cisa.gov/topics/cyber-threats-and-advisories/identity-and-access-management",
+      "https://consumercomplaints.fcc.gov/hc/en-us",
+      "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+      "https://www.w3.org/TR/WCAG22/",
+      "https://www.gao.gov/products/gao-14-704g",
+      "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+      "https://pages.nist.gov/800-63-4/"
+    ]
+  }
+]

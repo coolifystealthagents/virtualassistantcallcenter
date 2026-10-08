@@ -365,7 +365,7 @@
   },
   {
     "slug": "consent-withdrawal-propagation-study",
-    "title": "Does a caller\u2019s withdrawal of contact consent reach every follow-up queue?",
+    "title": "Does a caller’s withdrawal of contact consent reach every follow-up queue?",
     "category": "Research",
     "image": "/thumbnails/consent-withdrawal-propagation-study.svg",
     "imageAlt": "Consent withdrawal study connecting the caller request, suppression record, active queues, owner review, and correction"
@@ -386,7 +386,7 @@
   },
   {
     "slug": "language-assistance-request-routing-study",
-    "title": "Does phone intake preserve and route a caller\u2019s language-assistance request?",
+    "title": "Does phone intake preserve and route a caller’s language-assistance request?",
     "category": "Research",
     "image": "/thumbnails/language-assistance-request-routing-study.svg",
     "imageAlt": "Language assistance study connecting caller preference, approved capability, routing destination, acknowledgment, and fallback"
@@ -432,5 +432,124 @@
     "category": "Callback research",
     "image": "/thumbnails/callback-number-correction-propagation-study.svg",
     "imageAlt": "Callback number correction study connecting caller correction, authoritative record, active queues, old-number suppression, and closure"
+  },
+  {
+    "slug": "after-hours-callback-owner-check",
+    "title": "Assign an Owner Before Promising an After-Hours Callback",
+    "category": "Call operations",
+    "image": "/thumbnails/after-hours-callback-owner-check.svg",
+    "imageAlt": "Editorial diagram for Assign an Owner Before Promising an After-Hours Callback, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "bilingual-call-queue-handoff",
+    "title": "Design a Bilingual Call Queue Handoff",
+    "category": "Call operations",
+    "image": "/thumbnails/bilingual-call-queue-handoff.svg",
+    "imageAlt": "Editorial diagram for Design a Bilingual Call Queue Handoff, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "call-escalation-evidence-receipt",
+    "title": "Issue a Receipt for Call Escalations",
+    "category": "Call operations",
+    "image": "/thumbnails/call-escalation-evidence-receipt.svg",
+    "imageAlt": "Editorial diagram for Issue a Receipt for Call Escalations, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "appointment-confirmation-exception-board",
+    "title": "Maintain an Appointment Confirmation Exception Board",
+    "category": "Call operations",
+    "image": "/thumbnails/appointment-confirmation-exception-board.svg",
+    "imageAlt": "Editorial diagram for Maintain an Appointment Confirmation Exception Board, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "voicemail-backlog-aging-review",
+    "title": "Review Voicemail Backlog by Age and Promise",
+    "category": "Call operations",
+    "image": "/thumbnails/voicemail-backlog-aging-review.svg",
+    "imageAlt": "Editorial diagram for Review Voicemail Backlog by Age and Promise, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "call-script-version-release",
+    "title": "Release Call Script Changes With Version Control",
+    "category": "Call operations",
+    "image": "/thumbnails/call-script-version-release.svg",
+    "imageAlt": "Editorial diagram for Release Call Script Changes With Version Control, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "repeat-spam-caller-disposition",
+    "title": "Separate Repeat Spam Calls From Real Caller Risk",
+    "category": "Call operations",
+    "image": "/thumbnails/repeat-spam-caller-disposition.svg",
+    "imageAlt": "Editorial diagram for Separate Repeat Spam Calls From Real Caller Risk, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "warm-transfer-acceptance-receipt",
+    "title": "Capture Acceptance Before Completing a Warm Transfer",
+    "category": "Call operations",
+    "image": "/thumbnails/warm-transfer-acceptance-receipt.svg",
+    "imageAlt": "Editorial diagram for Capture Acceptance Before Completing a Warm Transfer, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "phone-system-outage-continuity-plan",
+    "title": "Test a Phone System Outage Continuity Plan",
+    "category": "Call operations",
+    "image": "/thumbnails/phone-system-outage-continuity-plan.svg",
+    "imageAlt": "Editorial diagram for Test a Phone System Outage Continuity Plan, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "payment-detail-call-redaction-rule",
+    "title": "Set a Redaction Rule for Payment Details on Calls",
+    "category": "Call operations",
+    "image": "/thumbnails/payment-detail-call-redaction-rule.svg",
+    "imageAlt": "Editorial diagram for Set a Redaction Rule for Payment Details on Calls, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "call-supervisor-coverage-map",
+    "title": "Publish a Call Supervisor Coverage Map",
+    "category": "Call operations",
+    "image": "/thumbnails/call-supervisor-coverage-map.svg",
+    "imageAlt": "Editorial diagram for Publish a Call Supervisor Coverage Map, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "daily-call-quality-sample",
+    "title": "Run a Daily Call Quality Sample Without Cherry-Picking",
+    "category": "Call operations",
+    "image": "/thumbnails/daily-call-quality-sample.svg",
+    "imageAlt": "Editorial diagram for Run a Daily Call Quality Sample Without Cherry-Picking, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "callback-delay-outcome-evidence-study",
+    "title": "Callback Delay and Caller Outcomes: An Evidence Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/callback-delay-outcome-evidence-study.svg",
+    "imageAlt": "Editorial diagram for Callback Delay and Caller Outcomes: An Evidence Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "warm-transfer-failure-pattern-study",
+    "title": "Warm Transfer Failure Patterns: A Traceability Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/warm-transfer-failure-pattern-study.svg",
+    "imageAlt": "Editorial diagram for Warm Transfer Failure Patterns: A Traceability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "caller-repetition-burden-evidence-review",
+    "title": "Caller Repetition Burden: An Evidence Review",
+    "category": "Call operations research",
+    "image": "/thumbnails/caller-repetition-burden-evidence-review.svg",
+    "imageAlt": "Editorial diagram for Caller Repetition Burden: An Evidence Review, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "call-disposition-reviewer-agreement-study",
+    "title": "Call Disposition Reviewer Agreement: A Reliability Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/call-disposition-reviewer-agreement-study.svg",
+    "imageAlt": "Editorial diagram for Call Disposition Reviewer Agreement: A Reliability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "call-script-change-effect-study",
+    "title": "Call Script Change Effects: A Bounded Before-and-After Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/call-script-change-effect-study.svg",
+    "imageAlt": "Editorial diagram for Call Script Change Effects: A Bounded Before-and-After Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   }
 ]

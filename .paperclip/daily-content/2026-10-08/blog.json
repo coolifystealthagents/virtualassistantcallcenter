@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "after-hours-callback-owner-check",
+    "route": "/blog/after-hours-callback-owner-check",
+    "sourcePath": "content/blog/after-hours-callback-owner-check.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "21962a329eafc5e1ce6bf2d7fe09824f9dfad553af1184eb97354c76e3f679b5"
+  },
+  {
+    "slug": "bilingual-call-queue-handoff",
+    "route": "/blog/bilingual-call-queue-handoff",
+    "sourcePath": "content/blog/bilingual-call-queue-handoff.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "9e5caa2129792f94098cc37fcec24fb5210e88fe7e9d2ede7a5c3eb687b8c8f0"
+  },
+  {
+    "slug": "call-escalation-evidence-receipt",
+    "route": "/blog/call-escalation-evidence-receipt",
+    "sourcePath": "content/blog/call-escalation-evidence-receipt.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "6404b1bb3a601940a5004cc049b4ff0fa8d779588209fe2549f7613386ba5bf6"
+  },
+  {
+    "slug": "appointment-confirmation-exception-board",
+    "route": "/blog/appointment-confirmation-exception-board",
+    "sourcePath": "content/blog/appointment-confirmation-exception-board.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "3fa17bf8a9933b3d4b14565606e611f9097a43a2cd40d02f8675b91797a6b5ed"
+  },
+  {
+    "slug": "voicemail-backlog-aging-review",
+    "route": "/blog/voicemail-backlog-aging-review",
+    "sourcePath": "content/blog/voicemail-backlog-aging-review.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "0293f9c848aec4ee07bced170d274d9c54b7e6a8813127c73a72957c68b98b17"
+  },
+  {
+    "slug": "call-script-version-release",
+    "route": "/blog/call-script-version-release",
+    "sourcePath": "content/blog/call-script-version-release.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "415573318834dcc5426e847c0d48b7ce499cc836162d47cc0222986a25565607"
+  },
+  {
+    "slug": "repeat-spam-caller-disposition",
+    "route": "/blog/repeat-spam-caller-disposition",
+    "sourcePath": "content/blog/repeat-spam-caller-disposition.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "dc13575ff9ebfedda2ded1e09f7c0fc3321671323dd4baa071a09d4018ddc187"
+  },
+  {
+    "slug": "warm-transfer-acceptance-receipt",
+    "route": "/blog/warm-transfer-acceptance-receipt",
+    "sourcePath": "content/blog/warm-transfer-acceptance-receipt.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "1824a3855c720ba2eb944f97190c180b11bc04515597593d0a347684b5caaa5f"
+  },
+  {
+    "slug": "phone-system-outage-continuity-plan",
+    "route": "/blog/phone-system-outage-continuity-plan",
+    "sourcePath": "content/blog/phone-system-outage-continuity-plan.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "8de1653bce7d4aec2541556807e7408293f764365c04c464e9ae61aa601cd611"
+  },
+  {
+    "slug": "payment-detail-call-redaction-rule",
+    "route": "/blog/payment-detail-call-redaction-rule",
+    "sourcePath": "content/blog/payment-detail-call-redaction-rule.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "6fb975ac88de964b69696cfeb19005082518833c5ca24109bef744a119dc3493"
+  },
+  {
+    "slug": "call-supervisor-coverage-map",
+    "route": "/blog/call-supervisor-coverage-map",
+    "sourcePath": "content/blog/call-supervisor-coverage-map.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "92563789bbd3a0db337db8fa834cb5e51e60ba5d55464eef59bfb6e826d41df2"
+  },
+  {
+    "slug": "daily-call-quality-sample",
+    "route": "/blog/daily-call-quality-sample",
+    "sourcePath": "content/blog/daily-call-quality-sample.md",
+    "publicationDate": "2026-10-08",
+    "contentHash": "893419f9ced8648dd36fd587233b40ae4aa97d15f51f30edc523f9bb7e45aef0"
+  }
+]
