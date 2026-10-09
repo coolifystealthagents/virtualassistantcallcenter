@@ -1,6 +1,6 @@
 # Topical-authority link ledger
 
-Updated: 2026-10-07
+Updated: 2026-10-09
 
 ## Scope
 
@@ -26,7 +26,8 @@ This is an editorial inventory for existing Philippines-based call-support servi
 | Service pillar | Existing service URL | Supporting-page intent | Verified supporting route | Fresh artifact finding | Status |
 | --- | --- | --- | --- | --- | --- |
 | Call disposition reporting | `/services/call-disposition-reporting` | Test whether an expanding "Other" category hides calls that need a defined disposition or owner review. | `/research/call-disposition-other-category-drift-study` | Fresh 2026-10-07 build confirmed source and target self-canonicals, both sitemap locations, and exactly one target link inside the source route-local `<main>`. | Delivered in source at `b05a7a40b2f580590cd9bffbbd36bc936a448dcb`; non-duplicable |
+| Inbound customer calls | `/services/inbound-customer-calls` | Review one defined inbound-call failure pattern while keeping scripts, customer commitments, escalation, and policy exceptions with the business owner. | `/research/callback-delay-outcome-evidence-study`, `/research/warm-transfer-failure-pattern-study`, `/research/caller-repetition-burden-evidence-review`, `/research/call-disposition-reviewer-agreement-study`, `/research/call-script-change-effect-study` | Fresh 2026-10-09 build confirmed every selected source and the service pillar has a self-canonical and sitemap location. Each source `<main>` has exactly one matching service href. | Delivered by the 2026-10-08 call-operations batch at `56cdce34c68be5aee49c28a0d62a4e626b978439`; non-duplicable |
 
 ## Next safe action
 
-This delivery is complete in the rendered source and must not be recreated. Before selecting another Call Disposition Reporting handoff, inventory its source route and target service in a fresh build and confirm that the reader's next decision is distinct from the category-drift review.
+The October 8 inbound-call paths are already rendered and must not be recreated. Before selecting another Inbound Customer Calls handoff, inventory its route-local `<main>` and confirm that its reader decision is distinct from these callback, transfer, repetition, reviewer-agreement, and script-change studies.
