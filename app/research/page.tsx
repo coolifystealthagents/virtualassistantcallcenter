@@ -1,4 +1,58 @@
-import {Header,Footer} from '../components';
-import {getContent} from '../content';
-export const metadata={title:'Research',description:'Research notes about Philippines-based staffing and operations.',alternates:{canonical:'/research'},openGraph:{title:'Research',description:'Research notes about Philippines-based staffing and operations.',url:'/research',type:'website'}};
-export default function Research(){const posts=getContent('research');return <><Header/><main className="fleet-main"><section className="fleet-hero"><div className="container"><p className="eyebrow">Research library</p><h1>Research for planning Philippines-based teams</h1><p className="lead">Sourced articles about call operations, service workflows, and staffing decisions.</p></div></section><section className="section"><div className="container fleet-card-grid">{posts.map(p=><a className="fleet-card" href={`/research/${p.slug}`} key={p.slug}><h2>{p.title}</h2><p>{p.description}</p></a>)}</div></section></main><Footer/></>}
+import { Header, Footer } from "../components";
+import { getContent } from "../content";
+const formatDate = (date: string) =>
+  new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(`${date}T00:00:00Z`));
+export const metadata = {
+  title: "Research",
+  description:
+    "Research notes about Philippines-based staffing and operations.",
+  alternates: { canonical: "/research" },
+  openGraph: {
+    title: "Research",
+    description:
+      "Research notes about Philippines-based staffing and operations.",
+    url: "/research",
+    type: "website",
+  },
+};
+export default function Research() {
+  const posts = getContent("research");
+  return (
+    <>
+      <Header />
+      <main className="fleet-main">
+        <section className="fleet-hero">
+          <div className="container">
+            <p className="eyebrow">Research library</p>
+            <h1>Research for planning Philippines-based teams</h1>
+            <p className="lead">
+              Sourced articles about call operations, service workflows, and
+              staffing decisions.
+            </p>
+          </div>
+        </section>
+        <section className="section">
+          <div className="container fleet-card-grid">
+            {posts.map((p) => (
+              <a
+                className="fleet-card"
+                href={`/research/${p.slug}`}
+                key={p.slug}
+              >
+                <h2>{p.title}</h2>
+                <p>{p.description}</p>
+                <time dateTime={p.published}>Published {formatDate(p.published)}</time>
+              </a>
+            ))}
+          </div>
+        </section>
+      </main>
+      <Footer />
+    </>
+  );
+}
