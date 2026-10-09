@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-09",
+  "kind": "blog",
+  "count": 12,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "virtualassistantcallcenter-priority-intake-triage",
+      "title": "VirtualAssistantCallCenter Priority Intake Triage",
+      "excerpt": "A practical virtual assistant call center operations guide to turn new requests into a sequenced queue with an accepted owner.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-priority-intake-triage"
+    },
+    {
+      "slug": "virtualassistantcallcenter-exception-owner-map",
+      "title": "VirtualAssistantCallCenter Exception Owner Map",
+      "excerpt": "A practical virtual assistant call center operations guide to route ambiguous cases to the person authorized to decide them.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-exception-owner-map"
+    },
+    {
+      "slug": "virtualassistantcallcenter-source-record-verification",
+      "title": "VirtualAssistantCallCenter Source Record Verification",
+      "excerpt": "A practical virtual assistant call center operations guide to verify the governing record before an operator acts.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-source-record-verification"
+    },
+    {
+      "slug": "virtualassistantcallcenter-handoff-acceptance-receipt",
+      "title": "VirtualAssistantCallCenter Handoff Acceptance Receipt",
+      "excerpt": "A practical virtual assistant call center operations guide to prove that the receiving owner accepted the next action.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-handoff-acceptance-receipt"
+    },
+    {
+      "slug": "virtualassistantcallcenter-backlog-aging-review",
+      "title": "VirtualAssistantCallCenter Backlog Aging Review",
+      "excerpt": "A practical virtual assistant call center operations guide to separate active work from items waiting on decisions or evidence.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-backlog-aging-review"
+    },
+    {
+      "slug": "virtualassistantcallcenter-quality-sample-calibration",
+      "title": "VirtualAssistantCallCenter Quality Sample Calibration",
+      "excerpt": "A practical virtual assistant call center operations guide to compare reviewers against the same observable acceptance rule.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-quality-sample-calibration"
+    },
+    {
+      "slug": "virtualassistantcallcenter-access-scope-recertification",
+      "title": "VirtualAssistantCallCenter Access Scope Recertification",
+      "excerpt": "A practical virtual assistant call center operations guide to keep permissions aligned with current responsibilities.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-access-scope-recertification"
+    },
+    {
+      "slug": "virtualassistantcallcenter-change-control-release-note",
+      "title": "VirtualAssistantCallCenter Change Control Release Note",
+      "excerpt": "A practical virtual assistant call center operations guide to publish a dated operating change without erasing the prior rule.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-change-control-release-note"
+    },
+    {
+      "slug": "virtualassistantcallcenter-capacity-overflow-trigger",
+      "title": "VirtualAssistantCallCenter Capacity Overflow Trigger",
+      "excerpt": "A practical virtual assistant call center operations guide to identify demand that exceeds the safe service window.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-capacity-overflow-trigger"
+    },
+    {
+      "slug": "virtualassistantcallcenter-client-decision-packet",
+      "title": "VirtualAssistantCallCenter Client Decision Packet",
+      "excerpt": "A practical virtual assistant call center operations guide to prepare facts and options while preserving client decision authority.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-client-decision-packet"
+    },
+    {
+      "slug": "virtualassistantcallcenter-correction-propagation-check",
+      "title": "VirtualAssistantCallCenter Correction Propagation Check",
+      "excerpt": "A practical virtual assistant call center operations guide to reconcile a correction across every dependent system.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-correction-propagation-check"
+    },
+    {
+      "slug": "virtualassistantcallcenter-monthly-control-closeout",
+      "title": "VirtualAssistantCallCenter Monthly Control Closeout",
+      "excerpt": "A practical virtual assistant call center operations guide to close open exceptions and retain evidence for the next review.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/virtualassistantcallcenter-monthly-control-closeout"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-09",
+  "kind": "research",
+  "count": 5,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "virtualassistantcallcenter-queue-wait-state-evidence-study",
+      "title": "VirtualAssistantCallCenter Queue Wait-State Evidence Study",
+      "excerpt": "A source-backed virtual assistant call center operations study of whether waiting reasons and owner acceptance explain queue age.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/virtualassistantcallcenter-queue-wait-state-evidence-study"
+    },
+    {
+      "slug": "virtualassistantcallcenter-reviewer-agreement-reliability-study",
+      "title": "VirtualAssistantCallCenter Reviewer Agreement Reliability Study",
+      "excerpt": "A source-backed virtual assistant call center operations study of whether two reviewers reach reproducible conclusions from the same evidence.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/virtualassistantcallcenter-reviewer-agreement-reliability-study"
+    },
+    {
+      "slug": "virtualassistantcallcenter-minimum-access-effectiveness-study",
+      "title": "VirtualAssistantCallCenter Minimum Access Effectiveness Study",
+      "excerpt": "A source-backed virtual assistant call center operations study of whether permissions support required work without unnecessary exposure.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/virtualassistantcallcenter-minimum-access-effectiveness-study"
+    },
+    {
+      "slug": "virtualassistantcallcenter-handoff-completeness-observation",
+      "title": "VirtualAssistantCallCenter Handoff Completeness Observation",
+      "excerpt": "A source-backed virtual assistant call center operations study of whether receiving teams can continue work without private clarification.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/virtualassistantcallcenter-handoff-completeness-observation"
+    },
+    {
+      "slug": "virtualassistantcallcenter-control-change-traceability-research",
+      "title": "VirtualAssistantCallCenter Control Change Traceability Research",
+      "excerpt": "A source-backed virtual assistant call center operations study of whether rule changes remain attributable, dated, and reversible.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/virtualassistantcallcenter-control-change-traceability-research"
+    }
+  ]
+}
