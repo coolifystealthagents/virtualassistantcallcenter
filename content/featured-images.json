@@ -670,5 +670,124 @@
     "category": "Call operations research",
     "image": "/thumbnails/virtualassistantcallcenter-reviewer-agreement-reliability-study.svg",
     "imageAlt": "Editorial diagram for Call Script Change Effects: A Bounded Before-and-After Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
+  },
+  {
+    "slug": "shared-line-caller-identity-collision",
+    "title": "Resolve Caller Identity Collisions on Shared Phone Lines",
+    "category": "Call operations",
+    "image": "/thumbnails/shared-line-caller-identity-collision.svg",
+    "imageAlt": "Resolve Caller Identity Collisions on Shared Phone Lines illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "queue-callback-position-disclosure",
+    "title": "Explain Queue Callback Position Without False Precision",
+    "category": "Call operations",
+    "image": "/thumbnails/queue-callback-position-disclosure.svg",
+    "imageAlt": "Explain Queue Callback Position Without False Precision illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "relay-call-assistant-boundaries",
+    "title": "Set Boundaries for Telecommunications Relay Calls",
+    "category": "Call operations",
+    "image": "/thumbnails/relay-call-assistant-boundaries.svg",
+    "imageAlt": "Set Boundaries for Telecommunications Relay Calls illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "interpreter-conference-call-ownership",
+    "title": "Assign Ownership on Interpreter Conference Calls",
+    "category": "Call operations",
+    "image": "/thumbnails/interpreter-conference-call-ownership.svg",
+    "imageAlt": "Assign Ownership on Interpreter Conference Calls illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "phone-number-porting-cutover-checklist",
+    "title": "Verify a Phone Number Porting Cutover",
+    "category": "Call operations",
+    "image": "/thumbnails/phone-number-porting-cutover-checklist.svg",
+    "imageAlt": "Verify a Phone Number Porting Cutover illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "agent-whisper-prompt-version-control",
+    "title": "Version Agent Whisper Prompts Before Routing Calls",
+    "category": "Call operations",
+    "image": "/thumbnails/agent-whisper-prompt-version-control.svg",
+    "imageAlt": "Version Agent Whisper Prompts Before Routing Calls illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "recording-pause-resume-indicator-check",
+    "title": "Check Recording Pause and Resume Indicators",
+    "category": "Call operations",
+    "image": "/thumbnails/recording-pause-resume-indicator-check.svg",
+    "imageAlt": "Check Recording Pause and Resume Indicators illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "after-call-work-autosave-recovery",
+    "title": "Recover After-Call Work After an Autosave Failure",
+    "category": "Call operations",
+    "image": "/thumbnails/after-call-work-autosave-recovery.svg",
+    "imageAlt": "Recover After-Call Work After an Autosave Failure illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "blind-transfer-loop-detection",
+    "title": "Detect Blind Transfer Loops Before Callers Repeat Themselves",
+    "category": "Call operations",
+    "image": "/thumbnails/blind-transfer-loop-detection.svg",
+    "imageAlt": "Detect Blind Transfer Loops Before Callers Repeat Themselves illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "outbound-caller-id-attestation-monitoring",
+    "title": "Monitor Caller ID Attestation for Outbound Campaigns",
+    "category": "Call operations",
+    "image": "/thumbnails/outbound-caller-id-attestation-monitoring.svg",
+    "imageAlt": "Monitor Caller ID Attestation for Outbound Campaigns illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-parking-timeout-recovery",
+    "title": "Recover Calls That Exceed a Parking Timeout",
+    "category": "Call operations",
+    "image": "/thumbnails/call-parking-timeout-recovery.svg",
+    "imageAlt": "Recover Calls That Exceed a Parking Timeout illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "silent-monitoring-consent-control",
+    "title": "Control Consent for Silent Call Monitoring",
+    "category": "Call operations",
+    "image": "/thumbnails/silent-monitoring-consent-control.svg",
+    "imageAlt": "Control Consent for Silent Call Monitoring illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "abandoned-call-denominator-reconstruction-study",
+    "title": "Abandoned Call Denominator Reconstruction Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/abandoned-call-denominator-reconstruction-study.svg",
+    "imageAlt": "Abandoned Call Denominator Reconstruction Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "transfer-graph-loop-analysis",
+    "title": "Call Transfer Graph Loop Analysis",
+    "category": "Call operations research",
+    "image": "/thumbnails/transfer-graph-loop-analysis.svg",
+    "imageAlt": "Call Transfer Graph Loop Analysis illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "recording-redaction-completeness-study",
+    "title": "Recording Redaction Completeness Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/recording-redaction-completeness-study.svg",
+    "imageAlt": "Recording Redaction Completeness Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "speech-analytics-language-bias-review",
+    "title": "Speech Analytics Language Bias Review",
+    "category": "Call operations research",
+    "image": "/thumbnails/speech-analytics-language-bias-review.svg",
+    "imageAlt": "Speech Analytics Language Bias Review illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "caller-id-attestation-outcome-study",
+    "title": "Caller ID Attestation Outcome Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/caller-id-attestation-outcome-study.svg",
+    "imageAlt": "Caller ID Attestation Outcome Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
   }
 ]

@@ -1,0 +1,159 @@
+{
+  "domain": "VirtualAssistantCallCenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "publicationDate": "2026-10-12",
+  "blog": [
+    {
+      "slug": "shared-line-caller-identity-collision",
+      "title": "Resolve Caller Identity Collisions on Shared Phone Lines",
+      "sourcePath": "content/blog/shared-line-caller-identity-collision.md",
+      "thumbnailPath": "public/thumbnails/shared-line-caller-identity-collision.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "d6df2215e4fd2a8d490e30b1963732d19e1635a7bd700a4d7614af0dc6927f81"
+    },
+    {
+      "slug": "queue-callback-position-disclosure",
+      "title": "Explain Queue Callback Position Without False Precision",
+      "sourcePath": "content/blog/queue-callback-position-disclosure.md",
+      "thumbnailPath": "public/thumbnails/queue-callback-position-disclosure.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "4c30590bd94ee0001d5120b1696e6e025781ea0c8e2fe99c4cce677a2ccf33b4"
+    },
+    {
+      "slug": "relay-call-assistant-boundaries",
+      "title": "Set Boundaries for Telecommunications Relay Calls",
+      "sourcePath": "content/blog/relay-call-assistant-boundaries.md",
+      "thumbnailPath": "public/thumbnails/relay-call-assistant-boundaries.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "7c648091952eddc63e99eb3c2364fae17eb124ab565e34b3af656ca2e3c5d68c"
+    },
+    {
+      "slug": "interpreter-conference-call-ownership",
+      "title": "Assign Ownership on Interpreter Conference Calls",
+      "sourcePath": "content/blog/interpreter-conference-call-ownership.md",
+      "thumbnailPath": "public/thumbnails/interpreter-conference-call-ownership.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "fed891d87768777ea95bda51a676443e2d04b842a203787b80de9ef6f7ce44a6"
+    },
+    {
+      "slug": "phone-number-porting-cutover-checklist",
+      "title": "Verify a Phone Number Porting Cutover",
+      "sourcePath": "content/blog/phone-number-porting-cutover-checklist.md",
+      "thumbnailPath": "public/thumbnails/phone-number-porting-cutover-checklist.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "0f09bfb8fa8b35900888cfb9dde1ecc4ca7e7675c1df1e3fe37ca832c770cefe"
+    },
+    {
+      "slug": "agent-whisper-prompt-version-control",
+      "title": "Version Agent Whisper Prompts Before Routing Calls",
+      "sourcePath": "content/blog/agent-whisper-prompt-version-control.md",
+      "thumbnailPath": "public/thumbnails/agent-whisper-prompt-version-control.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "37c41b6645afd7d9b83386e06ef2adbfeb6fd1e8bf6922ebd2a1a35132ad1d79"
+    },
+    {
+      "slug": "recording-pause-resume-indicator-check",
+      "title": "Check Recording Pause and Resume Indicators",
+      "sourcePath": "content/blog/recording-pause-resume-indicator-check.md",
+      "thumbnailPath": "public/thumbnails/recording-pause-resume-indicator-check.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "55a7de562489c1c80b1f25555747fb223612da1f3fe40a8177974441eefe42d0"
+    },
+    {
+      "slug": "after-call-work-autosave-recovery",
+      "title": "Recover After-Call Work After an Autosave Failure",
+      "sourcePath": "content/blog/after-call-work-autosave-recovery.md",
+      "thumbnailPath": "public/thumbnails/after-call-work-autosave-recovery.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "41cf479e6e058ee2eb230044ab64973a991f83e4cb721625013bb7e177e26c30"
+    },
+    {
+      "slug": "blind-transfer-loop-detection",
+      "title": "Detect Blind Transfer Loops Before Callers Repeat Themselves",
+      "sourcePath": "content/blog/blind-transfer-loop-detection.md",
+      "thumbnailPath": "public/thumbnails/blind-transfer-loop-detection.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "e18bcdd891cc14de6ea873eb0fc88cab880fb5b24c67e7751bc006872157fc70"
+    },
+    {
+      "slug": "outbound-caller-id-attestation-monitoring",
+      "title": "Monitor Caller ID Attestation for Outbound Campaigns",
+      "sourcePath": "content/blog/outbound-caller-id-attestation-monitoring.md",
+      "thumbnailPath": "public/thumbnails/outbound-caller-id-attestation-monitoring.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "9800ca7feb42b219e4f460cbf115a71139e6a415cce2935481af082eab724a92"
+    },
+    {
+      "slug": "call-parking-timeout-recovery",
+      "title": "Recover Calls That Exceed a Parking Timeout",
+      "sourcePath": "content/blog/call-parking-timeout-recovery.md",
+      "thumbnailPath": "public/thumbnails/call-parking-timeout-recovery.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "1c63a92611ed4f6f85e88449c6d304b9ac6c5a1312a1920594c7d42dc5b15fd4"
+    },
+    {
+      "slug": "silent-monitoring-consent-control",
+      "title": "Control Consent for Silent Call Monitoring",
+      "sourcePath": "content/blog/silent-monitoring-consent-control.md",
+      "thumbnailPath": "public/thumbnails/silent-monitoring-consent-control.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "70a5bf1c03e0e5aebc9ec4c85ee0f7fbad2ac9c468f692c8b79ff2ed6a4a9366"
+    }
+  ],
+  "research": [
+    {
+      "slug": "abandoned-call-denominator-reconstruction-study",
+      "title": "Abandoned Call Denominator Reconstruction Study",
+      "sourcePath": "content/research/abandoned-call-denominator-reconstruction-study.md",
+      "thumbnailPath": "public/thumbnails/abandoned-call-denominator-reconstruction-study.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "bb704a351d6ee1971d8d431b269233d5d2de391ba2b3e1d34cf73dbc0f4deba1",
+      "sourceCount": 10
+    },
+    {
+      "slug": "transfer-graph-loop-analysis",
+      "title": "Call Transfer Graph Loop Analysis",
+      "sourcePath": "content/research/transfer-graph-loop-analysis.md",
+      "thumbnailPath": "public/thumbnails/transfer-graph-loop-analysis.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "ac7a2073b2e225c9319555b558e03a70cbc211e50a024ef483a49ed4c1aeabad",
+      "sourceCount": 10
+    },
+    {
+      "slug": "recording-redaction-completeness-study",
+      "title": "Recording Redaction Completeness Study",
+      "sourcePath": "content/research/recording-redaction-completeness-study.md",
+      "thumbnailPath": "public/thumbnails/recording-redaction-completeness-study.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "04f5a87bae98a7c4889c1a78aeeae4c4f792d2c2dcdc4fa0d6dd8fd920efd8f7",
+      "sourceCount": 10
+    },
+    {
+      "slug": "speech-analytics-language-bias-review",
+      "title": "Speech Analytics Language Bias Review",
+      "sourcePath": "content/research/speech-analytics-language-bias-review.md",
+      "thumbnailPath": "public/thumbnails/speech-analytics-language-bias-review.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "d9618cc38ca41d3e82cbc66b762d5767cc319b82ccf4ae71d777cdc42a839376",
+      "sourceCount": 10
+    },
+    {
+      "slug": "caller-id-attestation-outcome-study",
+      "title": "Caller ID Attestation Outcome Study",
+      "sourcePath": "content/research/caller-id-attestation-outcome-study.md",
+      "thumbnailPath": "public/thumbnails/caller-id-attestation-outcome-study.svg",
+      "publicationDate": "2026-10-12",
+      "contentHash": "2f18be2ed920054f5d8f0e6763ecaab800daa580cd57313557e12e170cc3bf6c",
+      "sourceCount": 10
+    }
+  ],
+  "registryPaths": [
+    "content/featured-images.json"
+  ],
+  "routePaths": [
+    "app/blog/[slug]/page.tsx",
+    "app/research/[slug]/page.tsx",
+    "app/sitemap.xml/route.ts"
+  ]
+}
