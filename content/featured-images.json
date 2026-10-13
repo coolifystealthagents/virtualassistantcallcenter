@@ -789,5 +789,124 @@
     "category": "Call operations research",
     "image": "/thumbnails/caller-id-attestation-outcome-study.svg",
     "imageAlt": "Caller ID Attestation Outcome Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "callback-timezone-confirmation-gate",
+    "title": "Confirm a Caller Time Zone Before Scheduling a Callback",
+    "category": "Call operations",
+    "image": "/thumbnails/callback-timezone-confirmation-gate.svg",
+    "imageAlt": "Confirm a Caller Time Zone Before Scheduling a Callback illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-disposition-correction-trail",
+    "title": "Correct a Call Disposition Without Erasing the First Record",
+    "category": "Call operations",
+    "image": "/thumbnails/call-disposition-correction-trail.svg",
+    "imageAlt": "Correct a Call Disposition Without Erasing the First Record illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "warm-transfer-acceptance-readback",
+    "title": "Use an Acceptance Readback Before a Warm Transfer",
+    "category": "Call operations",
+    "image": "/thumbnails/warm-transfer-acceptance-readback.svg",
+    "imageAlt": "Use an Acceptance Readback Before a Warm Transfer illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "voicemail-sensitive-detail-boundary",
+    "title": "Set a Sensitive-Detail Boundary for Voicemail",
+    "category": "Call operations",
+    "image": "/thumbnails/voicemail-sensitive-detail-boundary.svg",
+    "imageAlt": "Set a Sensitive-Detail Boundary for Voicemail illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-center-knowledge-answer-expiry-check",
+    "title": "Check Answer Expiry Before Using a Call Center Knowledge Article",
+    "category": "Call operations",
+    "image": "/thumbnails/call-center-knowledge-answer-expiry-check.svg",
+    "imageAlt": "Check Answer Expiry Before Using a Call Center Knowledge Article illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "duplicate-callback-request-reconciliation",
+    "title": "Reconcile Duplicate Callback Requests Across Channels",
+    "category": "Call operations",
+    "image": "/thumbnails/duplicate-callback-request-reconciliation.svg",
+    "imageAlt": "Reconcile Duplicate Callback Requests Across Channels illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "outbound-list-suppression-preflight",
+    "title": "Run a Suppression Preflight Before an Outbound Call Batch",
+    "category": "Call operations",
+    "image": "/thumbnails/outbound-list-suppression-preflight.svg",
+    "imageAlt": "Run a Suppression Preflight Before an Outbound Call Batch illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-quality-coaching-evidence-boundary",
+    "title": "Separate Coaching Notes From Formal Call Quality Evidence",
+    "category": "Call operations",
+    "image": "/thumbnails/call-quality-coaching-evidence-boundary.svg",
+    "imageAlt": "Separate Coaching Notes From Formal Call Quality Evidence illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "dropped-call-recovery-owner-map",
+    "title": "Map Ownership After a Dropped Customer Call",
+    "category": "Call operations",
+    "image": "/thumbnails/dropped-call-recovery-owner-map.svg",
+    "imageAlt": "Map Ownership After a Dropped Customer Call illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-center-status-message-version-control",
+    "title": "Version Customer Status Messages During a Service Incident",
+    "category": "Call operations",
+    "image": "/thumbnails/call-center-status-message-version-control.svg",
+    "imageAlt": "Version Customer Status Messages During a Service Incident illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "virtual-receptionist-visitor-data-minimization",
+    "title": "Minimize Visitor Data in a Virtual Receptionist Workflow",
+    "category": "Call operations",
+    "image": "/thumbnails/virtual-receptionist-visitor-data-minimization.svg",
+    "imageAlt": "Minimize Visitor Data in a Virtual Receptionist Workflow illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-recording-retention-exception-register",
+    "title": "Maintain an Exception Register for Call Recording Retention",
+    "category": "Call operations",
+    "image": "/thumbnails/call-recording-retention-exception-register.svg",
+    "imageAlt": "Maintain an Exception Register for Call Recording Retention illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "callback-promise-verification-study",
+    "title": "Callback Promise Verification Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/callback-promise-verification-study.svg",
+    "imageAlt": "Callback Promise Verification Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "independent-call-outcome-coding-agreement-study",
+    "title": "Independent Call Outcome Coding Agreement Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/independent-call-outcome-coding-agreement-study.svg",
+    "imageAlt": "Independent Call Outcome Coding Agreement Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "warm-transfer-context-retention-study",
+    "title": "Warm Transfer Context Retention Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/warm-transfer-context-retention-study.svg",
+    "imageAlt": "Warm Transfer Context Retention Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "outbound-suppression-latency-study",
+    "title": "Outbound Suppression Latency Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/outbound-suppression-latency-study.svg",
+    "imageAlt": "Outbound Suppression Latency Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
+  },
+  {
+    "slug": "call-recording-derived-artifact-inventory-study",
+    "title": "Call Recording Derived Artifact Inventory Study",
+    "category": "Call operations research",
+    "image": "/thumbnails/call-recording-derived-artifact-inventory-study.svg",
+    "imageAlt": "Call Recording Derived Artifact Inventory Study illustrated as a caller path, evidence record, decision gate, and accepted closeout"
   }
 ]

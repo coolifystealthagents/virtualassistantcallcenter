@@ -1,0 +1,159 @@
+{
+  "domain": "VirtualAssistantCallCenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "publicationDate": "2026-10-13",
+  "blog": [
+    {
+      "slug": "callback-timezone-confirmation-gate",
+      "title": "Confirm a Caller Time Zone Before Scheduling a Callback",
+      "sourcePath": "content/blog/callback-timezone-confirmation-gate.md",
+      "thumbnailPath": "public/thumbnails/callback-timezone-confirmation-gate.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "add696b844debe54063e6f89a7193157b38faf6209064bbc38455117ece5421c"
+    },
+    {
+      "slug": "call-disposition-correction-trail",
+      "title": "Correct a Call Disposition Without Erasing the First Record",
+      "sourcePath": "content/blog/call-disposition-correction-trail.md",
+      "thumbnailPath": "public/thumbnails/call-disposition-correction-trail.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "9697c18470e89c54bec95f436efc13111c889ba504f7c0b6e5a27d8ccf4f40fb"
+    },
+    {
+      "slug": "warm-transfer-acceptance-readback",
+      "title": "Use an Acceptance Readback Before a Warm Transfer",
+      "sourcePath": "content/blog/warm-transfer-acceptance-readback.md",
+      "thumbnailPath": "public/thumbnails/warm-transfer-acceptance-readback.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "102772817de8bbe40a109f5ab71358715fb55331904a5fbec368615d0cd14caf"
+    },
+    {
+      "slug": "voicemail-sensitive-detail-boundary",
+      "title": "Set a Sensitive-Detail Boundary for Voicemail",
+      "sourcePath": "content/blog/voicemail-sensitive-detail-boundary.md",
+      "thumbnailPath": "public/thumbnails/voicemail-sensitive-detail-boundary.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "2be3b39d71a96b94c7966a8d311bb3cccfedae015879bfd142f2623a26644d5d"
+    },
+    {
+      "slug": "call-center-knowledge-answer-expiry-check",
+      "title": "Check Answer Expiry Before Using a Call Center Knowledge Article",
+      "sourcePath": "content/blog/call-center-knowledge-answer-expiry-check.md",
+      "thumbnailPath": "public/thumbnails/call-center-knowledge-answer-expiry-check.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "9d9a6e7f7aa2cb7f77b6b80f9d68ce69ceea664797098c52390b560a8be70710"
+    },
+    {
+      "slug": "duplicate-callback-request-reconciliation",
+      "title": "Reconcile Duplicate Callback Requests Across Channels",
+      "sourcePath": "content/blog/duplicate-callback-request-reconciliation.md",
+      "thumbnailPath": "public/thumbnails/duplicate-callback-request-reconciliation.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "5c62bc265c850d44b91a00dc96c3e56646c1e063a0c9e8a3113c1872afc83db6"
+    },
+    {
+      "slug": "outbound-list-suppression-preflight",
+      "title": "Run a Suppression Preflight Before an Outbound Call Batch",
+      "sourcePath": "content/blog/outbound-list-suppression-preflight.md",
+      "thumbnailPath": "public/thumbnails/outbound-list-suppression-preflight.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "17e31973e34f8931c43b092939366c5c834ee3af0f0aaed89cbcdd4c75405569"
+    },
+    {
+      "slug": "call-quality-coaching-evidence-boundary",
+      "title": "Separate Coaching Notes From Formal Call Quality Evidence",
+      "sourcePath": "content/blog/call-quality-coaching-evidence-boundary.md",
+      "thumbnailPath": "public/thumbnails/call-quality-coaching-evidence-boundary.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "f0bea793c79562738957874af52d27bf620eab3b927d36af0cb30bec88264360"
+    },
+    {
+      "slug": "dropped-call-recovery-owner-map",
+      "title": "Map Ownership After a Dropped Customer Call",
+      "sourcePath": "content/blog/dropped-call-recovery-owner-map.md",
+      "thumbnailPath": "public/thumbnails/dropped-call-recovery-owner-map.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "9524bda08c1e702f73c8bf1976cae050704ae715455e64288e827f1495a0fa60"
+    },
+    {
+      "slug": "call-center-status-message-version-control",
+      "title": "Version Customer Status Messages During a Service Incident",
+      "sourcePath": "content/blog/call-center-status-message-version-control.md",
+      "thumbnailPath": "public/thumbnails/call-center-status-message-version-control.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "ba1e03d95fb236ec68ec1230de61ab06bce7f4257f25b2cd34e38c83c8c3ba96"
+    },
+    {
+      "slug": "virtual-receptionist-visitor-data-minimization",
+      "title": "Minimize Visitor Data in a Virtual Receptionist Workflow",
+      "sourcePath": "content/blog/virtual-receptionist-visitor-data-minimization.md",
+      "thumbnailPath": "public/thumbnails/virtual-receptionist-visitor-data-minimization.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "1f73c40214088ec7fed97554f180ba8f94f43db044554dde41c3a9c75f3483b0"
+    },
+    {
+      "slug": "call-recording-retention-exception-register",
+      "title": "Maintain an Exception Register for Call Recording Retention",
+      "sourcePath": "content/blog/call-recording-retention-exception-register.md",
+      "thumbnailPath": "public/thumbnails/call-recording-retention-exception-register.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "e93f963186cfccfcf9d80ae3bba2ebcd461e22d1c2c304d9aa7076109002b455"
+    }
+  ],
+  "research": [
+    {
+      "slug": "callback-promise-verification-study",
+      "title": "Callback Promise Verification Study",
+      "sourcePath": "content/research/callback-promise-verification-study.md",
+      "thumbnailPath": "public/thumbnails/callback-promise-verification-study.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "0f76239e2fe44ac6b6fb1e140438a09a357bf49e27ecf14a828d27afdc9803fb",
+      "sourceCount": 10
+    },
+    {
+      "slug": "independent-call-outcome-coding-agreement-study",
+      "title": "Independent Call Outcome Coding Agreement Study",
+      "sourcePath": "content/research/independent-call-outcome-coding-agreement-study.md",
+      "thumbnailPath": "public/thumbnails/independent-call-outcome-coding-agreement-study.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "4163d7640a2ff5492c4249d01eac8b7242131f20a04cc51a682d35bc41d520d8",
+      "sourceCount": 10
+    },
+    {
+      "slug": "warm-transfer-context-retention-study",
+      "title": "Warm Transfer Context Retention Study",
+      "sourcePath": "content/research/warm-transfer-context-retention-study.md",
+      "thumbnailPath": "public/thumbnails/warm-transfer-context-retention-study.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "92a9174682d9a5c2325d824e173120927c19eeea03a0dd531af393375038bfdb",
+      "sourceCount": 10
+    },
+    {
+      "slug": "outbound-suppression-latency-study",
+      "title": "Outbound Suppression Latency Study",
+      "sourcePath": "content/research/outbound-suppression-latency-study.md",
+      "thumbnailPath": "public/thumbnails/outbound-suppression-latency-study.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "c1b57c8aefad3bbd3ddd23d56dc786672230ca4100360c440a05d7692d9db451",
+      "sourceCount": 10
+    },
+    {
+      "slug": "call-recording-derived-artifact-inventory-study",
+      "title": "Call Recording Derived Artifact Inventory Study",
+      "sourcePath": "content/research/call-recording-derived-artifact-inventory-study.md",
+      "thumbnailPath": "public/thumbnails/call-recording-derived-artifact-inventory-study.svg",
+      "publicationDate": "2026-10-13",
+      "contentHash": "dc6072c742c69d531db3cb7cd10af86af01d6b1e31611dd54b801563698efbba",
+      "sourceCount": 10
+    }
+  ],
+  "registryPaths": [
+    "content/featured-images.json"
+  ],
+  "routePaths": [
+    "app/blog/[slug]/page.tsx",
+    "app/research/[slug]/page.tsx",
+    "app/sitemap.xml/route.ts"
+  ]
+}
