@@ -68,6 +68,8 @@ test('all-route security and canonical host contracts are configured', () => {
   const middleware = read('middleware.ts');
   assert.match(middleware, /virtualassistantcallcenter\.com/);
   assert.match(middleware, /x-forwarded-proto/);
+  assert.match(middleware, /cf-visitor/);
+  assert.match(middleware, /cloudflareScheme \|\|/);
   assert.match(middleware, /308/);
 });
 
