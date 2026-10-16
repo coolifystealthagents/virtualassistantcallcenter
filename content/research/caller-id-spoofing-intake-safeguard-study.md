@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Identity and safe intake research
 image: /thumbnails/caller-id-spoofing-intake-safeguard-study.svg
 imageAlt: Caller ID safeguard study separating a displayed phone number from verified identity and authorized routing
-related: /services/inbound-customer-calls, /research/call-intake-identity-verification-boundaries, /contact
+related: /services/inbound-customer-calls, /research/call-intake-identity-verification-boundaries, /contact-us
 ---
 
 ## The decision behind the displayed number

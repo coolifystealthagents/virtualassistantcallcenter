@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Call Accuracy Research
 image: /thumbnails/phone-intake-field-validation-study.svg
 imageAlt: Callback number readback study comparing captured digits against a verified reference
-related: caller-address-readback-error-study,caller-name-spelling-confirmation-study
+related: /research/caller-address-readback-error-study, /research/caller-name-spelling-confirmation-study
 ---
 ## Finding and scope
 

@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Fire Protection Calls
 image: /thumbnails/after-hours-urgent-call-triage.svg
 imageAlt: Fire protection inspection call routed between scheduling service and emergency lanes
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Separate routine work from an active hazard
 

@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Commercial Inspection Calls
 image: /thumbnails/call-answering-for-commercial-inspectors.svg
 imageAlt: Commercial inspection report status record with property and job details
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Identify the job
 

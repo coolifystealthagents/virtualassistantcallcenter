@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Knowledge operations
 image: /thumbnails/virtual-assistant-knowledge-base-maintenance.svg
 imageAlt: Virtual assistant knowledge base maintenance routine showing a documented phone workflow with evidence, owner review, and safe escalation
-related: privacy-by-design-call-notes, virtual-receptionist-handoff-checklist, call-answering-policy-for-new-leads
+related: /research/privacy-by-design-call-notes, /blog/virtual-receptionist-handoff-checklist, /blog/call-answering-policy-for-new-leads
 ---
 
 ## Headline finding

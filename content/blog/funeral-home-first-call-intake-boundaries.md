@@ -2,15 +2,15 @@
 slug: funeral-home-first-call-intake-boundaries
 title: Funeral home first-call intake with compassionate boundaries
 description: A careful funeral home first-call workflow for immediate needs, caller details, transfer information, pricing requests, and director handoff.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: After-hours calls
 image: /thumbnails/funeral-home-first-call-intake-boundaries.svg
 imageAlt: Funeral home first-call workflow showing compassionate greeting immediate need capture and licensed director handoff
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/after-hours-answering, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/after-hours-answering, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Start with calm acknowledgment and the immediate need
@@ -92,7 +92,7 @@ When several receptionists stumble on the same situation, clarify the script wit
 
 Test planning-ahead, hospital, hospice, care-facility, home, medical-examiner, out-of-area, pricing, and family-conflict scenarios. Use fictional details. Confirm that every urgent path reaches an acknowledged owner and that no sensitive data enters the wrong system.
 
-Review the first live calls promptly and correct the workflow before broadening hours. A Philippines-based receptionist can provide a steady first response while licensed funeral directors retain every professional decision. Review the [after-hours answering service](/services/after-hours-answering) and use the [contact page](/contact) to map a careful pilot.
+Review the first live calls promptly and correct the workflow before broadening hours. A Philippines-based receptionist can provide a steady first response while licensed funeral directors retain every professional decision. Review the [after-hours answering service](/services/after-hours-answering) and use the [contact page](/contact-us) to map a careful pilot.
 
 ## Frequently asked questions
 

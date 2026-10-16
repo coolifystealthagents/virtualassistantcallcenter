@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Financial Intake
 image: /thumbnails/financial-advisor-call-intake-boundaries.svg
 imageAlt: Financial advisor call intake boundaries showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

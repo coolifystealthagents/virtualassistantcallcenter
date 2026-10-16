@@ -8,7 +8,7 @@ updated: 2026-09-28
 category: Callback privacy research
 image: /thumbnails/outbound-follow-up-consent-controls.svg
 imageAlt: Outbound callback study separating dialed destination recipient verification permitted context voicemail and safe closure
-related: /services/outbound-customer-calls, /research/voicemail-sensitive-detail-minimization-study, /contact
+related: /services/outbound-lead-qualification, /research/voicemail-sensitive-detail-minimization-study, /contact-us
 ---
 
 ## Research question and scope

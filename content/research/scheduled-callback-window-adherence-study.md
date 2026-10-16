@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Service Reliability Research
 image: /thumbnails/virtual-receptionist-callback-queue-aging.svg
 imageAlt: Callback window adherence study comparing promised windows with timestamped callback attempts
-related: callback-ownership-aging-control-study,callback-window-precision-study
+related: /research/callback-ownership-aging-control-study, /research
 ---
 ## Finding and scope
 

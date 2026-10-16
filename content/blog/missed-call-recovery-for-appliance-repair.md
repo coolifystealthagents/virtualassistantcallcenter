@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Appliance Repair Calls
 image: /thumbnails/missed-call-recovery-for-appliance-repair.svg
 imageAlt: Missed-call recovery for appliance repair
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 The central design question for appliance repair business is simple: what must be known before the call can move, and what must remain with a specialist?
 

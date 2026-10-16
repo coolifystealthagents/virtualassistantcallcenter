@@ -2,14 +2,14 @@
 slug: small-business-voicemail-triage
 title: A voicemail triage method for small business teams
 description: Small business voicemail triage turns scattered messages into owned work by separating emergencies, active customers, new inquiries, and low-risk requests.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/small-business-voicemail-triage.webp
 imageAlt: Editorial illustration about small business teams call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # A voicemail triage method for small business teams

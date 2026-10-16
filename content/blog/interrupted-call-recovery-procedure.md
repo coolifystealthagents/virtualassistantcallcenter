@@ -2,7 +2,7 @@
 slug: interrupted-call-recovery-procedure
 title: An Interrupted-Call Recovery Procedure for Remote Receptionists
 description: Recover dropped and disconnected calls with a safe callback rule, partial-note status, ownership, and a clear customer explanation.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Continuity

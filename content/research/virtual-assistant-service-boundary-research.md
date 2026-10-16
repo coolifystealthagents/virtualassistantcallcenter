@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Service boundaries
 image: /thumbnails/virtual-assistant-service-boundary-research.svg
 imageAlt: Virtual assistant service boundary research showing permitted assistance, owner decisions, privacy, and escalation
-related: customer-service-escalation-priority-model, call-escalation-severity-matrix, virtual-assistant-call-escalation-latency
+related: /research/customer-service-escalation-priority-model, /research/call-escalation-severity-matrix, /research/virtual-assistant-call-escalation-latency
 ---
 
 ## Headline finding

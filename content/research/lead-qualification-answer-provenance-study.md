@@ -8,7 +8,7 @@ updated: 2026-09-22
 category: Lead intake research
 image: /thumbnails/lead-qualification-answer-provenance-study.svg
 imageAlt: Lead qualification evidence study separating caller statements, assistant observations, inferences, and owner decisions
-related: /services/outbound-lead-qualification, /research/appointment-lead-qualification-evidence-study, /contact
+related: /services/outbound-lead-qualification, /research/appointment-lead-qualification-evidence-study, /contact-us
 ---
 
 ## Research question

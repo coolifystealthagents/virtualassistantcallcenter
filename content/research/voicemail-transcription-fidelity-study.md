@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Voicemail evidence research
 image: /thumbnails/small-business-voicemail-triage-workflow.svg
 imageAlt: Voicemail transcription evidence review comparing reference audio, words, speakers, numbers, uncertainty, privacy, and human verification
-related: small-business-voicemail-triage-workflow, call-quality-sampling-methodology
+related: /research/small-business-voicemail-triage-workflow, /research/call-quality-sampling-methodology
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-09-04
 category: Locksmith call answering
 image: /thumbnails/call-answering-for-home-service-contractors.svg
 imageAlt: After-hours locksmith call intake showing safe questions and technician dispatch ownership
-related: /blog/call-intake-for-home-services, /blog/after-hours-urgent-call-triage
+related: /blog/call-intake-for-home-services, /research/after-hours-urgent-call-triage
 ---
 ## Start with location and immediate danger
 

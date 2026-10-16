@@ -7,7 +7,7 @@ updated: 2026-07-28
 category: Missed call recovery
 image: /thumbnails/missed-call-recovery-workflow.svg
 imageAlt: Missed call recovery workflow moving from voicemail review to callback, CRM notes, and the next action
-related: /services/inbound-customer-calls,/services/outbound-lead-qualification,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/outbound-lead-qualification, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the callback promise
 
@@ -92,4 +92,4 @@ Record who called, when the call arrived, why they called, what the assistant di
 
 ## Put the workflow into practice
 
-Start with one phone line and one callback promise. If you need help mapping coverage, scripts, tools, and escalation rules, [request a call support plan](/contact). The goal is not more dialing. It is a dependable path from a missed call to a documented next action.
+Start with one phone line and one callback promise. If you need help mapping coverage, scripts, tools, and escalation rules, [request a call support plan](/contact-us). The goal is not more dialing. It is a dependable path from a missed call to a documented next action.

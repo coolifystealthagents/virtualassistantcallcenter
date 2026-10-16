@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-minimum-access-effectiveness-study"
-title: "VirtualAssistantCallCenter Minimum Access Effectiveness Study"
-description: "A source-backed virtual assistant call center operations study of whether permissions support required work without unnecessary exposure."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-minimum-access-effectiveness-study
+title: VirtualAssistantCallCenter Minimum Access Effectiveness Study
+description: A source-backed virtual assistant call center operations study of whether permissions support required work without unnecessary exposure.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations research
 image: /thumbnails/call-disposition-reviewer-agreement-study.svg
 imageAlt: Editorial diagram for Call Disposition Reviewer Agreement: A Reliability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Minimum Access Effectiveness Study

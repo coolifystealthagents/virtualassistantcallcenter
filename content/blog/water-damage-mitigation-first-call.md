@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Restoration Calls
 image: /thumbnails/weather-disruption-call-plan.svg
 imageAlt: Water damage mitigation first-call checklist with safety access and dispatch fields
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Establish location and immediate conditions
 

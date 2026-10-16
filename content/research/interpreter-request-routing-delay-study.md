@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Language Access Research
 image: /thumbnails/call-center-language-access-measurement.svg
 imageAlt: Timeline from interpreter request to connection with documented exclusions
-related: language-identification-interpreter-handoff-study,language-preference-routing-accuracy-study
+related: /research/language-identification-interpreter-handoff-study, /research/language-preference-routing-accuracy-study
 ---
 ## Finding and scope
 

@@ -2,7 +2,7 @@
 slug: caller-written-confirmation-request
 title: Handle a Caller's Request for Written Confirmation Without Overpromising
 description: Turn requests for email or text confirmation into a controlled handoff with approved wording, channel checks, ownership, and delivery evidence.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Customer Communication

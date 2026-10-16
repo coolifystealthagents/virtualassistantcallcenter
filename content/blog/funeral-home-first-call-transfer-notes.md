@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Funeral Home Calls
 image: /thumbnails/call-answering-for-funeral-homes.svg
 imageAlt: Funeral home first-call notes arranged for a private handoff to an authorized director
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Let the caller set the pace
 

@@ -35,6 +35,7 @@ export default function ThankYouPage() {
               className="sa-oncehub-frame"
               referrerPolicy="strict-origin-when-cross-origin"
             />
+            <p className="sa-booking-complete">After you choose a time, OnceHub will confirm the meeting and continue to the final step.</p>
           </section>
         </div>
       </main>

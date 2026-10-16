@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for a commercial laundry equipment breakdown
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Commercial laundry service calls: identify downtime and machine risk before dispatch
@@ -89,4 +89,4 @@ A useful close tells the customer what exists now and who acts next. The recepti
 
 That statement does not invent an arrival time or technical answer. It confirms that the important details survived the call. For commercial laundry service, reliable intake is less about sounding technical and more about giving the technician a clear starting point without exposing the caller to improvised repair advice.
 
-Need a phone workflow that connects equipment identity, downtime, access, and dispatch acknowledgment? [Contact Virtual Assistant Call Center](/contact) to discuss your commercial laundry intake process.
+Need a phone workflow that connects equipment identity, downtime, access, and dispatch acknowledgment? [Contact Virtual Assistant Call Center](/contact-us) to discuss your commercial laundry intake process.

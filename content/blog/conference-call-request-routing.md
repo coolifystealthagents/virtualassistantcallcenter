@@ -2,7 +2,7 @@
 slug: conference-call-request-routing
 title: Routing Conference and Multi-Party Call Requests Without Calendar Confusion
 description: Capture purpose, participants, consent, ownership, and scheduling needs before a virtual assistant arranges a multi-party call.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Routing

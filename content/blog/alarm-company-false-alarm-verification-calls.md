@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: security-call-workflows
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for false-alarm verification calls: cancellation limits, identity, and dispatch records
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # False-alarm verification calls: cancellation limits, identity, and dispatch records
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [FCC 911 and E911 consumer guidance](https://www.fcc.gov/consumers/guides/911-and-e911-services)
 
-Need help designing the routing map, intake fields, and QA review for your call alarm queue? [Contact Virtual Assistant Call Center](/contact) to discuss the alarm workflow.
+Need help designing the routing map, intake fields, and QA review for your call alarm queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the alarm workflow.

@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Commercial Property Calls
 image: /thumbnails/call-intake-for-commercial-landlords.svg
 imageAlt: Call intake for commercial landlords
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 Phone coverage works best when it reduces reconstruction. The caller should not have to repeat the same facts to every person at commercial landlord.
 

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Real Estate Routing
 image: /thumbnails/real-estate-lead-call-routing.svg
 imageAlt: Real estate lead call routing showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

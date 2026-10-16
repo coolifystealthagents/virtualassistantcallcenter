@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Callback research
 image: /thumbnails/abandoned-call-recontact-eligibility-study.svg
 imageAlt: Abandoned call study linking disconnect evidence, caller intent, contact permission, suppression checks, ownership, and outcome
-related: /services/inbound-customer-calls, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question
@@ -88,4 +88,4 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 - [Inbound customer calls](/services/inbound-customer-calls)
 - [Research library](/research)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

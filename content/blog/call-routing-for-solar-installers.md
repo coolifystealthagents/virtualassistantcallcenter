@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Solar Installer Routing
 image: /thumbnails/call-routing-for-solar-installers.svg
 imageAlt: Call routing for solar installation companies showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Find the project stage
 

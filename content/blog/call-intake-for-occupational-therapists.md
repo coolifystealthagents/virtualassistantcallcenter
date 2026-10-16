@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Occupational Therapy Intake
 image: /thumbnails/call-intake-for-occupational-therapists.svg
 imageAlt: Occupational therapy call intake guide with referral and scheduling steps
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Define the nonclinical first call
 

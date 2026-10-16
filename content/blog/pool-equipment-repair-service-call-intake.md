@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Pool Service Calls
 image: /thumbnails/home-service-call-triage-risk-boundaries.svg
 imageAlt: Pool equipment repair intake with property equipment symptom access and technician review
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Locate the property and equipment
 

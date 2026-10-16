@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Appointment setting
 image: /thumbnails/appointment-setting-workflow-for-small-business.svg
 imageAlt: Appointment setting workflow for a small business showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

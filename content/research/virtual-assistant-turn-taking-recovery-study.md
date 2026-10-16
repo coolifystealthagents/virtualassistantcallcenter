@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Conversation recovery research
 image: /thumbnails/virtual-assistant-call-quality-calibration.svg
 imageAlt: Turn-taking recovery evidence review separating caller interruption, silence, overlap, error notice, retry, alternative input, and human handoff
-related: phone-intake-accessibility-testing, service-business-call-quality-audit
+related: /research/phone-intake-accessibility-testing, /research/service-business-call-quality-audit
 ---
 
 ## Headline finding

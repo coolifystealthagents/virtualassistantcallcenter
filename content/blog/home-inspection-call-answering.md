@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Home Inspection Calls
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Home inspection call answering guide showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Capture the property basics
 

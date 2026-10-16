@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Escalation Research
 image: /thumbnails/after-hours-call-triage-threshold-study.svg
 imageAlt: After-hours escalation study comparing call evidence rule triggers and reviewer decisions
-related: emergency-escalation-acknowledgment-latency-study,after-hours-vendor-authorization-study
+related: /research/emergency-escalation-acknowledgment-latency-study, /research/after-hours-vendor-authorization-study
 ---
 ## Finding and scope
 

@@ -7,7 +7,7 @@ updated: 2026-07-28
 category: Call support comparison
 image: /thumbnails/virtual-receptionist-vs-answering-service.svg
 imageAlt: Comparison of a dedicated virtual receptionist workflow and a shared answering service queue
-related: /services/inbound-customer-calls,/services/after-hours-answering,/qa-scorecard
+related: /services/inbound-customer-calls, /services/after-hours-answering, /qa-scorecard
 ---
 ## The short answer
 

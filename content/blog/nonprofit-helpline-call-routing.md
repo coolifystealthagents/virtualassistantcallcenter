@@ -2,14 +2,14 @@
 slug: nonprofit-helpline-call-routing
 title: A practical call-routing plan for nonprofit helplines
 description: Nonprofit helplines need dependable call routing that protects urgent requests, respects volunteer boundaries, and leaves a useful record for the next person.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/nonprofit-helpline-call-routing.png
 imageAlt: Editorial illustration about nonprofit helplines call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # A practical call-routing plan for nonprofit helplines

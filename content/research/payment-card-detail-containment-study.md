@@ -8,7 +8,7 @@ updated: 2026-09-28
 category: Data minimization research
 image: /thumbnails/privacy-by-design-call-notes.svg
 imageAlt: Call note containment map separating approved payment handling from notes messages exports and exception review
-related: /services/customer-support, /research/privacy-by-design-call-notes, /contact
+related: /services/inbound-customer-calls, /research/privacy-by-design-call-notes, /contact-us
 ---
 
 ## Why containment is the real question

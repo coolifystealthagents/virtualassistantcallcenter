@@ -2,15 +2,15 @@
 slug: event-venue-inquiry-qualification-calls
 title: Event venue inquiry qualification calls that protect the booking handoff
 description: A call workflow for event venue inquiries covering dates, capacity, accessibility, vendor rules, tentative holds, and sales handoffs.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Appointment setting
 image: /thumbnails/event-venue-inquiry-qualification-calls.svg
 imageAlt: Event venue inquiry call workflow showing date and capacity check site tour booking and sales owner handoff
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/appointment-setting, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/appointment-setting, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Qualify the next conversation, not the entire event
@@ -92,7 +92,7 @@ Start with one venue and a limited set of event types. Test a fixed date, a flex
 
 During the first week, review inquiries daily with the sales manager. Correct the form or source when mistakes repeat. Expand only after receptionists consistently distinguish inquiry, hold, proposal, and confirmed booking.
 
-If you want a Philippines-based receptionist to capture venue inquiries while your managers retain contracts and approvals, explore the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact) to map the first queue.
+If you want a Philippines-based receptionist to capture venue inquiries while your managers retain contracts and approvals, explore the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact-us) to map the first queue.
 
 ## Frequently asked questions
 

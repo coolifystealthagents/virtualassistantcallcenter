@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: emergency-service-routing
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for emergency glass repair and board-up service
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Emergency glass and board-up calls: capture exposure, occupancy, and access facts
@@ -92,4 +92,4 @@ A strong close reads back the property, damaged opening, exposure, onsite contac
 
 That clarity matters most when a caller is standing in front of a damaged property. The call team cannot repair the opening, but it can prevent the report from losing its location, urgency, access window, or owner on the way to dispatch.
 
-Need a reliable phone workflow for broken glass, exposed storefronts, and after-hours board-up requests? [Contact Virtual Assistant Call Center](/contact) to discuss your emergency intake process.
+Need a reliable phone workflow for broken glass, exposed storefronts, and after-hours board-up requests? [Contact Virtual Assistant Call Center](/contact-us) to discuss your emergency intake process.

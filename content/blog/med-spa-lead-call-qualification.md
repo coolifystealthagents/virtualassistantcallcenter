@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Lead Qualification
 image: /thumbnails/med-spa-lead-call-qualification.svg
 imageAlt: Med spa lead call qualification showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

@@ -2,15 +2,15 @@
 slug: childcare-enrollment-inquiry-call-intake
 title: Childcare enrollment inquiry calls with clear decision boundaries
 description: A careful childcare inquiry workflow for program fit, waitlists, tours, accessibility requests, records, and director review.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Appointment setting
 image: /thumbnails/childcare-enrollment-inquiry-call-intake.svg
 imageAlt: Childcare enrollment inquiry workflow from program and schedule needs through tour booking and director review
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/appointment-setting, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/appointment-setting, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Make the first call informative without promising a place
@@ -89,7 +89,7 @@ When repeated questions expose unclear public information, update the source. Gi
 
 Test an open program, a waitlist, siblings, a changing schedule, an accommodation request, a subsidy question, failed tour confirmation, and an urgent current-family call misrouted to inquiry. Have the director approve every branch.
 
-Review early calls daily and expand only when the receptionist consistently distinguishes inquiry, waitlist, application, and enrollment. To map a childcare inquiry lane for a Philippines-based receptionist, review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact) to define a pilot.
+Review early calls daily and expand only when the receptionist consistently distinguishes inquiry, waitlist, application, and enrollment. To map a childcare inquiry lane for a Philippines-based receptionist, review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact-us) to define a pilot.
 
 ## Frequently asked questions
 

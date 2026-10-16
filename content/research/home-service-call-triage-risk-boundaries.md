@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Service-call research
 image: /thumbnails/home-service-call-triage-risk-boundaries.svg
 imageAlt: Home-service call triage research showing urgency categories, evidence boundaries, and escalation
-related: small-business-voicemail-triage-workflow, customer-service-escalation-priority-model
+related: /research/small-business-voicemail-triage-workflow, /research/customer-service-escalation-priority-model
 ---
 
 ## Scope

@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Call Accuracy Research
 image: /thumbnails/virtual-assistant-call-classification-confidence-study.svg
 imageAlt: Research design comparing caller name spelling confirmation and corrected records
-related: customer-name-pronunciation-call-note, callback-readback-error-detection-study
+related: /blog/customer-name-pronunciation-call-note, /research/callback-readback-error-detection-study
 ---
 ## Finding and scope
 

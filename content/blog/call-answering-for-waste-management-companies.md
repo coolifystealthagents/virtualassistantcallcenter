@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Waste Management Calls
 image: /thumbnails/call-answering-for-waste-management-companies.svg
 imageAlt: Waste management call answering guide for pickup and container routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the service and location
 

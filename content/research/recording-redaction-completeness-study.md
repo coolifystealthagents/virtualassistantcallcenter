@@ -1,7 +1,7 @@
 ---
 slug: recording-redaction-completeness-study
 title: Recording Redaction Completeness Study
-description: A reproducible research protocol for whether pause events, audio, transcript, screen capture, and exported copies apply one declared redaction boundary with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for checking whether audio, transcripts, captures, and exports apply the same redaction boundary.
 published: 2026-10-12
 updated: 2026-10-12
 datePublished: 2026-10-12

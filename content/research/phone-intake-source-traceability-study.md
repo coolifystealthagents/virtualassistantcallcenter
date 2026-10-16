@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Intake traceability
 image: /thumbnails/phone-intake-source-traceability-study.svg
 imageAlt: Phone intake source traceability study connecting caller statements, fields, routed actions, and owner decisions
-related: phone-intake-field-validation-study, virtual-receptionist-intake-data-fields, virtual-assistant-call-note-minimization-study
+related: /research/phone-intake-field-validation-study, /research/virtual-receptionist-intake-data-fields, /research/virtual-assistant-call-note-minimization-study
 ---
 
 ## Headline finding

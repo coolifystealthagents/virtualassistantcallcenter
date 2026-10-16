@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: specialty-moving-intake
 image: /thumbnails/moving-company-estimate-call-intake.svg
 imageAlt: Call handler mapping stairs and access details for a piano-moving estimate
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Piano-moving estimate calls: document the route before anyone quotes the job
@@ -68,4 +68,4 @@ Score whether the agent covered both routes, read back addresses and dates, mark
 
 A useful close sounds modest because it is accurate: the company has received the estimate request, the route details are attached, and the estimator will confirm what else is needed. That statement gives the customer a real next step without inventing a price or pretending the move has already been approved.
 
-Need a phone-intake process that prepares moving estimates without overpromising? [Contact Virtual Assistant Call Center](/contact) to discuss the workflow.
+Need a phone-intake process that prepares moving estimates without overpromising? [Contact Virtual Assistant Call Center](/contact-us) to discuss the workflow.

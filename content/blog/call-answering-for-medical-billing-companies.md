@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Medical Billing Calls
 image: /thumbnails/call-answering-for-medical-billing-companies.svg
 imageAlt: Medical billing call answering guide for patient and provider routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the account relationship
 

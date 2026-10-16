@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Healthcare workflows
 image: /thumbnails/call-answering-for-dental-practices.svg
 imageAlt: Call answering for dental practices showing a structured dental practices phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

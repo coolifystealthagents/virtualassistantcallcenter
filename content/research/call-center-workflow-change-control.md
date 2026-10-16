@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Operations research
 image: /thumbnails/call-center-workflow-change-control.svg
 imageAlt: Call-center workflow change control board with owner approval, test evidence, rollout, rollback, and review
-related: virtual-assistant-knowledge-article-governance, call-center-agent-onboarding-checklist, call-quality-reviewer-calibration
+related: /research, /research/call-center-agent-onboarding-checklist, /research/call-quality-reviewer-calibration
 ---
 
 ## Headline finding

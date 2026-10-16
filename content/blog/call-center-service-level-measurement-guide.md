@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: call-center-metrics
 image: /thumbnails/call-center-service-level-measurement-guide.svg
 imageAlt: Editorial workflow illustration for a plain-language guide to call center service level measurement
-related: /services, /contact, /research/call-center-service-level-measurement
+related: /services, /contact-us, /research/call-center-service-level-measurement
 ---
 
 # A plain-language guide to call center service level measurement
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

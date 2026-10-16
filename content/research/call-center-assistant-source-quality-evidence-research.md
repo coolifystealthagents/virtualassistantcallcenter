@@ -2,18 +2,18 @@
 slug: call-center-assistant-source-quality-evidence-research
 title: Research Brief: Call Center Virtual Assistant Operations Source Quality Evidence
 description: Research Brief: Call Center Virtual Assistant Operations Source Quality Evidence: evidence-led guidance for Virtual Assistant Call Center.
-datePublished: "2026-08-19"
+datePublished: 2026-08-19
 published: 2026-08-19
 updated: 2026-08-19
 category: research
 image: /aug19-heroes/call-center-assistant-source-quality-evidence-research.webp
 imageAlt: call center assistant source quality evidence research editorial illustration
-publishedAt: "2026-08-19T12:00:00.000Z"
-updatedAt: "2026-08-19T12:00:00.000Z"
-author: "Editorial Team"
-reviewedBy: "Editorial Team"
-reviewedAt: "2026-08-19T12:00:00.000Z"
-featuredImage: "/aug19-heroes/call-center-assistant-source-quality-evidence-research.webp"
+publishedAt: 2026-08-19T12:00:00.000Z
+updatedAt: 2026-08-19T12:00:00.000Z
+author: Editorial Team
+reviewedBy: Editorial Team
+reviewedAt: 2026-08-19T12:00:00.000Z
+featuredImage: /aug19-heroes/call-center-assistant-source-quality-evidence-research.webp
 ---
 
 # Research Brief: Call Center Virtual Assistant Operations Source Quality Evidence

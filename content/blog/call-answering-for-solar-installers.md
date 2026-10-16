@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Home services call support
 image: /thumbnails/call-answering-for-home-service-contractors.svg
 imageAlt: Solar installer call answering guide with property details and project routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Sort the reason for the call
 

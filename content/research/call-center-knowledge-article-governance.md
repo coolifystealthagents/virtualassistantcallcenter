@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Knowledge research
 image: /thumbnails/call-center-knowledge-article-governance.svg
 imageAlt: Call-center knowledge article governance board with owner, review date, source, and escalation fields
-related: virtual-assistant-knowledge-base-maintenance, call-center-agent-onboarding-checklist, customer-call-disposition-taxonomy
+related: /research/virtual-assistant-knowledge-base-maintenance, /research/call-center-agent-onboarding-checklist, /research/customer-call-disposition-taxonomy
 ---
 
 ## Headline finding

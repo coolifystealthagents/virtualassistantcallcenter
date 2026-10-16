@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Intake controls
 image: /thumbnails/call-intake-identity-verification-controls.svg
 imageAlt: Call intake identity verification controls with confirmation, pause, and safe routing steps
-related: phone-intake-field-validation-study, privacy-by-design-call-notes, call-screening-workflow-for-small-business
+related: /research/phone-intake-field-validation-study, /research/privacy-by-design-call-notes, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

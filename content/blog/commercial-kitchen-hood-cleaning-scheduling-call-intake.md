@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: field-service-intake
 image: /thumbnails/commercial-kitchen-equipment-breakdown-call-intake.svg
 imageAlt: Restaurant manager giving access details for a kitchen exhaust service visit
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Commercial kitchen hood-cleaning calls: schedule access without guessing at service scope
@@ -68,4 +68,4 @@ Quality reviews should sample routine bookings, multi-tenant access problems, mi
 
 The final intake record should let a coordinator answer four practical questions: where is the system, what is the customer asking for, when and how can a crew enter, and what remains undecided? That is enough for reception to do useful work without pretending to scope the job.
 
-Need a call workflow for service windows, access details, and technical escalation? [Contact Virtual Assistant Call Center](/contact) to discuss your intake process.
+Need a call workflow for service windows, access details, and technical escalation? [Contact Virtual Assistant Call Center](/contact-us) to discuss your intake process.

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Privacy research
 image: /thumbnails/call-recording-review-retention-checklist.svg
 imageAlt: Call recording review and retention checklist with purpose, notice, access, sampling, and deletion controls
-related: call-center-call-recording-consent-workflow, virtual-receptionist-data-retention-policy, remote-call-team-access-control-review
+related: /research/call-center-call-recording-consent-workflow, /research/virtual-receptionist-data-retention-policy, /research/remote-call-team-access-control-review
 ---
 
 ## Headline finding

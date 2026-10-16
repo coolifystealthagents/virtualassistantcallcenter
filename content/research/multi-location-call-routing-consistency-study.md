@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Routing research
 image: /thumbnails/multi-location-call-routing-consistency-study.svg
 imageAlt: Multi-location routing research showing shared call categories, local exceptions, and owner review
-related: multi-location-call-routing-governance, small-business-call-routing-failover
+related: /research/multi-location-call-routing-governance, /research/small-business-call-routing-failover
 ---
 
 ## Research question

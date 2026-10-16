@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Coverage metrics
 image: /thumbnails/call-coverage-scorecard.svg
 imageAlt: A call coverage scorecard for managers showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

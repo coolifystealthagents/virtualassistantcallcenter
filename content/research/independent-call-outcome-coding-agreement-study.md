@@ -1,7 +1,7 @@
 ---
 slug: independent-call-outcome-coding-agreement-study
 title: Independent Call Outcome Coding Agreement Study
-description: A reproducible research protocol for how consistently independent reviewers classify the same call evidence under a frozen outcome guide with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for measuring how consistently independent reviewers classify calls under a frozen outcome guide.
 published: 2026-10-13
 updated: 2026-10-13
 datePublished: 2026-10-13

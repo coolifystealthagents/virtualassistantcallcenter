@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: appointment-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Phone intake workflow for hearing-aid repair and clinical escalation
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Hearing-aid repair calls: separate device logistics from clinical questions
@@ -93,4 +93,4 @@ The patient should leave the call knowing what was recorded and who responds nex
 
 That is more precise than calling the entire matter a repair. It helps the practice respond to the device without losing sight of the person using it.
 
-Need a phone workflow that separates hearing-aid service, warranty review, accessibility needs, and clinical escalation? [Contact Virtual Assistant Call Center](/contact) to discuss your audiology intake process.
+Need a phone workflow that separates hearing-aid service, warranty review, accessibility needs, and clinical escalation? [Contact Virtual Assistant Call Center](/contact-us) to discuss your audiology intake process.

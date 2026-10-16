@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Call security
 image: /thumbnails/call-screening-workflow-for-small-business.svg
 imageAlt: Small-business call screening workflow with verification, routing, and escalation checkpoints
-related: after-hours-call-answering-benchmark, business-call-scam-screening-virtual-assistant-philippines, outbound-follow-up-consent-controls
+related: /research/after-hours-call-answering-benchmark, /research, /research/outbound-follow-up-consent-controls
 ---
 
 ## Headline finding

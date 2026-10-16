@@ -8,7 +8,7 @@ updated: 2026-09-23
 category: CRM research
 image: /thumbnails/crm-duplicate-contact-creation-study.svg
 imageAlt: CRM duplicate study connecting caller details, search candidates, match confidence, create-or-review decision, and merge history
-related: /services/qa-crm, /research, /contact
+related: /services/call-disposition-reporting, /research, /contact-us
 ---
 
 ## Research question

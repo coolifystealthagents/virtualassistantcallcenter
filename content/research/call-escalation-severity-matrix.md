@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Escalation controls
 image: /thumbnails/call-escalation-severity-matrix.svg
 imageAlt: Call escalation severity matrices for owner-approved routing with a documented workflow, owner handoff, and evidence-first controls
-related: virtual-receptionist-call-transfer-rules, after-hours-call-answering-benchmark, call-screening-workflow-for-small-business
+related: /blog/virtual-receptionist-call-transfer-rules, /research/after-hours-call-answering-benchmark, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

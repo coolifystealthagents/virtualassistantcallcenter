@@ -8,7 +8,7 @@ updated: 2026-09-18
 category: Inbound call research
 image: /thumbnails/service-area-eligibility-call-intake-study.svg
 imageAlt: Diagram showing evidence, review, exception, and owner steps for service-area eligibility
-related: /services/inbound-customer-calls, /research/caller-address-readback-error-study, /contact
+related: /services/inbound-customer-calls, /research/caller-address-readback-error-study, /contact-us
 ---
 
 ## Research question

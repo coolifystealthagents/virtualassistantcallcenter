@@ -2,7 +2,7 @@
 slug: call-shadowing-access-boundary
 title: Set Access Boundaries Before a New Assistant Shadows Customer Calls
 description: Design call shadowing around purpose, minimum access, customer notices, secure observation, coaching records, and a defined end date.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Call Team Training

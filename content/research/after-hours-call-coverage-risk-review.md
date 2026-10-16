@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Coverage research
 image: /thumbnails/after-hours-call-coverage-risk-review.svg
 imageAlt: After-hours call coverage risk review with fallback owner, urgency, accessibility, and exception controls
-related: after-hours-call-answering-benchmark, after-hours-urgent-call-triage, business-hours-coverage-plan
+related: /research/after-hours-call-answering-benchmark, /research/after-hours-urgent-call-triage, /blog/business-hours-coverage-plan
 ---
 
 ## Headline finding

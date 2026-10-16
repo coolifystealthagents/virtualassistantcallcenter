@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Pet Grooming Calls
 image: /thumbnails/call-intake-for-pet-groomers.svg
 imageAlt: Call intake for pet grooming businesses showing a clear service request and appointment handoff
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Identify the grooming request
 

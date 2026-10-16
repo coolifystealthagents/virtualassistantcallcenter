@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: After-hours triage
 image: /thumbnails/after-hours-urgent-call-triage.svg
 imageAlt: After-hours urgent call triage without unsafe promises with a documented workflow, owner handoff, and evidence-first controls
-related: after-hours-call-answering-benchmark, call-screening-workflow-for-small-business
+related: /research/after-hours-call-answering-benchmark, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

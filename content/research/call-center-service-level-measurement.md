@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Service levels
 image: /thumbnails/call-center-service-level-measurement.svg
 imageAlt: Call center service-level measurement for small teams showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-occupancy-planning, call-center-qa-review-routine, customer-callback-service-level-study
+related: /research/call-center-occupancy-planning, /blog/call-center-qa-review-routine, /research/customer-callback-service-level-study
 ---
 
 ## Headline finding

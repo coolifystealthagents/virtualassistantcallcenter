@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Appointment research
 image: /thumbnails/appointment-lead-qualification-evidence-study.svg
 imageAlt: Appointment lead qualification research showing a call record, eligibility fields, and an outcome review
-related: virtual-assistant-call-intake-scorecard, phone-intake-field-validation-study
+related: /research/virtual-assistant-call-intake-scorecard, /research/phone-intake-field-validation-study
 ---
 
 ## Research question

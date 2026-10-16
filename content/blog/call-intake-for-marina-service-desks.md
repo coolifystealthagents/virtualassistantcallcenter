@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Marina Operations
 image: /thumbnails/service-business-phone-intake-workflow.svg
 imageAlt: Marina service desk call intake worksheet with berth and repair routing fields
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Start with the boat and its location
 

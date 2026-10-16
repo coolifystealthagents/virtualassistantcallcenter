@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Callback operations
 image: /thumbnails/virtual-receptionist-callback-queue-aging.svg
 imageAlt: Virtual receptionist callback queue aging study with owners, age bands, and exception review
-related: customer-callback-queue-aging-study, customer-callback-queue-management, missed-call-response-time-study
+related: /research/customer-callback-queue-aging-study, /blog/customer-callback-queue-management, /research/missed-call-response-time-study
 ---
 
 ## Headline finding

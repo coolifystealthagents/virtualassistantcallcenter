@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Inbound intake
 image: /thumbnails/virtual-receptionist-intake-data-fields.svg
 imageAlt: Virtual receptionist intake data fields that support clean handoffs with a documented workflow, owner handoff, and evidence-first controls
-related: virtual-assistant-call-notes-template, virtual-receptionist-handoff-metrics, call-screening-workflow-for-small-business
+related: /blog/virtual-assistant-call-notes-template, /research/virtual-receptionist-handoff-metrics, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

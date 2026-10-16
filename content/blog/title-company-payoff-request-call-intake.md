@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: professional-services-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for title company payoff request calls: verify the request before moving documents
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Title company payoff title request calls: verify the title request before moving documents
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [CFPB mortgage-payoff explainer](https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-payoff-amount-for-my-mortgage-loan-en-205/)
 
-Need help designing the routing map, intake fields, and QA review for your call title queue? [Contact Virtual Assistant Call Center](/contact) to discuss the title workflow.
+Need help designing the routing map, intake fields, and QA review for your call title queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the title workflow.

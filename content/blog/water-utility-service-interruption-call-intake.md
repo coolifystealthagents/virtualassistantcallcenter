@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: public-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for water service interruption calls: build an outage record customers can trust
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Water service interruption calls: build an outage water intake record customers can trust
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [EPA water-utility emergency-response resources](https://www.epa.gov/ground-water-and-drinking-water/emergency-response-drinking-water-and-wastewater-utilities)
 
-Need help designing the routing map, intake fields, and QA review for your call water queue? [Contact Virtual Assistant Call Center](/contact) to discuss the water workflow.
+Need help designing the routing map, intake fields, and QA review for your call water queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the water workflow.

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Lead intake research
 image: /thumbnails/lead-intake-response-evidence-study.svg
 imageAlt: Lead intake response evidence study with intake events, approved next actions, and owner acceptance
-related: lead-follow-up-consent-recordkeeping, virtual-assistant-call-intake-scorecard, missed-call-response-time-study
+related: /research/lead-follow-up-consent-recordkeeping, /research/virtual-assistant-call-intake-scorecard, /research/missed-call-response-time-study
 ---
 
 ## Headline finding

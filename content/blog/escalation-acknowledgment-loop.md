@@ -2,7 +2,7 @@
 slug: escalation-acknowledgment-loop
 title: Close the Escalation Acknowledgment Loop After a Customer Call
 description: An escalation is not safely handed off until an authorized owner accepts it, the caller expectation is recorded, and a fallback exists.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Escalation

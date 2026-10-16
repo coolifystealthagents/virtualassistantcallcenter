@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Veterinary Referral Calls
 image: /thumbnails/call-intake-for-veterinary-emergency-referrals.svg
 imageAlt: Call intake for veterinary emergency referrals
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 The central design question for veterinary practice is simple: what must be known before the call can move, and what must remain with a specialist?
 

@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Intake research
 image: /thumbnails/phone-intake-field-validation-study.svg
 imageAlt: Phone number read-back error study with caller evidence, ownership, and bounded interpretation
-related: phone-intake-field-validation-study
+related: /research/phone-intake-field-validation-study
 ---
 
 ## Headline finding

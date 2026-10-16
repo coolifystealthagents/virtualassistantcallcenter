@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Callback research
 image: /thumbnails/callback-queue-aging-cohort-study.svg
 imageAlt: Callback queue research showing request age, owner status, contact outcomes, and unresolved work
-related: missed-call-response-time-study, virtual-receptionist-callback-queue-aging
+related: /research/missed-call-response-time-study, /research/virtual-receptionist-callback-queue-aging
 ---
 
 ## The question

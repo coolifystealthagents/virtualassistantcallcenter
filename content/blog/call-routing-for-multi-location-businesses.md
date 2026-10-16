@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Call routing
 image: /thumbnails/call-routing-for-multi-location-businesses.svg
 imageAlt: Call routing for multi-location businesses showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

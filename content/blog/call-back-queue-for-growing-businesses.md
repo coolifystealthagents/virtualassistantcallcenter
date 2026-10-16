@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Operations
 image: /thumbnails/call-back-queue-for-growing-businesses.svg
 imageAlt: Callback queue management for growing businesses showing a structured growing businesses phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

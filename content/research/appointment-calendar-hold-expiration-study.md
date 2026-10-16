@@ -8,7 +8,7 @@ updated: 2026-09-18
 category: Appointment setting research
 image: /thumbnails/appointment-calendar-hold-expiration-study.svg
 imageAlt: Diagram showing evidence, review, exception, and owner steps for temporary appointment holds
-related: /services/appointment-setting, /research/appointment-slot-availability-integrity, /contact
+related: /services/appointment-setting, /research/appointment-slot-availability-integrity, /contact-us
 ---
 
 ## Research question

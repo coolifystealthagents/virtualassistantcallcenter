@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Privacy research
 image: /thumbnails/remote-call-team-access-control-review.svg
 imageAlt: Remote call team access control review with identity, least privilege, audit, retention, and offboarding controls
-related: remote-call-center-privacy-controls, privacy-by-design-call-notes, virtual-receptionist-data-retention-policy
+related: /research/remote-call-center-privacy-controls, /research/privacy-by-design-call-notes, /research/virtual-receptionist-data-retention-policy
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Dental Front Desk Triage
 image: /thumbnails/dental-emergency-call-triage.svg
 imageAlt: Dental emergency call triage for front desks showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Identify urgency without diagnosing
 

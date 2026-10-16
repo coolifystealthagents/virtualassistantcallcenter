@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Healthcare call research
 image: /thumbnails/dental-referral-call-intake-evidence-review.svg
 imageAlt: Dental referral call research showing structured intake fields and clinician escalation
-related: phone-intake-accessibility-testing, appointment-lead-qualification-evidence-study
+related: /research/phone-intake-accessibility-testing, /research/appointment-lead-qualification-evidence-study
 ---
 
 ## Purpose

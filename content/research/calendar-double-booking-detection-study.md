@@ -8,7 +8,7 @@ updated: 2026-09-24
 category: Appointment research
 image: /thumbnails/calendar-double-booking-detection-study.svg
 imageAlt: Double-booking study linking availability lookup, temporary hold, committed event, confirmation, and conflict resolution
-related: /services/appointment-setting, /research, /contact
+related: /services/appointment-setting, /research, /contact-us
 ---
 
 ## Research question
@@ -88,4 +88,4 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 - [/services/appointment-setting](/services/appointment-setting)
 - [Research library](/research)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

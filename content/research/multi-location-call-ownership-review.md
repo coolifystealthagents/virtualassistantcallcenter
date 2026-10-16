@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Multi-location operations
 image: /thumbnails/multi-location-call-ownership-review.svg
 imageAlt: Multi-location call ownership review showing routing, shared queues, fallback owners, and exceptions
-related: multi-location-call-owner-matrix, multi-location-call-routing-governance, call-center-service-level-measurement
+related: /research/multi-location-call-owner-matrix, /research/multi-location-call-routing-governance, /research/call-center-service-level-measurement
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: reservation-call-workflows
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for marina transient slip inquiries: collect vessel-fit facts without promising a berth
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Marina transient slip inquiries: collect vessel-fit facts without promising a berth
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [U.S. Coast Guard navigation rules](https://www.navcen.uscg.gov/navigation-rules-amalgamated)
 
-Need help designing the routing map, intake fields, and QA review for your call marina queue? [Contact Virtual Assistant Call Center](/contact) to discuss the marina workflow.
+Need help designing the routing map, intake fields, and QA review for your call marina queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the marina workflow.

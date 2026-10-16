@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Callback evidence research
 image: /thumbnails/callback-queue-aging-cohort-study.svg
 imageAlt: Callback linkage evidence review separating repeat requests, protected matching, caller choice, ownership, and unresolved records
-related: callback-queue-aging-cohort-study, call-center-callback-ownership-evidence
+related: /research/callback-queue-aging-cohort-study, /research/call-center-callback-ownership-evidence
 ---
 
 ## Headline finding

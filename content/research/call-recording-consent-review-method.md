@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Recording governance
 image: /thumbnails/call-recording-consent-review-method.svg
 imageAlt: Call-recording consent review method with notice, preference, retention, access, and escalation controls
-related: call-center-call-recording-consent-workflow, virtual-receptionist-data-retention-policy, privacy-by-design-call-notes
+related: /research/call-center-call-recording-consent-workflow, /research/virtual-receptionist-data-retention-policy, /research/privacy-by-design-call-notes
 ---
 
 ## Headline finding

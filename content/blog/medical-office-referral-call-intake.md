@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Referral Call Intake
 image: /thumbnails/medical-office-referral-call-intake.svg
 imageAlt: Medical office referral call intake showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Find the referral context
 

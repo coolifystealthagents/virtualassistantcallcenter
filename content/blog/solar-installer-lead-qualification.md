@@ -2,14 +2,14 @@
 slug: solar-installer-lead-qualification
 title: Lead qualification calls for solar installers without overpromising
 description: Solar installer call qualification should sort fit and next steps while leaving design, eligibility, savings, and technical claims to the authorized team.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/solar-installer-lead-qualification.png
 imageAlt: Editorial illustration about solar installers call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Lead qualification calls for solar installers without overpromising

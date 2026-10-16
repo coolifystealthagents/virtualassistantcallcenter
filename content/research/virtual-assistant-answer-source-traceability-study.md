@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Answer governance research
 image: /thumbnails/virtual-assistant-knowledge-base-maintenance.svg
 imageAlt: Answer source traceability evidence review connecting caller question, approved source, source version, answer, uncertainty, and owner
-related: virtual-assistant-knowledge-base-maintenance, phone-intake-source-traceability-study
+related: /research/virtual-assistant-knowledge-base-maintenance, /research/phone-intake-source-traceability-study
 ---
 
 ## Headline finding

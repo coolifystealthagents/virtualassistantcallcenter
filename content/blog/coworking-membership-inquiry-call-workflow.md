@@ -2,15 +2,15 @@
 slug: coworking-membership-inquiry-call-workflow
 title: Coworking membership inquiry calls from tour to owner review
 description: A coworking call workflow for workspace fit, tours, access needs, mail services, pricing sources, security, and membership handoffs.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Appointment setting
 image: /thumbnails/coworking-membership-inquiry-call-workflow.svg
 imageAlt: Coworking membership inquiry workflow showing workspace needs availability check tour booking and manager handoff
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/appointment-setting, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/appointment-setting, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Match the caller to a workspace conversation
@@ -90,7 +90,7 @@ When the same question recurs, update the public source or script. Version locat
 
 Test a day-pass inquiry, private office, remote tour, accessibility request, mail-service question, inventory conflict, current-member lockout, and calendar outage. Have membership and security owners approve their paths.
 
-Review early calls daily. Expand only when product states, tours, and security boundaries stay accurate. To design a Philippines-based receptionist workflow, review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact) to map the first location.
+Review early calls daily. Expand only when product states, tours, and security boundaries stay accurate. To design a Philippines-based receptionist workflow, review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact-us) to map the first location.
 
 ## Frequently asked questions
 

@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Medical Billing Calls
 image: /thumbnails/call-answering-for-medical-billing-companies.svg
 imageAlt: Ambulance billing call note with trip statement insurance and callback fields
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Start with the account reference
 

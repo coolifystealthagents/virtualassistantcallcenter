@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Warranty Service Calls
 image: /thumbnails/missed-call-recovery-for-appliance-repair.svg
 imageAlt: Appliance warranty intake showing product details symptom and coverage review handoff
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the appliance precisely
 

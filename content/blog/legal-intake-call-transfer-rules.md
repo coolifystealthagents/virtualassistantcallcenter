@@ -2,14 +2,14 @@
 slug: legal-intake-call-transfer-rules
 title: Call transfer rules for legal intake teams
 description: Legal intake calls require a careful boundary between collecting facts and giving advice, with transfer rules that make attorney review visible.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/legal-intake-call-transfer-rules.webp
 imageAlt: Editorial illustration about legal intake teams call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Call transfer rules for legal intake teams

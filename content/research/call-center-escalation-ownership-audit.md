@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Escalation governance
 image: /thumbnails/call-center-escalation-ownership-audit.svg
 imageAlt: Call-center escalation ownership audit with triggers, named owners, fallbacks, and unresolved work
-related: customer-service-escalation-priority-model, virtual-assistant-call-escalation-latency, small-business-call-routing-decision-tree
+related: /research/customer-service-escalation-priority-model, /research/virtual-assistant-call-escalation-latency, /research/small-business-call-routing-decision-tree
 ---
 
 ## Headline finding

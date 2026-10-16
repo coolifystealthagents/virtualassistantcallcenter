@@ -8,7 +8,7 @@ updated: 2026-09-19
 category: Intake quality research
 image: /thumbnails/call-intake-required-field-bypass-study.svg
 imageAlt: Required-field bypass study linking caller response, reason code, authorized override, downstream owner, and correction
-related: /services/call-answering, /research/phone-intake-field-validation-study, /contact
+related: /services/inbound-customer-calls, /research/phone-intake-field-validation-study, /contact-us
 ---
 
 ## Research question

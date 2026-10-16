@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: call-center-metrics
 image: /thumbnails/average-speed-of-answer-for-small-call-teams.svg
 imageAlt: Editorial workflow illustration for how small call teams should use average speed of answer
-related: /services, /contact, /research/call-center-average-speed-answer-research
+related: /services, /contact-us, /research/call-center-average-speed-answer-research
 ---
 
 # How small call teams should use average speed of answer
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

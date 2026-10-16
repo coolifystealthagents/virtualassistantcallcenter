@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Professional-services research
 image: /thumbnails/legal-intake-conflict-boundary-study.svg
 imageAlt: Legal intake research showing fact capture, conflict screening, and attorney review boundaries
-related: call-center-call-recording-consent-workflow, customer-service-escalation-priority-model
+related: /research/call-center-call-recording-consent-workflow, /research/customer-service-escalation-priority-model
 ---
 
 ## Research question

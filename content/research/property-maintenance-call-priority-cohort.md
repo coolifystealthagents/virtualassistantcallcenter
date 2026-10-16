@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Property-services research
 image: /thumbnails/property-maintenance-call-priority-cohort.svg
 imageAlt: Property maintenance call research showing reported conditions, priority rules, and owner acknowledgment
-related: small-business-call-routing-failover, customer-service-escalation-priority-model
+related: /research/small-business-call-routing-failover, /research/customer-service-escalation-priority-model
 ---
 
 ## Why priority needs a definition

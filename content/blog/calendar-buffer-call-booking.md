@@ -2,7 +2,7 @@
 slug: calendar-buffer-call-booking
 title: How Virtual Assistants Should Apply Calendar Buffers During Phone Booking
 description: Turn calendar buffers into explicit booking rules so assistants protect travel, preparation, and handoff time without improvising availability.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Appointment Setting

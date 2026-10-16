@@ -2,14 +2,14 @@
 slug: call-back-queue-for-medical-suppliers
 title: Building a callback queue for medical equipment suppliers
 description: Medical equipment supplier callbacks need structured notes, careful identity boundaries, and clear routing for orders, delivery questions, and clinical matters.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/call-back-queue-for-medical-suppliers.webp
 imageAlt: Editorial illustration about medical equipment suppliers call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Building a callback queue for medical equipment suppliers

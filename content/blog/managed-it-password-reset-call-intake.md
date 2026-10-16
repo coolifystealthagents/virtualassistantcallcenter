@@ -7,7 +7,7 @@ updated: 2026-09-25
 category: technology-call-workflows
 image: /thumbnails/managed-it-password-reset-call-intake.svg
 imageAlt: Editorial workflow illustration for managed IT password reset calls: verify before routing support
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Managed IT password reset calls: verify before routing support
@@ -129,4 +129,4 @@ Keep the active view to the greeting, decision branches, required fields, bounda
 
 ## Put this workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, coverage hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, coverage hours, systems, and escalation owners you want to map.

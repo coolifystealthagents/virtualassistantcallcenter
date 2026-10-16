@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Healthcare call support
 image: /thumbnails/after-hours-urgent-call-triage.svg
 imageAlt: Veterinary clinic call answering guide with safe triage and appointment handoffs
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Start with the animal and reason
 

@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Interpreter Scheduling
 image: /thumbnails/bilingual-call-handoff-preparation.svg
 imageAlt: Court interpreter booking record with language proceeding schedule and conflict-check fields
-related: /services/appointment-setting,/services/customer-support
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Capture the proceeding exactly
 

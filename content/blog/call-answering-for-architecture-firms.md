@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Architecture Firm Calls
 image: /thumbnails/call-answering-for-architecture-firms.svg
 imageAlt: Architecture firm call answering guide for project inquiry routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Find the project signal
 

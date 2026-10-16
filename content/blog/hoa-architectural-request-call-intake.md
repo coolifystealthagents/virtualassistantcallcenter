@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: HOA Management Calls
 image: /thumbnails/call-answering-for-hoa-management-companies.svg
 imageAlt: HOA architectural request intake with property project and document fields
-related: /services/inbound-customer-calls,/services/appointment-scheduling
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the property and project
 

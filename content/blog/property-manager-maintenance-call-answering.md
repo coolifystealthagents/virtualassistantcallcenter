@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Maintenance Call Intake
 image: /thumbnails/property-manager-maintenance-call-answering.svg
 imageAlt: Property manager maintenance call answering showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Separate emergency from routine
 

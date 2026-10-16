@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for property restoration emergency calls: separate hazards from dispatch facts
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Property restoration emergency calls: separate hazards from dispatch facts
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [Ready.gov home-fire guidance](https://www.ready.gov/home-fires)
 
-Need help designing the routing map, intake fields, and QA review for your call property queue? [Contact Virtual Assistant Call Center](/contact) to discuss the property workflow.
+Need help designing the routing map, intake fields, and QA review for your call property queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the property workflow.

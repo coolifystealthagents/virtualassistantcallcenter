@@ -2,7 +2,7 @@
 slug: return-call-context-verification
 title: Verify Context Before Continuing a Returned Customer Call
 description: Help virtual receptionists reconnect callers to open work without revealing the prior request to the wrong person or forcing a complete restart.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Callback Management

@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: New lead handling
 image: /thumbnails/call-answering-policy-for-new-leads.svg
 imageAlt: A call answering policy for new leads showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

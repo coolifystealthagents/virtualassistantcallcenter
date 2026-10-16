@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Queue Control Research
 image: /thumbnails/call-backlog-triage-process.svg
 imageAlt: Callback ownership study tracking request creation assignment reassignment and verified closure
-related: voicemail-ownership-aging-study,virtual-receptionist-callback-queue-aging
+related: /research/voicemail-ownership-aging-study, /research/virtual-receptionist-callback-queue-aging
 ---
 ## Finding and scope
 

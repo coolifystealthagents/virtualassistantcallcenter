@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Pest Control Calls
 image: /thumbnails/customer-call-backlog-triage.svg
 imageAlt: Pest control callback queue organized by service status and customer availability
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Identify the service relationship first
 

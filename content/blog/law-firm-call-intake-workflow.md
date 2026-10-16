@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Legal Intake
 image: /thumbnails/law-firm-call-intake-workflow.svg
 imageAlt: A law firm call intake workflow showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

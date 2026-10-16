@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-client-decision-packet"
-title: "VirtualAssistantCallCenter Client Decision Packet"
-description: "A practical virtual assistant call center operations guide to prepare facts and options while preserving client decision authority."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-client-decision-packet
+title: VirtualAssistantCallCenter Client Decision Packet
+description: A practical virtual assistant call center operations guide to prepare facts and options while preserving client decision authority.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations
 image: /thumbnails/after-hours-callback-owner-check.svg
 imageAlt: Editorial diagram for Assign an Owner Before Promising an After-Hours Callback, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Client Decision Packet

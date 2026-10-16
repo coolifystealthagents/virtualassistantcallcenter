@@ -8,7 +8,7 @@ updated: 2026-09-19
 category: Caller experience research
 image: /thumbnails/caller-hold-time-expectation-accuracy-study.svg
 imageAlt: Hold expectation study comparing stated estimate, caller choice, actual wait, reconnect path, and final outcome
-related: /services/customer-service, /research/virtual-call-center-hold-message-comprehension-study, /contact
+related: /services/inbound-customer-calls, /research/virtual-call-center-hold-message-comprehension-study, /contact-us
 ---
 
 ## Research question

@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: time-critical-courier-intake
 image: /thumbnails/laboratory-specimen-courier-pickup-call-intake.svg
 imageAlt: Medical courier coordinator verifying a time-critical pickup and custody handoff
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Organ and tissue courier calls: preserve custody and timing without making clinical decisions
@@ -74,4 +74,4 @@ Quality review should reconstruct several calls as timelines: ordinary pickup, l
 
 The intake succeeds when authorized teams can reconstruct who requested the movement, what controlled reference applies, when each event must happen, where custody changes, and which exception remains open. Reception creates that dependable record without making clinical or packaging decisions.
 
-Need a call workflow for time-critical courier intake and exception ownership? [Contact Virtual Assistant Call Center](/contact) to discuss your routing process.
+Need a call workflow for time-critical courier intake and exception ownership? [Contact Virtual Assistant Call Center](/contact-us) to discuss your routing process.

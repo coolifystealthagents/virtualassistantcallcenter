@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: appointment-setting
 image: /thumbnails/appointment-cancellation-call-handling-guide.svg
 imageAlt: Editorial workflow illustration for how to handle appointment cancellation calls without losing the next step
-related: /services, /contact, /research/appointment-cancellation-call-workflow
+related: /services, /contact-us, /research/appointment-cancellation-call-workflow
 ---
 
 # How to handle appointment cancellation calls without losing the next step
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Quality research
 image: /thumbnails/call-quality-reviewer-calibration.svg
 imageAlt: Call quality reviewer calibration session comparing evidence, policy, accessibility, and escalation decisions
-related: call-quality-sampling-methodology, service-business-call-quality-audit, call-center-qa-review-routine
+related: /research/call-quality-sampling-methodology, /research/service-business-call-quality-audit, /blog/call-center-qa-review-routine
 ---
 
 ## Headline finding

@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-reviewer-agreement-reliability-study"
-title: "VirtualAssistantCallCenter Reviewer Agreement Reliability Study"
-description: "A source-backed virtual assistant call center operations study of whether two reviewers reach reproducible conclusions from the same evidence."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-reviewer-agreement-reliability-study
+title: VirtualAssistantCallCenter Reviewer Agreement Reliability Study
+description: A source-backed virtual assistant call center operations study of whether two reviewers reach reproducible conclusions from the same evidence.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations research
 image: /thumbnails/call-disposition-reviewer-agreement-study.svg
 imageAlt: Editorial diagram for Call Disposition Reviewer Agreement: A Reliability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Reviewer Agreement Reliability Study

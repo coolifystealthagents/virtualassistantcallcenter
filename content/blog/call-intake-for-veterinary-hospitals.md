@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Call support guides
 image: /thumbnails/call-intake-for-veterinary-clinics.svg
 imageAlt: Call intake for veterinary hospitals guide showing a clear phone support path for callers and staff
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller's purpose
 

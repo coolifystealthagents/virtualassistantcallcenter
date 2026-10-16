@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Outbound timing controls research
 image: /thumbnails/outbound-calling-window-timezone-control-study.svg
 imageAlt: Outbound calling-window study resolving conflicting phone address and timezone signals before a call enters the eligible queue
-related: /services/outbound-lead-qualification, /research/scheduled-callback-timezone-interpretation-research, /contact
+related: /services/outbound-lead-qualification, /research/scheduled-callback-timezone-interpretation-research, /contact-us
 ---
 
 ## The same clock is not local to every recipient

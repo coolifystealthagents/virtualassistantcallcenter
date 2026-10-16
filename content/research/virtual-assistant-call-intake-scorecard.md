@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Intake research
 image: /thumbnails/virtual-assistant-call-intake-scorecard.svg
 imageAlt: Virtual assistant call intake scorecard with fields for intent, consent, routing, and next action review
-related: call-center-kpi-definition-guide, virtual-receptionist-intake-data-fields, phone-intake-accessibility-testing
+related: /research/call-center-kpi-definition-guide, /research/virtual-receptionist-intake-data-fields, /research/phone-intake-accessibility-testing
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Callback research
 image: /thumbnails/missed-call-response-time-study.svg
 imageAlt: Missed call response time: a defensible study design showing a documented phone workflow with evidence, owner review, and safe escalation
-related: missed-call-recovery-workflow, customer-callback-queue-management, customer-callback-service-level-study
+related: /blog/missed-call-recovery-workflow, /blog/customer-callback-queue-management, /research/customer-callback-service-level-study
 ---
 
 ## Headline finding

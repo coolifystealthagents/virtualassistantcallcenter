@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Record Quality Research
 image: /thumbnails/returning-caller-recognition-workflow.svg
 imageAlt: Repeat caller linkage study comparing suggested customer matches with adjudicated records
-related: duplicate-customer-record-call-intake-study,caller-identity-match-confidence-study
+related: /research
 ---
 ## Finding and scope
 

@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Recording evidence research
 image: /thumbnails/call-recording-consent-evidence-study.svg
 imageAlt: Recording notice evidence review tracing playback, audibility, caller choice, accessibility, and legal interpretation boundaries
-related: call-recording-consent-evidence-study, call-recording-consent-review-method
+related: /research/call-recording-consent-evidence-study, /research/call-recording-consent-review-method
 ---
 
 ## Headline finding

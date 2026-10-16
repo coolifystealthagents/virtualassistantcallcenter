@@ -2,7 +2,7 @@
 slug: rotating-on-call-schedule-handoff
 title: Handoff Rules for a Rotating On-Call Schedule
 description: Keep after-hours call routing accurate when the responsible owner changes by day, time zone, service, or location.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: After-Hours Answering

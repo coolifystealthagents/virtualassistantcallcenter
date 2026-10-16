@@ -156,7 +156,7 @@ export function HealthcareSchedulingArticle() {
       {healthcareSchedulingArticle.faq.map((item)=><div className="faq-item" key={item.q}><h3>{item.q}</h3><p>{item.a}</p></div>)}
     </section>
 
-    <HealthcareBanner slot="bottom"><div><strong>Plan one safe Philippines scheduling lane</strong><p>Share the call types, hours, tools, and staff-only decisions. Start with a small queue that your office can train and check.</p></div><a className="btn primary" href="/contact">Map my call queue</a></HealthcareBanner>
+    <HealthcareBanner slot="bottom"><div><strong>Plan one safe Philippines scheduling lane</strong><p>Share the call types, hours, tools, and staff-only decisions. Start with a small queue that your office can train and check.</p></div><a className="btn primary" href="/contact-us">Map my call queue</a></HealthcareBanner>
 
     <section className="article-section sources-section" aria-labelledby="health-article-sources">
       <h2 id="health-article-sources">Sources</h2>

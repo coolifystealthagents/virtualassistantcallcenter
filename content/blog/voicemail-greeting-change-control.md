@@ -2,7 +2,7 @@
 slug: voicemail-greeting-change-control
 title: Voicemail Greeting Change Control for Multi-Shift Call Coverage
 description: Keep voicemail greetings accurate by assigning source, approval, activation, testing, and retirement responsibilities for every change.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: After-Hours Answering

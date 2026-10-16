@@ -8,7 +8,7 @@ updated: 2026-09-28
 category: Intake boundary research
 image: /thumbnails/virtual-assistant-call-identity-verification-study.svg
 imageAlt: Third-party caller study separating identity authority disclosure message capture escalation and accountable follow-up
-related: /services/inbound-customer-calls, /research/virtual-assistant-call-identity-verification-study, /contact
+related: /services/inbound-customer-calls, /research/virtual-assistant-call-identity-verification-study, /contact-us
 ---
 
 ## The operational question

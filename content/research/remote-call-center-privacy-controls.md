@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Privacy operations
 image: /thumbnails/remote-call-center-privacy-controls.svg
 imageAlt: Remote call-center privacy controls for access, notes, retention, and incident escalation
-related: healthcare-appointment-intake-checklist, call-screening-workflow-for-small-business, virtual-receptionist-handoff-metrics
+related: /research/healthcare-appointment-intake-checklist, /research/call-screening-workflow-for-small-business, /research/virtual-receptionist-handoff-metrics
 ---
 
 ## Headline finding

@@ -2,15 +2,15 @@
 slug: accounting-client-document-reminder-calls
 title: Accounting client document reminder calls with secure handoffs
 description: A practical workflow for accounting document reminder calls, secure upload guidance, deadline language, stop requests, and owner escalation.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Lead follow-up
 image: /thumbnails/accounting-client-document-reminder-calls.svg
 imageAlt: Accounting client reminder workflow showing identity check missing document category secure upload and accountant review
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/outbound-lead-qualification, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/outbound-lead-qualification, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Use reminders to move a defined task forward
@@ -98,7 +98,7 @@ When several clients struggle with the same portal step, improve instructions or
 
 Begin with one engagement type and a small set of document categories approved by the firm. Test verified contact, shared voicemail, prior upload, missed due date, portal outage, accessibility request, and a tax question. Require each exception to reach a named owner.
 
-Review calls daily at first and expand only when privacy, status, and handoffs are dependable. To design a bounded reminder lane for a Philippines-based receptionist, review the [outbound lead qualification service](/services/outbound-lead-qualification) and use the [contact page](/contact) to map the workflow.
+Review calls daily at first and expand only when privacy, status, and handoffs are dependable. To design a bounded reminder lane for a Philippines-based receptionist, review the [outbound lead qualification service](/services/outbound-lead-qualification) and use the [contact page](/contact-us) to map the workflow.
 
 ## Frequently asked questions
 

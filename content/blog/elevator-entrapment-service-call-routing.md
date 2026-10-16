@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: emergency-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for elevator entrapment calls: confirm location, escalate, and preserve the record
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Elevator entrapment calls: confirm location, escalate, and preserve the elevator intake record
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [OSHA elevator safety standard](https://www.osha.gov/laws-regs/regulations/standardnumber/1917/1917.116)
 
-Need help designing the routing map, intake fields, and QA review for your call elevator queue? [Contact Virtual Assistant Call Center](/contact) to discuss the elevator workflow.
+Need help designing the routing map, intake fields, and QA review for your call elevator queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the elevator workflow.

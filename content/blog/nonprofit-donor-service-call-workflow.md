@@ -2,15 +2,15 @@
 slug: nonprofit-donor-service-call-workflow
 title: Nonprofit donor service calls for receipts, preferences, and pledge questions
 description: A donor service phone workflow for identity checks, receipts, recurring gifts, contact preferences, pledge questions, and staff handoffs.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Customer support calls
 image: /thumbnails/nonprofit-donor-service-call-workflow.svg
 imageAlt: Nonprofit donor service call workflow from identity check through request handling and development staff handoff
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/inbound-customer-calls, /services/call-disposition-reporting, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/inbound-customer-calls, /services/call-disposition-reporting, /contact-us
 ---
 
 ## Give donor callers a dependable service lane
@@ -89,7 +89,7 @@ When similar errors recur, fix the form or integration. If preference changes li
 
 Test a receipt resend, an address correction, a recurring-gift stop, a disputed charge, a tribute notification, a tax question, failed verification, and a donor who wants no promotional follow-up. Have finance and development leaders approve the boundaries.
 
-Review the first week daily. Expand only after records reconcile and handoffs are accepted on time. To design a donor support lane for a Philippines-based receptionist, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact) to define the pilot.
+Review the first week daily. Expand only after records reconcile and handoffs are accepted on time. To design a donor support lane for a Philippines-based receptionist, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact-us) to define the pilot.
 
 ## Frequently asked questions
 

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Seasonal Coverage
 image: /thumbnails/hvac-seasonal-call-coverage.svg
 imageAlt: HVAC seasonal call coverage showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

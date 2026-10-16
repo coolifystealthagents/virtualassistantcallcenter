@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Reminder operations
 image: /thumbnails/appointment-reminder-call-outcome-measurement.svg
 imageAlt: Appointment reminder call outcome measurement with attempts, confirmations, exceptions, and owner review
-related: appointment-cancellation-call-workflow, healthcare-appointment-intake-checklist, call-center-kpi-definition-guide
+related: /research/appointment-cancellation-call-workflow, /research/healthcare-appointment-intake-checklist, /research/call-center-kpi-definition-guide
 ---
 
 ## Headline finding

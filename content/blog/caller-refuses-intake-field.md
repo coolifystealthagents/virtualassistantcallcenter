@@ -2,7 +2,7 @@
 slug: caller-refuses-intake-field
 title: What a Virtual Receptionist Should Do When a Caller Refuses an Intake Question
 description: Design a respectful refusal path that keeps call intake moving without coercion, invented answers, or unauthorized decisions.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Intake

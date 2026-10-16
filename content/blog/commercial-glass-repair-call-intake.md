@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Glass Repair Calls
 image: /thumbnails/call-answering-for-home-service-contractors.svg
 imageAlt: Commercial glass repair intake with opening location safety report access and estimator review
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Locate the damaged opening
 

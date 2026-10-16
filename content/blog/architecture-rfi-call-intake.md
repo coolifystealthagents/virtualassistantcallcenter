@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Architecture Firm Calls
 image: /thumbnails/call-answering-for-architecture-firms.svg
 imageAlt: Architecture RFI call record with project drawing question and deadline
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Identify the project and caller
 

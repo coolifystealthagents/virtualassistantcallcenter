@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Handoff research
 image: /thumbnails/small-business-call-handoff-reliability.svg
 imageAlt: Small-business call handoff reliability study showing transfer attempt, owner acceptance, fallback, and evidence
-related: virtual-receptionist-handoff-metrics, call-transfer-latency-measurement, call-escalation-severity-matrix
+related: /research/virtual-receptionist-handoff-metrics, /research, /research/call-escalation-severity-matrix
 ---
 
 ## Headline finding

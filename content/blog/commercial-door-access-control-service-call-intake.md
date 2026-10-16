@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: security-service-routing
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for a commercial access-control service request
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Access-control service calls: restore routing without exposing security details
@@ -89,4 +89,4 @@ A sound close confirms the property, entrance label, reported behavior, callback
 
 That statement does not say the building is secure, the reader is defective, or access has been restored. It tells the caller what the service company actually knows and who owns the next action.
 
-Need a verification-first phone workflow for access-control failures without exposing credentials or site details? [Contact Virtual Assistant Call Center](/contact) to discuss your security-service intake process.
+Need a verification-first phone workflow for access-control failures without exposing credentials or site details? [Contact Virtual Assistant Call Center](/contact-us) to discuss your security-service intake process.

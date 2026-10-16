@@ -7,7 +7,7 @@ updated: 2026-09-06
 category: Consent controls
 image: /thumbnails/lead-follow-up-consent-recordkeeping.svg
 imageAlt: Lead follow-up consent recordkeeping for small teams with a documented workflow, owner handoff, and evidence-first controls
-related: outbound-follow-up-consent-controls, lead-qualification-call-script, call-screening-workflow-for-small-business
+related: /research/outbound-follow-up-consent-controls, /blog/lead-qualification-call-script, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Callback research
 image: /thumbnails/customer-callback-queue-aging-study.svg
 imageAlt: Customer callback queue aging study with timestamps, consent, owner, and exception review
-related: customer-callback-queue-management, missed-call-response-time-study, customer-callback-service-level-study
+related: /blog/customer-callback-queue-management, /research/missed-call-response-time-study, /research/customer-callback-service-level-study
 ---
 
 ## Headline finding

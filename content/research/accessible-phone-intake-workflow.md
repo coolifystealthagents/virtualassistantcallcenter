@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Accessibility
 image: /thumbnails/accessible-phone-intake-workflow.svg
 imageAlt: Accessible phone intake workflows for service businesses with a documented workflow, owner handoff, and evidence-first controls
-related: call-center-accessibility-checklist, inbound-customer-call-intake-checklist, call-screening-workflow-for-small-business
+related: /research/call-center-accessibility-checklist, /blog/inbound-customer-call-intake-checklist, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

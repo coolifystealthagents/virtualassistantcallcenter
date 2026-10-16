@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Healthcare calls
 image: /thumbnails/healthcare-appointment-call-handoff.svg
 imageAlt: Healthcare appointment call handoff basics showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

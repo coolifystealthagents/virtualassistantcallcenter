@@ -1,7 +1,7 @@
 ---
 slug: callback-promise-verification-study
 title: Callback Promise Verification Study
-description: A reproducible research protocol for whether recorded callback promises reach an accepted owner and a destination-confirmed outcome within the declared window with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for testing whether recorded callback promises reach an accepted owner and a confirmed outcome on time.
 published: 2026-10-13
 updated: 2026-10-13
 datePublished: 2026-10-13

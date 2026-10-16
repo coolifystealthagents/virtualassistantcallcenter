@@ -148,7 +148,7 @@ export function ScamCallScreeningArticle() {
       {scamCallArticle.faq.map((item)=><div className="faq-item" key={item.q}><h3>{item.q}</h3><p>{item.a}</p></div>)}
     </section>
 
-    <Banner slot="bottom"><div><strong>Plan a safer Philippines call queue</strong><p>Share the call types, tools, coverage hours, and owner-only decisions. Keep the first handoff small enough to train and check.</p></div><a className="btn primary" href="/contact">Map my call queue</a></Banner>
+    <Banner slot="bottom"><div><strong>Plan a safer Philippines call queue</strong><p>Share the call types, tools, coverage hours, and owner-only decisions. Keep the first handoff small enough to train and check.</p></div><a className="btn primary" href="/contact-us">Map my call queue</a></Banner>
 
     <section className="article-section sources-section" aria-labelledby="article-sources">
       <h2 id="article-sources">Sources</h2>

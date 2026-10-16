@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Knowledge operations
 image: /thumbnails/call-center-knowledge-base-change-control.svg
 imageAlt: Call-center knowledge-base change control with approval, versioning, and retirement evidence
-related: virtual-assistant-knowledge-base-maintenance, call-center-agent-onboarding-checklist, customer-service-escalation-priority-model
+related: /research/virtual-assistant-knowledge-base-maintenance, /research/call-center-agent-onboarding-checklist, /research/customer-service-escalation-priority-model
 ---
 
 ## Headline finding

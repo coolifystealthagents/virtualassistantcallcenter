@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Outbound consent controls research
 image: /thumbnails/do-not-call-request-suppression-latency-study.svg
 imageAlt: Do-not-call request moving from a caller conversation through suppression controls across multiple outbound queues
-related: /services/outbound-lead-qualification, /research/outbound-follow-up-consent-controls, /contact
+related: /services/outbound-lead-qualification, /research/outbound-follow-up-consent-controls, /contact-us
 ---
 
 ## The risk lives between acknowledgment and enforcement

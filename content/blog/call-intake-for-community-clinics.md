@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Community Clinic Calls
 image: /thumbnails/call-intake-for-community-clinics.svg
 imageAlt: Community clinic call intake guide for appointments and referral routing
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Ask only what routes the call
 

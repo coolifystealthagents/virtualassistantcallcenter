@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Home-Care Referral Calls
 image: /thumbnails/call-intake-for-home-care-referral-partners.svg
 imageAlt: Call intake for home-care referral partners
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 Phone coverage works best when it reduces reconstruction. The caller should not have to repeat the same facts to every person at home-care organization.
 

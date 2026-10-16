@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Optical Lab Calls
 image: /thumbnails/call-intake-identity-verification-boundaries.svg
 imageAlt: Optical lab order status workflow with identity check and production-stage handoff
-related: /services/customer-support,/services/inbound-customer-calls
+related: /services/inbound-customer-calls
 ---
 ## Verify before discussing an order
 

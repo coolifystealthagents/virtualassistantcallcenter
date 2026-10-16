@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Commercial Inspection Calls
 image: /thumbnails/call-answering-for-commercial-inspectors.svg
 imageAlt: Commercial inspection call answering guide for site access and booking calls
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Identify the inspection context
 

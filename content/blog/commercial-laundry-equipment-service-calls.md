@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Equipment Service Calls
 image: /thumbnails/manufacturing-service-call-routing.svg
 imageAlt: Commercial laundry equipment call routed from site details to service dispatch
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Pin down the affected machine
 

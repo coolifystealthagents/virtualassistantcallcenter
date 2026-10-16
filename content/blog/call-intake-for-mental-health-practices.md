@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Mental Health Practice Intake
 image: /thumbnails/call-intake-for-mental-health-practices.svg
 imageAlt: Mental health practice call intake guide for respectful scheduling and escalation
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Keep the first conversation narrow
 

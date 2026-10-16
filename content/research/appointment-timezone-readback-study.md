@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Scheduling Research
 image: /thumbnails/appointment-call-confirmation-evidence.svg
 imageAlt: Appointment research comparing local time zone readback against verified calendar records
-related: appointment-request-vs-booking-boundary, scheduled-callback-timezone-interpretation-research
+related: /blog/appointment-request-vs-booking-boundary, /research/scheduled-callback-timezone-interpretation-research
 ---
 ## Finding and scope
 

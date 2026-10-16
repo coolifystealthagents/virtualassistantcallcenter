@@ -1,7 +1,7 @@
 ---
 slug: caller-id-attestation-outcome-study
 title: Caller ID Attestation Outcome Study
-description: A reproducible research protocol for whether attestation level is associated with answer, label, complaint, and conversion after accounting for campaign differences with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for studying how caller-ID attestation relates to answers, labels, complaints, and conversions.
 published: 2026-10-12
 updated: 2026-10-12
 datePublished: 2026-10-12

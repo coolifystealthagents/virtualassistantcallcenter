@@ -7,7 +7,7 @@ updated: 2026-09-25
 category: dental-call-workflows
 image: /thumbnails/dental-new-patient-insurance-call-intake.svg
 imageAlt: Editorial workflow illustration for dental new-patient calls: handle insurance questions without guarantees
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Dental new-patient calls: handle insurance questions without guarantees
@@ -129,4 +129,4 @@ Keep the active view to the greeting, decision branches, required fields, bounda
 
 ## Put this workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, coverage hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, coverage hours, systems, and escalation owners you want to map.

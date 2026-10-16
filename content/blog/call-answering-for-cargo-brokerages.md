@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Call operations
 image: /thumbnails/call-answering-for-cargo-brokerages.svg
 imageAlt: An editorial illustration about shipment-context handoff for cargo brokerages
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller decision
 

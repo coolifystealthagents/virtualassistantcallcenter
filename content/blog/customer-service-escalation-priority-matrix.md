@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: customer-support
 image: /thumbnails/customer-service-escalation-priority-matrix.svg
 imageAlt: Editorial workflow illustration for build a customer service escalation priority matrix
-related: /services, /contact, /research/customer-service-escalation-priority-model
+related: /services, /contact-us, /research/customer-service-escalation-priority-model
 ---
 
 # Build a customer service escalation priority matrix
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

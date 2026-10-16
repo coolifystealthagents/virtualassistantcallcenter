@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Courier Dispatch Calls
 image: /thumbnails/call-answering-for-logistics-dispatchers.svg
 imageAlt: Medical courier dispatch record with pickup package custody timing and delivery contacts
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Identify both ends of the trip
 

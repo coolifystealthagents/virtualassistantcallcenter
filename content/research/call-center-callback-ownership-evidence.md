@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Callback research
 image: /thumbnails/call-center-callback-ownership-evidence.svg
 imageAlt: Callback ownership evidence study showing request capture, named ownership, acceptance, and closure
-related: customer-callback-service-level-study, virtual-receptionist-handoff-acceptance-study, missed-call-response-time-study
+related: /research/customer-callback-service-level-study, /research/virtual-receptionist-handoff-acceptance-study, /research/missed-call-response-time-study
 ---
 
 ## Headline finding

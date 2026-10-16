@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Scheduling operations
 image: /thumbnails/appointment-scheduling-call-center-metrics.svg
 imageAlt: Appointment scheduling metrics dashboard showing booking, confirmation, and handoff controls
-related: healthcare-appointment-intake-checklist, after-hours-call-answering-benchmark, call-screening-workflow-for-small-business
+related: /research/healthcare-appointment-intake-checklist, /research/after-hours-call-answering-benchmark, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

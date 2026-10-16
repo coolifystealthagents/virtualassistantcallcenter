@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: After-hours research
 image: /thumbnails/after-hours-call-coverage-accessibility.svg
 imageAlt: After-hours call coverage accessibility research showing clear options, urgent exceptions, fallback, and ownership
-related: virtual-receptionist-after-hours-routing-study, after-hours-urgent-call-triage, after-hours-call-coverage-risk-review
+related: /research/virtual-receptionist-after-hours-routing-study, /research/after-hours-urgent-call-triage, /research/after-hours-call-coverage-risk-review
 ---
 
 ## Headline finding

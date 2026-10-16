@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Industrial Supply Calls
 image: /thumbnails/inbound-customer-call-intake-checklist.svg
 imageAlt: Specialty gas delivery request with account product cylinder quantity site and safety escalation
-related: /services/inbound-customer-calls,/services/order-status-calls
+related: /services/inbound-customer-calls, /services/order-status-calls
 ---
 ## Match the approved account and product
 

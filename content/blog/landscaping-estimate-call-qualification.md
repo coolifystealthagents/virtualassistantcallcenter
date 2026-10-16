@@ -7,7 +7,7 @@ updated: 2026-09-19
 category: industry-call-workflows
 image: /thumbnails/landscaping-estimate-call-qualification.svg
 imageAlt: Editorial workflow illustration for landscaping estimate calls: qualify the project before the site visit
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Landscaping estimate calls: qualify the project before the site visit
@@ -127,4 +127,4 @@ State what the receptionist is authorized to provide. If pricing or a guarantee 
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and QA workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and QA workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, hours, systems, and escalation owners you want to map.

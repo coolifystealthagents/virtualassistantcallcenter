@@ -148,7 +148,7 @@ export function OutboundFollowUpArticle() {
       {outboundFollowUpArticle.faq.map((item)=><div className="faq-item" key={item.q}><h3>{item.q}</h3><p>{item.a}</p></div>)}
     </section>
 
-    <OutboundBanner slot="bottom"><div><strong>Plan one careful Philippines follow-up lane</strong><p>Share the lead source, call purpose, hours, tools, and stop process. Start with a list small enough for an owner to check.</p></div><a className="btn primary" href="/contact">Map my call queue</a></OutboundBanner>
+    <OutboundBanner slot="bottom"><div><strong>Plan one careful Philippines follow-up lane</strong><p>Share the lead source, call purpose, hours, tools, and stop process. Start with a list small enough for an owner to check.</p></div><a className="btn primary" href="/contact-us">Map my call queue</a></OutboundBanner>
 
     <section className="article-section sources-section" aria-labelledby="outbound-article-sources">
       <h2 id="outbound-article-sources">Sources</h2>

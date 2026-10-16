@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call support guides
 image: /thumbnails/call-answering-for-home-service-contractors.svg
 imageAlt: Home organizing call intake guide with project scope and follow-up details
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Define the project in plain language
 

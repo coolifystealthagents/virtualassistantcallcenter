@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Event Rental Calls
 image: /thumbnails/outbound-follow-up-call-workflow.svg
 imageAlt: Event rental delivery call handoff linking venue access inventory and driver status
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Anchor the call to one order
 

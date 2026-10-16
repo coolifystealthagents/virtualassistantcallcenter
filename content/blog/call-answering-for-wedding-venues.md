@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Wedding Venue Calls
 image: /thumbnails/call-answering-for-wedding-venues.svg
 imageAlt: Call answering for wedding venues
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 Phone coverage works best when it reduces reconstruction. The caller should not have to repeat the same facts to every person at wedding venue.
 

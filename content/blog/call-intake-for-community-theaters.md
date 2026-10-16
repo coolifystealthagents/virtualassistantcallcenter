@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Community Theater Calls
 image: /thumbnails/call-intake-for-community-theaters.svg
 imageAlt: Call intake for community theaters
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 When a phone workflow is vague, every caller becomes a new case. A bounded intake makes the common path repeatable while making unusual cases visible.
 

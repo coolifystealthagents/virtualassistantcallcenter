@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: Call notes and evidence quality research
 image: /thumbnails/ai-call-summary-source-fidelity-study.svg
 imageAlt: AI call summary research comparing individual summary claims with authorized source segments and reviewer decisions
-related: /services/call-quality-assurance, /research/virtual-assistant-call-note-completeness-study, /contact
+related: /services/call-quality-assurance, /research/virtual-assistant-call-note-completeness-study, /contact-us
 ---
 
 ## A fluent summary is not automatically a faithful record

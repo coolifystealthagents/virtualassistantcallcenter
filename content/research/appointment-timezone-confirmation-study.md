@@ -8,7 +8,7 @@ updated: 2026-09-23
 category: Appointment research
 image: /thumbnails/appointment-timezone-confirmation-study.svg
 imageAlt: Appointment timezone study connecting caller locale, source time, conversion rule, calendar event, confirmation, and correction
-related: /services/appointment-setting, /research, /contact
+related: /services/appointment-setting, /research, /contact-us
 ---
 
 ## Research question

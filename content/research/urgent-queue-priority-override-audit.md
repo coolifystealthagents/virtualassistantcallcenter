@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Queue Governance Research
 image: /thumbnails/call-center-queue-priority-audit.svg
 imageAlt: Audit view of urgent call queue priority overrides and review outcomes
-related: customer-service-escalation-priority-model,virtual-assistant-call-escalation-latency
+related: /research/customer-service-escalation-priority-model, /research/virtual-assistant-call-escalation-latency
 ---
 ## Finding and scope
 

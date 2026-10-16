@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Language access research
 image: /thumbnails/call-center-language-access-measurement.svg
 imageAlt: Language access evidence review tracing language identification, interpreter request, connection, context transfer, and caller confirmation
-related: phone-intake-accessibility-testing, caller-name-pronunciation-accessibility
+related: /research/phone-intake-accessibility-testing, /research/caller-name-pronunciation-accessibility
 ---
 
 ## Headline finding

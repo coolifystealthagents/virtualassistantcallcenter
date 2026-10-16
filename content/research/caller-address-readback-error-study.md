@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Intake Accuracy Research
 image: /thumbnails/appointment-intake-error-provenance.svg
 imageAlt: Address readback study comparing captured call fields with a verified destination record
-related: caller-name-spelling-confirmation-study,appointment-timezone-readback-study
+related: /research/caller-name-spelling-confirmation-study, /research/appointment-timezone-readback-study
 ---
 ## Finding and scope
 

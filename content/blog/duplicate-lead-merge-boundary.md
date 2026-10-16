@@ -2,7 +2,7 @@
 slug: duplicate-lead-merge-boundary
 title: Set a Safe Boundary Before Virtual Assistants Merge Duplicate Leads
 description: Distinguish obvious duplicate call records from uncertain identities so lead queues stay usable without losing history or combining different people.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Lead Intake

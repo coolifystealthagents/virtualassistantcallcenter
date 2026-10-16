@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Call performance research
 image: /thumbnails/call-transfer-latency-measurement.svg
 imageAlt: Transfer wait-time variance study with caller evidence, ownership, and bounded interpretation
-related: call-transfer-latency-measurement
+related: /research
 ---
 
 ## Headline finding

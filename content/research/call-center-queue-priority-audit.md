@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Queue priority
 image: /thumbnails/call-center-queue-priority-audit.svg
 imageAlt: Call-center queue priority audit with rules, exception visibility, ownership, and safe escalation
-related: customer-call-backlog-triage, customer-service-escalation-priority-model, call-center-queue-backlog-governance
+related: /research/customer-call-backlog-triage, /research/customer-service-escalation-priority-model, /research
 ---
 
 ## Headline finding

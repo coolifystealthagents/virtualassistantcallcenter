@@ -54,7 +54,7 @@ export default function Home() {
                 <li><img src="/icons/getillustrations/blueprint-communication/booking-and-routing.svg" alt="Appointment booking and call routing" />Book, route, or follow up from one script</li>
                 <li><img src="/icons/getillustrations/blueprint-communication/call-notes-review.svg" alt="Call notes quality review" />Review notes and call quality each week</li>
               </ul>
-              <a className="signal-button" href="/contact">Map my call coverage</a>
+              <a className="signal-button" href="/contact-us">Map my call coverage</a>
               <p className="signal-tagline">A calm voice for callers. A clean handoff for your team.</p>
             </div>
 
@@ -149,7 +149,7 @@ export default function Home() {
               <h2>Review a few calls. Fix small misses early.</h2>
               <p>A script helps, but it is not enough on its own. Score a small call sample for accuracy, tone, routing, notes, and safe escalation. Then coach one clear point at a time.</p>
               <div className="signal-rule"><span>Keep with your team</span><p>Medical, legal, policy, refund, billing, and other sensitive decisions stay with an approved manager.</p></div>
-              <a className="signal-text-link" href="/contact">Map my call coverage →</a>
+              <a className="signal-text-link" href="/contact-us">Map my call coverage →</a>
             </div>
           </div>
         </section>
@@ -181,7 +181,7 @@ export default function Home() {
         <section className="signal-close">
           <div className="container signal-close-inner">
             <div><p className="signal-label">Plan the first queue</p><h2>Give missed calls a clear way back in.</h2></div>
-            <div><p>Share your call types, hours, tools, and escalation rules. The team will use them to shape a practical coverage plan.</p><a className="signal-button signal-button-light" href="/contact">Map my call coverage</a></div>
+            <div><p>Share your call types, hours, tools, and escalation rules. The team will use them to shape a practical coverage plan.</p><a className="signal-button signal-button-light" href="/contact-us">Map my call coverage</a></div>
           </div>
         </section>
       </main>

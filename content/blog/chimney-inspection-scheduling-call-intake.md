@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: home-service-scheduling
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Home service call handler recording chimney appliance and roof access details
-related: /services/appointment-setting, /workflows, /qa-scorecard, /contact
+related: /services/appointment-setting, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Chimney inspection calls: gather appliance and access facts without a remote safety verdict
@@ -72,4 +72,4 @@ Quality review should sample an ordinary inspection, reported chimney fire, home
 
 The final record should allow the inspector to identify the property, appliances, reported condition, timing, prior records, access limits, and caller's decision. That is a useful appointment intake without attempting the inspection remotely.
 
-Need a scheduling script that prepares home-service inspections and protects technical boundaries? [Contact Virtual Assistant Call Center](/contact) to discuss your workflow.
+Need a scheduling script that prepares home-service inspections and protects technical boundaries? [Contact Virtual Assistant Call Center](/contact-us) to discuss your workflow.

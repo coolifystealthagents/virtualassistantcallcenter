@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Call-note governance
 image: /thumbnails/virtual-assistant-call-note-minimization-study.svg
 imageAlt: Virtual assistant call-note minimization study showing necessary fields, routing, and owner review
-related: privacy-by-design-call-notes, virtual-receptionist-data-retention-policy, phone-intake-accessibility-testing
+related: /research/privacy-by-design-call-notes, /research/virtual-receptionist-data-retention-policy, /research/phone-intake-accessibility-testing
 ---
 
 ## Headline finding

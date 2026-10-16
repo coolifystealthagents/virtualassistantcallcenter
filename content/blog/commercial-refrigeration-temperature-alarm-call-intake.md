@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: emergency-service-routing
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for commercial refrigeration alarms: route temperature facts without food-safety decisions
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Commercial refrigeration alarms: route temperature facts without food-safety decisions
@@ -82,4 +82,4 @@ Quality review should check the reading and unit, observation time, equipment id
 
 - [FDA food-storage safety guidance](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
 
-Need a cleaner alarm intake, escalation map, and QA review for refrigeration service calls? [Contact Virtual Assistant Call Center](/contact) to discuss a commercial refrigeration workflow.
+Need a cleaner alarm intake, escalation map, and QA review for refrigeration service calls? [Contact Virtual Assistant Call Center](/contact-us) to discuss a commercial refrigeration workflow.

@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Knowledge Control Research
 image: /thumbnails/call-answering-policy-for-new-leads.svg
 imageAlt: Answer traceability study linking a call response to the approved policy version and passage
-related: virtual-assistant-answer-source-traceability-study,virtual-assistant-knowledge-base-change-control-study
+related: /research/virtual-assistant-answer-source-traceability-study, /research/virtual-assistant-knowledge-base-change-control-study
 ---
 ## Finding and scope
 

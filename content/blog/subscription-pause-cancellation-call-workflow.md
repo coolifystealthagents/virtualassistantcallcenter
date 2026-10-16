@@ -2,15 +2,15 @@
 slug: subscription-pause-cancellation-call-workflow
 title: Subscription pause and cancellation calls without retention pressure
 description: A customer-first workflow for subscription pause and cancellation calls, identity checks, effective dates, refunds, save offers, and proof.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Customer support calls
 image: /thumbnails/subscription-pause-cancellation-call-workflow.svg
 imageAlt: Subscription service call workflow showing identity check pause or cancellation choice confirmation and completion record
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/customer-win-back-calls, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/customer-win-back-calls, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Make the requested action easy to recognize
@@ -96,7 +96,7 @@ Calibrate with difficult cases such as partial refunds, annual plans, bundles, d
 
 First prove that straightforward cancellation, pause, and confirmation work. Test a period-end cancellation, immediate request, pause with restart, disputed charge, unauthorized caller, outage, and bounced confirmation. Add retention choices only after the service path is reliable.
 
-If you want a Philippines-based receptionist to manage the front door while billing owners retain exceptions, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact) to map the workflow.
+If you want a Philippines-based receptionist to manage the front door while billing owners retain exceptions, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact-us) to map the workflow.
 
 ## Frequently asked questions
 

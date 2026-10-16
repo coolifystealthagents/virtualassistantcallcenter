@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: call-center-operations
 image: /thumbnails/customer-call-disposition-design-guide.svg
 imageAlt: Editorial workflow illustration for how to design customer call dispositions people will actually use
-related: /services, /contact, /research/customer-call-disposition-taxonomy
+related: /services, /contact-us, /research/customer-call-disposition-taxonomy
 ---
 
 # How to design customer call dispositions people will actually use
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

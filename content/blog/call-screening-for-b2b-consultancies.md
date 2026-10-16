@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: B2B Consultancy Calls
 image: /thumbnails/call-screening-for-b2b-consultancies.svg
 imageAlt: Call screening for B2B consultancies
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 The central design question for B2B consultancy is simple: what must be known before the call can move, and what must remain with a specialist?
 

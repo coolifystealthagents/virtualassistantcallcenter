@@ -7,7 +7,7 @@ updated: 2026-09-04
 category: Roofing call answering
 image: /thumbnails/after-hours-call-answering-for-roofing-companies.svg
 imageAlt: Roofing storm-damage calls sorted into a clear dispatcher-owned service queue
-related: /blog/call-answering-for-roofing-companies, /blog/call-queue-capacity-status
+related: /blog, /blog/call-queue-capacity-status
 ---
 ## Capture the condition without diagnosing it
 

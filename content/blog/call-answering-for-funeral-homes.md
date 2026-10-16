@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Funeral Home Calls
 image: /thumbnails/call-answering-for-funeral-homes.svg
 imageAlt: Funeral home call answering guide centered on respectful first-call routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Lead with calm and identification
 

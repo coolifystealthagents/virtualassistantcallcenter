@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Hearing Care Calls
 image: /thumbnails/accessible-phone-intake-workflow.svg
 imageAlt: Hearing aid clinic repair intake offering phone text and supported follow-up choices
-related: /services/customer-support,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Ask how the caller wants to communicate
 

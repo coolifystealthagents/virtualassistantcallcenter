@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: healthcare-appointment-intake
 image: /thumbnails/dental-emergency-call-triage.svg
 imageAlt: Orthodontic office receptionist routing an appliance problem to a clinical team member
-related: /services/appointment-setting, /workflows, /qa-scorecard, /contact
+related: /services/appointment-setting, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Orthodontic appliance problem calls: route symptoms without practicing dentistry
@@ -76,4 +76,4 @@ Repeated uncertainty points to a policy problem. If agents routinely hesitate ov
 
 The best result from reception is not a dental answer. It is a clean clinical handoff: the right patient, the patient's actual concern, any approved escalation trigger, the open question, and a named owner who accepted it.
 
-Need an appointment-intake workflow that keeps clinical advice with the practice? [Contact Virtual Assistant Call Center](/contact) to discuss your call-routing process.
+Need an appointment-intake workflow that keeps clinical advice with the practice? [Contact Virtual Assistant Call Center](/contact-us) to discuss your call-routing process.

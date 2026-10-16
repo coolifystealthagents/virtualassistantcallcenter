@@ -7,7 +7,7 @@ updated: 2026-08-23
 category: Appointment research
 image: /thumbnails/appointment-booking-no-show-research.svg
 imageAlt: Appointment slot availability integrity research with caller evidence, ownership, and bounded interpretation
-related: appointment-booking-no-show-research
+related: /research/appointment-booking-no-show-research
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Language Service Calls
 image: /thumbnails/virtual-receptionist-call-transfer-rules.svg
 imageAlt: Interpreter booking request routed by language modality time zone and authorization
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Capture the assignment precisely
 

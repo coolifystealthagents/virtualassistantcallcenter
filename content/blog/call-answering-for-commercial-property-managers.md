@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Commercial Property Calls
 image: /thumbnails/call-answering-for-commercial-property-managers.svg
 imageAlt: Commercial property call answering guide showing maintenance and access triage
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Classify the caller before the issue
 

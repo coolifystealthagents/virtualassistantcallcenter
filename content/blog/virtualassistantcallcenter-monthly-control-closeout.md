@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-monthly-control-closeout"
-title: "VirtualAssistantCallCenter Monthly Control Closeout"
-description: "A practical virtual assistant call center operations guide to close open exceptions and retain evidence for the next review."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-monthly-control-closeout
+title: VirtualAssistantCallCenter Monthly Control Closeout
+description: A practical virtual assistant call center operations guide to close open exceptions and retain evidence for the next review.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations
 image: /thumbnails/after-hours-callback-owner-check.svg
 imageAlt: Editorial diagram for Assign an Owner Before Promising an After-Hours Callback, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Monthly Control Closeout

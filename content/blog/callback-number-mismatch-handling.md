@@ -2,7 +2,7 @@
 slug: callback-number-mismatch-handling
 title: Callback Number Mismatch Handling for Virtual Call Centers
 description: A callback mismatch routine helps assistants compare caller-provided numbers without exposing records or sending follow-up to the wrong person.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Callback Management

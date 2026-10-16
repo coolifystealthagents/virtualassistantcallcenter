@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Property Inspection Calls
 image: /thumbnails/missed-call-recovery-for-property-inspectors.svg
 imageAlt: Missed-call recovery for property inspectors
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A script for property inspection business should create calm, not create false certainty. It can organize facts, explain the next step, and expose an exception without pretending to own the decision.
 

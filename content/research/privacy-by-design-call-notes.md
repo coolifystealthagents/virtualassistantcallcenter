@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Call privacy
 image: /thumbnails/privacy-by-design-call-notes.svg
 imageAlt: Privacy-by-design call notes for virtual assistant workflows with a documented workflow, owner handoff, and evidence-first controls
-related: remote-call-center-privacy-controls, virtual-assistant-call-notes-template, call-screening-workflow-for-small-business
+related: /research/remote-call-center-privacy-controls, /blog/virtual-assistant-call-notes-template, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

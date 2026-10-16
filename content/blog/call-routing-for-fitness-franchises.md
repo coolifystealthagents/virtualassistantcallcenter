@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Call operations
 image: /thumbnails/call-routing-for-fitness-franchises.svg
 imageAlt: An editorial illustration about location-aware routing for fitness franchises
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller decision
 

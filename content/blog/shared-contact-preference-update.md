@@ -2,7 +2,7 @@
 slug: shared-contact-preference-update
 title: Update Contact Preferences Without Overwriting Another Customer's Choice
 description: Help virtual receptionists record channel and voicemail preferences at the right person, purpose, and scope when contact details are shared.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Customer Call Management

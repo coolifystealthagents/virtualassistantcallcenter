@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Private School Calls
 image: /thumbnails/call-intake-for-private-schools.svg
 imageAlt: Private school call intake guide for admissions and family support
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Separate admissions from student support
 

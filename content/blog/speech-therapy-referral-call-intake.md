@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Therapy Practice Calls
 image: /thumbnails/appointment-setting-for-pediatric-therapists.svg
 imageAlt: Speech therapy referral call note with contact referral scheduling and communication access fields
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Begin with the reason for contact
 

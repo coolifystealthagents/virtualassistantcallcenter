@@ -8,7 +8,7 @@ updated: 2026-09-19
 category: Routing governance research
 image: /thumbnails/supervisor-routing-override-audit-study.svg
 imageAlt: Supervisor routing override audit showing trigger, authority, changed route, effective window, restoration, and review
-related: /services/virtual-receptionist, /research/urgent-queue-priority-override-audit, /contact
+related: /services/inbound-customer-calls, /research/urgent-queue-priority-override-audit, /contact-us
 ---
 
 ## Research question

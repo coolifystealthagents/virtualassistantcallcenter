@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Appointment operations
 image: /thumbnails/appointment-cancellation-call-workflow.svg
 imageAlt: Appointment cancellation call workflow showing a documented phone workflow with evidence, owner review, and safe escalation
-related: appointment-reminder-call-workflow, appointment-booking-no-show-research, healthcare-appointment-call-handoff
+related: /research/appointment-reminder-call-workflow, /research/appointment-booking-no-show-research, /blog/healthcare-appointment-call-handoff
 ---
 
 ## Headline finding

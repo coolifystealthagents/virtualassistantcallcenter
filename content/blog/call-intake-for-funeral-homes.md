@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Funeral Home Intake
 image: /thumbnails/call-intake-for-funeral-homes.svg
 imageAlt: Call intake for funeral homes showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Lead with calm clarity
 

@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call-governance research
 image: /thumbnails/call-recording-consent-evidence-study.svg
 imageAlt: Call recording consent research showing consent state, purpose, retention, and exception review
-related: call-center-call-recording-consent-workflow, privacy-by-design-call-notes
+related: /research/call-center-call-recording-consent-workflow, /research/privacy-by-design-call-notes
 ---
 
 ## Scope

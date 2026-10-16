@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Customer service research
 image: /thumbnails/customer-callback-queue-aging-study.svg
 imageAlt: Callback promise reliability study with caller evidence, ownership, and bounded interpretation
-related: customer-callback-queue-aging-study
+related: /research/customer-callback-queue-aging-study
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call routing workflow for a septic backup and pumping request
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Septic emergency calls: distinguish backup hazards from routine pumping requests
@@ -85,4 +85,4 @@ A complete intake record answers four practical questions: where is the problem,
 
 For routine pumping, that owner may be the scheduling queue. For an alarm or backup, it may be the on-call dispatcher. The closing statement should name the process without inventing an outcome. That gives the customer a useful handoff while keeping diagnosis, safety assessment, and dispatch promises with qualified staff.
 
-Need help separating routine pumping calls from urgent septic reports and documenting dispatcher acknowledgment? [Contact Virtual Assistant Call Center](/contact) to discuss your intake workflow.
+Need help separating routine pumping calls from urgent septic reports and documenting dispatcher acknowledgment? [Contact Virtual Assistant Call Center](/contact-us) to discuss your intake workflow.

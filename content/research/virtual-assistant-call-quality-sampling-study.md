@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Research
 image: /thumbnails/virtual-assistant-call-quality-sampling-study.svg
 imageAlt: Abstract illustration of a virtual assistant call quality review with distinct evidence and escalation indicators
-related: call-center-kpi-definition-guide, call-center-disposition-quality-audit
+related: /research/call-center-kpi-definition-guide, /research/call-center-disposition-quality-audit
 ---
 
 ## Research question

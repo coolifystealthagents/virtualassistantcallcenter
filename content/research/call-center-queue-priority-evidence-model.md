@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Research
 image: /thumbnails/call-center-queue-priority-evidence-model.svg
 imageAlt: Abstract illustration of a virtual assistant call queue with labeled priority lanes and an exception review marker
-related: customer-service-escalation-priority-model, call-center-queue-management
+related: /research/customer-service-escalation-priority-model, /research
 ---
 
 ## Research question

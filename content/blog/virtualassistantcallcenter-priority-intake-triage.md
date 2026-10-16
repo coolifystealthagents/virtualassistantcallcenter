@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-priority-intake-triage"
-title: "VirtualAssistantCallCenter Priority Intake Triage"
-description: "A practical virtual assistant call center operations guide to turn new requests into a sequenced queue with an accepted owner."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-priority-intake-triage
+title: VirtualAssistantCallCenter Priority Intake Triage
+description: A practical virtual assistant call center operations guide to turn new requests into a sequenced queue with an accepted owner.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations
 image: /thumbnails/virtualassistantcallcenter-priority-intake-triage.svg
-imageAlt: Editorial diagram for Assign an Owner Before Promising an After-Hours Callback, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
+imageAlt: Editorial workflow illustration for VirtualAssistantCallCenter Priority Intake Triage
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Priority Intake Triage

@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Appointment research
 image: /thumbnails/appointment-cancellation-effective-time-study.svg
 imageAlt: Appointment cancellation study linking caller request, identity check, calendar update, notification delivery, and exception ownership
-related: /services/appointment-setting, /research/calendar-double-booking-detection-study, /contact
+related: /services/appointment-setting, /research/calendar-double-booking-detection-study, /contact-us
 ---
 
 ## Research question
@@ -103,4 +103,4 @@ The defensible answer is a bounded account of what the declared records support,
 
 - [Appointment scheduling support](/services/appointment-setting)
 - [Calendar conflict research](/research/calendar-double-booking-detection-study)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

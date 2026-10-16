@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Authorization Research
 image: /thumbnails/call-intake-identity-verification-boundaries.svg
 imageAlt: Research matrix for after-hours vendor identity approval and payment boundaries
-related: after-hours-vendor-call-routing, vendor-callback-verification-workflow
+related: /blog/after-hours-vendor-call-routing, /blog/vendor-callback-verification-workflow
 ---
 ## Finding and scope
 

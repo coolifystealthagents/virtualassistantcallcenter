@@ -2,15 +2,15 @@
 slug: subcontractor-scheduling-call-workflow
 title: Subcontractor scheduling calls for active construction projects
 description: A phone workflow for subcontractor scheduling, site access, dependencies, delivery windows, change boundaries, and superintendent handoffs.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Scheduling calls
 image: /thumbnails/subcontractor-scheduling-call-workflow.svg
 imageAlt: Construction subcontractor scheduling workflow linking project identity dependencies site access and superintendent approval
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/appointment-setting, /services/inbound-customer-calls, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/appointment-setting, /services/inbound-customer-calls, /contact-us
 ---
 
 ## Make schedule calls produce a usable commitment
@@ -90,7 +90,7 @@ When a pattern appears, repair the source. If site access instructions change we
 
 Test a normal crew request, a delivery, an unconfirmed predecessor, an overtime request, a schedule conflict, an after-hours lockout, and a reported hazard. Have the superintendent, project manager, safety leader, and coordinator approve their paths.
 
-Review records daily during the pilot. Expand only after confirmation language and escalation work consistently. A Philippines-based receptionist can maintain the intake and follow-up queue while field authority stays onsite. Review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact) to map a bounded project workflow.
+Review records daily during the pilot. Expand only after confirmation language and escalation work consistently. A Philippines-based receptionist can maintain the intake and follow-up queue while field authority stays onsite. Review the [appointment setting service](/services/appointment-setting) and use the [contact page](/contact-us) to map a bounded project workflow.
 
 ## Frequently asked questions
 

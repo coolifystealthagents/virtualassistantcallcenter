@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Home services
 image: /thumbnails/call-answering-for-commercial-cleaners.svg
 imageAlt: Call answering for commercial cleaners showing a structured commercial cleaners phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

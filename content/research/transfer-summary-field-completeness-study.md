@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Handoff Quality Research
 image: /thumbnails/small-business-call-handoff-reliability.svg
 imageAlt: Call transfer summary study comparing required fields before and after a handoff
-related: call-transfer-context-preservation-study,call-note-completeness-rubric-study
+related: /research
 ---
 ## Finding and scope
 

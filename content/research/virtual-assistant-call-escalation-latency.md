@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Escalation research
 image: /thumbnails/virtual-assistant-call-escalation-latency.svg
 imageAlt: Virtual assistant call escalation latency timeline from trigger to owner acceptance and next action
-related: call-escalation-severity-matrix, customer-service-escalation-priority-model, after-hours-call-coverage-risk-review
+related: /research/call-escalation-severity-matrix, /research/customer-service-escalation-priority-model, /research/after-hours-call-coverage-risk-review
 ---
 
 ## Headline finding

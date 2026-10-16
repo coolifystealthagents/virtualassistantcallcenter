@@ -2,15 +2,15 @@
 slug: insurance-policy-service-call-intake
 title: Insurance policy service call intake without giving coverage advice
 description: A careful phone intake workflow for insurance service requests, identity checks, document routing, licensed-agent boundaries, and callbacks.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Customer support calls
 image: /thumbnails/insurance-policy-service-call-intake.svg
 imageAlt: Insurance policy service call workflow showing caller verification request capture licensed agent review and callback
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/inbound-customer-calls, /services/call-disposition-reporting, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/inbound-customer-calls, /services/call-disposition-reporting, /contact-us
 ---
 
 ## Separate service intake from insurance advice
@@ -100,7 +100,7 @@ When several people misclassify the same request, improve the decision tree. Mai
 
 Start with low-variation requests such as routing billing questions and securely resending approved existing documents. Test a failed identity check, a requested policy change, a coverage question, an urgent notice, a portal outage, and a bounced email. Have the agency’s licensed owner approve every path.
 
-Review early calls daily, then expand only when boundaries and handoffs are stable. A Philippines-based receptionist can give callers a consistent front door while licensed decisions remain with the agency. To map that separation, review the [inbound calls service](/services/inbound-customer-calls) and use the [contact page](/contact) to outline the queue.
+Review early calls daily, then expand only when boundaries and handoffs are stable. A Philippines-based receptionist can give callers a consistent front door while licensed decisions remain with the agency. To map that separation, review the [inbound calls service](/services/inbound-customer-calls) and use the [contact page](/contact-us) to outline the queue.
 
 ## Frequently asked questions
 

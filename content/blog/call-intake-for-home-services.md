@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Home Services Intake
 image: /thumbnails/call-intake-for-home-services.svg
 imageAlt: Call intake for home service businesses showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

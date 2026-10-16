@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Call support guides
 image: /thumbnails/appointment-reminder-call-workflow.svg
 imageAlt: Appointment setting for home cleaning guide showing a clear phone support path for callers and staff
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller's purpose
 

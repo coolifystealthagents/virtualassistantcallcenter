@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call support guides
 image: /thumbnails/appointment-setting-for-wellness-clinics.svg
 imageAlt: Tutoring service call intake guide with learner needs and scheduling details
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Understand the learning request
 

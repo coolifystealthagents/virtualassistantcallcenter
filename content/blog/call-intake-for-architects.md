@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Architecture Firm Intake
 image: /thumbnails/call-intake-for-architects.svg
 imageAlt: Call intake for architecture firms showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Classify the project inquiry
 

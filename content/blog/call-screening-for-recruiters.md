@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Recruiting
 image: /thumbnails/call-screening-for-recruiters.svg
 imageAlt: Call screening for recruiters showing a structured recruiters phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

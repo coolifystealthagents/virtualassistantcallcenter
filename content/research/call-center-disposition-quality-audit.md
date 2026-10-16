@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Quality research
 image: /thumbnails/call-center-disposition-quality-audit.svg
 imageAlt: Call-center disposition quality audit showing taxonomy, evidence, owner, exception, and review fields
-related: customer-call-disposition-taxonomy, call-center-kpi-definition-guide, call-center-after-call-work
+related: /research/customer-call-disposition-taxonomy, /research/call-center-kpi-definition-guide, /research/call-center-after-call-work
 ---
 
 ## Headline finding

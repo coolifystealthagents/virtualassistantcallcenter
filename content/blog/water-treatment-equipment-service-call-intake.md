@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: home-equipment-service-intake
 image: /thumbnails/water-well-service-call-intake.svg
 imageAlt: Water equipment service representative recording an alarm and reported water change
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Water treatment equipment calls: capture changes without declaring water safe
@@ -74,4 +74,4 @@ Quality samples should include routine maintenance, an active leak, a health que
 
 A strong intake gives the technician a verified system, direct observations, recent events, the customer's actual concern, access conditions, and open questions. It gives the customer an honest next step without a diagnosis or unsupported water-safety claim.
 
-Need a service-intake workflow for equipment calls and technical escalation? [Contact Virtual Assistant Call Center](/contact) to discuss your process.
+Need a service-intake workflow for equipment calls and technical escalation? [Contact Virtual Assistant Call Center](/contact-us) to discuss your process.

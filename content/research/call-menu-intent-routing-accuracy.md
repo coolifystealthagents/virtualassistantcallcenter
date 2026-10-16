@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Call routing research
 image: /thumbnails/small-business-call-routing-decision-tree.svg
 imageAlt: Call menu intent routing accuracy research with caller evidence, ownership, and bounded interpretation
-related: small-business-call-routing-decision-tree
+related: /research/small-business-call-routing-decision-tree
 ---
 
 ## Headline finding

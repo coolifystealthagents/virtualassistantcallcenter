@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Healthcare scheduling
 image: /thumbnails/healthcare-appointment-intake-checklist.svg
 imageAlt: Healthcare appointment intake checklist with privacy and scheduling handoff controls
-related: appointment-scheduling-call-center-metrics, after-hours-call-answering-benchmark, call-screening-workflow-for-small-business
+related: /research/appointment-scheduling-call-center-metrics, /research/after-hours-call-answering-benchmark, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

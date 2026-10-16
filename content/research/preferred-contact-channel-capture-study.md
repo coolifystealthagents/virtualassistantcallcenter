@@ -8,7 +8,7 @@ updated: 2026-09-22
 category: Call intake research
 image: /thumbnails/preferred-contact-channel-capture-study.svg
 imageAlt: Contact preference study tracing caller choice, permission, fallback channel, downstream use, and correction evidence
-related: /services/inbound-customer-calls, /research/caller-consent-record-completeness-study, /contact
+related: /services/inbound-customer-calls, /research/caller-consent-record-completeness-study, /contact-us
 ---
 
 ## Research question

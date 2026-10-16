@@ -2,7 +2,7 @@
 slug: call-queue-capacity-status
 title: Give Virtual Receptionists an Honest Call-Queue Capacity Status
 description: A simple capacity status helps assistants set truthful expectations and route overflow without promising speed the team cannot deliver.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Queue Management

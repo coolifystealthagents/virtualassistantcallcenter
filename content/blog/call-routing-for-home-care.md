@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Home Care Agency Routing
 image: /thumbnails/call-routing-for-home-care.svg
 imageAlt: Call routing for home care agencies showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Identify the caller and relationship
 

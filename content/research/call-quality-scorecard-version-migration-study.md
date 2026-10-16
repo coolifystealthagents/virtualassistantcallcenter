@@ -8,7 +8,7 @@ updated: 2026-09-18
 category: Call quality research
 image: /thumbnails/call-quality-scorecard-version-migration-study.svg
 imageAlt: Diagram showing evidence, review, exception, and owner steps for scorecard version migration
-related: /services/call-quality-assurance, /research/call-quality-sampling-methodology, /contact
+related: /services/call-quality-assurance, /research/call-quality-sampling-methodology, /contact-us
 ---
 
 ## Research question

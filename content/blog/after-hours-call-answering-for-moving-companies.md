@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: After-hours coverage
 image: /thumbnails/after-hours-call-answering-playbook.svg
 imageAlt: After-hours moving company call guide with move details and callback ownership
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Separate the kinds of moves
 

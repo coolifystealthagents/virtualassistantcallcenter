@@ -7,7 +7,7 @@ updated: 2026-09-25
 category: senior-care-call-workflows
 image: /thumbnails/senior-living-tour-inquiry-call-intake.svg
 imageAlt: Editorial workflow illustration for senior living tour inquiry calls: qualify logistics, not care needs
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Senior living tour inquiry calls: qualify logistics, not care needs
@@ -129,4 +129,4 @@ Keep the active view to the greeting, decision branches, required fields, bounda
 
 ## Put this workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, coverage hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, coverage hours, systems, and escalation owners you want to map.

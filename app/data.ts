@@ -66,7 +66,7 @@ export const blogPosts = [
   { slug: 'outbound-lead-follow-up-virtual-assistant-philippines', title: 'Outbound lead follow-up with a Philippines virtual assistant', excerpt: 'A consent-first call plan for Filipino virtual assistants who follow up with leads while keeping call lists, scripts, records, and stop requests under owner control.', minutes: 12 },
 ].map((post) => ({ ...post, ...imageBySlug[post.slug] }));
 
-export const routes = ['', '/workflows', '/qa-scorecard', '/blog', '/contact', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
+export const routes = ['', '/workflows', '/qa-scorecard', '/blog', '/contact-us', '/privacy', '/terms', '/thank-you', '/thanks-whats-next', ...blogPosts.map((p) => `/blog/${p.slug}`)];
 
 export const staffingOffer = {
   partner: 'the call support team',

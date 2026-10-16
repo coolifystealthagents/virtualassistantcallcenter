@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Locksmith Calls
 image: /thumbnails/call-answering-for-commercial-property-managers.svg
 imageAlt: Commercial locksmith intake record with site authority access issue and technician handoff fields
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Identify the site and the problem
 

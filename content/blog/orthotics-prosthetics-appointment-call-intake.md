@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Clinical Scheduling Calls
 image: /thumbnails/appointment-setting-for-wellness-clinics.svg
 imageAlt: Orthotics and prosthetics appointment intake with referral device and accessibility details
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Find out what the appointment is for
 

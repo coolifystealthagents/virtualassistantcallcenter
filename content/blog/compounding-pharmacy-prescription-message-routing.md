@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Pharmacy Call Routing
 image: /thumbnails/medical-office-referral-call-intake.svg
 imageAlt: Compounding pharmacy call routing note separating refill shipment prescriber and pharmacist queues
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Verify the message context
 

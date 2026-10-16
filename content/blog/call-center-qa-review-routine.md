@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Quality assurance
 image: /thumbnails/call-center-qa-review-routine.svg
 imageAlt: A call center quality review routine showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call support guides
 image: /thumbnails/after-hours-call-answering-for-landscapers.svg
 imageAlt: Call answering guide for pest control companies with clear intake and handoff notes
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Start with the service request
 

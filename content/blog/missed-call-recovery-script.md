@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Recovery scripts
 image: /thumbnails/missed-call-recovery-script.svg
 imageAlt: A missed call recovery script that sounds human showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

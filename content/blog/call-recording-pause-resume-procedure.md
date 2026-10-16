@@ -2,7 +2,7 @@
 slug: call-recording-pause-resume-procedure
 title: Build a Call-Recording Pause and Resume Procedure Assistants Can Follow
 description: Define when recording pauses, what the assistant says, how work continues, and how the team verifies that recording resumed correctly.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Call Quality and Privacy

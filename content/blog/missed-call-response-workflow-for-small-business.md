@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: lead-response
 image: /thumbnails/missed-call-response-workflow-for-small-business.svg
 imageAlt: Editorial workflow illustration for a missed-call response workflow for small business teams
-related: /services, /contact, /research/missed-call-response-time-study
+related: /services, /contact-us, /research/missed-call-response-time-study
 ---
 
 # A missed-call response workflow for small business teams
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

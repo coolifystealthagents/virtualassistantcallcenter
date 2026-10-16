@@ -8,7 +8,7 @@ updated: 2026-09-19
 category: Call routing research
 image: /thumbnails/holiday-hours-routing-source-freshness-study.svg
 imageAlt: Holiday routing study showing approved schedule, effective time, route test, caller message, and owner review
-related: /services/after-hours-answering, /research/transfer-destination-hours-mismatch-study, /contact
+related: /services/after-hours-answering, /research/transfer-destination-hours-mismatch-study, /contact-us
 ---
 
 ## Research question

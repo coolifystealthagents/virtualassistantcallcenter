@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Follow-up Research
 image: /thumbnails/call-center-follow-up-closure-evidence.svg
 imageAlt: Callback cohort showing closed records and later reopen events
-related: callback-ownership-aging-control-study,customer-callback-service-level-study
+related: /research/callback-ownership-aging-control-study, /research/customer-callback-service-level-study
 ---
 ## Finding and scope
 

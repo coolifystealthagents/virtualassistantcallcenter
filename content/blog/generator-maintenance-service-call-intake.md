@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call routing workflow for standby generator service during an outage
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Standby generator calls: route test failures and outages without remote troubleshooting
@@ -88,4 +88,4 @@ Close by reading back the location, asset, observed condition, and callback numb
 
 This does not guarantee an arrival time, repair, or continued power. It confirms that the report is accurate and owned. During an outage, that honest distinction is more useful than confident troubleshooting from someone who cannot see the equipment.
 
-Need a clearer phone workflow for generator alarms, failed exercises, and outage escalation? [Contact Virtual Assistant Call Center](/contact) to discuss your service intake process.
+Need a clearer phone workflow for generator alarms, failed exercises, and outage escalation? [Contact Virtual Assistant Call Center](/contact-us) to discuss your service intake process.

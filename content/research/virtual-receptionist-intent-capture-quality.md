@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Intake quality
 image: /thumbnails/virtual-receptionist-intent-capture-quality.svg
 imageAlt: Virtual receptionist intent capture research with caller intent, minimum data, confirmation, and escalation
-related: customer-call-disposition-taxonomy, phone-intake-field-validation-study, virtual-receptionist-intake-data-fields
+related: /research/customer-call-disposition-taxonomy, /research/phone-intake-field-validation-study, /research/virtual-receptionist-intake-data-fields
 ---
 
 ## Headline finding

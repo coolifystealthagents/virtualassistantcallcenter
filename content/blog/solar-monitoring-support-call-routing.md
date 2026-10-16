@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Solar Support Calls
 image: /thumbnails/call-answering-for-solar-permit-coordinators.svg
 imageAlt: Solar monitoring support record with site alert connectivity and technician review status
-related: /services/customer-support,/services/inbound-customer-calls
+related: /services/inbound-customer-calls
 ---
 ## Identify the system and the alert
 

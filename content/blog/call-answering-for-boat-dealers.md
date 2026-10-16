@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Boat Dealer Calls
 image: /thumbnails/call-answering-for-boat-dealers.svg
 imageAlt: Boat dealer call answering guide for sales, service, and parts routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the vessel and request
 

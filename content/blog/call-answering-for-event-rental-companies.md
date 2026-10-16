@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Hospitality call support
 image: /thumbnails/after-hours-call-answering-for-restaurants.svg
 imageAlt: Event rental company call answering guide with inventory and delivery details
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the event need
 

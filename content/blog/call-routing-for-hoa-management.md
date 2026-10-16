@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: HOA Management Calls
 image: /thumbnails/call-routing-for-hoa-management.svg
 imageAlt: Call routing for HOA management
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A good call is not merely answered; it leaves the next person with a usable decision. For HOA management company, that means treating the first conversation as an intake checkpoint.
 

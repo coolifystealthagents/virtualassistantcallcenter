@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Service operations
 image: /thumbnails/customer-call-backlog-triage.svg
 imageAlt: Customer call backlog triage board with urgency, owner, and recovery columns
-related: after-hours-call-answering-benchmark, missed-call-recovery-workflow, call-screening-workflow-for-small-business
+related: /research/after-hours-call-answering-benchmark, /blog/missed-call-recovery-workflow, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

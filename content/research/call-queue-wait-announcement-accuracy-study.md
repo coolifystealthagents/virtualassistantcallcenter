@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Queue measurement research
 image: /thumbnails/call-center-average-speed-answer-research.svg
 imageAlt: Call queue wait evidence review comparing stated estimates, measurement rules, uncertainty, and accessible alternatives
-related: call-center-service-level-measurement, call-queue-aging-risk-segmentation
+related: /research/call-center-service-level-measurement, /research/call-queue-aging-risk-segmentation
 ---
 
 ## Headline finding

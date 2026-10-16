@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: access-system-field-service
 image: /thumbnails/garage-door-trapped-vehicle-call-intake.svg
 imageAlt: Dispatcher mapping a parking garage gate failure and affected traffic lane
-related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
+related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Parking garage gate calls: separate trapped vehicles from routine access service
@@ -68,4 +68,4 @@ Review calls involving a trapped vehicle, intermittent badge failures, a gate st
 
 A useful gate-service call leaves the technician and property manager with the same picture: which lane, what moved or failed, who is affected, what the caller already did, how the site can be entered, and which decisions remain with them.
 
-Need an after-hours routing map for access-system failures and urgent dispatch? [Contact Virtual Assistant Call Center](/contact) to discuss your call process.
+Need an after-hours routing map for access-system failures and urgent dispatch? [Contact Virtual Assistant Call Center](/contact-us) to discuss your call process.

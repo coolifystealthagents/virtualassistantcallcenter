@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for appliance warranty authorization calls: separate proof, coverage, and scheduling
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Appliance warranty authorization calls: separate proof, coverage, and scheduling
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [FTC consumer warranty guidance](https://consumer.ftc.gov/articles/warranties)
 
-Need help designing the routing map, intake fields, and QA review for your call appliance queue? [Contact Virtual Assistant Call Center](/contact) to discuss the appliance workflow.
+Need help designing the routing map, intake fields, and QA review for your call appliance queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the appliance workflow.

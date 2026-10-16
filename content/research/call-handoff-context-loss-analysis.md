@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Handoff research
 image: /thumbnails/virtual-receptionist-handoff-metrics.svg
 imageAlt: Call handoff context loss analysis with caller evidence, ownership, and bounded interpretation
-related: virtual-receptionist-handoff-metrics
+related: /research/virtual-receptionist-handoff-metrics
 ---
 
 ## Headline finding

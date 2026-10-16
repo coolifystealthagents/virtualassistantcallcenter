@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Healthcare call support
 image: /thumbnails/appointment-intake-for-therapists.svg
 imageAlt: Physical therapy clinic call intake guide with referral and appointment routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Clarify the caller’s goal
 

@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Optometry Call Intake
 image: /thumbnails/call-answering-for-optometrists.svg
 imageAlt: Optometry call answering guide for appointment and urgent-call routing
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Gather the details that change the route
 

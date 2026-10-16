@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Professional services
 image: /thumbnails/call-intake-for-financial-advisors.svg
 imageAlt: Call intake for financial advisors showing a structured financial advisors phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

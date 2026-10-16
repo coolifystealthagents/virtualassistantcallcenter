@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Queue research
 image: /thumbnails/customer-call-backlog-triage.svg
 imageAlt: Call queue aging risk segmentation research with caller evidence, ownership, and bounded interpretation
-related: customer-call-backlog-triage
+related: /research/customer-call-backlog-triage
 ---
 
 ## Headline finding

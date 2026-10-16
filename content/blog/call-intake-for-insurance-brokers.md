@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Insurance Broker Intake
 image: /thumbnails/call-intake-for-insurance-brokers.svg
 imageAlt: Call intake for independent insurance brokers showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the coverage goal
 

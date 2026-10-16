@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Appointment operations
 image: /thumbnails/appointment-booking-no-show-research.svg
 imageAlt: Appointment booking and no-show research for phone workflows with a documented workflow, owner handoff, and evidence-first controls
-related: appointment-scheduling-call-center-metrics, healthcare-appointment-intake-checklist, call-screening-workflow-for-small-business
+related: /research/appointment-scheduling-call-center-metrics, /research/healthcare-appointment-intake-checklist, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

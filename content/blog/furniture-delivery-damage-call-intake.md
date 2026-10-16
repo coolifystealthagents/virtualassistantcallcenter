@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Furniture Retail Calls
 image: /thumbnails/call-answering-for-furniture-stores.svg
 imageAlt: Furniture delivery damage call record with order item and evidence details
-related: /services/inbound-customer-calls,/services/outbound-call-support
+related: /services/inbound-customer-calls, /services/outbound-lead-qualification
 ---
 ## Tie the report to the delivered item
 

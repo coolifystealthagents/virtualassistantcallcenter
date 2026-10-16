@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Commercial Real Estate Screening
 image: /thumbnails/call-screening-for-commercial-real-estate.svg
 imageAlt: Call screening for commercial real estate teams showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Identify the property and role
 

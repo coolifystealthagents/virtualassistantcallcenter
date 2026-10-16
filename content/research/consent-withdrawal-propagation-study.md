@@ -8,7 +8,7 @@ updated: 2026-09-24
 category: Consent governance research
 image: /thumbnails/consent-withdrawal-propagation-study.svg
 imageAlt: Consent withdrawal study connecting the caller request, suppression record, active queues, owner review, and correction
-related: /services/customer-support, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question
@@ -88,4 +88,4 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 - [/services/customer-support](/services/customer-support)
 - [Research library](/research)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

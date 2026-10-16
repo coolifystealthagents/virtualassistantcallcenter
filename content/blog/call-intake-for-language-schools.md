@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Call operations
 image: /thumbnails/call-intake-for-language-schools.svg
 imageAlt: An editorial illustration about education-fit intake for language schools
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller decision
 

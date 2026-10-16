@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Handoff operations
 image: /thumbnails/virtual-receptionist-handoff-metrics.svg
 imageAlt: Virtual receptionist handoff scorecard with intent accuracy and owner acceptance measures
-related: customer-call-backlog-triage, after-hours-call-answering-benchmark, appointment-scheduling-call-center-metrics
+related: /research/customer-call-backlog-triage, /research/after-hours-call-answering-benchmark, /research/appointment-scheduling-call-center-metrics
 ---
 
 ## Headline finding

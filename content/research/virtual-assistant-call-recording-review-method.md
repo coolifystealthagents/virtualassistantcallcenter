@@ -8,7 +8,7 @@ updated: 2026-08-21
 category: Call quality research
 image: /aug21-research-heroes/virtual-assistant-call-recording-review-method.png
 imageAlt: Editorial illustration of a virtual assistant call center recording review with a scorecard and escalation marker
-related: /research/call-recording-quality-review, /research/virtual-assistant-call-note-completeness-study
+related: /blog/call-recording-quality-review, /research/virtual-assistant-call-note-completeness-study
 ---
 
 ## Research question

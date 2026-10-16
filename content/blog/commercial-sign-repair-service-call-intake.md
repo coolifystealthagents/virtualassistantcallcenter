@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: commercial-field-service-intake
 image: /thumbnails/sign-company-installation-service-call-intake.svg
 imageAlt: Sign service dispatcher recording damage and pedestrian exposure at a storefront
-related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
+related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Commercial sign repair calls: document public exposure before arranging service
@@ -74,4 +74,4 @@ Review calls involving loose material, intermittent lighting, vehicle impact, mu
 
 The strongest intake gives service operations a street-level picture of the sign, its observed condition, the people or property exposed, current site controls, approval ownership, and access route. It avoids turning reception into an electrician, engineer, or traffic controller.
 
-Need an after-hours call workflow for commercial sign damage and service routing? [Contact Virtual Assistant Call Center](/contact) to discuss your process.
+Need an after-hours call workflow for commercial sign damage and service routing? [Contact Virtual Assistant Call Center](/contact-us) to discuss your process.

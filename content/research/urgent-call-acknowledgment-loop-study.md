@@ -8,7 +8,7 @@ updated: 2026-09-23
 category: Escalation research
 image: /thumbnails/urgent-call-acknowledgment-loop-study.svg
 imageAlt: Urgent call study following classification, approved contact, acknowledgment timer, fallback path, and caller update
-related: /services/call-answering, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question

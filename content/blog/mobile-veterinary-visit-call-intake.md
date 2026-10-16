@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Veterinary Calls
 image: /thumbnails/healthcare-appointment-call-handoff.svg
 imageAlt: Mobile veterinary visit intake with location animal and clinician handoff fields
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Confirm where the visit would happen
 

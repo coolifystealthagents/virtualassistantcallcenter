@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Inbound intake
 image: /thumbnails/inbound-customer-call-intake-checklist.svg
 imageAlt: An inbound customer call intake checklist showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

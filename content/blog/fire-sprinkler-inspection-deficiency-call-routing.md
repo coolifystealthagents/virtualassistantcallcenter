@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Fire Protection Calls
 image: /thumbnails/service-business-call-quality-audit.svg
 imageAlt: Fire sprinkler deficiency call note with site report impairment deadline and service handoff
-related: /services/after-hours-answering,/services/inbound-customer-calls
+related: /services/after-hours-answering, /services/inbound-customer-calls
 ---
 ## Anchor the call to a site and report
 

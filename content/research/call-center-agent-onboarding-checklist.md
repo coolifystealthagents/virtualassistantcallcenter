@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Team readiness
 image: /thumbnails/call-center-agent-onboarding-checklist.svg
 imageAlt: Call center agent onboarding checklist showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-qa-review-routine, call-escalation-severity-matrix, call-center-accessibility-checklist
+related: /blog/call-center-qa-review-routine, /research/call-escalation-severity-matrix, /research/call-center-accessibility-checklist
 ---
 
 ## Headline finding

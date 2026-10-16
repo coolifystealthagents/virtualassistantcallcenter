@@ -7,7 +7,7 @@ updated: 2026-08-21
 category: Service continuity research
 image: /thumbnails/after-hours-call-continuity-cohort.svg
 imageAlt: After-hours call continuity research showing access, message capture, owner acknowledgment, and disposition
-related: virtual-receptionist-after-hours-routing-study, small-business-voicemail-recovery-study
+related: /research/virtual-receptionist-after-hours-routing-study, /research
 ---
 
 ## Research question

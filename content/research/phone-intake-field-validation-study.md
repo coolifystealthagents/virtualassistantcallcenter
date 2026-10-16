@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Intake research
 image: /thumbnails/phone-intake-field-validation-study.svg
 imageAlt: Phone intake field validation study with required fields, validation states, privacy review, and owner approval
-related: virtual-receptionist-intake-data-fields, accessible-phone-intake-workflow, virtual-assistant-call-intake-scorecard
+related: /research/virtual-receptionist-intake-data-fields, /research/accessible-phone-intake-workflow, /research/virtual-assistant-call-intake-scorecard
 ---
 
 ## Headline finding

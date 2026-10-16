@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Music School Calls
 image: /thumbnails/call-answering-for-music-schools.svg
 imageAlt: Music school call answering guide for enrollment and lesson scheduling
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Separate enrollment from active-student support
 

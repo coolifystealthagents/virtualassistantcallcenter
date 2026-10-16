@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Medical Transportation Calls
 image: /thumbnails/healthcare-appointment-call-handoff.svg
 imageAlt: Dialysis transportation request with rider facility mobility pickup and authorization fields
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Match the rider and recurring schedule
 

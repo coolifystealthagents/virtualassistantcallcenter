@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Creative Studio Calls
 image: /thumbnails/call-screening-for-creative-production-studios.svg
 imageAlt: Call screening for creative production studios
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 When a phone workflow is vague, every caller becomes a new case. A bounded intake makes the common path repeatable while making unusual cases visible.
 

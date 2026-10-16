@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: HOA Management Calls
 image: /thumbnails/call-answering-for-hoa-management-companies.svg
 imageAlt: HOA management call answering guide for resident and maintenance routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify community and caller role
 

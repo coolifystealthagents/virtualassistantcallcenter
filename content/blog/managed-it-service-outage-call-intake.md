@@ -2,14 +2,14 @@
 slug: managed-it-service-outage-call-intake
 title: Managed IT service outage call intake and escalation workflow
 description: A practical phone workflow for MSP outage reports, identity checks, impact capture, ticket ownership, status updates, and safe escalation.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Customer support calls
 image: /thumbnails/managed-it-service-outage-call-intake.svg
 imageAlt: Managed IT service outage call workflow showing verification impact capture ticket creation and engineer escalation
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
 related: /services/inbound-customer-calls, /services/call-disposition-reporting, /qa-scorecard
 ---
 

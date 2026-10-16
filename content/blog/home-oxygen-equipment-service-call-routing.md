@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: medical-equipment-service-intake
 image: /thumbnails/mobility-equipment-repair-call-intake.svg
 imageAlt: Medical equipment service agent routing a home oxygen device call
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Home oxygen equipment calls: route device problems without giving clinical advice
@@ -74,4 +74,4 @@ Review repeat contacts as a chain rather than isolated calls. If a patient calls
 
 Home oxygen intake succeeds when the caller's location, reported condition, equipment facts, open clinical question, and response owner are clear. Reception can create that clarity without adjusting therapy or attempting remote repair.
 
-Need a call-routing process for medical equipment support and urgent handoffs? [Contact Virtual Assistant Call Center](/contact) to discuss your service workflow.
+Need a call-routing process for medical equipment support and urgent handoffs? [Contact Virtual Assistant Call Center](/contact-us) to discuss your service workflow.

@@ -7,7 +7,7 @@ updated: 2026-08-31
 category: Quality assurance
 image: /thumbnails/call-quality-sampling-methodology.svg
 imageAlt: Call quality sampling methodology for small call teams with a documented workflow, owner handoff, and evidence-first controls
-related: call-center-qa-review-routine, service-business-call-quality-audit, call-screening-workflow-for-small-business
+related: /blog/call-center-qa-review-routine, /research/service-business-call-quality-audit, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Record integrity research
 image: /thumbnails/customer-call-record-integrity.svg
 imageAlt: Caller correction evidence review tracing original facts, corrected fields, destination updates, ownership, and unresolved conflicts
-related: customer-call-record-integrity, phone-intake-source-traceability-study
+related: /research/customer-call-record-integrity, /research/phone-intake-source-traceability-study
 ---
 
 ## Headline finding

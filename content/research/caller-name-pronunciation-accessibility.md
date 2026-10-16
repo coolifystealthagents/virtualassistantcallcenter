@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Accessibility research
 image: /thumbnails/phone-intake-accessibility-testing.svg
 imageAlt: Caller name pronunciation accessibility research with caller evidence, ownership, and bounded interpretation
-related: phone-intake-accessibility-testing
+related: /research/phone-intake-accessibility-testing
 ---
 
 ## Headline finding

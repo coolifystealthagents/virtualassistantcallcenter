@@ -2,7 +2,7 @@
 slug: call-note-correction-protocol
 title: How to Correct a Call Note Without Hiding the Original Record
 description: A practical correction protocol helps virtual call teams repair factual mistakes while preserving who changed the note, why, and what happened next.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Center Operations

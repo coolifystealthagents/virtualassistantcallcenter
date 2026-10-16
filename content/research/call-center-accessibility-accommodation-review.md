@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Accessibility operations
 image: /thumbnails/call-center-accessibility-accommodation-review.svg
 imageAlt: Call-center accessibility accommodation review with clear language, alternate channels, confirmation, and escalation
-related: phone-intake-accessibility-testing, call-intake-identity-verification-controls, virtual-assistant-call-intake-scorecard
+related: /research/phone-intake-accessibility-testing, /research/call-intake-identity-verification-controls, /research/virtual-assistant-call-intake-scorecard
 ---
 
 ## Headline finding

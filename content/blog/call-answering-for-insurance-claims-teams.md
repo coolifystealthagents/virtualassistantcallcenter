@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Insurance Claims Calls
 image: /thumbnails/call-answering-for-insurance-claims-teams.svg
 imageAlt: Insurance claims call answering guide with a documented intake path
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Separate first notice from claim advice
 

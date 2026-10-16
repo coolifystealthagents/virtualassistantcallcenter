@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Restoration Service Calls
 image: /thumbnails/property-management-maintenance-call-triage.svg
 imageAlt: Restoration pack-out request with loss inventory authorization access and project handoff
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Connect the call to the loss
 

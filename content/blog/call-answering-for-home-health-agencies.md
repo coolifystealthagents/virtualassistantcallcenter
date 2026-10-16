@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Healthcare workflows
 image: /thumbnails/call-answering-for-home-health-agencies.svg
 imageAlt: Call answering for home health agencies showing a structured home health agencies phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

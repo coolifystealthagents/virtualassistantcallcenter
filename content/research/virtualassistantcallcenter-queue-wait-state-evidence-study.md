@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-queue-wait-state-evidence-study"
-title: "VirtualAssistantCallCenter Queue Wait-State Evidence Study"
-description: "A source-backed virtual assistant call center operations study of whether waiting reasons and owner acceptance explain queue age."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-queue-wait-state-evidence-study
+title: VirtualAssistantCallCenter Queue Wait-State Evidence Study
+description: A source-backed virtual assistant call center operations study of whether waiting reasons and owner acceptance explain queue age.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations research
 image: /thumbnails/virtualassistantcallcenter-queue-wait-state-evidence-study.svg
-imageAlt: Editorial diagram for Call Disposition Reviewer Agreement: A Reliability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
+imageAlt: Editorial workflow illustration for VirtualAssistantCallCenter Queue Wait-State Evidence Study
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Queue Wait-State Evidence Study

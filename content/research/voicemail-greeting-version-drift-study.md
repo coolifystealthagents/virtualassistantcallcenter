@@ -8,7 +8,7 @@ updated: 2026-10-02
 category: After-hours continuity research
 image: /thumbnails/voicemail-greeting-version-drift-study.svg
 imageAlt: Voicemail greeting version study comparing approved wording schedule states active audio and actual callback workflow
-related: /services/after-hours-answering, /research/holiday-hours-routing-source-freshness-study, /contact
+related: /services/after-hours-answering, /research/holiday-hours-routing-source-freshness-study, /contact-us
 ---
 
 ## The recording may outlive the process it describes

@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Appointment reminders
 image: /thumbnails/appointment-reminder-call-workflow.svg
 imageAlt: An appointment reminder call workflow showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

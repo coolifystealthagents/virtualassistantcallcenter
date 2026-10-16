@@ -2,7 +2,7 @@
 slug: appointment-timezone-readback
 title: Appointment Time-Zone Readback for Virtual Call Teams
 description: Prevent avoidable scheduling confusion by making time-zone confirmation a deliberate part of appointment calls, calendar notes, and handoffs.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Appointment Setting

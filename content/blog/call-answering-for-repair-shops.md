@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Appliance Repair Calls
 image: /thumbnails/call-answering-for-repair-shops.svg
 imageAlt: Call answering for appliance repair shops showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Identify the appliance and problem
 

@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Research
 image: /thumbnails/call-intake-identity-verification-boundaries.svg
 imageAlt: Abstract illustration of a virtual assistant call intake record separated from an owner approval boundary
-related: call-recording-consent-review-method, phone-intake-field-validation-study
+related: /research/call-recording-consent-review-method, /research/phone-intake-field-validation-study
 ---
 
 ## Research question

@@ -1,7 +1,7 @@
 ---
 slug: call-recording-derived-artifact-inventory-study
 title: Call Recording Derived Artifact Inventory Study
-description: A reproducible research protocol for whether transcripts, summaries, exports, screen captures, analytics, and backups follow the declared recording boundary with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for checking whether transcripts, summaries, exports, captures, analytics, and backups follow recording boundaries.
 published: 2026-10-13
 updated: 2026-10-13
 datePublished: 2026-10-13

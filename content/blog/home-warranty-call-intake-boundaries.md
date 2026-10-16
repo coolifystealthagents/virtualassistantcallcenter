@@ -2,14 +2,14 @@
 slug: home-warranty-call-intake-boundaries
 title: Where a virtual assistant should stop in home warranty call intake
 description: Home warranty callers need a clear intake path that captures the repair problem without turning a virtual assistant into a coverage decision-maker.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/home-warranty-call-intake-boundaries.png
 imageAlt: Editorial illustration about home warranty companies call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Where a virtual assistant should stop in home warranty call intake

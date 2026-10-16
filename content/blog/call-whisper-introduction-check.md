@@ -2,7 +2,7 @@
 slug: call-whisper-introduction-check
 title: Check Call-Whisper Introductions Before They Reach Virtual Receptionists
 description: Test call-whisper labels so remote receptionists hear useful routing context without delays, wrong identities, or exposed caller information.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Call Routing

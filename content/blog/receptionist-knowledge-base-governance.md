@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: Knowledge Base Operations
 image: /thumbnails/receptionist-knowledge-base-governance.svg
 imageAlt: Receptionist knowledge base governance table with source owner approval review date and change log
-related: /services/call-quality-assurance,/workflows,/contact
+related: /services/call-quality-assurance, /workflows, /contact-us
 ---
 When callers expect consistent answers drawn from business information, a phone team needs more than a friendly script. It needs a controlled operating rule that tells the receptionist what to capture, what not to decide, who owns the next action, and what the caller may reasonably expect. Without that rule, a well-meaning answer can become an unsupported promise, a duplicate record, or a handoff that nobody accepts.
 
@@ -65,4 +65,4 @@ Before launch, confirm the source of truth, field map, approved phrases, authori
 
 Start with a narrow call type and expand after the first review. Document what callers actually ask, where the receptionist pauses, and which fields the receiving team uses. Remove data that has no operational purpose. Add a field or branch only when evidence shows it supports a real decision.
 
-VirtualAssistantCallCenter provides Philippines-based call support around client-approved scripts, tools, hours, and manager rules. Explore the [relevant call support service](/services/call-quality-assurance), see the [call workflow](/workflows), and use the [contact page](/contact) to map the call types, records, boundaries, and handoff owners your coverage plan needs.
+VirtualAssistantCallCenter provides Philippines-based call support around client-approved scripts, tools, hours, and manager rules. Explore the [relevant call support service](/services/call-quality-assurance), see the [call workflow](/workflows), and use the [contact page](/contact-us) to map the call types, records, boundaries, and handoff owners your coverage plan needs.

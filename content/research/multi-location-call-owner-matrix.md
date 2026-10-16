@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Governance research
 image: /thumbnails/multi-location-call-owner-matrix.svg
 imageAlt: Multi-location call owner matrix mapping site, intent, primary owner, fallback, and escalation
-related: multi-location-call-routing-governance, small-business-call-routing-decision-tree, virtual-receptionist-handoff-acceptance-study
+related: /research/multi-location-call-routing-governance, /research/small-business-call-routing-decision-tree, /research/virtual-receptionist-handoff-acceptance-study
 ---
 
 ## Headline finding

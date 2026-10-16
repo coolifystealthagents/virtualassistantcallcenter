@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for an irrigation-system leak
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Irrigation leak calls: collect zone and property facts without unsafe shutoff advice
@@ -92,4 +92,4 @@ A useful close reads back the property, affected area, observed flow, impact, an
 
 That gives the property contact a clear handoff and gives dispatch enough context to act. The water problem may still be uncertain, but the service record should not be.
 
-Need a phone workflow for irrigation leaks, controller reports, property access, and dispatch acknowledgment? [Contact Virtual Assistant Call Center](/contact) to discuss your field-service intake process.
+Need a phone workflow for irrigation leaks, controller reports, property access, and dispatch acknowledgment? [Contact Virtual Assistant Call Center](/contact-us) to discuss your field-service intake process.

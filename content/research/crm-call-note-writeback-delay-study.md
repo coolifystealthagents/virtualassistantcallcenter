@@ -8,7 +8,7 @@ updated: 2026-09-22
 category: CRM operations research
 image: /thumbnails/crm-call-note-writeback-delay-study.svg
 imageAlt: CRM write-back delay study connecting call completion, note save, queue visibility, owner acceptance, and reconciliation
-related: /services/call-disposition-reporting, /research/virtual-assistant-call-note-completeness-study, /contact
+related: /services/call-disposition-reporting, /research/virtual-assistant-call-note-completeness-study, /contact-us
 ---
 
 ## Research question

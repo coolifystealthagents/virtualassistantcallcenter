@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Queue measurement
 image: /thumbnails/call-center-average-speed-answer-research.svg
 imageAlt: Average speed of answer: a careful research guide showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-service-level-measurement, customer-callback-queue-management, call-center-occupancy-planning
+related: /research/call-center-service-level-measurement, /blog/customer-callback-queue-management, /research/call-center-occupancy-planning
 ---
 
 ## Headline finding

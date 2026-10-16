@@ -57,7 +57,14 @@ export default function StandardContactForm({ endpoint = "/api/submit-lead", enc
         : { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload) };
       const response = await fetch(endpoint, request);
       if (!response.ok) throw new Error("Lead endpoint rejected the request");
-      try { (window as TrackerWindow).acrTracker?.trackLead?.(payload); } catch {}
+      try {
+        window.sessionStorage.setItem("acrPendingLead", JSON.stringify(payload));
+        const tracker = (window as TrackerWindow).acrTracker;
+        if (tracker?.trackLead) {
+          tracker.trackLead(payload);
+          window.sessionStorage.removeItem("acrPendingLead");
+        }
+      } catch {}
       window.location.assign("/thank-you");
     } catch {
       setError("We could not submit your request. Please try again.");

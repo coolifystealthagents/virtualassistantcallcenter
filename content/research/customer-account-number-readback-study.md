@@ -8,7 +8,7 @@ updated: 2026-09-23
 category: Customer support research
 image: /thumbnails/customer-account-number-readback-study.svg
 imageAlt: Account reference study showing masked capture, lookup result, mismatch state, approved handoff, and audit trail
-related: /services/customer-support, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question

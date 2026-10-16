@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Callback operations
 image: /thumbnails/customer-callback-service-level-study.svg
 imageAlt: Customer callback service levels: a practical study design with a documented workflow, owner handoff, and evidence-first controls
-related: missed-call-recovery-workflow, customer-call-backlog-triage, call-screening-workflow-for-small-business
+related: /blog/missed-call-recovery-workflow, /research/customer-call-backlog-triage, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

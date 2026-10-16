@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Digital Marketing Agency Calls
 image: /thumbnails/call-answering-for-digital-marketing-agencies.svg
 imageAlt: Digital marketing agency call answering guide for discovery and support routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Qualify the conversation without selling a result
 

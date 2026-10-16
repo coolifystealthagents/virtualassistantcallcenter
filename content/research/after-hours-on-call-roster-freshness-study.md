@@ -8,7 +8,7 @@ updated: 2026-09-18
 category: After-hours research
 image: /thumbnails/after-hours-on-call-roster-freshness-study.svg
 imageAlt: Diagram showing evidence, review, exception, and owner steps for on-call roster freshness
-related: /services/after-hours-answering, /research/after-hours-call-continuity-cohort, /contact
+related: /services/after-hours-answering, /research/after-hours-call-continuity-cohort, /contact-us
 ---
 
 ## Research question

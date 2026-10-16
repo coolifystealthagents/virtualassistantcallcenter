@@ -2,15 +2,15 @@
 slug: commercial-equipment-warranty-call-intake
 title: Commercial equipment warranty call intake before technician review
 description: A practical workflow for equipment warranty calls covering asset identity, symptoms, safety, warranty status, dispatch, and owner review.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Customer support calls
 image: /thumbnails/commercial-equipment-warranty-call-intake.svg
 imageAlt: Commercial equipment warranty call workflow showing asset identification safety screen symptom capture and technician review
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/inbound-customer-calls, /services/after-hours-answering, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/inbound-customer-calls, /services/after-hours-answering, /contact-us
 ---
 
 ## Build the service record before discussing coverage
@@ -92,7 +92,7 @@ When the same model produces recurring calls, update approved questions and know
 
 Test a recognized asset, serial mismatch, active-contract display, expired status, safety concern, intermittent symptom, after-hours request, and dispatch-system outage. Require acknowledgment from service, warranty, and emergency owners.
 
-Review early tickets daily and expand only after records lead to accurate technician action. To build a bounded intake lane for a Philippines-based receptionist, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact) to plan the queue.
+Review early tickets daily and expand only after records lead to accurate technician action. To build a bounded intake lane for a Philippines-based receptionist, review the [inbound customer calls service](/services/inbound-customer-calls) and use the [contact page](/contact-us) to plan the queue.
 
 ## Frequently asked questions
 

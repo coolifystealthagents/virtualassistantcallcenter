@@ -2,15 +2,15 @@
 slug: mobility-equipment-repair-call-intake
 title: Mobility equipment repair calls that protect safety and clinical boundaries
 description: A practical mobility equipment repair call workflow with safety checks, clinical boundaries, structured notes, and technician handoff.
-datePublished: "2026-09-24"
+datePublished: 2026-09-24
 published: 2026-09-24
 updated: 2026-09-24
 category: Healthcare service intake
 image: /thumbnails/mobility-equipment-repair-call-intake.svg
 imageAlt: Mobility equipment repair calls that protect safety and clinical boundaries workflow showing verified intake structured notes and specialist escalation
-publishedAt: "2026-09-24T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/inbound-customer-calls, /services/appointment-setting, /contact
+publishedAt: 2026-09-24T12:00:00.000Z
+author: Editorial Team
+related: /services/inbound-customer-calls, /services/appointment-setting, /contact-us
 ---
 
 ## Start with a narrow administrative promise
@@ -83,7 +83,7 @@ Start with one location, one request family, and a named primary and backup owne
 
 Give the assistant least-privilege access. Separate read access from permissions to edit identity, payment, clinical, security, or account-control fields. Review access when duties change and remove it promptly when the assignment ends.
 
-Once the pilot is stable, expand by measured call type rather than by giving the receptionist every queue at once. Businesses planning this handoff can review [inbound customer call support](/services/inbound-customer-calls), consider the [appointment-setting workflow](/services/appointment-setting), and use the [contact page](/contact) to map a bounded first queue.
+Once the pilot is stable, expand by measured call type rather than by giving the receptionist every queue at once. Businesses planning this handoff can review [inbound customer call support](/services/inbound-customer-calls), consider the [appointment-setting workflow](/services/appointment-setting), and use the [contact page](/contact-us) to map a bounded first queue.
 
 ## Frequently asked questions
 

@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Restoration Company Calls
 image: /thumbnails/after-hours-call-answering-for-restoration-companies.svg
 imageAlt: After-hours call answering for restoration companies
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A script for restoration company should create calm, not create false certainty. It can organize facts, explain the next step, and expose an exception without pretending to own the decision.
 

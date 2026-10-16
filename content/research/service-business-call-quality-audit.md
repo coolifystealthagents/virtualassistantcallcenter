@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Quality operations
 image: /thumbnails/service-business-call-quality-audit.svg
 imageAlt: Service-business call quality audit with evidence-first sampling and escalation checks
-related: virtual-receptionist-handoff-metrics, customer-call-backlog-triage, remote-call-center-privacy-controls
+related: /research/virtual-receptionist-handoff-metrics, /research/customer-call-backlog-triage, /research/remote-call-center-privacy-controls
 ---
 
 ## Headline finding

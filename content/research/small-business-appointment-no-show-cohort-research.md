@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Appointment research
 image: /thumbnails/small-business-appointment-no-show-cohort-research.svg
 imageAlt: Appointment no-show cohort research showing dates, attendance states, and a bounded analysis
-related: appointment-cancellation-call-workflow, appointment-lead-qualification-evidence-study
+related: /research/appointment-cancellation-call-workflow, /research/appointment-lead-qualification-evidence-study
 ---
 
 ## The research problem

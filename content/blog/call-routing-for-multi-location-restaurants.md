@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Restaurant Group Routing
 image: /thumbnails/call-routing-for-multi-location-restaurants.svg
 imageAlt: Call routing for multi-location restaurants showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Ask for the location first
 

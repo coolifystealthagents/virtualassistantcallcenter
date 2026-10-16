@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Message triage
 image: /thumbnails/small-business-voicemail-triage-workflow.svg
 imageAlt: Small business voicemail triage workflow showing a documented phone workflow with evidence, owner review, and safe escalation
-related: inbound-customer-call-intake-checklist, missed-call-recovery-workflow, after-hours-urgent-call-triage
+related: /blog/inbound-customer-call-intake-checklist, /blog/missed-call-recovery-workflow, /research/after-hours-urgent-call-triage
 ---
 
 ## Headline finding

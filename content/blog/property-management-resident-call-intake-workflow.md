@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Property Management
 image: /thumbnails/property-management-resident-call-intake-workflow.svg
 imageAlt: Property management resident call intake workflow showing resident details, issue classification, routing, and follow-up ownership
-related: /services/inbound-customer-calls,/services/call-routing,/qa-scorecard
+related: /services/inbound-customer-calls, /qa-scorecard
 ---
 ## Define the resident outcome
 

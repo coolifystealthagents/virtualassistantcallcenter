@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Data quality
 image: /thumbnails/customer-call-disposition-taxonomy.svg
 imageAlt: Customer call disposition taxonomy showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-qa-review-routine, virtual-assistant-call-notes-template, call-center-kpi-definition-guide
+related: /blog/call-center-qa-review-routine, /blog/virtual-assistant-call-notes-template, /research/call-center-kpi-definition-guide
 ---
 
 ## Headline finding

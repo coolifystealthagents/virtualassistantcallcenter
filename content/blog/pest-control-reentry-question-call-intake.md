@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Pest Control Calls
 image: /thumbnails/call-answering-for-pest-control-companies.svg
 imageAlt: Pest control reentry question record with service and treatment details
-related: /services/inbound-customer-calls,/services/after-hours-answering
+related: /services/inbound-customer-calls, /services/after-hours-answering
 ---
 ## Locate the completed service
 

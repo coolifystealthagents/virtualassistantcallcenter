@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Accounting Firm Calls
 image: /thumbnails/call-answering-for-accounting-firms.svg
 imageAlt: Call answering for accounting firms outside tax season showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Sort service requests quickly
 

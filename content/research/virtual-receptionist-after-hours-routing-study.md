@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: After-hours routing
 image: /thumbnails/virtual-receptionist-after-hours-routing-study.svg
 imageAlt: Virtual receptionist after-hours routing study with emergency boundaries, fallback owners, and next actions
-related: small-business-call-routing-failover, business-hours-coverage-plan, virtual-receptionist-handoff-acceptance-study
+related: /research/small-business-call-routing-failover, /blog/business-hours-coverage-plan, /research/virtual-receptionist-handoff-acceptance-study
 ---
 
 ## Headline finding

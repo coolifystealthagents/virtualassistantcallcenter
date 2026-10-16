@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Call routing
 image: /thumbnails/multi-location-call-routing-governance.svg
 imageAlt: Multi-location call routing governance for distributed teams with a documented workflow, owner handoff, and evidence-first controls
-related: call-routing-for-multi-location-businesses, virtual-receptionist-handoff-metrics, call-screening-workflow-for-small-business
+related: /blog/call-routing-for-multi-location-businesses, /research/virtual-receptionist-handoff-metrics, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

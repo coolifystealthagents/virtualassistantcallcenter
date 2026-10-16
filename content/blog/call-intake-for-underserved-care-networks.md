@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Call operations
 image: /thumbnails/call-intake-for-underserved-care-networks.svg
 imageAlt: An editorial illustration about safe intake and role boundaries for underserved care networks
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller decision
 

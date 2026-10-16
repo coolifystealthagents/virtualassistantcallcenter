@@ -56,7 +56,7 @@ export default function Services() {
               <h1>Choose the call lane. Set the rules. Keep the record.</h1>
               <p className="services-console-lead">Filipino call support specialists can answer, book, follow up, and update your systems. You choose what they can handle and when a manager must step in.</p>
               <div className="services-console-actions">
-                <a className="services-console-button" href="/contact">Map my first call lane</a>
+                <a className="services-console-button" href="/contact-us">Map my first call lane</a>
                 <a className="services-console-link" href="/workflows">See the call flow <span>→</span></a>
               </div>
               <div className="services-console-rule">

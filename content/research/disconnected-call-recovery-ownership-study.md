@@ -8,7 +8,7 @@ updated: 2026-09-22
 category: Call recovery research
 image: /thumbnails/disconnected-call-recovery-ownership-study.svg
 imageAlt: Disconnected call recovery study showing detection, partial record, callback permission, queue owner, and closure evidence
-related: /services/inbound-customer-calls, /research/call-intake-interruption-recovery-study, /contact
+related: /services/inbound-customer-calls, /research/call-intake-interruption-recovery-study, /contact-us
 ---
 
 ## Research question

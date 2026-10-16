@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Funeral Home Calls
 image: /thumbnails/call-answering-for-funeral-homes.svg
 imageAlt: Respectful funeral home first-call message with director handoff fields
-related: /services/inbound-customer-calls,/services/after-hours-answering
+related: /services/inbound-customer-calls, /services/after-hours-answering
 ---
 ## Begin with the person calling
 

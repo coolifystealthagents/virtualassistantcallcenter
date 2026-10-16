@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Call operations
 image: /thumbnails/after-hours-call-answering-benchmark.svg
 imageAlt: After-hours call answering benchmark with a structured escalation workflow for service teams
-related: call-screening-workflow-for-small-business, appointment-scheduling-call-center-metrics, missed-call-recovery-workflow
+related: /research/call-screening-workflow-for-small-business, /research/appointment-scheduling-call-center-metrics, /blog/missed-call-recovery-workflow
 ---
 
 ## Headline finding

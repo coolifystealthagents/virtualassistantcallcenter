@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Accessible Intake Research
 image: /thumbnails/call-center-accessibility-accommodation-review.svg
 imageAlt: Language preference study comparing caller choice recorded preference and interpreter handoff
-related: bilingual-call-escalation-comprehension-study,call-center-accessibility-checklist
+related: /research/bilingual-call-escalation-comprehension-study, /research/call-center-accessibility-checklist
 ---
 ## Finding and scope
 

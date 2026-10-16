@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Call Operations Research
 image: /thumbnails/call-center-disposition-completeness-audit.svg
 imageAlt: Research chart comparing other disposition use across review periods
-related: customer-call-disposition-taxonomy,virtual-assistant-call-classification-confidence-study
+related: /research/customer-call-disposition-taxonomy, /research/virtual-assistant-call-classification-confidence-study
 ---
 ## Finding and scope
 

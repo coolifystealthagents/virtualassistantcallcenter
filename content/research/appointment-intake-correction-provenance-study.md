@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Appointment Data Research
 image: /thumbnails/appointment-intake-error-provenance.svg
 imageAlt: Appointment intake fields linked to original and corrected source records
-related: caller-correction-propagation-study,phone-intake-field-validation-study
+related: /research/caller-correction-propagation-study, /research/phone-intake-field-validation-study
 ---
 ## Finding and scope
 

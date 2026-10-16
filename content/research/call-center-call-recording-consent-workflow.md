@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Call recording
 image: /thumbnails/call-center-call-recording-consent-workflow.svg
 imageAlt: Call recording consent workflow for service teams showing a documented phone workflow with evidence, owner review, and safe escalation
-related: virtual-receptionist-data-retention-policy, privacy-by-design-call-notes, remote-call-center-privacy-controls
+related: /research/virtual-receptionist-data-retention-policy, /research/privacy-by-design-call-notes, /research/remote-call-center-privacy-controls
 ---
 
 ## Headline finding

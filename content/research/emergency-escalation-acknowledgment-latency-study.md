@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Escalation Research
 image: /thumbnails/virtual-assistant-emergency-call-triage-evidence.svg
 imageAlt: Timeline study of urgent call receipt alert delivery and human acknowledgment
-related: after-hours-urgent-call-triage, after-hours-acknowledgment-delay-study
+related: /research/after-hours-urgent-call-triage, /research/after-hours-acknowledgment-delay-study
 ---
 ## Finding and scope
 

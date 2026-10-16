@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: After-hours research
 image: /thumbnails/after-hours-call-answering-benchmark.svg
 imageAlt: After-hours message priority study with caller evidence, ownership, and bounded interpretation
-related: after-hours-call-answering-benchmark
+related: /research/after-hours-call-answering-benchmark
 ---
 
 ## Headline finding

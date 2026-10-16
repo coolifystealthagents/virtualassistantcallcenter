@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Veterinary Clinic Intake
 image: /thumbnails/call-intake-for-veterinary-clinics.svg
 imageAlt: Call intake for veterinary clinics showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Ask about the visit type
 

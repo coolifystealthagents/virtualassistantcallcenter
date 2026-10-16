@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Healthcare call support
 image: /thumbnails/appointment-setting-for-chiropractic-offices.svg
 imageAlt: Chiropractic office call answering guide with appointment and clinical routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Separate scheduling from care questions
 

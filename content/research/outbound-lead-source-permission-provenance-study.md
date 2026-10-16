@@ -8,7 +8,7 @@ updated: 2026-09-18
 category: Outbound lead research
 image: /thumbnails/outbound-lead-source-permission-provenance-study.svg
 imageAlt: Diagram showing evidence, review, exception, and owner steps for lead-source permission provenance
-related: /services/outbound-lead-qualification, /research/lead-follow-up-consent-recordkeeping, /contact
+related: /services/outbound-lead-qualification, /research/lead-follow-up-consent-recordkeeping, /contact-us
 ---
 
 ## Research question

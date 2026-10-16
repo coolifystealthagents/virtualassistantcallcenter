@@ -2,14 +2,14 @@
 slug: physical-therapy-appointment-setting
 title: How virtual assistants can set appointments for physical therapy clinics
 description: Physical therapy appointment setting works best when a virtual assistant handles routine scheduling while clinicians retain control of suitability, care questions, and exceptions.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/physical-therapy-appointment-setting.png
 imageAlt: Editorial illustration about physical therapy clinics call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # How virtual assistants can set appointments for physical therapy clinics

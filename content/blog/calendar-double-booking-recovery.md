@@ -2,7 +2,7 @@
 slug: calendar-double-booking-recovery
 title: Recover a Double-Booked Appointment Without Making New Promises
 description: Give virtual scheduling teams a controlled way to freeze conflicts, contact the right owner, and offer approved alternatives.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Appointment Setting

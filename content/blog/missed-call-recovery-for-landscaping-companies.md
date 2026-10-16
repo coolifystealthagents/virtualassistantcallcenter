@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Call operations
 image: /thumbnails/missed-call-recovery-for-landscaping-companies.svg
 imageAlt: An editorial illustration about seasonal callback recovery for landscaping companies
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller decision
 

@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Callback research
 image: /thumbnails/callback-number-correction-propagation-study.svg
 imageAlt: Callback number correction study connecting caller correction, authoritative record, active queues, old-number suppression, and closure
-related: /services/outbound-customer-calls, /research/consent-withdrawal-propagation-study, /contact
+related: /services/outbound-lead-qualification, /research/consent-withdrawal-propagation-study, /contact-us
 ---
 
 ## Research question
@@ -103,4 +103,4 @@ The defensible answer is a bounded account of what the declared records support,
 
 - [Outbound customer calls](/services/outbound-customer-calls)
 - [Consent propagation research](/research/consent-withdrawal-propagation-study)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

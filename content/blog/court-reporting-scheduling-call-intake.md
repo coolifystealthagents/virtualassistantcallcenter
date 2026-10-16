@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Legal Support Calls
 image: /thumbnails/appointment-cancellation-call-workflow.svg
 imageAlt: Court reporting scheduling call checklist for date location format and confirmation
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Capture the event, not the case story
 

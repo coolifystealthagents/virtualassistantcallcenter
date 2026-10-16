@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Appointment research
 image: /thumbnails/appointment-call-confirmation-evidence.svg
 imageAlt: Appointment call confirmation evidence research showing request, time-zone confirmation, owner acceptance, and exception
-related: appointment-reminder-call-outcome-measurement, appointment-cancellation-call-workflow, appointment-booking-no-show-research
+related: /research/appointment-reminder-call-outcome-measurement, /research/appointment-cancellation-call-workflow, /research/appointment-booking-no-show-research
 ---
 
 ## Headline finding

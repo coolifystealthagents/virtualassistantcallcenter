@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Elevator Service Calls
 image: /thumbnails/call-escalation-matrix-for-small-business.svg
 imageAlt: Elevator service callback flow separating entrapment outage and routine maintenance
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Ask the safety question first
 

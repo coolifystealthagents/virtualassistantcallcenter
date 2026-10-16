@@ -7,7 +7,7 @@ updated: 2026-08-13
 category: Privacy research
 image: /thumbnails/privacy-by-design-call-notes.svg
 imageAlt: Call record redaction effectiveness research with caller evidence, ownership, and bounded interpretation
-related: privacy-by-design-call-notes
+related: /research/privacy-by-design-call-notes
 ---
 
 ## Headline finding

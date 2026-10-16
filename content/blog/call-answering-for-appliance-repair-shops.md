@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call support guides
 image: /thumbnails/after-hours-call-answering-for-appliance-repair.svg
 imageAlt: Appliance repair call answering guide with symptom and service location notes
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the appliance and problem
 

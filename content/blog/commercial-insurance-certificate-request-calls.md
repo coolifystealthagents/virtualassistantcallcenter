@@ -7,7 +7,7 @@ updated: 2026-09-25
 category: insurance-call-workflows
 image: /thumbnails/commercial-insurance-certificate-request-calls.svg
 imageAlt: Editorial workflow illustration for certificate of insurance request calls: capture facts, not coverage opinions
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Certificate of insurance request calls: capture facts, not coverage opinions
@@ -129,4 +129,4 @@ Keep the active view to the greeting, decision branches, required fields, bounda
 
 ## Put this workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, coverage hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and quality workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, coverage hours, systems, and escalation owners you want to map.

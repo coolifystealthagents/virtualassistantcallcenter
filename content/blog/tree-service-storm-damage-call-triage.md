@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Tree Service Calls
 image: /thumbnails/weather-disruption-call-plan.svg
 imageAlt: Storm tree service queue sorted by location reported hazard access and response ownership
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Start with location and immediate conditions
 

@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Recruiting Agency Calls
 image: /thumbnails/call-screening-for-recruiting-agencies.svg
 imageAlt: Call screening for recruiting agencies
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 The central design question for recruiting agency is simple: what must be known before the call can move, and what must remain with a specialist?
 

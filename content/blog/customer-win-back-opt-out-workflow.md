@@ -2,14 +2,14 @@
 slug: customer-win-back-opt-out-workflow
 title: Customer win-back calls with a clear opt-out workflow
 description: A practical guide to customer win-back outreach, including intake fields, decision boundaries, handoffs, review checks, and a safe implementation plan.
-datePublished: "2026-09-22"
+datePublished: 2026-09-22
 published: 2026-09-22
 updated: 2026-09-22
 category: Outbound calls
 image: /thumbnails/customer-win-back-opt-out-workflow.svg
 imageAlt: Workflow diagram for customer win-back outreach showing caller intake, verification, owner review, and documented follow-up
-publishedAt: "2026-09-22T12:00:00.000Z"
-author: "Editorial Team"
+publishedAt: 2026-09-22T12:00:00.000Z
+author: Editorial Team
 related: /services/customer-win-back-calls, /workflows, /qa-scorecard
 ---
 
@@ -86,7 +86,7 @@ During the first week, review records daily and correct the workflow itself when
 
 Before delegating customer win-back outreach, answer these questions in writing: Which source controls the decision? What may the receptionist confirm without approval? Which facts are required? Which details should never enter a general note? Who owns routine follow-up, and who is the backup? What response window may be stated? What exact condition triggers an urgent escalation? How is a stop request, correction, or failed verification recorded? Who reviews the workflow when policy changes?
 
-The answers turn a broad instruction into an operating agreement. They also make it easier to compare a managed virtual receptionist service with an unstructured handoff. If your team wants help defining the queue, review the related [outbound calls service](/services/customer-win-back-calls) and use the [contact page](/contact) to discuss a bounded pilot.
+The answers turn a broad instruction into an operating agreement. They also make it easier to compare a managed virtual receptionist service with an unstructured handoff. If your team wants help defining the queue, review the related [outbound calls service](/services/customer-win-back-calls) and use the [contact page](/contact-us) to discuss a bounded pilot.
 
 ## Frequently asked questions
 

@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Coverage planning
 image: /thumbnails/business-hours-coverage-plan.svg
 imageAlt: A business-hours phone coverage plan showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

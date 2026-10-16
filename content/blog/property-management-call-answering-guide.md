@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Property management
 image: /thumbnails/property-management-call-answering-guide.svg
 imageAlt: Property management call answering guide showing a structured property managers phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

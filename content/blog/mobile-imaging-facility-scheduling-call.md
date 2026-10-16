@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Mobile Imaging Calls
 image: /thumbnails/call-answering-for-digital-health-startups.svg
 imageAlt: Mobile imaging facility request with order volume access equipment and scheduling review
-related: /services/patient-scheduling,/services/appointment-setting
+related: /services/patient-scheduling, /services/appointment-setting
 ---
 ## Identify the facility request
 

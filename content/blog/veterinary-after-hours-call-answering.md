@@ -2,14 +2,14 @@
 slug: veterinary-after-hours-call-answering
 title: After-hours call answering for veterinary clinics
 description: After-hours veterinary calls need calm information capture and fast escalation rules, not improvised diagnosis or promises about treatment.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/veterinary-after-hours-call-answering.png
 imageAlt: Editorial illustration about veterinary clinics call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # After-hours call answering for veterinary clinics

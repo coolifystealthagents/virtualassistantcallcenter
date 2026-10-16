@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: event-and-field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for portable restroom service calls: capture placement, access, and sanitation priorities
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Portable restroom service calls: capture placement, access, and sanitation priorities
@@ -80,4 +80,4 @@ The policy owner should periodically compare the intake procedure with the compa
 
 - [OSHA sanitation standard](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.51)
 
-Need a routing map and QA scorecard for delivery, servicing, and urgent sanitation calls? [Contact Virtual Assistant Call Center](/contact) to discuss a portable restroom intake workflow.
+Need a routing map and QA scorecard for delivery, servicing, and urgent sanitation calls? [Contact Virtual Assistant Call Center](/contact-us) to discuss a portable restroom intake workflow.

@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Catering Company Calls
 image: /thumbnails/call-answering-for-catering-companies.svg
 imageAlt: Catering company call answering guide for event inquiry and order routing
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Capture the event before the menu
 

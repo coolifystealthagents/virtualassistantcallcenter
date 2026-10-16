@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Landscaping Call Handling
 image: /thumbnails/call-answering-for-landscapers.svg
 imageAlt: Call answering for landscaping companies showing a clear phone intake and routing path for callers
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Classify the work
 

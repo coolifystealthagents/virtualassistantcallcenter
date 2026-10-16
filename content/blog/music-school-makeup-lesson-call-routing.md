@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Music School Calls
 image: /thumbnails/call-answering-for-music-schools.svg
 imageAlt: Music school makeup lesson call with student teacher and schedule fields
-related: /services/appointment-scheduling,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Match the request to the lesson
 

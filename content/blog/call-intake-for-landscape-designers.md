@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Home services call support
 image: /thumbnails/after-hours-call-answering-for-landscapers.svg
 imageAlt: Landscape design call intake guide with property and project goals
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Clarify the design goal
 

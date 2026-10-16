@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-capacity-overflow-trigger"
-title: "VirtualAssistantCallCenter Capacity Overflow Trigger"
-description: "A practical virtual assistant call center operations guide to identify demand that exceeds the safe service window."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-capacity-overflow-trigger
+title: VirtualAssistantCallCenter Capacity Overflow Trigger
+description: A practical virtual assistant call center operations guide to identify demand that exceeds the safe service window.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations
 image: /thumbnails/after-hours-callback-owner-check.svg
 imageAlt: Editorial diagram for Assign an Owner Before Promising an After-Hours Callback, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Capacity Overflow Trigger

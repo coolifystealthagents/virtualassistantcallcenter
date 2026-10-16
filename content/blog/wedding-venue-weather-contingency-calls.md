@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Event Venue Calls
 image: /thumbnails/call-answering-for-wedding-venues.svg
 imageAlt: Wedding venue weather contingency call with event and caller details
-related: /services/inbound-customer-calls,/services/after-hours-answering
+related: /services/inbound-customer-calls, /services/after-hours-answering
 ---
 ## Locate the event record
 

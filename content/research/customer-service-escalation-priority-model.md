@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Escalation design
 image: /thumbnails/customer-service-escalation-priority-model.svg
 imageAlt: Customer service escalation priority model showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-escalation-severity-matrix, after-hours-urgent-call-triage, virtual-receptionist-handoff-checklist
+related: /research/call-escalation-severity-matrix, /research/after-hours-urgent-call-triage, /blog/virtual-receptionist-handoff-checklist
 ---
 
 ## Headline finding

@@ -17,6 +17,13 @@ function inline(text: string) {
   });
 }
 
+function tableRows(block: string) {
+  const lines = block.split('\n').map((line) => line.trim()).filter(Boolean);
+  if (lines.length < 2 || !/^\|?\s*:?-{3,}/.test(lines[1])) return null;
+  const cells = (line: string) => line.replace(/^\||\|$/g, '').split('|').map((cell) => cell.trim());
+  return { headings: cells(lines[0]), rows: lines.slice(2).map(cells) };
+}
+
 export function ContentArticle({ entry }: { entry: ContentEntry }) {
   const blocks = markdownBlocks(entry.body);
   const headings = blocks.filter((block) => block.startsWith('## ')).map((block) => block.slice(3));
@@ -57,12 +64,15 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
     <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
     {headings.length > 1 ? <nav className="article-toc" aria-label="Table of contents"><strong>On this page</strong><ol>{headings.map((heading) => <li key={heading}><a href={`#${heading.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}>{heading}</a></li>)}</ol></nav> : null}
     {blocks.map((block, index) => {
+      if (block.startsWith('# ')) return null;
       if (block.startsWith('## ')) {
         const heading = block.slice(3);
         return <h2 id={heading.toLowerCase().replace(/[^a-z0-9]+/g, '-')} key={index}>{heading}</h2>;
       }
       if (block.startsWith('### ')) return <h3 key={index}>{block.slice(4)}</h3>;
       if (block.split('\n').every((line) => line.startsWith('- '))) return <ul key={index}>{block.split('\n').map((line) => <li key={line}>{inline(line.slice(2))}</li>)}</ul>;
+      const table = tableRows(block);
+      if (table) return <div className="article-table-wrap" key={index}><table className="article-table"><thead><tr>{table.headings.map((cell) => <th scope="col" key={cell}>{inline(cell)}</th>)}</tr></thead><tbody>{table.rows.map((row, rowIndex) => <tr key={rowIndex}>{row.map((cell, cellIndex) => <td key={cellIndex}>{inline(cell)}</td>)}</tr>)}</tbody></table></div>;
       return <p key={index}>{inline(block.replace(/\n/g, ' '))}</p>;
     })}
     {entry.related.length ? <aside className="article-related" aria-labelledby="related-content"><h2 id="related-content">Related content</h2><ul>{entry.related.map((href) => {

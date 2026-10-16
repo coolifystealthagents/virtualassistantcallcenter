@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Equipment Rental Calls
 image: /thumbnails/service-business-phone-intake-workflow.svg
 imageAlt: Crane rental request showing project load site schedule and qualified planner review
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Establish the project record
 

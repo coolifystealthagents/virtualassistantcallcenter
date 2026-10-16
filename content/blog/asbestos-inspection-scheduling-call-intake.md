@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: regulated-inspection-intake
 image: /thumbnails/home-inspection-call-answering.svg
 imageAlt: Inspection coordinator reviewing building and access details from a caller
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Asbestos inspection calls: schedule the survey without identifying material by phone
@@ -64,4 +64,4 @@ When transfers fail, the record needs a recovery route and response deadline. Se
 
 The intake is complete when the inspection owner can see the caller's decision, the property and affected area, whether disturbance is reported, available records, access authority, and the questions still open. That is useful administrative work without pretending to perform an inspection over the phone.
 
-Need a call-intake process for regulated inspection requests and careful escalation? [Contact Virtual Assistant Call Center](/contact) to discuss your workflow.
+Need a call-intake process for regulated inspection requests and careful escalation? [Contact Virtual Assistant Call Center](/contact-us) to discuss your workflow.

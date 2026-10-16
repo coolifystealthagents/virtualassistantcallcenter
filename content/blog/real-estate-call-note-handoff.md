@@ -2,14 +2,14 @@
 slug: real-estate-call-note-handoff
 title: The call-note handoff real estate teams actually need
 description: Real estate teams need call notes that preserve intent, property context, consent, and next action so a virtual assistant can support follow-up safely and clearly.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/real-estate-call-note-handoff.png
 imageAlt: Editorial illustration about real estate teams call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # The call-note handoff real estate teams actually need

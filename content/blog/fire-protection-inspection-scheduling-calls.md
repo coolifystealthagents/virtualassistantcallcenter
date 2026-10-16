@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: Fire Protection Scheduling
 image: /thumbnails/fire-protection-inspection-scheduling-calls.svg
 imageAlt: Call intake workspace for fire protection scheduling with caller facts escalation path and follow-up owner
-related: /services/appointment-setting,/services/customer-service
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 When someone calls a fire protection inspection company, the first conversation has two jobs: preserve the facts and move the request to the right owner. A call handler should not attempt the work of a technician, clinician, estimator, or emergency dispatcher. The handler should create a usable record, state what will happen next, and avoid a promise the operating team cannot keep.
 
@@ -96,4 +96,4 @@ Review source links and internal policies on a set cadence because guidance and 
 
 Start with ten recent calls in this category. Compare what callers actually reported with what the current form captured. Draft the smallest field set that supports routing and preparation, add the approved escalation branch, and test it with realistic variations. Confirm that every path ends with an owner and a caller-facing next step.
 
-VirtualAssistantCallCenter can help document and operate a structured phone workflow for routine intake, appointment requests, overflow, and after-hours messages. Review the [inbound customer call service](/services/inbound-customer-calls) and [appointment-setting service](/services/appointment-setting), then use the [contact page](/contact) to discuss the boundaries, fields, hours, and handoff destinations your business needs.
+VirtualAssistantCallCenter can help document and operate a structured phone workflow for routine intake, appointment requests, overflow, and after-hours messages. Review the [inbound customer call service](/services/inbound-customer-calls) and [appointment-setting service](/services/appointment-setting), then use the [contact page](/contact-us) to discuss the boundaries, fields, hours, and handoff destinations your business needs.

@@ -4,6 +4,7 @@ import { site, qaScorecard, faqs } from '../data';
 export const metadata = {
   title: 'VA call center QA scorecard template',
   description: 'A simple QA scorecard for virtual assistant call answering, intake, appointment setting, CRM notes, tone, and escalation rules.',
+  alternates: { canonical: '/qa-scorecard' },
 };
 
 export default function QAScorecard() {

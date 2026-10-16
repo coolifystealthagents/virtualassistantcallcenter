@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Aviation Service Calls
 image: /thumbnails/call-answering-for-logistics-dispatchers.svg
 imageAlt: FBO ground service request showing aircraft arrival service needs authorization and status
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Confirm the flight reference
 

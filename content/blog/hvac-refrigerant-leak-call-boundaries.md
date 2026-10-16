@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for hvac refrigerant leak calls: useful intake without remote diagnosis
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # HVAC refrigerant leak calls: useful intake without remote diagnosis
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [EPA Section 608 resources](https://www.epa.gov/section608)
 
-Need help designing the routing map, intake fields, and QA review for your call hvac queue? [Contact Virtual Assistant Call Center](/contact) to discuss the hvac workflow.
+Need help designing the routing map, intake fields, and QA review for your call hvac queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the hvac workflow.

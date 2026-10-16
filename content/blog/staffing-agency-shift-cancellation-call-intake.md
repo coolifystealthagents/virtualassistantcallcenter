@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: workforce-call-workflows
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for staffing shift cancellations: record timing, acknowledgment, and replacement ownership
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Staffing shift cancellations: staffing intake record timing, acknowledgment, and replacement ownership
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [U.S. Department of Labor employment-relationship fact sheet](https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship)
 
-Need help designing the routing map, intake fields, and QA review for your call staffing queue? [Contact Virtual Assistant Call Center](/contact) to discuss the staffing workflow.
+Need help designing the routing map, intake fields, and QA review for your call staffing queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the staffing workflow.

@@ -8,7 +8,7 @@ updated: 2026-09-22
 category: Appointment research
 image: /thumbnails/appointment-service-duration-match-study.svg
 imageAlt: Appointment scheduling study connecting caller need, approved service, duration rule, calendar slot, and owner review
-related: /services/appointment-setting, /research/appointment-slot-availability-integrity, /contact
+related: /services/appointment-setting, /research/appointment-slot-availability-integrity, /contact-us
 ---
 
 ## Research question

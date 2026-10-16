@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Logistics Dispatch Calls
 image: /thumbnails/call-answering-for-logistics-dispatchers.svg
 imageAlt: Logistics dispatcher call answering guide for delivery exception routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Ask for the shipment identity first
 

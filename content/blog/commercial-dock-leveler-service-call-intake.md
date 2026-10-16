@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: industrial-field-service-intake
 image: /thumbnails/commercial-equipment-warranty-call-intake.svg
 imageAlt: Industrial service dispatcher recording a dock leveler failure and bay status
-related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact
+related: /services/after-hours-answering, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Dock leveler service calls: capture position, load, and traffic before dispatch
@@ -72,4 +72,4 @@ Repeated calls should retain earlier findings and dispositions. If the same bay 
 
 Reception has done its job when the qualified service owner can visualize the bay, equipment position, nearby vehicle and load, observed condition, current traffic impact, and access route. That record supports faster decisions without inviting untrained operation.
 
-Need an after-hours intake process for industrial equipment service and dispatch? [Contact Virtual Assistant Call Center](/contact) to discuss your workflow.
+Need an after-hours intake process for industrial equipment service and dispatch? [Contact Virtual Assistant Call Center](/contact-us) to discuss your workflow.

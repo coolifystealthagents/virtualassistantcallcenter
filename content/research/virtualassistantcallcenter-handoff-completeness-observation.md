@@ -1,14 +1,14 @@
 ---
-slug: "virtualassistantcallcenter-handoff-completeness-observation"
-title: "VirtualAssistantCallCenter Handoff Completeness Observation"
-description: "A source-backed virtual assistant call center operations study of whether receiving teams can continue work without private clarification."
-published: "2026-10-09"
+slug: virtualassistantcallcenter-handoff-completeness-observation
+title: VirtualAssistantCallCenter Handoff Completeness Observation
+description: A source-backed virtual assistant call center operations study of whether receiving teams can continue work without private clarification.
+published: 2026-10-09
 updated: 2026-10-09
 category: Call operations research
 image: /thumbnails/call-disposition-reviewer-agreement-study.svg
 imageAlt: Editorial diagram for Call Disposition Reviewer Agreement: A Reliability Study, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
-datePublished: "2026-10-09"
+datePublished: 2026-10-09
 ---
 
 # VirtualAssistantCallCenter Handoff Completeness Observation

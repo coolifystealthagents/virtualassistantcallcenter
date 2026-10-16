@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Record integrity
 image: /thumbnails/customer-call-record-integrity.svg
 imageAlt: Customer call record integrity study showing source traceability, corrections, minimum data, and disposition
-related: phone-intake-source-traceability-study, customer-call-disposition-taxonomy, call-recording-consent-review-method
+related: /research/phone-intake-source-traceability-study, /research/customer-call-disposition-taxonomy, /research/call-recording-consent-review-method
 ---
 
 ## Headline finding

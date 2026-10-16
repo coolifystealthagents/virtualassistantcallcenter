@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Digital Health Calls
 image: /thumbnails/call-answering-for-digital-health-startups.svg
 imageAlt: Call answering for digital health startups
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A good call is not merely answered; it leaves the next person with a usable decision. For digital health startup, that means treating the first conversation as an intake checkpoint.
 

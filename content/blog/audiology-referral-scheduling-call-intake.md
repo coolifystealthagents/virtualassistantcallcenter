@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Audiology Scheduling
 image: /thumbnails/healthcare-appointment-intake-checklist.svg
 imageAlt: Audiology referral scheduling note with patient referral communication and appointment fields
-related: /services/patient-scheduling,/services/inbound-customer-calls
+related: /services/patient-scheduling, /services/inbound-customer-calls
 ---
 ## Confirm how to communicate
 

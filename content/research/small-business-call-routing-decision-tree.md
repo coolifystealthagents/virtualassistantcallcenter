@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Routing research
 image: /thumbnails/small-business-call-routing-decision-tree.svg
 imageAlt: Small business call routing decision tree showing intent, urgency, owner, and fallback branches
-related: small-business-call-routing-failover, call-escalation-severity-matrix, multi-location-call-routing-governance
+related: /research/small-business-call-routing-failover, /research/call-escalation-severity-matrix, /research/multi-location-call-routing-governance
 ---
 
 ## Headline finding

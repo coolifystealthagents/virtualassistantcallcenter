@@ -7,7 +7,7 @@ updated: 2026-08-08
 category: Capacity planning
 image: /thumbnails/call-center-occupancy-planning.svg
 imageAlt: Call center occupancy planning for small service teams with a documented workflow, owner handoff, and evidence-first controls
-related: call-center-accessibility-checklist, service-business-call-quality-audit, call-screening-workflow-for-small-business
+related: /research/call-center-accessibility-checklist, /research/service-business-call-quality-audit, /research/call-screening-workflow-for-small-business
 ---
 
 ## Headline finding

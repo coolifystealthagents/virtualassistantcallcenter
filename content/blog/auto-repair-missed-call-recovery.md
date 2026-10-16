@@ -2,14 +2,14 @@
 slug: auto-repair-missed-call-recovery
 title: Missed-call recovery for auto repair shops: a workable queue
 description: Auto repair shops can recover missed calls with a callback queue that records the vehicle need, urgency, and promised next step without guessing at repair outcomes.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/auto-repair-missed-call-recovery.png
 imageAlt: Editorial illustration about auto repair shops call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Missed-call recovery for auto repair shops: a workable queue

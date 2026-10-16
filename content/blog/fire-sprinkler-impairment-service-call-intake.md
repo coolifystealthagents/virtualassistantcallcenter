@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: emergency-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for fire sprinkler impairment calls: route urgent facts without making the safety decision
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Fire sprinkler impairment calls: route urgent facts without making the safety decision
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [OSHA automatic-sprinkler standard](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.159)
 
-Need help designing the routing map, intake fields, and QA review for your call fire queue? [Contact Virtual Assistant Call Center](/contact) to discuss the fire workflow.
+Need help designing the routing map, intake fields, and QA review for your call fire queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the fire workflow.

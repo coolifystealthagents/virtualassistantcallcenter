@@ -1,7 +1,7 @@
 ---
 slug: speech-analytics-language-bias-review
 title: Speech Analytics Language Bias Review
-description: A reproducible research protocol for whether transcription and classification errors differ across declared language and audio conditions with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for assessing whether transcription and classification errors differ by language and audio conditions.
 published: 2026-10-12
 updated: 2026-10-12
 datePublished: 2026-10-12

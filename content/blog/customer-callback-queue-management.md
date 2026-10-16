@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Callback queues
 image: /thumbnails/customer-callback-queue-management.svg
 imageAlt: Customer callback queue management showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

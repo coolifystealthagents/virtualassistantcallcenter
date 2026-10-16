@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Continuity research
 image: /thumbnails/small-business-call-routing-failover.svg
 imageAlt: Call routing continuity evidence review tracing disruption, fallback activation, caller path, ownership, and recovery
-related: small-business-call-routing-failover, after-hours-call-continuity-cohort
+related: /research/small-business-call-routing-failover, /research/after-hours-call-continuity-cohort
 ---
 
 ## Headline finding

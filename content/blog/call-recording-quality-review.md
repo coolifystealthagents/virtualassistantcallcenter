@@ -2,14 +2,14 @@
 slug: call-recording-quality-review
 title: What a virtual assistant call recording review should test
 description: A useful call recording review checks whether a virtual assistant followed the approved script, captured the reason, recorded the next step, and escalated sensitive decisions.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/call-recording-quality-review.webp
 imageAlt: Editorial illustration about virtual assistant call centers call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # What a virtual assistant call recording review should test

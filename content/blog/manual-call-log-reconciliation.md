@@ -2,7 +2,7 @@
 slug: manual-call-log-reconciliation
 title: Reconcile Manual Call Logs After a Phone or CRM Outage
 description: Move outage notes into the normal work queue without losing timestamps, duplicating callbacks, or treating handwritten details as verified records.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Call Continuity

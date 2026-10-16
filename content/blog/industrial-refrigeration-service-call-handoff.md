@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Industrial Service Calls
 image: /thumbnails/call-answering-for-hvac-maintenance-teams.svg
 imageAlt: Industrial refrigeration service handoff with equipment alarm access and technician status
-related: /services/inbound-customer-calls,/services/customer-support
+related: /services/inbound-customer-calls
 ---
 ## Pin down the site and equipment
 

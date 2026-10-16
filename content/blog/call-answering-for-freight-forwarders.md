@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Freight Forwarder Calls
 image: /thumbnails/call-answering-for-freight-forwarders.svg
 imageAlt: Call answering for freight forwarders
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 Phone coverage works best when it reduces reconstruction. The caller should not have to repeat the same facts to every person at freight forwarder.
 

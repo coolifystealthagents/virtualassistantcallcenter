@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Nonprofit operations
 image: /thumbnails/call-routing-for-nonprofits.svg
 imageAlt: Call routing for nonprofits showing a structured nonprofits phone workflow with clear routing, notes, and follow-up ownership
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Start with the caller outcome
 

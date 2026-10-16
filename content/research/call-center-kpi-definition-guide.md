@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: KPI governance
 image: /thumbnails/call-center-kpi-definition-guide.svg
 imageAlt: Call center KPI definition guide showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-occupancy-planning, call-center-qa-review-routine, customer-callback-service-level-study
+related: /research/call-center-occupancy-planning, /blog/call-center-qa-review-routine, /research/customer-callback-service-level-study
 ---
 
 ## Headline finding

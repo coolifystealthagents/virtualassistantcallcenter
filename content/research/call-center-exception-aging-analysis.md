@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Exception analysis
 image: /thumbnails/call-center-exception-aging-analysis.svg
 imageAlt: Call-center exception aging analysis showing age bands, owners, next actions, and escalation risk
-related: customer-callback-queue-aging-study, call-center-queue-backlog-governance, customer-callback-exception-recovery-study
+related: /research/customer-callback-queue-aging-study, /research, /research/customer-callback-exception-recovery-study
 ---
 
 ## Headline finding

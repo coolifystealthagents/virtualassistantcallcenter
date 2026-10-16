@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Call screening
 image: /thumbnails/call-screening-for-small-business.svg
 imageAlt: Call screening for small business teams showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the outcome
 

@@ -7,7 +7,7 @@ updated: 2026-09-08
 category: Septic Service Calls
 image: /thumbnails/call-answering-for-home-service-contractors.svg
 imageAlt: Septic service call notes showing property location reported symptoms access and dispatch review
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Record what the caller can observe
 

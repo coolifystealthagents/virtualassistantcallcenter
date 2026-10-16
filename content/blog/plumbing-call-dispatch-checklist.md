@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Dispatch Checklist
 image: /thumbnails/plumbing-call-dispatch-checklist.svg
 imageAlt: Plumbing call dispatch checklist showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

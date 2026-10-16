@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: call-center-operations
 image: /thumbnails/call-center-after-call-work-checklist.svg
 imageAlt: Editorial workflow illustration for a practical after-call work checklist for virtual receptionists
-related: /services, /contact, /research/call-center-after-call-work
+related: /services, /contact-us, /research/call-center-after-call-work
 ---
 
 # A practical after-call work checklist for virtual receptionists
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

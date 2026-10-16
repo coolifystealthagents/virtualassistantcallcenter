@@ -2,14 +2,14 @@
 slug: subscription-customer-support-triage
 title: Customer support triage for subscription businesses using a virtual assistant
 description: Subscription support queues become easier to manage when a virtual assistant separates access, billing, cancellation, and product questions before escalation.
-datePublished: "2026-08-21"
+datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
 image: /aug21-heroes/subscription-customer-support-triage.png
 imageAlt: Editorial illustration about subscription businesses call handling
-publishedAt: "2026-08-21T12:00:00.000Z"
-updatedAt: "2026-08-21T12:00:00.000Z"
+publishedAt: 2026-08-21T12:00:00.000Z
+updatedAt: 2026-08-21T12:00:00.000Z
 ---
 
 # Customer support triage for subscription businesses using a virtual assistant

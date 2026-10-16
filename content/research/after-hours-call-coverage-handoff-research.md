@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Research
 image: /thumbnails/after-hours-call-coverage-handoff-research.svg
 imageAlt: Abstract illustration of an after-hours call handoff moving through a documented queue to an owner
-related: after-hours-call-coverage-risk-review, small-business-call-routing-failover
+related: /research/after-hours-call-coverage-risk-review, /research/small-business-call-routing-failover
 ---
 
 ## Research question

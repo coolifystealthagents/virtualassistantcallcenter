@@ -8,7 +8,7 @@ updated: 2026-09-28
 category: Accessibility research
 image: /thumbnails/phone-intake-accessibility-testing.svg
 imageAlt: Accessibility review comparing relay and direct voice call intake paths from greeting through owned follow-up
-related: /services/customer-support, /research/phone-intake-accessibility-testing, /contact
+related: /services/inbound-customer-calls, /research/phone-intake-accessibility-testing, /contact-us
 ---
 
 ## The decision this study supports

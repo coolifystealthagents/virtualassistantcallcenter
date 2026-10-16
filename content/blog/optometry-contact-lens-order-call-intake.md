@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Optometry Calls
 image: /thumbnails/call-answering-for-optometrists.svg
 imageAlt: Optometry contact lens order message with patient and order fields
-related: /services/inbound-customer-calls,/services/appointment-scheduling
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Verify before discussing an order
 

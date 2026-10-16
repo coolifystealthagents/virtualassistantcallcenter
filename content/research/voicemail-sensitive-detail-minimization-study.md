@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Voicemail research
 image: /thumbnails/voicemail-sensitive-detail-minimization-study.svg
 imageAlt: Sensitive voicemail minimization study linking approved purpose, recipient confidence, message template, callback route, and review
-related: /services/inbound-customer-calls, /research/voicemail-retention-deletion-evidence-study, /contact
+related: /services/inbound-customer-calls, /research/voicemail-retention-deletion-evidence-study, /contact-us
 ---
 
 ## Research question
@@ -103,4 +103,4 @@ The defensible answer is a bounded account of what the declared records support,
 
 - [Customer support](/services/inbound-customer-calls)
 - [Voicemail retention research](/research/voicemail-retention-deletion-evidence-study)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

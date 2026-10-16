@@ -4,6 +4,7 @@ import { workflowSteps, sources } from '../data';
 export const metadata = {
   title: 'VA call center workflows for intake, booking, and follow-up',
   description: 'Simple virtual assistant call center workflows for call answering, lead intake, appointment setting, CRM notes, escalation, and weekly review.',
+  alternates: { canonical: '/workflows' },
 };
 
 const queueLanes = [
@@ -41,7 +42,7 @@ export default function Workflows() {
           <h1>VA call center workflows that are easy to run.</h1>
           <p className="lead">A virtual assistant can answer calls, qualify leads, book appointments, and update your CRM. The key is to give the assistant a clear path for each call type.</p>
           <p>Build the path before you hire. That means clear scripts, safe handoff rules, CRM notes, and a weekly QA review that catches small issues fast.</p>
-          <div className="button-row"><a className="btn" href="/contact">Build my call plan</a><a className="btn secondary" href="/qa-scorecard">See QA scorecard</a></div>
+          <div className="button-row"><a className="btn" href="/contact-us">Build my call plan</a><a className="btn secondary" href="/qa-scorecard">See QA scorecard</a></div>
         </div>
         <div className="workflow-photo">
           <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Support operations team tracking customer calls on laptop screens" />
@@ -77,7 +78,7 @@ export default function Workflows() {
           </div>
           <div className="queue-console-footer">
             <p><span aria-hidden="true" /> Each lane needs an owner, a saved note, and a clear finish.</p>
-            <div><a href="/qa-scorecard">Check call quality</a><a href="/contact">Map my queue</a></div>
+            <div><a href="/qa-scorecard">Check call quality</a><a href="/contact-us">Map my queue</a></div>
           </div>
         </div>
       </div>

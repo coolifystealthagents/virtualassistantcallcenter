@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Transfer research
 image: /thumbnails/warm-transfer-acceptance-timeout-study.svg
 imageAlt: Warm transfer timeout study connecting caller consent, destination readiness, wait updates, acceptance evidence, fallback, and owner
-related: /services/inbound-customer-calls, /research/unanswered-transfer-recovery-study, /contact
+related: /services/inbound-customer-calls, /research/unanswered-transfer-recovery-study, /contact-us
 ---
 
 ## Research question
@@ -103,4 +103,4 @@ The defensible answer is a bounded account of what the declared records support,
 
 - [Inbound customer calls](/services/inbound-customer-calls)
 - [Unanswered transfer research](/research/unanswered-transfer-recovery-study)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

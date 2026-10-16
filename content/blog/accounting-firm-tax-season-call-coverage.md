@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Tax Season Coverage
 image: /thumbnails/accounting-firm-tax-season-call-coverage.svg
 imageAlt: Accounting firm tax-season call coverage showing a structured phone support workflow with routing, notes, and owner review
-related: /services/inbound-customer-calls,/services/appointment-setting,/qa-scorecard
+related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
 ## Define the caller outcome
 

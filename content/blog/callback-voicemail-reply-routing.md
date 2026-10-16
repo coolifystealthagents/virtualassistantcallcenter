@@ -2,7 +2,7 @@
 slug: callback-voicemail-reply-routing
 title: Route Replies to Callback Voicemails Into the Right Work Queue
 description: Connect outbound callback messages to a visible return-call route so customers do not restart intake or disappear into a second queue.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Callback Management

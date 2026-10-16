@@ -8,7 +8,7 @@ updated: 2026-09-25
 category: Knowledge research
 image: /thumbnails/knowledge-base-answer-expiration-study.svg
 imageAlt: Knowledge answer expiration study linking source owner, approved version, change signal, assistant access, correction, and review
-related: /services/virtual-assistant, /research/virtual-assistant-knowledge-base-maintenance, /contact
+related: /services/inbound-customer-calls, /research/virtual-assistant-knowledge-base-maintenance, /contact-us
 ---
 
 ## Research question
@@ -103,4 +103,4 @@ The defensible answer is a bounded account of what the declared records support,
 
 - [Virtual assistant services](/services/virtual-assistant)
 - [Knowledge-base maintenance research](/research/virtual-assistant-knowledge-base-maintenance)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)

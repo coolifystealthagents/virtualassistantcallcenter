@@ -8,7 +8,7 @@ updated: 2026-09-19
 category: Escalation research
 image: /thumbnails/escalation-notification-delivery-confirmation-study.svg
 imageAlt: Escalation notification study showing creation, delivery, acknowledgment, owner acceptance, and fallback recovery
-related: /services/customer-service, /research/emergency-escalation-acknowledgment-latency-study, /contact
+related: /services/inbound-customer-calls, /research/emergency-escalation-acknowledgment-latency-study, /contact-us
 ---
 
 ## Research question

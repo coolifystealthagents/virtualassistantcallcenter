@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: regulated-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for a medical-waste pickup or container incident
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Medical-waste pickup calls: record container and incident facts without handling advice
@@ -86,4 +86,4 @@ A complete record shows what the facility requested, what staff directly observe
 
 Reception does not need to solve the waste question. It needs to keep a routine service problem from masking an incident and keep an incident from becoming unsafe phone advice.
 
-Need a phone workflow that separates medical-waste pickups, container issues, incident review, and compliance ownership? [Contact Virtual Assistant Call Center](/contact) to discuss your service intake process.
+Need a phone workflow that separates medical-waste pickups, container issues, incident review, and compliance ownership? [Contact Virtual Assistant Call Center](/contact-us) to discuss your service intake process.

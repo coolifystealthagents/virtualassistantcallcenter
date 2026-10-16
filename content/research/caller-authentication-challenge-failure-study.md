@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Caller identity research
 image: /thumbnails/call-intake-identity-verification-controls.svg
 imageAlt: Caller authentication evidence review separating challenge failure, fallback access, disclosure controls, and unresolved identity
-related: call-intake-identity-verification-controls, customer-call-record-integrity
+related: /research/call-intake-identity-verification-controls, /research/customer-call-record-integrity
 ---
 
 ## Headline finding

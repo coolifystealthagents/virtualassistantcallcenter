@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Escalation Research
 image: /thumbnails/virtual-assistant-emergency-call-triage-evidence.svg
 imageAlt: Emergency keyword routing review comparing alert decisions with independent policy review
-related: after-hours-escalation-false-positive-study,urgent-intent-escalation-recall-study
+related: /research/after-hours-escalation-false-positive-study, /research
 ---
 ## Finding and scope
 

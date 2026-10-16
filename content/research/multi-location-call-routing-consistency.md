@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Routing research
 image: /thumbnails/multi-location-call-routing-consistency.svg
 imageAlt: Multi-location call routing consistency research showing shared rules, local exceptions, owners, and evidence
-related: multi-location-call-routing-governance, multi-location-call-owner-matrix, call-routing-for-multi-location-businesses
+related: /research/multi-location-call-routing-governance, /research/multi-location-call-owner-matrix, /blog/call-routing-for-multi-location-businesses
 ---
 
 ## Headline finding

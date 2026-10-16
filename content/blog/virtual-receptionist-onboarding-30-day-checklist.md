@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: virtual-receptionist-management
 image: /thumbnails/virtual-receptionist-onboarding-30-day-checklist.svg
 imageAlt: Editorial workflow illustration for a 30-day onboarding checklist for a virtual receptionist
-related: /services, /contact, /research/call-center-agent-onboarding-checklist
+related: /services, /contact-us, /research/call-center-agent-onboarding-checklist
 ---
 
 # A 30-day onboarding checklist for a virtual receptionist
@@ -107,4 +107,4 @@ Record "unknown," explain the safe next step, and route the exception. Do not fi
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.
+VirtualAssistantCallCenter helps businesses plan scripted phone coverage, intake, scheduling, follow-up, and customer support with Philippines-based virtual receptionists. Review the [services](/services) to see where a bounded call workflow can fit, or [contact the team](/contact-us) to discuss the call types, hours, systems, and escalation owners that would shape a pilot.

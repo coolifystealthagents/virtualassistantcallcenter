@@ -2,7 +2,7 @@
 slug: phone-line-opening-test
 title: A Phone-Line Opening Test Before the First Customer Call
 description: Use a short opening test to verify numbers, greetings, routing, recording notices, and fallback paths before daily call coverage begins.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Center Operations

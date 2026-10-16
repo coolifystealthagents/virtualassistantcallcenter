@@ -1,7 +1,7 @@
 ---
 slug: outbound-suppression-latency-study
 title: Outbound Suppression Latency Study
-description: A reproducible research protocol for how long preference and eligibility changes take to propagate through lists, dialers, vendors, and campaign destinations with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for measuring how quickly preference and eligibility changes reach lists, dialers, vendors, and campaigns.
 published: 2026-10-13
 updated: 2026-10-13
 datePublished: 2026-10-13

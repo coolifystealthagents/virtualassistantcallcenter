@@ -1,7 +1,7 @@
 ---
 slug: warm-transfer-context-retention-study
 title: Warm Transfer Context Retention Study
-description: A reproducible research protocol for which verified facts, uncertainties, and caller commitments survive from the first agent to the accepted owner with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for testing which verified facts, uncertainties, and caller commitments survive a warm transfer.
 published: 2026-10-13
 updated: 2026-10-13
 datePublished: 2026-10-13

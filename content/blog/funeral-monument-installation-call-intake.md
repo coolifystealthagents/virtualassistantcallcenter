@@ -7,7 +7,7 @@ updated: 2026-10-06
 category: sensitive-professional-services-intake
 image: /thumbnails/call-answering-for-memorial-service-directors.svg
 imageAlt: Memorial service call handler recording cemetery and monument project details
-related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact
+related: /services/inbound-customer-calls, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Funeral monument calls: keep family decisions, cemetery rules, and installation separate
@@ -74,4 +74,4 @@ Tone should be calm and direct. Avoid sales pressure, assumptions about family r
 
 A useful intake record does not try to finish the monument project on the phone. It preserves the family's request, shows who has authority, identifies the grave and cemetery, and makes the next decision visible.
 
-Need a sensitive call workflow for memorial projects and cemetery coordination? [Contact Virtual Assistant Call Center](/contact) to discuss your intake process.
+Need a sensitive call workflow for memorial projects and cemetery coordination? [Contact Virtual Assistant Call Center](/contact-us) to discuss your intake process.

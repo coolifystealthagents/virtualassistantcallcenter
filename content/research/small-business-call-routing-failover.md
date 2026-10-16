@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Continuity planning
 image: /thumbnails/small-business-call-routing-failover.svg
 imageAlt: Call routing failover for a small business showing a documented phone workflow with evidence, owner review, and safe escalation
-related: multi-location-call-routing-governance, after-hours-call-answering-benchmark, call-escalation-severity-matrix
+related: /research/multi-location-call-routing-governance, /research/after-hours-call-answering-benchmark, /research/call-escalation-severity-matrix
 ---
 
 ## Headline finding

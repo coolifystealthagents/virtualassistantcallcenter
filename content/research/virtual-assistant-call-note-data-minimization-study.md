@@ -7,7 +7,7 @@ updated: 2026-08-20
 category: Research
 image: /thumbnails/virtual-assistant-call-note-data-minimization-study.svg
 imageAlt: Abstract illustration of a concise virtual assistant call note with sensitive details screened before routing
-related: virtual-receptionist-data-retention-policy, call-intake-identity-verification-boundaries
+related: /research/virtual-receptionist-data-retention-policy, /research/call-intake-identity-verification-boundaries
 ---
 
 ## Research question

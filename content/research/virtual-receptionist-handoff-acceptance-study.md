@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Handoff research
 image: /thumbnails/virtual-receptionist-handoff-acceptance-study.svg
 imageAlt: Virtual receptionist handoff acceptance study with context, consent, destination, and owner checks
-related: virtual-receptionist-handoff-metrics, virtual-receptionist-handoff-checklist, call-center-after-call-work
+related: /research/virtual-receptionist-handoff-metrics, /blog/virtual-receptionist-handoff-checklist, /research/call-center-after-call-work
 ---
 
 ## Headline finding

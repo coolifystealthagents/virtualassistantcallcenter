@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Motorcycle Dealer Calls
 image: /thumbnails/call-answering-for-motorcycle-dealers.svg
 imageAlt: Call answering for motorcycle dealers
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A good call is not merely answered; it leaves the next person with a usable decision. For motorcycle dealer, that means treating the first conversation as an intake checkpoint.
 

@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Scheduling research
 image: /thumbnails/appointment-reminder-call-workflow.svg
 imageAlt: Appointment reminder call workflow showing confirmation, rescheduling, preference, and escalation steps
-related: appointment-scheduling-call-center-metrics, appointment-cancellation-call-workflow, healthcare-appointment-intake-checklist
+related: /research/appointment-scheduling-call-center-metrics, /research/appointment-cancellation-call-workflow, /research/healthcare-appointment-intake-checklist
 ---
 
 ## Headline finding

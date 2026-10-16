@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Freight Brokerage Calls
 image: /thumbnails/call-answering-for-cargo-brokerages.svg
 imageAlt: Freight customs document call record with shipment and handoff fields
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Start with the shipment reference
 

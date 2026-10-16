@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Accessible intake
 image: /thumbnails/phone-intake-accessibility-testing.svg
 imageAlt: Phone intake accessibility testing checklist showing a documented phone workflow with evidence, owner review, and safe escalation
-related: call-center-accessibility-checklist, inbound-customer-call-intake-checklist, healthcare-appointment-intake-checklist
+related: /research/call-center-accessibility-checklist, /blog/inbound-customer-call-intake-checklist, /research/healthcare-appointment-intake-checklist
 ---
 
 ## Headline finding

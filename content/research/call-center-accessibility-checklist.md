@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Customer access
 image: /thumbnails/call-center-accessibility-checklist.svg
 imageAlt: Call-center accessibility checklist with communication preferences and inclusive follow-up steps
-related: virtual-receptionist-handoff-metrics, appointment-scheduling-call-center-metrics, after-hours-call-answering-benchmark
+related: /research/virtual-receptionist-handoff-metrics, /research/appointment-scheduling-call-center-metrics, /research/after-hours-call-answering-benchmark
 ---
 
 ## Headline finding

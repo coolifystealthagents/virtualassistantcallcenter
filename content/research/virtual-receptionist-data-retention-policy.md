@@ -7,7 +7,7 @@ updated: 2026-08-09
 category: Privacy controls
 image: /thumbnails/virtual-receptionist-data-retention-policy.svg
 imageAlt: Virtual receptionist data retention policy showing a documented phone workflow with evidence, owner review, and safe escalation
-related: privacy-by-design-call-notes, remote-call-center-privacy-controls, virtual-receptionist-intake-data-fields
+related: /research/privacy-by-design-call-notes, /research/remote-call-center-privacy-controls, /research/virtual-receptionist-intake-data-fields
 ---
 
 ## Headline finding

@@ -7,7 +7,7 @@ updated: 2026-08-12
 category: Privacy-aware intake
 image: /thumbnails/call-intake-minimum-necessary-information.svg
 imageAlt: Minimum-necessary call intake research showing purpose, required fields, redaction, and owner review
-related: privacy-by-design-call-notes, phone-intake-source-traceability-study, call-intake-identity-verification-controls
+related: /research/privacy-by-design-call-notes, /research/phone-intake-source-traceability-study, /research/call-intake-identity-verification-controls
 ---
 
 ## Headline finding

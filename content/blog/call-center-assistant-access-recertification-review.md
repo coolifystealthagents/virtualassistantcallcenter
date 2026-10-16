@@ -2,18 +2,18 @@
 slug: call-center-assistant-access-recertification-review
 title: Call Center Virtual Assistant Operations: Access Recertification Review
 description: Call Center Virtual Assistant Operations: Access Recertification Review: evidence-led guidance for Virtual Assistant Call Center.
-datePublished: "2026-08-19"
+datePublished: 2026-08-19
 published: 2026-08-19
 updated: 2026-08-19
 category: call-center-operations
 image: /aug19-heroes/call-center-assistant-access-recertification-review.webp
 imageAlt: call center assistant access recertification review editorial illustration
-publishedAt: "2026-08-19T12:00:00.000Z"
-updatedAt: "2026-08-19T12:00:00.000Z"
-author: "Editorial Team"
-reviewedBy: "Editorial Team"
-reviewedAt: "2026-08-19T12:00:00.000Z"
-featuredImage: "/aug19-heroes/call-center-assistant-access-recertification-review.webp"
+publishedAt: 2026-08-19T12:00:00.000Z
+updatedAt: 2026-08-19T12:00:00.000Z
+author: Editorial Team
+reviewedBy: Editorial Team
+reviewedAt: 2026-08-19T12:00:00.000Z
+featuredImage: /aug19-heroes/call-center-assistant-access-recertification-review.webp
 ---
 
 # Call Center Virtual Assistant Operations: Access Recertification Review

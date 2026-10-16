@@ -7,7 +7,7 @@ updated: 2026-09-07
 category: Privacy Research
 image: /thumbnails/virtual-receptionist-data-retention-policy.svg
 imageAlt: Call note privacy study separating required handoff fields from unnecessary sensitive details
-related: privacy-by-design-call-notes, call-intake-minimum-necessary-information
+related: /research/privacy-by-design-call-notes, /research/call-intake-minimum-necessary-information
 ---
 ## Finding and scope
 

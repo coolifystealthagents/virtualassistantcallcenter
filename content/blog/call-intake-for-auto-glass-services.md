@@ -7,7 +7,7 @@ updated: 2026-08-14
 category: Call support guides
 image: /thumbnails/call-answering-for-auto-repair-shops.svg
 imageAlt: Auto glass service call intake guide with vehicle and damage details
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Identify the glass concern
 

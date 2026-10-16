@@ -7,7 +7,7 @@ updated: 2026-09-09
 category: Generator Service Calls
 image: /thumbnails/manufacturing-service-call-routing.svg
 imageAlt: Commercial generator service intake with equipment site status access and technician handoff
-related: /services/inbound-customer-calls,/services/after-hours-answering
+related: /services/inbound-customer-calls, /services/after-hours-answering
 ---
 ## Locate the unit and contract
 

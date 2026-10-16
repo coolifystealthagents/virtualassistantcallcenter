@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Auto Repair Calls
 image: /thumbnails/call-answering-for-auto-repair-shops.svg
 imageAlt: Auto repair comeback call record with vehicle and prior work details
-related: /services/inbound-customer-calls,/services/call-disposition-reporting
+related: /services/inbound-customer-calls, /services/call-disposition-reporting
 ---
 ## Find the earlier repair order
 

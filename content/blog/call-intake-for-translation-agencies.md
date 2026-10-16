@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Translation Agency Calls
 image: /thumbnails/call-intake-for-translation-agencies.svg
 imageAlt: Translation agency call intake guide for language and document scope
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Clarify language and service type
 

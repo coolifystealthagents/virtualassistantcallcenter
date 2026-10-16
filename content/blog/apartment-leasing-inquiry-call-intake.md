@@ -2,15 +2,15 @@
 slug: apartment-leasing-inquiry-call-intake
 title: Apartment leasing inquiry call intake without promising availability
 description: A practical call intake workflow for leasing inquiries, tour requests, accessibility needs, source accuracy, and fair handoffs.
-datePublished: "2026-09-23"
+datePublished: 2026-09-23
 published: 2026-09-23
 updated: 2026-09-23
 category: Real estate calls
 image: /thumbnails/apartment-leasing-inquiry-call-intake.svg
 imageAlt: Apartment leasing inquiry workflow from caller requirements through availability check and property team handoff
-publishedAt: "2026-09-23T12:00:00.000Z"
-author: "Editorial Team"
-related: /services/real-estate-lead-intake, /services/appointment-setting, /contact
+publishedAt: 2026-09-23T12:00:00.000Z
+author: Editorial Team
+related: /services/real-estate-lead-intake, /services/appointment-setting, /contact-us
 ---
 
 ## Give the leasing call one clear purpose
@@ -89,7 +89,7 @@ The receptionist confirms the selected property, schedules an authorized slot, r
 
 Which system controls availability? What pricing language is approved? Which tour states count as confirmed? Who owns accommodation, voucher, application, fee, and lease questions? What may be sent by text or email? How quickly must an unanswered inquiry be accepted? What is the backup route when the property office does not respond?
 
-Write those answers into the queue instructions and test them with realistic scenarios. If you want to map a leasing queue for a Philippines-based receptionist, review the [real estate lead intake service](/services/real-estate-lead-intake) and use the [contact page](/contact) to define a bounded pilot.
+Write those answers into the queue instructions and test them with realistic scenarios. If you want to map a leasing queue for a Philippines-based receptionist, review the [real estate lead intake service](/services/real-estate-lead-intake) and use the [contact page](/contact-us) to define a bounded pilot.
 
 ## Frequently asked questions
 

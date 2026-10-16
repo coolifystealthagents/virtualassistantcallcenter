@@ -7,7 +7,7 @@ updated: 2026-08-07
 category: Lead follow-up
 image: /thumbnails/outbound-follow-up-consent-controls.svg
 imageAlt: Outbound follow-up consent controls showing permission, suppression, and human review steps
-related: after-hours-call-answering-benchmark, call-screening-workflow-for-small-business, customer-call-backlog-triage
+related: /research/after-hours-call-answering-benchmark, /research/call-screening-workflow-for-small-business, /research/customer-call-backlog-triage
 ---
 
 ## Headline finding

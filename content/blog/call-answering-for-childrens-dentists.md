@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Pediatric Dental Calls
 image: /thumbnails/call-answering-for-childrens-dentists.svg
 imageAlt: Pediatric dental call answering guide for family scheduling and triage
-related: /services/appointment-setting,/services/inbound-customer-calls
+related: /services/appointment-setting, /services/inbound-customer-calls
 ---
 ## Identify the child and responsible adult
 

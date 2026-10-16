@@ -7,7 +7,7 @@ updated: 2026-09-18
 category: Call Coverage Operations
 image: /thumbnails/business-hours-exception-calendar-management.svg
 imageAlt: Business hours exception calendar with closure window timezone routing rule and approval owner
-related: /services/after-hours-answering,/workflows,/contact
+related: /services/after-hours-answering, /workflows, /contact-us
 ---
 When normal opening hours change for a holiday, closure, training day, or special event, a phone team needs more than a friendly script. It needs a controlled operating rule that tells the receptionist what to capture, what not to decide, who owns the next action, and what the caller may reasonably expect. Without that rule, a well-meaning answer can become an unsupported promise, a duplicate record, or a handoff that nobody accepts.
 
@@ -65,4 +65,4 @@ Before launch, confirm the source of truth, field map, approved phrases, authori
 
 Start with a narrow call type and expand after the first review. Document what callers actually ask, where the receptionist pauses, and which fields the receiving team uses. Remove data that has no operational purpose. Add a field or branch only when evidence shows it supports a real decision.
 
-VirtualAssistantCallCenter provides Philippines-based call support around client-approved scripts, tools, hours, and manager rules. Explore the [relevant call support service](/services/after-hours-answering), see the [call workflow](/workflows), and use the [contact page](/contact) to map the call types, records, boundaries, and handoff owners your coverage plan needs.
+VirtualAssistantCallCenter provides Philippines-based call support around client-approved scripts, tools, hours, and manager rules. Explore the [relevant call support service](/services/after-hours-answering), see the [call workflow](/workflows), and use the [contact page](/contact-us) to map the call types, records, boundaries, and handoff owners your coverage plan needs.

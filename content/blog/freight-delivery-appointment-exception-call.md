@@ -7,7 +7,7 @@ updated: 2026-09-10
 category: Logistics Calls
 image: /thumbnails/call-answering-for-logistics-dispatchers.svg
 imageAlt: Freight appointment exception record with load dock and arrival details
-related: /services/inbound-customer-calls,/services/outbound-call-support
+related: /services/inbound-customer-calls, /services/outbound-lead-qualification
 ---
 ## Anchor the call to one load
 

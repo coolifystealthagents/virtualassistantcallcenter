@@ -2,18 +2,18 @@
 slug: call-center-assistant-exception-queue-triage
 title: Call Center Virtual Assistant Operations: Exception Queue Triage
 description: Call Center Virtual Assistant Operations: Exception Queue Triage: evidence-led guidance for Virtual Assistant Call Center.
-datePublished: "2026-08-19"
+datePublished: 2026-08-19
 published: 2026-08-19
 updated: 2026-08-19
 category: call-center-operations
 image: /aug19-heroes/call-center-assistant-exception-queue-triage.webp
 imageAlt: call center assistant exception queue triage editorial illustration
-publishedAt: "2026-08-19T12:00:00.000Z"
-updatedAt: "2026-08-19T12:00:00.000Z"
-author: "Editorial Team"
-reviewedBy: "Editorial Team"
-reviewedAt: "2026-08-19T12:00:00.000Z"
-featuredImage: "/aug19-heroes/call-center-assistant-exception-queue-triage.webp"
+publishedAt: 2026-08-19T12:00:00.000Z
+updatedAt: 2026-08-19T12:00:00.000Z
+author: Editorial Team
+reviewedBy: Editorial Team
+reviewedAt: 2026-08-19T12:00:00.000Z
+featuredImage: /aug19-heroes/call-center-assistant-exception-queue-triage.webp
 ---
 
 # Call Center Virtual Assistant Operations: Exception Queue Triage

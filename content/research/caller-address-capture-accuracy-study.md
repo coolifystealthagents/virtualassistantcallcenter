@@ -8,7 +8,7 @@ updated: 2026-09-23
 category: Call intake research
 image: /thumbnails/caller-address-capture-accuracy-study.svg
 imageAlt: Phone intake address study linking caller wording, read-back, normalized fields, owner review, and correction
-related: /services/call-answering, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question

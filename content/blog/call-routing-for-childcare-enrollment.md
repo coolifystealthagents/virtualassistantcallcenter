@@ -7,7 +7,7 @@ updated: 2026-08-18
 category: Childcare Provider Calls
 image: /thumbnails/call-routing-for-childcare-enrollment.svg
 imageAlt: Call routing for childcare enrollment
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 A good call is not merely answered; it leaves the next person with a usable decision. For childcare provider, that means treating the first conversation as an intake checkpoint.
 

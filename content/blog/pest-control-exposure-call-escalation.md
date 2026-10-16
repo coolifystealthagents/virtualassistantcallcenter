@@ -7,7 +7,7 @@ updated: 2026-09-28
 category: field-service-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for pest-control exposure calls: capture product facts and escalate without treating
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Pest-control exposure calls: capture product facts and escalate without treating
@@ -62,4 +62,4 @@ The goal is not to make a virtual receptionist sound like a specialist. It is to
 
 - [EPA pesticide-incident reporting guidance](https://www.epa.gov/pesticide-incidents/how-report-pesticide-incident)
 
-Need help designing the routing map, intake fields, and QA review for your call pest queue? [Contact Virtual Assistant Call Center](/contact) to discuss the pest workflow.
+Need help designing the routing map, intake fields, and QA review for your call pest queue? [Contact Virtual Assistant Call Center](/contact-us) to discuss the pest workflow.

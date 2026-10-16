@@ -7,7 +7,7 @@ updated: 2026-09-19
 category: industry-call-workflows
 image: /thumbnails/roofing-storm-lead-call-intake.svg
 imageAlt: Editorial workflow illustration for roofing storm lead calls: capture urgency without overpromising
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Roofing storm lead calls: capture urgency without overpromising
@@ -127,4 +127,4 @@ State what the receptionist is authorized to provide. If pricing or a guarantee 
 
 ## Put the workflow into practice
 
-VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and QA workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact) with the call types, hours, systems, and escalation owners you want to map.
+VirtualAssistantCallCenter helps businesses plan call answering, intake, scheduling, follow-up, and QA workflows for Philippines-based virtual receptionists. Review the [services](/services) and [call workflow](/workflows), then [contact the team](/contact-us) with the call types, hours, systems, and escalation owners you want to map.

@@ -2,7 +2,7 @@
 slug: caller-authorized-representative-intake
 title: Intake Boundaries When Someone Calls on Another Person's Behalf
 description: Give virtual receptionists a safe way to record representative calls without assuming authority or disclosing protected information.
-datePublished: "2026-08-23"
+datePublished: 2026-08-23
 published: 2026-08-23
 updated: 2026-08-23
 category: Call Intake

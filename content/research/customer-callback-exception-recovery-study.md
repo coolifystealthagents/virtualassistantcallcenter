@@ -7,7 +7,7 @@ updated: 2026-08-10
 category: Exception recovery
 image: /thumbnails/customer-callback-exception-recovery-study.svg
 imageAlt: Customer callback exception recovery study with failed attempts, ownership, recovery, and final disposition
-related: customer-callback-queue-aging-study, virtual-receptionist-callback-queue-aging, missed-call-response-time-study
+related: /research/customer-callback-queue-aging-study, /research/virtual-receptionist-callback-queue-aging, /research/missed-call-response-time-study
 ---
 
 ## Headline finding

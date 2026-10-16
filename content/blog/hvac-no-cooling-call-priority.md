@@ -7,7 +7,7 @@ updated: 2026-09-04
 category: HVAC call intake
 image: /thumbnails/after-hours-call-answering-for-appliance-repair.svg
 imageAlt: HVAC no-cooling call queue with household context equipment details and technician review
-related: /blog/call-intake-for-home-services, /blog/after-hours-call-answering-for-home-service-contractors
+related: /blog/call-intake-for-home-services, /blog
 ---
 ## Separate discomfort from immediate risk
 

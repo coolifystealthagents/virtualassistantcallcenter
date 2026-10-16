@@ -2,7 +2,7 @@
 slug: phone-number-porting-call-continuity
 title: Protect Call Continuity While a Business Phone Number Is Ported
 description: Plan routing, testing, fallback, caller messaging, and record reconciliation before moving a public phone number between providers.
-datePublished: "2026-09-03"
+datePublished: 2026-09-03
 published: 2026-09-03
 updated: 2026-09-03
 category: Call Continuity

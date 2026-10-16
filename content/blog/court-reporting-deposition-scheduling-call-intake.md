@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: professional-services-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Call intake workflow for a deposition scheduling request
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Deposition scheduling calls: capture constraints without interpreting the notice
@@ -91,4 +91,4 @@ The call is complete when the request is understandable, the event can be matche
 
 For a court reporting firm, that is the useful middle ground. Reception does not interpret the notice or decide who may change the event. It gives the scheduling team a clean, time-aware record so the people with authority can respond without reconstructing the call.
 
-Need help mapping deposition requests, verification steps, and coordinator handoffs into a consistent phone workflow? [Contact Virtual Assistant Call Center](/contact) to discuss your intake process.
+Need help mapping deposition requests, verification steps, and coordinator handoffs into a consistent phone workflow? [Contact Virtual Assistant Call Center](/contact-us) to discuss your intake process.

@@ -1,7 +1,7 @@
 ---
 slug: abandoned-call-denominator-reconstruction-study
 title: Abandoned Call Denominator Reconstruction Study
-description: A reproducible research protocol for whether platform exclusions and short calls materially change the reported abandonment rate with bounded authority, traceable evidence, and caller-safe recovery.
+description: A reproducible method for testing whether platform exclusions and short calls materially change a reported call-abandonment rate.
 published: 2026-10-12
 updated: 2026-10-12
 datePublished: 2026-10-12

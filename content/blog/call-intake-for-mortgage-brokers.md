@@ -7,7 +7,7 @@ updated: 2026-08-17
 category: Mortgage Broker Intake
 image: /thumbnails/call-intake-for-mortgage-brokers.svg
 imageAlt: Mortgage broker call intake guide with borrower goals and document routing
-related: /services/inbound-customer-calls,/services/appointment-setting
+related: /services/inbound-customer-calls, /services/appointment-setting
 ---
 ## Start with the borrower’s goal
 

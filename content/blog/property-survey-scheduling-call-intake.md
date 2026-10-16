@@ -7,7 +7,7 @@ updated: 2026-10-02
 category: professional-services-intake
 image: /thumbnails/multi-location-appointment-routing-guide.svg
 imageAlt: Editorial call-routing workflow diagram for property survey scheduling calls: prepare access and document facts for the surveyor
-related: /services, /workflows, /qa-scorecard, /contact
+related: /services, /workflows, /qa-scorecard, /contact-us
 ---
 
 # Property survey scheduling calls: prepare access and document facts for the surveyor
@@ -78,4 +78,4 @@ The Bureau of Land Management's cadastral survey resources can inform management
 
 - [Bureau of Land Management cadastral survey resources](https://www.blm.gov/programs/lands-and-realty/cadastral-survey)
 
-Need a clearer handoff between intake, document collection, and survey scheduling? [Contact Virtual Assistant Call Center](/contact) to discuss a property survey call workflow.
+Need a clearer handoff between intake, document collection, and survey scheduling? [Contact Virtual Assistant Call Center](/contact-us) to discuss a property survey call workflow.

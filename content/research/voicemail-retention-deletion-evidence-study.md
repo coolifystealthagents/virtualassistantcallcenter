@@ -8,7 +8,7 @@ updated: 2026-09-24
 category: Message governance research
 image: /thumbnails/voicemail-retention-deletion-evidence-study.svg
 imageAlt: Voicemail retention study following recording creation, approved access, derived copies, deletion job, and exception review
-related: /services/call-answering, /research, /contact
+related: /services/inbound-customer-calls, /research, /contact-us
 ---
 
 ## Research question
@@ -88,4 +88,4 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 - [/services/call-answering](/services/call-answering)
 - [Research library](/research)
-- [Discuss an owner-controlled workflow](/contact)
+- [Discuss an owner-controlled workflow](/contact-us)
