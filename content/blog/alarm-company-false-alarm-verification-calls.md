@@ -1,7 +1,7 @@
 ---
 slug: alarm-company-false-alarm-verification-calls
 title: False-alarm verification calls: cancellation limits, identity, and dispatch records
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Handle false alarm verification calls with account checks, alarm event details, caller authority, and tightly bounded dispatch actions.
 published: 2026-09-28
 updated: 2026-09-28
 category: security-call-workflows

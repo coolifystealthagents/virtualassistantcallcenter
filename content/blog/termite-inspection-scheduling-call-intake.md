@@ -97,4 +97,4 @@ Acknowledge the urgency, record the observable facts, and activate the approved 
 
 ### What should a manager review each week?
 
-Review a mixed sample for verification, minimum-necessary notes, correct routing, accepted handoffs, accurate status, and boundary compliance. Use the findings to repair the source, script, access, or ownership rule—not simply to ask agents to “be more careful.”
+Review a mixed sample for verification, minimum-necessary notes, correct routing, accepted handoffs, accurate status, and boundary compliance. Use the findings to repair the source, script, access, or ownership rule, not simply to ask agents to “be more careful.”

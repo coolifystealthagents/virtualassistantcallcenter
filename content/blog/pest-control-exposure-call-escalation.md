@@ -1,7 +1,7 @@
 ---
 slug: pest-control-exposure-call-escalation
 title: Pest-control exposure calls: capture product facts and escalate without treating
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Capture reported pesticide exposure facts and activate approved safety escalation without giving medical or toxicology advice.
 published: 2026-09-28
 updated: 2026-09-28
 category: field-service-intake

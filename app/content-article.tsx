@@ -1,4 +1,5 @@
-import { ContentEntry, markdownBlocks } from './content';
+import { ContentEntry, markdownBlocks, normalizeVisibleText } from './content';
+import { ArticleSidebar } from './article-sidebar';
 import { CTA, JsonLd } from './components';
 import { site } from './data';
 
@@ -8,6 +9,7 @@ const publicationDateFormatter = new Intl.DateTimeFormat('en-US', {
 const formatPublicationDate = (value: string) => publicationDateFormatter.format(new Date(`${value}T00:00:00Z`));
 
 function inline(text: string) {
+  text = normalizeVisibleText(text);
   const parts = text.split(/(\[[^\]]+\]\([^)]+\)|\*\*[^*]+\*\*)/g);
   return parts.map((part, index) => {
     const link = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
@@ -24,16 +26,35 @@ function tableRows(block: string) {
   return { headings: cells(lines[0]), rows: lines.slice(2).map(cells) };
 }
 
+function headingSlug(label: string) {
+  return normalizeVisibleText(label).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'section';
+}
+
 export function ContentArticle({ entry }: { entry: ContentEntry }) {
   const blocks = markdownBlocks(entry.body);
-  const headings = blocks.filter((block) => block.startsWith('## ')).map((block) => block.slice(3));
+  const slugCounts = new Map<string, number>();
+  const headingByIndex = new Map<number, { id: string; label: string; level: 2 | 3 }>();
+  blocks.forEach((block, index) => {
+    const level = block.startsWith('## ') ? 2 : block.startsWith('### ') ? 3 : null;
+    if (!level) return;
+    const label = normalizeVisibleText(block.slice(level + 1));
+    const base = headingSlug(label);
+    const count = (slugCounts.get(base) || 0) + 1;
+    slugCounts.set(base, count);
+    headingByIndex.set(index, { id: count === 1 ? base : `${base}-${count}`, label, level });
+  });
+  const headings = [...headingByIndex.values()];
+  const related = entry.related.map((href) => ({
+    href,
+    label: href.split('/').filter(Boolean).pop()?.replace(/-/g, ' ') || 'Related guide',
+  }));
   const url = `${site.url}/${entry.kind}/${entry.slug}`;
   const faqStart = blocks.findIndex((block) => block === '## Frequently asked questions');
   const faqBlocks = faqStart < 0 ? [] : blocks.slice(faqStart + 1);
   const faqs = faqBlocks.reduce<{ question: string; answer: string }[]>((items, block) => {
     if (block.startsWith('## ')) return items;
-    if (block.startsWith('### ')) items.push({ question: block.slice(4), answer: '' });
-    else if (items.length && !items[items.length - 1].answer) items[items.length - 1].answer = block.replace(/\n/g, ' ');
+    if (block.startsWith('### ')) items.push({ question: normalizeVisibleText(block.slice(4)), answer: '' });
+    else if (items.length && !items[items.length - 1].answer) items[items.length - 1].answer = normalizeVisibleText(block.replace(/\n/g, ' '));
     return items;
   }, []).filter((item) => item.answer);
   const schema = {
@@ -56,28 +77,32 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
       acceptedAnswer: { '@type': 'Answer', text: item.answer },
     })),
   };
-  return <main className="section rich-article-main"><JsonLd data={schema}/>{faqs.length ? <JsonLd data={faqSchema}/> : null}<article className="container rich-article">
-    <p className="eyebrow">{entry.category}</p>
-    <h1>{entry.title}</h1>
-    <p className="lead">{entry.description}</p>
-    <p className="article-date"><time dateTime={entry.published}>Published {formatPublicationDate(entry.published)}</time></p>
-    <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
-    {headings.length > 1 ? <nav className="article-toc" aria-label="Table of contents"><strong>On this page</strong><ol>{headings.map((heading) => <li key={heading}><a href={`#${heading.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}>{heading}</a></li>)}</ol></nav> : null}
-    {blocks.map((block, index) => {
-      if (block.startsWith('# ')) return null;
-      if (block.startsWith('## ')) {
-        const heading = block.slice(3);
-        return <h2 id={heading.toLowerCase().replace(/[^a-z0-9]+/g, '-')} key={index}>{heading}</h2>;
-      }
-      if (block.startsWith('### ')) return <h3 key={index}>{block.slice(4)}</h3>;
-      if (block.split('\n').every((line) => line.startsWith('- '))) return <ul key={index}>{block.split('\n').map((line) => <li key={line}>{inline(line.slice(2))}</li>)}</ul>;
-      const table = tableRows(block);
-      if (table) return <div className="article-table-wrap" key={index}><table className="article-table"><thead><tr>{table.headings.map((cell) => <th scope="col" key={cell}>{inline(cell)}</th>)}</tr></thead><tbody>{table.rows.map((row, rowIndex) => <tr key={rowIndex}>{row.map((cell, cellIndex) => <td key={cellIndex}>{inline(cell)}</td>)}</tr>)}</tbody></table></div>;
-      return <p key={index}>{inline(block.replace(/\n/g, ' '))}</p>;
-    })}
-    {entry.related.length ? <aside className="article-related" aria-labelledby="related-content"><h2 id="related-content">Related content</h2><ul>{entry.related.map((href) => {
-      const label = href.split('/').filter(Boolean).pop()?.replace(/-/g, ' ') || 'Related guide';
-      return <li key={href}><a href={href}>{label}</a></li>;
-    })}</ul></aside> : null}
-  </article><CTA/></main>;
+  return <main id="main-content" className="section rich-article-main">
+    <JsonLd data={schema}/>{faqs.length ? <JsonLd data={faqSchema}/> : null}
+    <article className="container rich-article">
+      <header className="article-header">
+        <p className="eyebrow">{entry.category}</p>
+        <h1>{entry.title}</h1>
+        <p className="lead">{entry.description}</p>
+        <p className="article-date"><time dateTime={entry.published}>Published {formatPublicationDate(entry.published)}</time></p>
+        <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
+      </header>
+      <div className="article-layout">
+        <div className="article-copy">
+          {blocks.map((block, index) => {
+            if (block.startsWith('# ')) return null;
+            const heading = headingByIndex.get(index);
+            if (heading?.level === 2) return <h2 id={heading.id} key={index}>{heading.label}</h2>;
+            if (heading?.level === 3) return <h3 id={heading.id} key={index}>{heading.label}</h3>;
+            if (block.split('\n').every((line) => line.startsWith('- '))) return <ul key={index}>{block.split('\n').map((line) => <li key={line}>{inline(line.slice(2))}</li>)}</ul>;
+            const table = tableRows(block);
+            if (table) return <div className="article-table-wrap" key={index}><table className="article-table"><thead><tr>{table.headings.map((cell) => <th scope="col" key={cell}>{inline(cell)}</th>)}</tr></thead><tbody>{table.rows.map((row, rowIndex) => <tr key={rowIndex}>{row.map((cell, cellIndex) => <td key={cellIndex}>{inline(cell)}</td>)}</tr>)}</tbody></table></div>;
+            return <p key={index}>{inline(block.replace(/\n/g, ' '))}</p>;
+          })}
+        </div>
+        <ArticleSidebar headings={headings} published={entry.published} updated={entry.updated} category={entry.category} related={related}/>
+      </div>
+    </article>
+    <CTA/>
+  </main>;
 }

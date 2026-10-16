@@ -123,7 +123,7 @@ For a business evaluating [after-hours call answering](/services/after-hours-ans
 
 ## Sources
 
-- [Cybersecurity Framework 2.0](https://doi.org/10.6028/NIST.CSWP.29) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [The NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [Standards for Internal Control in the Federal Government](https://www.gao.gov/products/gao-14-704g) — U.S. Government Accountability Office. Checked October 2, 2026.
-- [ADA Requirements: Effective Communication](https://www.ada.gov/resources/effective-communication/) — U.S. Department of Justice. Checked October 2, 2026.
+- [Cybersecurity Framework 2.0](https://doi.org/10.6028/NIST.CSWP.29), National Institute of Standards and Technology. Checked October 2, 2026.
+- [The NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20), National Institute of Standards and Technology. Checked October 2, 2026.
+- [Standards for Internal Control in the Federal Government](https://www.gao.gov/products/gao-14-704g), U.S. Government Accountability Office. Checked October 2, 2026.
+- [ADA Requirements: Effective Communication](https://www.ada.gov/resources/effective-communication/), U.S. Department of Justice. Checked October 2, 2026.

@@ -1,7 +1,7 @@
 ---
 slug: bilingual-call-routing-language-preference-handoff
 title: Bilingual call routing: capture language preference without overstating coverage
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Record language preference, interpreter need, caller purpose, and safe contact details for a respectful bilingual call handoff.
 published: 2026-09-28
 updated: 2026-09-28
 category: call-routing

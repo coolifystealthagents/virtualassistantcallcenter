@@ -9,55 +9,30 @@ image: /thumbnails/call-backlog-triage-process.svg
 imageAlt: A call backlog triage process showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Freeze and inventory the backlog
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Build a backlog register with one row per caller need, not one row per attempt. Add priority class, evidence for that class, current owner, next action, and a due time that can be sorted.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Resolve duplicates and uncertain deadlines
 
-## Build the call path
+Potential safety issues leave the normal backlog for the named urgent path. Unknown callback details go to research status; disputed priority goes to the queue manager; systemwide incidents may be grouped only if each caller record remains traceable.
 
-Use a short path that an assistant can follow under pressure:
+## Create a triage register
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Capture record ID, first contact time, latest attempt, caller, callback number, request category, affected service, stated deadline, safety or access flag, customer impact, duplicate links, last promise, priority, owner, due time, and disposition.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Limit triage authority
 
-## Set decision rules
+A triager may merge duplicates, apply documented priority rules, and assign approved queues. They may not erase old attempts, classify a loud caller as more urgent without evidence, make technical judgments, or promise resolution order.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Score consequence instead of emotion
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+Work in short sweeps: first remove safety and fixed-deadline cases, then protect existing promises, then process routine work by age. Recheck the queue after every sweep because new information can change ownership.
 
-## Protect the record
+## Pilot on the oldest mixed batch
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Triage a batch containing a duplicate voicemail, a missed deadline, a vague “urgent” message, and a safety-related statement. Have a second reviewer compare classifications before scaling.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Track whether the backlog is truly shrinking
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Watch open item count by age band, oldest item age, items completed, new items arriving, overdue promises, reassignment count, duplicates merged, and reopened work. Report inflow and outflow together.

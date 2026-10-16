@@ -479,7 +479,7 @@
     "slug": "appointment-confirmation-exception-board",
     "title": "Maintain an Appointment Confirmation Exception Board",
     "category": "Call operations",
-    "image": "/thumbnails/appointment-confirmation-exception-board.svg",
+    "image": "/thumbnails/virtualassistantcallcenter-exception-owner-map.svg",
     "imageAlt": "Editorial diagram for Maintain an Appointment Confirmation Exception Board, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   },
   {
@@ -507,7 +507,7 @@
     "slug": "call-script-version-release",
     "title": "Release Call Script Changes With Version Control",
     "category": "Call operations",
-    "image": "/thumbnails/call-script-version-release.svg",
+    "image": "/thumbnails/virtualassistantcallcenter-backlog-aging-review.svg",
     "imageAlt": "Editorial diagram for Release Call Script Changes With Version Control, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   },
   {
@@ -528,7 +528,7 @@
     "slug": "virtualassistantcallcenter-client-decision-packet",
     "title": "Separate Repeat Spam Calls From Real Caller Risk",
     "category": "Call operations",
-    "image": "/thumbnails/virtualassistantcallcenter-client-decision-packet.svg",
+    "image": "/thumbnails/repeat-spam-caller-disposition.svg",
     "imageAlt": "Editorial workflow illustration for Separate Repeat Spam Calls From Real Caller Risk"
   },
   {
@@ -542,7 +542,7 @@
     "slug": "virtualassistantcallcenter-monthly-control-closeout",
     "title": "Capture Acceptance Before Completing a Warm Transfer",
     "category": "Call operations",
-    "image": "/thumbnails/virtualassistantcallcenter-monthly-control-closeout.svg",
+    "image": "/thumbnails/warm-transfer-acceptance-receipt.svg",
     "imageAlt": "Editorial workflow illustration for Capture Acceptance Before Completing a Warm Transfer"
   },
   {
@@ -570,14 +570,14 @@
     "slug": "virtualassistantcallcenter-change-control-release-note",
     "title": "Set a Redaction Rule for Payment Details on Calls",
     "category": "Call operations",
-    "image": "/thumbnails/virtualassistantcallcenter-change-control-release-note.svg",
+    "image": "/thumbnails/payment-detail-call-redaction-rule.svg",
     "imageAlt": "Editorial workflow illustration for Set a Redaction Rule for Payment Details on Calls"
   },
   {
     "slug": "call-supervisor-coverage-map",
     "title": "Publish a Call Supervisor Coverage Map",
     "category": "Call operations",
-    "image": "/thumbnails/call-supervisor-coverage-map.svg",
+    "image": "/thumbnails/virtualassistantcallcenter-quality-sample-calibration.svg",
     "imageAlt": "Editorial diagram for Publish a Call Supervisor Coverage Map, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   },
   {
@@ -591,7 +591,7 @@
     "slug": "daily-call-quality-sample",
     "title": "Run a Daily Call Quality Sample Without Cherry-Picking",
     "category": "Call operations",
-    "image": "/thumbnails/daily-call-quality-sample.svg",
+    "image": "/thumbnails/virtualassistantcallcenter-access-scope-recertification.svg",
     "imageAlt": "Editorial diagram for Run a Daily Call Quality Sample Without Cherry-Picking, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   },
   {
@@ -612,7 +612,7 @@
     "slug": "virtualassistantcallcenter-minimum-access-effectiveness-study",
     "title": "Callback Delay and Caller Outcomes: An Evidence Study",
     "category": "Call operations research",
-    "image": "/thumbnails/virtualassistantcallcenter-minimum-access-effectiveness-study.svg",
+    "image": "/thumbnails/callback-delay-outcome-evidence-study.svg",
     "imageAlt": "Editorial workflow illustration for Callback Delay and Caller Outcomes: An Evidence Study"
   },
   {
@@ -633,7 +633,7 @@
     "slug": "caller-repetition-burden-evidence-review",
     "title": "Caller Repetition Burden: An Evidence Review",
     "category": "Call operations research",
-    "image": "/thumbnails/caller-repetition-burden-evidence-review.svg",
+    "image": "/thumbnails/virtualassistantcallcenter-handoff-completeness-observation.svg",
     "imageAlt": "Editorial diagram for Caller Repetition Burden: An Evidence Review, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout"
   },
   {

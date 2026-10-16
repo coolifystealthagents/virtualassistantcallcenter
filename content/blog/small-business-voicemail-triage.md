@@ -6,7 +6,7 @@ datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
-image: /aug21-heroes/small-business-voicemail-triage.webp
+image: /aug19-heroes/call-center-assistant-launch-readiness-review.webp
 imageAlt: Editorial illustration about small business teams call handling
 publishedAt: 2026-08-21T12:00:00.000Z
 updatedAt: 2026-08-21T12:00:00.000Z

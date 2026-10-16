@@ -1,7 +1,7 @@
 ---
 slug: appliance-repair-warranty-authorization-calls
 title: Appliance warranty authorization calls: separate proof, coverage, and scheduling
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Route appliance warranty authorization calls with unit, service history, claim reference, requester role, and approval boundaries.
 published: 2026-09-28
 updated: 2026-09-28
 category: field-service-intake

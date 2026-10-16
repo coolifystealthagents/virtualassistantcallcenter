@@ -63,7 +63,7 @@ export function BlogListing({ page = 1 }: { page?: number }) {
   }));
   const posts = [
     ...filePosts,
-    ...blogPosts.map((p) => ({ ...p, published: "" })),
+    ...blogPosts,
   ].sort((a, b) => {
     const byDate = b.published.localeCompare(a.published);
     if (byDate) return byDate;
@@ -91,15 +91,16 @@ export function BlogListing({ page = 1 }: { page?: number }) {
   return (
     <>
       <Header />
-      <main className="fleet-main">
+      <main id="main-content" className="fleet-main">
         <section className="fleet-hero">
-          <div className="container">
-            <p className="eyebrow">Blog</p>
+          <div className="container index-hero-grid">
+            <div><p className="eyebrow">Blog</p>
             <h1>Practical guides for Philippines-based staffing</h1>
             <p className="lead">
               Browse role-planning, onboarding, access, and operating guides for
               teams working with specialists in the Philippines.
-            </p>
+            </p></div>
+            <img className="index-hero-image" src="/thumbnails/phone-support-workflow-for-growing-teams.svg" alt="Phone support workflow connecting caller intake, notes, routing, and manager review" width="1200" height="675" />
           </div>
         </section>
         <section className="section">

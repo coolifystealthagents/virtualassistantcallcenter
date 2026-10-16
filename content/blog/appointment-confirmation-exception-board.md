@@ -5,7 +5,7 @@ description: Evidence-led operating guidance for appointment confirmation except
 published: 2026-10-08
 updated: 2026-10-08
 category: Call operations
-image: /thumbnails/appointment-confirmation-exception-board.svg
+image: /thumbnails/virtualassistantcallcenter-exception-owner-map.svg
 imageAlt: Editorial diagram for Maintain an Appointment Confirmation Exception Board, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
 ---

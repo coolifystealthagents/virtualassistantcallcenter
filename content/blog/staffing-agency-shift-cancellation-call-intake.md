@@ -1,7 +1,7 @@
 ---
 slug: staffing-agency-shift-cancellation-call-intake
 title: Staffing shift cancellations: record timing, acknowledgment, and replacement ownership
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Capture shift cancellations by worker, client, shift, timing, stated reason, and coverage impact without promising a replacement.
 published: 2026-09-28
 updated: 2026-09-28
 category: workforce-call-workflows

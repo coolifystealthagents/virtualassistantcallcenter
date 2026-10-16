@@ -5,7 +5,7 @@ description: Evidence-led operating guidance for call script version control, wi
 published: 2026-10-08
 updated: 2026-10-08
 category: Call operations
-image: /thumbnails/call-script-version-release.svg
+image: /thumbnails/virtualassistantcallcenter-backlog-aging-review.svg
 imageAlt: Editorial diagram for Release Call Script Changes With Version Control, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
 ---

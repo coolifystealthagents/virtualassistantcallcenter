@@ -1,7 +1,7 @@
 ---
 slug: marina-transient-slip-inquiry-call-intake
 title: Marina transient slip inquiries: collect vessel-fit facts without promising a berth
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Capture vessel dimensions, dates, utilities, arrival plans, and contact details for a marina transient slip availability review.
 published: 2026-09-28
 updated: 2026-09-28
 category: reservation-call-workflows

@@ -6,7 +6,7 @@ datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
-image: /aug21-heroes/legal-intake-call-transfer-rules.webp
+image: /aug19-heroes/call-center-assistant-handoff-acceptance-log.webp
 imageAlt: Editorial illustration about legal intake teams call handling
 publishedAt: 2026-08-21T12:00:00.000Z
 updatedAt: 2026-08-21T12:00:00.000Z

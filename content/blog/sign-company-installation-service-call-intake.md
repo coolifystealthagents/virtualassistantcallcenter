@@ -1,7 +1,7 @@
 ---
 slug: sign-company-installation-service-call-intake
 title: Sign company installation and service call intake
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Route sign installation and service calls with site, sign type, access, observed condition, deadline, and project-reference details.
 published: 2026-09-18
 updated: 2026-09-18
 category: Sign Service Calls

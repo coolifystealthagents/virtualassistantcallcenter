@@ -1,7 +1,7 @@
 ---
 slug: commercial-pest-sighting-call-intake
 title: Commercial pest sighting calls: capture evidence, not guesses
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Document commercial pest sightings by site, observed pest, affected area, timing, operational impact, and safe escalation trigger.
 published: 2026-09-18
 updated: 2026-09-18
 category: Commercial Pest Control Calls

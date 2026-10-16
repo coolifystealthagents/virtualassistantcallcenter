@@ -1,7 +1,7 @@
 ---
 slug: title-company-payoff-request-call-intake
 title: Title company payoff request calls: verify the request before moving documents
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Organize payoff request calls with property or file reference, requester role, deadline, authorization status, and secure follow-up path.
 published: 2026-09-28
 updated: 2026-09-28
 category: professional-services-intake

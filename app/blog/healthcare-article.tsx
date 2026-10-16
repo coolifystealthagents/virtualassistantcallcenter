@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import { DiscoveredArticleSidebar } from '../article-sidebar';
 
 export const healthcareSchedulingArticle = {
   slug: 'healthcare-appointment-scheduling-virtual-assistant-philippines',
@@ -31,7 +32,7 @@ export function HealthcareSchedulingArticle() {
   const lawphil = healthcareSchedulingArticle.sources[3].url;
   const hhs = healthcareSchedulingArticle.sources[4].url;
 
-  return <article className="container rich-article" data-article-marker={healthcareSchedulingArticle.marker}>
+  return <article className="container rich-article article-with-discovered-sidebar" data-article-marker={healthcareSchedulingArticle.marker}>
     <p className="eyebrow">Philippines healthcare call support guide</p>
     <h1>{healthcareSchedulingArticle.title}</h1>
     <p className="lead">A Filipino virtual assistant can help a medical office book visits and carry routine messages. The work needs a narrow call script, small system access, and a fast path to clinical staff.</p>
@@ -163,5 +164,6 @@ export function HealthcareSchedulingArticle() {
       <ol>{healthcareSchedulingArticle.sources.map((source)=><li key={source.url}><a href={source.url}>{source.name}</a></li>)}</ol>
       <p className="methods-note">Source check: each page was opened before this article was written. The CDC figures describe U.S. physicians, while the legal and security pages do not certify this sample call plan.</p>
     </section>
+    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Healthcare scheduling" related={[{href:'/services/appointment-scheduling',label:'Appointment scheduling'},{href:'/blog',label:'Browse all guides'}]}/>
   </article>;
 }

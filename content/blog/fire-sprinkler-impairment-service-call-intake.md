@@ -1,7 +1,7 @@
 ---
 slug: fire-sprinkler-impairment-service-call-intake
 title: Fire sprinkler impairment calls: route urgent facts without making the safety decision
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Route fire sprinkler impairment calls with site, affected system, observed condition, watch status, and urgent service ownership.
 published: 2026-09-28
 updated: 2026-09-28
 category: emergency-intake

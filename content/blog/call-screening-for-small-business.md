@@ -9,55 +9,30 @@ image: /thumbnails/call-screening-for-small-business.svg
 imageAlt: Call screening for small business teams showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Screen for purpose without building a wall
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Create a screening card with purpose categories, minimum identity checks, approved destinations, obvious abuse or fraud signals, blocked-action rules, and a supervisor review option. Keep a public-contact route for callers who lack internal names.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Verify proportionately
 
-## Build the call path
+Good screening protects attention while preserving access. Ask “What would you like the team to help with?” before requesting a specific employee name, because genuine callers may know the need but not the organization chart.
 
-Use a short path that an assistant can follow under pressure:
+## Use a simple routing screen
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Capture call time, caller name, organization if offered, callback number, stated purpose, person or function requested, existing relationship, reference number when relevant, verification result, risk signal observed, route chosen, screen outcome, owner, and callback expectation.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Provide a path for uncertain callers
 
-## Set decision rules
+Threats use the safety path; suspected impersonation goes to security review; persistent sales calls use the vendor policy; accessibility or language needs receive an alternate route. An uncertain but plausible request becomes a callback task, not an automatic rejection.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Constrain blocking decisions
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+A screener may apply published routing and safety rules. They may not demand unnecessary personal data, claim an executive requested a call, judge legitimacy by accent or demeanor, reveal schedules, or permanently block a caller without authorized review.
 
-## Protect the record
+## Test legitimate and risky patterns
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Test a known customer without a reference, a vendor cold call, a caller using an executive’s name, and a legitimate caller who communicates through an interpreter. Ensure each can reach an accountable next step.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Monitor access and false blocks
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Track calls routed, held for review, blocked by reason, later validated, false blocks, transfer acceptance, caller repeats, and supervisor reversals. Review outcomes across call types for inconsistent treatment.

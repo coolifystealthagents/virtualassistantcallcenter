@@ -9,55 +9,30 @@ image: /thumbnails/virtual-assistant-call-notes-template.svg
 imageAlt: A virtual assistant call notes template showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Use a note that another person can act on
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Build a call note card with four blocks: caller and contact, reason and facts, action taken, and owned next step. A short verbatim field lets the assistant preserve an uncertain statement without presenting it as verified.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Separate caller words from conclusions
 
-## Build the call path
+Write in chronological, neutral language. “Caller stated the invoice was paid Friday” is safer than “payment was received” when the assistant cannot verify the ledger.
 
-Use a short path that an assistant can follow under pressure:
+## Capture facts in fixed fields
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Include call ID, date and time, caller name, organization, verified callback number, safe contact method, call reason, relevant reference number, facts stated by caller, action taken, promised response, next owner, due time, consent or contact restriction, and note author.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Route uncertain or sensitive notes
 
-## Set decision rules
+When identity cannot be verified, mark the record unverified and omit protected account detail. If a caller asks for secrecy, threatens harm, or disputes the wording, stop routine intake and use the approved supervisor or emergency path.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Set the assistant boundary
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+The assistant may summarize the conversation and record approved actions. The assistant should not diagnose, interpret a contract, decide eligibility, store passwords or full payment card data, or label a caller with subjective terms.
 
-## Protect the record
+## Test the template with messy conversations
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Try the card on a routine scheduling call, a caller who changes topics, a poor connection, and a disputed account question. Ask the receiver whether the note supports the next action without replaying the call.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Audit whether notes help
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Review required-field completion, factual corrections, notes returned for clarification, handoffs accepted without repeat questions, and sensitive-data findings. Count blank fields separately from fields marked not applicable.

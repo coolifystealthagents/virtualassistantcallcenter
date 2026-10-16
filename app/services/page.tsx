@@ -1,128 +1,13 @@
-import { CTA, Footer, Header, JsonLd } from '../components';
+import { CTA,Footer,Header,JsonLd } from '../components';
 import { site } from '../data';
 import { fleetServices } from '../fleet-content';
-
-export const metadata = {
-  title: 'Philippines call support services',
-  description: 'Compare call answering, appointment setting, customer support, follow-up, and QA services handled by Filipino call support specialists.',
-  alternates: { canonical: '/services' },
-  openGraph: {
-    title: 'Philippines call support services',
-    description: 'Choose a focused phone support lane for a Filipino specialist, with clear scripts, records, and manager rules.',
-    url: '/services',
-  },
-};
-
-const serviceRecords: Record<string, { status: string; action: string; record: string }> = {
-  'inbound-customer-calls': { status: 'Answer', action: 'Greet, identify the reason, and route the caller', record: 'Caller note + owner' },
-  'outbound-lead-qualification': { status: 'Qualify', action: 'Use approved questions and book the right next step', record: 'Lead status + follow-up' },
-  'appointment-setting': { status: 'Book', action: 'Offer approved times and confirm the details', record: 'Calendar + CRM note' },
-  'after-hours-answering': { status: 'Route', action: 'Take the message and follow the urgent-call rule', record: 'Alert + callback time' },
-  'order-status-calls': { status: 'Update', action: 'Check the allowed order fields and explain the status', record: 'Order note + outcome' },
-  'patient-scheduling': { status: 'Schedule', action: 'Book from the approved calendar without giving medical advice', record: 'Appointment + flag' },
-  'real-estate-lead-intake': { status: 'Capture', action: 'Ask the required property and timing questions', record: 'Lead record + agent' },
-  'customer-win-back-calls': { status: 'Follow up', action: 'Use the approved offer and log the response', record: 'Attempt + outcome' },
-  'call-quality-assurance': { status: 'Review', action: 'Check a call sample against the scorecard', record: 'Score + coaching note' },
-  'call-disposition-reporting': { status: 'Report', action: 'Clean call tags and send the queue summary', record: 'Disposition + next action' },
-};
-
-const itemList = {
-  '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  name: 'Philippines call support services',
-  url: `${site.url}/services`,
-  mainEntity: {
-    '@type': 'ItemList',
-    itemListElement: fleetServices.map((service, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: service.title,
-      url: `${site.url}/services/${service.slug}`,
-    })),
-  },
-};
-
-export default function Services() {
-  return (
-    <>
-      <Header />
-      <main className="services-console">
-        <JsonLd data={itemList} />
-
-        <section className="services-console-hero">
-          <div className="container services-console-hero-grid">
-            <div className="services-console-copy">
-              <p className="services-console-kicker"><span aria-hidden="true" /> Philippines call desk</p>
-              <h1>Choose the call lane. Set the rules. Keep the record.</h1>
-              <p className="services-console-lead">Filipino call support specialists can answer, book, follow up, and update your systems. You choose what they can handle and when a manager must step in.</p>
-              <div className="services-console-actions">
-                <a className="services-console-button" href="/contact-us">Map my first call lane</a>
-                <a className="services-console-link" href="/workflows">See the call flow <span>→</span></a>
-              </div>
-              <div className="services-console-rule">
-                <strong>Manager rule</strong>
-                <span>If the script does not cover the request, the specialist routes it to your named owner.</span>
-              </div>
-            </div>
-
-            <div className="services-console-image">
-              <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=82" alt="Call support team reviewing customer records on laptop screens" />
-              <div className="services-console-image-tag"><i aria-hidden="true" /> Script ready</div>
-              <div className="services-console-image-card">
-                <span>Sample handoff</span>
-                <strong>Appointment request</strong>
-                <p>Calendar checked · CRM note saved</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <section className="services-board" aria-labelledby="services-board-title">
-          <div className="container">
-            <div className="services-board-heading">
-              <div>
-                <p className="services-board-kicker">Service queue</p>
-                <h2 id="services-board-title">Start with one repeatable call type.</h2>
-              </div>
-              <p>Each lane below names the action and the record your Filipino specialist leaves behind. Open a service to see the tasks, controls, and first review steps.</p>
-            </div>
-
-            <div className="services-board-shell">
-              <div className="services-board-bar">
-                <div><i aria-hidden="true" /> Coverage menu</div>
-                <span>Philippines team · manager controlled</span>
-              </div>
-              <div className="services-board-grid">
-                {fleetServices.map((service, index) => {
-                  const record = serviceRecords[service.slug];
-                  return (
-                    <a className="services-board-card" href={`/services/${service.slug}`} key={service.slug}>
-                      <div className="services-board-card-top">
-                        <span>Lane {String(index + 1).padStart(2, '0')}</span>
-                        <b>{record.status}</b>
-                      </div>
-                      <h3>{service.title}</h3>
-                      <p>{record.action}</p>
-                      <dl>
-                        <div><dt>Record</dt><dd>{record.record}</dd></div>
-                        <div><dt>Team</dt><dd>Filipino specialist</dd></div>
-                      </dl>
-                      <strong className="services-board-open">Open service <span>→</span></strong>
-                    </a>
-                  );
-                })}
-              </div>
-              <div className="services-board-footer">
-                <p><span>QA</span> Review call notes, routing, and safe escalation before adding more call types.</p>
-                <a href="/qa-scorecard">Use the QA scorecard →</a>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <CTA />
-      </main>
-      <Footer />
-    </>
-  );
-}
+import './services.css';
+export const metadata={title:'Philippines Call Support Services',description:'Compare Philippines-based call answering, appointment setting, lead intake, follow-up, quality assurance, and reporting services.',alternates:{canonical:'/services'},openGraph:{title:'Philippines Call Support Services',description:'Choose a focused call support lane with defined inputs, outputs, boundaries, and manager-owned exceptions.',url:'/services'}};
+const itemList={'@context':'https://schema.org','@type':'CollectionPage',name:'Philippines call support services',url:`${site.url}/services`,mainEntity:{'@type':'ItemList',itemListElement:fleetServices.map((service,index)=>({'@type':'ListItem',position:index+1,name:service.title,url:`${site.url}/services/${service.slug}`}))}};
+const faqs=[['Can we start with one call type?','Yes. A narrow first lane is easier to script, review, and improve before additional call types are added.'],['Do specialists make policy decisions?','No. Your team defines the approved script, access, and escalation rules. Exceptions remain with your named manager.'],['Which systems can the team use?','Use only the phone, calendar, CRM, help desk, or shared inbox access required for the assigned lane.'],['How is quality reviewed?','Review a small call sample for accuracy, tone, routing, notes, and safe escalation using an agreed scorecard.']];
+export default function Services(){return <><Header/><main id="main-content" className="services-console"><JsonLd data={itemList}/><section className="services-console-hero"><div className="container services-console-hero-grid"><div><p className="services-console-kicker">Philippines call support</p><h1>Choose the work lane before you choose the coverage.</h1><p className="services-console-lead">Start with the caller, decision boundary, system of record, and required output. Then match the hours and team capacity to work that is already clear.</p><div className="services-console-actions"><a className="services-console-button" href="/contact-us">Map my first call lane</a><a className="services-console-link" href="#service-decision-guide">Compare the options</a></div></div><figure className="services-console-image"><img src="/illustrations/getillustrations/communication/call-support-handoff.webp" alt="Call support specialist documenting a customer handoff"/><figcaption>One script. One record. One clear owner.</figcaption></figure></div></section>
+<section className="services-board" aria-labelledby="services-board-title"><div className="container"><div className="services-board-heading"><div><p className="services-board-kicker">Service menu</p><h2 id="services-board-title">Select the caller outcome you need.</h2></div><p>Each service page explains who it fits, the source information required, the work performed, the resulting records, and the decisions that stay with your team.</p></div><div className="services-board-grid">{fleetServices.map(service=><a className="services-board-card" href={`/services/${service.slug}`} key={service.slug}><span>{service.audience.split(' that ')[0]}</span><h3>{service.title}</h3><p>{service.problem}</p><strong>View scope and boundaries</strong></a>)}</div></div></section>
+<section id="service-decision-guide" className="service-decision-guide"><div className="container"><div className="service-section-heading"><p>Decision guide</p><h2>Pick by outcome, not by job title.</h2></div><div className="service-decision-grid"><article><h3>Capture and route</h3><p>Use inbound calls, after-hours answering, or real estate intake when the primary job is collecting complete context and assigning the next owner.</p></article><article><h3>Book and follow up</h3><p>Use appointment setting, lead qualification, or win-back calls when the next step follows a defined eligibility and consent rule.</p></article><article><h3>Measure and improve</h3><p>Use quality assurance or disposition reporting when managers need observable evidence, cleaner records, and coaching priorities.</p></article></div></div></section>
+<section className="service-operating-model"><div className="container service-model-grid"><div><p className="services-board-kicker">Operating model</p><h2>Your team keeps the decisions. The call lane keeps moving.</h2><p>Specialists work from approved source material and leave an auditable record. Anything outside the script moves to the named owner instead of being guessed.</p></div><ol><li><strong>Define</strong><span>Caller types, approved language, systems, and exceptions</span></li><li><strong>Run</strong><span>Answer, qualify, schedule, update, or report within scope</span></li><li><strong>Review</strong><span>Sample calls and records before expanding the lane</span></li></ol></div></section>
+<section className="service-proof"><div className="container service-proof-grid"><img src="/stealth-agents-team.jpg" alt="Stealth Agents team in the Bacolod office"/><div><p className="services-board-kicker">Delivery environment</p><h2>Supported by the Stealth Agents team.</h2><p>The parent team provides the recruiting and support environment behind these Philippines-based call services. Your written workflow remains the source of truth for daily execution.</p><a href="https://stealthagents.com/our-team/" target="_blank" rel="noopener noreferrer">Meet the official team</a></div></div></section>
+<section className="service-faqs"><div className="container"><div className="service-section-heading"><p>Frequently asked questions</p><h2>Clarify the lane before launch.</h2></div><div className="service-faq-grid">{faqs.map(([q,a])=><details key={q}><summary>{q}</summary><p>{a}</p></details>)}</div></div></section><CTA/></main><Footer/></>}

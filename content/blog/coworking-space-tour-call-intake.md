@@ -1,7 +1,7 @@
 ---
 slug: coworking-space-tour-call-intake
 title: Coworking space tour calls that qualify without overpromising
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Capture workspace needs, team size, desired dates, and access questions so coworking tour requests reach the right location owner.
 published: 2026-09-18
 updated: 2026-09-18
 category: Coworking Lead Intake

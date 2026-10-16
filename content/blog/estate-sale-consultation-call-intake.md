@@ -1,7 +1,7 @@
 ---
 slug: estate-sale-consultation-call-intake
 title: Estate sale consultation calls: a respectful intake checklist
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Prepare estate sale consultation requests with property, timing, decision-maker, access, broad inventory, and follow-up details.
 published: 2026-09-18
 updated: 2026-09-18
 category: Estate Sale Lead Intake

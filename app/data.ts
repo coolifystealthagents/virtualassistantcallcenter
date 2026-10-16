@@ -61,9 +61,9 @@ import featuredImages from '../content/featured-images.json';
 
 const imageBySlug = Object.fromEntries(featuredImages.map((item) => [item.slug, item]));
 export const blogPosts = [
-  { slug: 'business-call-scam-screening-virtual-assistant-philippines', title: 'How a Philippines virtual assistant can screen scam calls', excerpt: 'A safe call-screening plan for Filipino virtual assistants who answer vendor, customer, and account calls without making sensitive decisions.', minutes: 11 },
-  { slug: 'healthcare-appointment-scheduling-virtual-assistant-philippines', title: 'Healthcare appointment scheduling with a Philippines virtual assistant', excerpt: 'A careful call plan for medical offices that use a Filipino virtual assistant for scheduling, routine messages, and telehealth support.', minutes: 12 },
-  { slug: 'outbound-lead-follow-up-virtual-assistant-philippines', title: 'Outbound lead follow-up with a Philippines virtual assistant', excerpt: 'A consent-first call plan for Filipino virtual assistants who follow up with leads while keeping call lists, scripts, records, and stop requests under owner control.', minutes: 12 },
+  { slug: 'business-call-scam-screening-virtual-assistant-philippines', title: 'How a Philippines virtual assistant can screen scam calls', excerpt: 'A safe call-screening plan for Filipino virtual assistants who answer vendor, customer, and account calls without making sensitive decisions.', minutes: 11, published: '2026-07-27' },
+  { slug: 'healthcare-appointment-scheduling-virtual-assistant-philippines', title: 'Healthcare appointment scheduling with a Philippines virtual assistant', excerpt: 'A careful call plan for medical offices that use a Filipino virtual assistant for scheduling, routine messages, and telehealth support.', minutes: 12, published: '2026-07-27' },
+  { slug: 'outbound-lead-follow-up-virtual-assistant-philippines', title: 'Outbound lead follow-up with a Philippines virtual assistant', excerpt: 'A consent-first call plan for Filipino virtual assistants who follow up with leads while keeping call lists, scripts, records, and stop requests under owner control.', minutes: 12, published: '2026-07-27' },
 ].map((post) => ({ ...post, ...imageBySlug[post.slug] }));
 
 export const routes = ['', '/workflows', '/qa-scorecard', '/blog', '/contact-us', '/privacy', '/terms', '/thank-you', '/thanks-whats-next', ...blogPosts.map((p) => `/blog/${p.slug}`)];

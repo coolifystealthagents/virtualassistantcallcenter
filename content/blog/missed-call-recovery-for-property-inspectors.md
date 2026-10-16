@@ -25,7 +25,7 @@ People often sound urgent because the consequence matters to them, not because t
 
 ## Make the handoff carry its own weight
 
-A transfer is not complete when a call is connected. The receiving person needs a concise summary containing who called, why, the relevant property type, inspection purpose, transaction stage, deadline, access question, and callback details, what was requested, and what was promised—if anything. If a live transfer is unavailable, the callback record should still explain the next action and the owner. Avoid adjectives such as “difficult” or “good lead”; use facts that another person can verify.
+A transfer is not complete when a call is connected. The receiving person needs a concise summary containing who called, why, the relevant property type, inspection purpose, transaction stage, deadline, access question, and callback details, what was requested, and what was promised, if anything. If a live transfer is unavailable, the callback record should still explain the next action and the owner. Avoid adjectives such as “difficult” or “good lead”; use facts that another person can verify.
 
 ## Design the boundary into the script
 

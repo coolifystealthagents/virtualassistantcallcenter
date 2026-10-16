@@ -53,7 +53,7 @@ For every claim, assign one source relationship:
 
 Add attribution. Identify whether the caller, assistant, transferred employee, background speaker, or system message supplied the information. Then mark certainty: asserted, confirmed, disputed, corrected, conditional, or unknown. This prevents a later correction from being flattened into the initial claim.
 
-Preserve a source locator—such as an authorized timestamp range or transcript line reference—without copying sensitive speech into the report. A reviewer should be able to reproduce the decision inside the controlled environment.
+Preserve a source locator, such as an authorized timestamp range or transcript line reference, without copying sensitive speech into the report. A reviewer should be able to reproduce the decision inside the controlled environment.
 
 ## Measure omissions separately from invented details
 
@@ -67,7 +67,7 @@ Measure material omission rate with its denominator: missing required elements d
 
 Small tokens often carry disproportionate operational weight. Create focused fields for telephone numbers, addresses, appointment times, quantities, names, spelling corrections, and negative statements. Compare canonical values only after preserving the raw source and the transformation rule.
 
-Test correction sequences: “It is 415—sorry—451.” Test alternatives: “Tuesday or Thursday, but not Wednesday.” Test conditional language: “If the part arrives, morning works.” Test speaker attribution after a transfer. Test phrases such as “no gas smell,” where dropping “no” reverses urgency.
+Test correction sequences: “It is 415, sorry, 451.” Test alternatives: “Tuesday or Thursday, but not Wednesday.” Test conditional language: “If the part arrives, morning works.” Test speaker attribution after a transfer. Test phrases such as “no gas smell,” where dropping “no” reverses urgency.
 
 Report exact-match performance for critical structured fields separately from semantic review of narrative claims. A high narrative score cannot compensate for wrong digits. Conversely, a formatting difference in a phone number should not be counted as an error when normalized digits and country context are identical under policy.
 
@@ -119,7 +119,7 @@ For a buyer assessing [call quality assurance](/services/call-quality-assurance)
 
 ## Sources
 
-- [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://doi.org/10.6028/NIST.AI.600-1) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — National Institute of Standards and Technology. Checked October 2, 2026.
+- [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://doi.org/10.6028/NIST.AI.600-1), National Institute of Standards and Technology. Checked October 2, 2026.
+- [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1), National Institute of Standards and Technology. Checked October 2, 2026.
+- [AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/), National Institute of Standards and Technology. Checked October 2, 2026.
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework), National Institute of Standards and Technology. Checked October 2, 2026.

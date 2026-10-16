@@ -9,55 +9,30 @@ image: /thumbnails/call-coverage-scorecard.svg
 imageAlt: A call coverage scorecard for managers showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Start with a manager scorecard
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Use one weekly worksheet with a row for each day and a final row for the whole review period. Columns should cover offered calls, answered calls, abandoned calls, callbacks due, callbacks completed on time, routing checks passed, note checks passed, and open overdue work.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Define each scorecard column
 
-## Build the call path
+Record period start, queue or line, business-hours interval, offered count, answered count, abandoned count, callback due time, callback completion time, sampled call ID, routing result, note result, exception reason, corrective owner, and review date.
 
-Use a short path that an assistant can follow under pressure:
+## Read coverage and quality together
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+A scorecard is useful when it points to work. A weak callback result should create an owner and a due date, while a routing error should lead to a directory or rule correction, not a vague reminder to try harder.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Assign action at the review
 
-## Set decision rules
+A reviewer may classify an observable result and assign routine coaching. They may not alter source call records, excuse a failure without evidence, or turn a small sample into a claim about every call. Pricing, staffing, and disciplinary decisions stay with the manager.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Handle distorted reporting periods
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+If an outage, holiday closure, test call, or carrier failure changes the denominator, preserve the original count and label the event. The operations owner decides whether a second view is warranted and documents the rule used.
 
-## Protect the record
+## Pilot the scorecard against real calls
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Score one normal day, one peak interval, one outage interval, and one day with staff absence. Recheck disputed rows against the source record before adopting the worksheet.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Keep the useful measures
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Track answer rate, callback promise kept rate, routing accuracy, note completeness, and overdue count. Show numerator and denominator beside every rate. Compare like periods rather than blending open and closed hours.

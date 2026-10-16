@@ -1,7 +1,7 @@
 ---
 slug: orthotics-prosthetics-repair-call-intake
 title: Orthotics and prosthetics repair call intake boundaries
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Organize orthotic and prosthetic repair calls around device type, observed issue, user impact, appointment context, and staff review.
 published: 2026-09-18
 updated: 2026-09-18
 category: Orthotics and Prosthetics Calls

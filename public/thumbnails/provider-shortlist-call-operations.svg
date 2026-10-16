@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Call-support provider evaluation board</title>
+  <desc id="desc">A structured evaluation board connecting call coverage, administrative follow-through, quality review, and owner approval.</desc>
+  <rect width="1200" height="630" fill="#071426"/>
+  <g fill="none" stroke="#17344d" stroke-width="1"><path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/><path d="M100 0v630M200 0v630M300 0v630M400 0v630M500 0v630M600 0v630M700 0v630M800 0v630M900 0v630M1000 0v630M1100 0v630"/></g>
+  <rect x="70" y="64" width="1060" height="502" rx="12" fill="#0c2138" stroke="#31516b" stroke-width="2"/>
+  <g font-family="Arial, sans-serif">
+    <text x="112" y="125" fill="#f05a36" font-size="18" font-weight="700" letter-spacing="2">PROVIDER EVALUATION BOARD</text>
+    <text x="112" y="177" fill="#ffffff" font-size="42" font-weight="800">Compare the operating lane, not the logo.</text>
+    <text x="112" y="215" fill="#b9c9d6" font-size="20">Verify every scope, owner, control, and commercial term directly.</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="17" font-weight="700">
+    <rect x="112" y="274" width="205" height="174" rx="8" fill="#112c45" stroke="#52708a"/>
+    <circle cx="146" cy="310" r="9" fill="#f05a36"/><text x="168" y="317" fill="#fff">Call coverage</text>
+    <text x="136" y="355" fill="#aebfcd" font-size="14" font-weight="400">Hours</text><text x="136" y="386" fill="#aebfcd" font-size="14" font-weight="400">Call types</text><text x="136" y="417" fill="#aebfcd" font-size="14" font-weight="400">Overflow rules</text>
+    <path d="M317 361h72" stroke="#66dcff" stroke-width="3"/><path d="m379 350 14 11-14 11" fill="none" stroke="#66dcff" stroke-width="3"/>
+    <rect x="393" y="274" width="205" height="174" rx="8" fill="#112c45" stroke="#52708a"/>
+    <circle cx="427" cy="310" r="9" fill="#66dcff"/><text x="449" y="317" fill="#fff">Follow-through</text>
+    <text x="417" y="355" fill="#aebfcd" font-size="14" font-weight="400">CRM updates</text><text x="417" y="386" fill="#aebfcd" font-size="14" font-weight="400">Appointments</text><text x="417" y="417" fill="#aebfcd" font-size="14" font-weight="400">Escalations</text>
+    <path d="M598 361h72" stroke="#66dcff" stroke-width="3"/><path d="m660 350 14 11-14 11" fill="none" stroke="#66dcff" stroke-width="3"/>
+    <rect x="674" y="274" width="205" height="174" rx="8" fill="#112c45" stroke="#52708a"/>
+    <circle cx="708" cy="310" r="9" fill="#b7f34a"/><text x="730" y="317" fill="#fff">Quality review</text>
+    <text x="698" y="355" fill="#aebfcd" font-size="14" font-weight="400">Samples</text><text x="698" y="386" fill="#aebfcd" font-size="14" font-weight="400">Corrections</text><text x="698" y="417" fill="#aebfcd" font-size="14" font-weight="400">Evidence</text>
+    <path d="M879 361h72" stroke="#66dcff" stroke-width="3"/><path d="m941 350 14 11-14 11" fill="none" stroke="#66dcff" stroke-width="3"/>
+    <rect x="955" y="274" width="133" height="174" rx="8" fill="#f05a36"/>
+    <text x="978" y="321" fill="#fff">Owner</text><text x="978" y="347" fill="#fff">approval</text>
+    <text x="978" y="394" fill="#fff" font-size="14" font-weight="400">Named</text><text x="978" y="418" fill="#fff" font-size="14" font-weight="400">boundary</text>
+  </g>
+  <text x="112" y="515" fill="#dce7ef" font-family="Arial, sans-serif" font-size="16">Virtual Assistant Call Center • practical buyer worksheet</text>
+</svg>

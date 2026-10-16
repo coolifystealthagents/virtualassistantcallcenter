@@ -101,16 +101,16 @@ Privacy at stage 10 of Caller ID Attestation Outcome Study requires pseudonymous
 
 ## Sources
 
-- [FCC Caller ID Authentication](https://www.fcc.gov/call-authentication) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [FCC Telecommunications Relay Services](https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [FTC Protecting Personal Information](https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [DOJ Guidance on the ADA](https://www.ada.gov/resources/effective-communication/) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [CISA Secure by Design](https://www.cisa.gov/securebydesign) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
-- [GAO Standards for Internal Control](https://www.gao.gov/products/gao-14-704g) — Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [FCC Caller ID Authentication](https://www.fcc.gov/call-authentication), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [FCC Telecommunications Relay Services](https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [FTC Protecting Personal Information](https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [DOJ Guidance on the ADA](https://www.ada.gov/resources/effective-communication/), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [CISA Secure by Design](https://www.cisa.gov/securebydesign), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
+- [GAO Standards for Internal Control](https://www.gao.gov/products/gao-14-704g), Caller ID Attestation Outcome Study uses this source for governance context, not as a performance benchmark.
 
 ## Frequently asked questions
 

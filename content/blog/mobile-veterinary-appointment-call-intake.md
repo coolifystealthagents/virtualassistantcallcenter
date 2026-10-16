@@ -1,7 +1,7 @@
 ---
 slug: mobile-veterinary-appointment-call-intake
 title: Mobile veterinary appointment call intake without clinical triage
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Organize mobile veterinary appointment requests by animal, location, visit need, access details, and nonclinical escalation signals.
 published: 2026-09-18
 updated: 2026-09-18
 category: Mobile Veterinary Calls

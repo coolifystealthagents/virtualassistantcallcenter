@@ -12,7 +12,7 @@ related: /research/after-hours-call-answering-benchmark, /blog/missed-call-recov
 
 ## Headline finding
 
-The BLS projects about 341,700 customer-service representative openings each year over 2024–2034. A backlog plan should therefore make work transferable: every item needs an intent, owner, next action, and age.
+The BLS projects about 341,700 customer-service representative openings each year over 2024, 2034. A backlog plan should therefore make work transferable: every item needs an intent, owner, next action, and age.
 
 ## Methodology
 

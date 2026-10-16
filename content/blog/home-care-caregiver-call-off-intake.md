@@ -44,7 +44,7 @@ Branches matter more than a long script. A new request, a status question, and a
 
 ## Test the workflow with a realistic exception
 
-A caregiver calls 35 minutes before a visit and says the client may be alone. The receptionist captures the shift reference and stated concern, activates the urgent staffing path, and says the request has been escalated—not that another caregiver is confirmed.
+A caregiver calls 35 minutes before a visit and says the client may be alone. The receptionist captures the shift reference and stated concern, activates the urgent staffing path, and says the request has been escalated, not that another caregiver is confirmed.
 
 That scenario tests whether the team can remain useful without improvising. The receptionist can acknowledge the caller's concern, capture permitted facts, and name the next owner. They should not cross the boundary around approving leave, assigning a replacement, discussing a client's condition, changing the care plan, or promising that coverage is secured. A direct phrase is better than a vague refusal: “I can document this request and send it to the on-call staffing coordinator. I do not want to promise an outcome before that person reviews the record.”
 

@@ -101,16 +101,16 @@ Privacy at stage 10 of Call Recording Derived Artifact Inventory Study requires 
 
 ## Sources
 
-- [FCC Caller ID Authentication](https://www.fcc.gov/call-authentication) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [FCC Telecommunications Relay Services](https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [FTC Protecting Personal Information](https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [DOJ Guidance on the ADA](https://www.ada.gov/resources/effective-communication/) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [CISA Secure by Design](https://www.cisa.gov/securebydesign) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
-- [GAO Standards for Internal Control](https://www.gao.gov/products/gao-14-704g) — Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [FCC Caller ID Authentication](https://www.fcc.gov/call-authentication), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [FCC Telecommunications Relay Services](https://www.fcc.gov/consumers/guides/telecommunications-relay-service-trs), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [FTC Protecting Personal Information](https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [DOJ Guidance on the ADA](https://www.ada.gov/resources/effective-communication/), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [CISA Secure by Design](https://www.cisa.gov/securebydesign), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
+- [GAO Standards for Internal Control](https://www.gao.gov/products/gao-14-704g), Call Recording Derived Artifact Inventory Study uses this source for governance context, not as a performance benchmark.
 
 ## Frequently asked questions
 

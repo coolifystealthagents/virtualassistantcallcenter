@@ -9,55 +9,30 @@ image: /thumbnails/call-center-qa-review-routine.svg
 imageAlt: A call center quality review routine showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Choose a sample that answers a question
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+The QA packet should include a sampling log, review card, evidence note, coaching action, and recheck date. Review card items need a definition, observable pass condition, not-applicable option, and weight only where management has justified it.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Create an evidence-based review card
 
-## Build the call path
+Log interaction ID, call type, agent, reviewer, selection reason, review date, verification result, greeting, intent capture, required fields, authority compliance, routing, promise accuracy, note quality, outcome, evidence timestamp, defect type, action owner, and recheck result.
 
-Use a short path that an assistant can follow under pressure:
+## Score behavior, not personality
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Sampling can rotate among random calls, targeted risk calls, new workflows, and follow-up checks. State which question each sample answers so managers do not generalize beyond the evidence.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Protect reviewer authority
 
-## Set decision rules
+Reviewers may score against the published rubric and recommend coaching or process repair. They may not infer motive, rewrite evidence, penalize behavior absent from the rubric, expose recordings broadly, or make employment decisions outside their role.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Resolve disputed and inaccessible calls
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+Missing or corrupted recordings should not become automatic failures. Material rubric ambiguity goes to calibration; privacy concerns use restricted review; disputed scores require a second reviewer and preserved original score.
 
-## Protect the record
+## Calibrate before coaching
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Double-score a routine call, a multi-issue call, a call with no recording but a note, and a boundary violation with a polite tone. Discuss evidence differences before reviewing the wider team.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Track whether fixes hold
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Monitor sample mix, agreement between reviewers, defects by type, not-applicable use, coaching completion, repeat defects at recheck, and process changes created. Avoid a single blended score that hides critical boundary failures.

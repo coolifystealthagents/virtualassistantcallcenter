@@ -1,7 +1,7 @@
 ---
 slug: fire-protection-inspection-scheduling-calls
 title: Fire protection inspection scheduling call workflow
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Schedule fire protection inspections with complete site details, access notes, deadline context, and a clear path for urgent system concerns.
 published: 2026-09-18
 updated: 2026-09-18
 category: Fire Protection Scheduling

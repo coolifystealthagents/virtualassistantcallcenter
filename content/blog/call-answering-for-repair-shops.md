@@ -1,6 +1,6 @@
 ---
 slug: call-answering-for-repair-shops
-title: Call answering for appliance repair shops
+title: Call answering for repair shops
 description: Help appliance repair shops handle new service requests, warranty questions, parts callbacks, and appointment changes with fewer incomplete messages.
 published: 2026-08-12
 updated: 2026-08-12

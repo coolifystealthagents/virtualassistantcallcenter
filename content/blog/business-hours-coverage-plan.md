@@ -9,55 +9,30 @@ image: /thumbnails/business-hours-coverage-plan.svg
 imageAlt: A business-hours phone coverage plan showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Map demand to actual open intervals
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+The coverage grid should show each fifteen or thirty minute interval, primary queue owner, backup, planned breaks, meeting blocks, overflow threshold, opening check, closing check, and incident contact.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Build the daily coverage grid
 
-## Build the call path
+Log date, interval, line or queue, planned owner, actual owner, backup status, calls offered, calls answered, abandoned calls, overflow activations, callbacks created, oldest waiting item, absence reason, recovery action, and supervisor signoff.
 
-Use a short path that an assistant can follow under pressure:
+## Limit what overflow may decide
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+The coverage coordinator may shift approved staff and activate overflow. They may not cancel protected breaks, extend working hours, change employment terms, or grant overflow agents permissions they do not hold.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Define ownership at every transition
 
-## Set decision rules
+Coverage includes queue cleanup, not just someone signed into a phone. The closing owner should reconcile open callbacks and state who owns work that carries into the next business day.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Prepare for gaps and absences
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+An unexpected absence activates the named backup and prompts a revised grid. Phone-system failure moves traffic to the continuity route; unusual surges trigger overflow; an uncovered interval must be recorded and assigned for callback recovery.
 
-## Protect the record
+## Review intervals, not averages
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Inspect answer and abandon counts by interval, overflow use, uncovered minutes, callback creation and completion, opening readiness, closing backlog, and schedule adherence. Daily averages can hide a recurring lunch or shift-change gap.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Run a week of coverage drills
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Test opening with the primary absent, overlapping breaks, a short demand spike, and a carrier outage near closing. Verify who owns remaining messages at the end of each event.

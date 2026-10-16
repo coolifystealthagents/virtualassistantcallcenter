@@ -55,6 +55,7 @@ export async function POST(request: NextRequest) {
 
     const payload = JSON.parse(body) as Record<string, unknown>;
     if (!payload || Array.isArray(payload) || typeof payload !== 'object') throw new Error('Invalid tracking payload');
+    if (Object.keys(payload).length === 0) throw new Error('Invalid tracking payload');
     if (payload.siteId !== undefined && payload.siteId !== SITE_ID) return Response.json({ status: 'error', detail: 'Invalid site' }, { status: 403 });
     const normalizedPayload = { ...payload, siteId: SITE_ID };
 

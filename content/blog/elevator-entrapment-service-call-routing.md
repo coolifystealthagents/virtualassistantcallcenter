@@ -1,7 +1,7 @@
 ---
 slug: elevator-entrapment-service-call-routing
 title: Elevator entrapment calls: confirm location, escalate, and preserve the record
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Route elevator entrapment reports with building, car or location, occupants, communication status, and approved emergency escalation.
 published: 2026-09-28
 updated: 2026-09-28
 category: emergency-intake

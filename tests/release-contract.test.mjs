@@ -52,6 +52,7 @@ test('ACR contract and accepted-response-before-tracking behavior are preserved'
   const proxy = read('app/ingest/track/route.ts');
   assert.match(proxy, /request\.headers\.get\('origin'\) !== CANONICAL_ORIGIN/);
   assert.match(proxy, /normalizedPayload = \{ \.\.\.payload, siteId: SITE_ID \}/);
+  assert.match(proxy, /Object\.keys\(payload\)\.length === 0/);
   assert.match(proxy, /MAX_RATE_LIMIT_KEYS/);
   assert.match(proxy, /requests\.delete/);
 });

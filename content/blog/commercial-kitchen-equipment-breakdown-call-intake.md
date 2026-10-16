@@ -1,7 +1,7 @@
 ---
 slug: commercial-kitchen-equipment-breakdown-call-intake
 title: Commercial kitchen equipment breakdown call intake
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Capture commercial kitchen breakdown details, equipment, symptoms, operating impact, site access, and safety concerns for service review.
 published: 2026-09-18
 updated: 2026-09-18
 category: Commercial Kitchen Service Calls

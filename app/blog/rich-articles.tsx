@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import { DiscoveredArticleSidebar } from '../article-sidebar';
 
 export const scamCallArticle = {
   slug: 'business-call-scam-screening-virtual-assistant-philippines',
@@ -29,7 +30,7 @@ export function ScamCallScreeningArticle() {
   const cisa = scamCallArticle.sources[2].url;
   const nist = scamCallArticle.sources[3].url;
 
-  return <article className="container rich-article" data-article-marker={scamCallArticle.marker}>
+  return <article className="container rich-article article-with-discovered-sidebar" data-article-marker={scamCallArticle.marker}>
     <p className="eyebrow">Philippines call support guide</p>
     <h1>{scamCallArticle.title}</h1>
     <p className="lead">A Filipino virtual assistant can screen odd calls without playing detective. The job is to slow the call down, collect only safe details, and send the decision to the right person.</p>
@@ -155,5 +156,6 @@ export function ScamCallScreeningArticle() {
       <ol>{scamCallArticle.sources.map((source)=><li key={source.url}><a href={source.url}>{source.name}</a></li>)}</ol>
       <p className="methods-note">Source check: each link was opened before publication. The figures above are reported complaints and losses, not a forecast for one business or proof that every suspicious call is a crime.</p>
     </section>
+    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Call security" related={[{href:'/services/inbound-call-answering',label:'Inbound call answering'},{href:'/blog',label:'Browse all guides'}]}/>
   </article>;
 }

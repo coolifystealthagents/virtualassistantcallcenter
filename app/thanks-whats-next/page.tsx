@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function BookingConfirmedPage() {
   return <>
     <Header />
-    <main className="completion-page">
+    <main id="main-content" className="completion-page">
       <section className="container completion-panel" aria-labelledby="confirmation-heading">
         <p className="eyebrow">Step 3 - Booking confirmed</p>
         <h1 id="confirmation-heading">Your meeting is booked.</h1>

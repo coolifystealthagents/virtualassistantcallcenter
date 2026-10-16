@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main className="signal-home" data-gi-rollout="two-illustration-packs-one-icon-pack">
+      <main id="main-content" className="signal-home" data-gi-rollout="two-illustration-packs-one-icon-pack">
         <JsonLd data={schema} />
 
         <section className="signal-hero">
@@ -87,9 +87,9 @@ export default function Home() {
                 <span>Sample process · not live call data</span>
               </div>
               <ol>
-                <li><span>01</span><div><small>Caller</small><strong>Reason captured</strong></div><b>INTAKE</b></li>
-                <li><span>02</span><div><small>Filipino specialist</small><strong>Approved script used</strong></div><b>CHECK</b></li>
-                <li><span>03</span><div><small>Your team</small><strong>Note and next action sent</strong></div><b>ROUTE</b></li>
+                <li><div><small>Caller</small><strong>Reason captured</strong></div><b>INTAKE</b></li>
+                <li><div><small>Filipino specialist</small><strong>Approved script used</strong></div><b>CHECK</b></li>
+                <li><div><small>Your team</small><strong>Note and next action sent</strong></div><b>ROUTE</b></li>
               </ol>
               <div className="ph-handoff-footer"><span>Manager decisions stay with you</span><a href="/qa-scorecard">View the QA scorecard →</a></div>
             </div>
@@ -105,7 +105,6 @@ export default function Home() {
             <div className="signal-lanes">
               {roles.map((role, index) => (
                 <article key={role}>
-                  <span>{String(index + 1).padStart(2, '0')}</span>
                   <h3>{role}</h3>
                   <p>{index === 0 ? 'Use your greeting, capture the reason, and route urgent calls.' : index === 1 ? 'Book the right slot and send a clean confirmation.' : index === 2 ? 'Answer from the approved FAQ and open the right ticket.' : index === 3 ? 'Return missed calls and record the next action.' : index === 4 ? 'Ask the required questions without giving advice.' : 'Keep call notes, tags, owners, and review samples tidy.'}</p>
                 </article>
@@ -166,9 +165,9 @@ export default function Home() {
           <div className="container">
             <div className="signal-heading"><div><p className="signal-label">Field notes</p><h2>Plan the handoff before day one.</h2></div><a href="/blog">Read all guides →</a></div>
             <div className="signal-guide-grid">
-              {blogPosts.slice(0, 3).map((post, index) => (
+              {blogPosts.slice(0, 3).map((post) => (
                 <a href={`/blog/${post.slug}`} key={post.slug}>
-                  <span>0{index + 1} · {post.minutes} min</span>
+                  <span>{post.minutes} min read</span>
                   <h3>{post.title}</h3>
                   <p>{post.excerpt}</p>
                   <b>Read guide →</b>

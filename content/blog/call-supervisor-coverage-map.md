@@ -5,7 +5,7 @@ description: Evidence-led operating guidance for call supervisor coverage, with 
 published: 2026-10-08
 updated: 2026-10-08
 category: Call operations
-image: /thumbnails/call-supervisor-coverage-map.svg
+image: /thumbnails/virtualassistantcallcenter-quality-sample-calibration.svg
 imageAlt: Editorial diagram for Publish a Call Supervisor Coverage Map, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
 ---

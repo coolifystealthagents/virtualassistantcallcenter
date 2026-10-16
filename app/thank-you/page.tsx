@@ -12,12 +12,12 @@ export default function ThankYouPage() {
   return (
     <>
       <Header />
-      <main className="sa-booking-page">
+      <main id="main-content" className="sa-booking-page">
         <div className="container sa-booking-grid">
           <div className="sa-booking-left">
             <p className="sa-booking-kicker">You’re one step away.</p>
             <h1>Step 2 - Book A Meeting</h1>
-            <p className="sa-booking-lead">No commitment. No risk. Just expert guidance.</p>
+            <p className="sa-booking-lead">Use the scheduler to choose a convenient time for a practical scoping conversation.</p>
             <img className="sa-booking-image" src="/thank-you-hero.png" alt="Stealth Agents team ready to help" width="619" height="402" />
             <TestimonialsRail />
           </div>

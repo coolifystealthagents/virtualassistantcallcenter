@@ -105,7 +105,7 @@ For a buyer evaluating [virtual receptionist support](/services/inbound-customer
 
 ## Sources
 
-- [Caller ID Authentication](https://www.fcc.gov/call-authentication) — Federal Communications Commission. Checked October 2, 2026.
-- [Spoofing and Caller ID](https://www.fcc.gov/spoofing) — Federal Communications Commission. Checked October 2, 2026.
-- [Digital Identity Guidelines](https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines) — National Institute of Standards and Technology. Checked October 2, 2026.
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — National Institute of Standards and Technology. Checked October 2, 2026.
+- [Caller ID Authentication](https://www.fcc.gov/call-authentication), Federal Communications Commission. Checked October 2, 2026.
+- [Spoofing and Caller ID](https://www.fcc.gov/spoofing), Federal Communications Commission. Checked October 2, 2026.
+- [Digital Identity Guidelines](https://www.nist.gov/identity-access-management/projects/nist-special-publication-800-63-digital-identity-guidelines), National Institute of Standards and Technology. Checked October 2, 2026.
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework), National Institute of Standards and Technology. Checked October 2, 2026.

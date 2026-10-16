@@ -1,7 +1,7 @@
 ---
 slug: managed-it-outage-call-intake
 title: Managed IT outage calls: an intake and escalation workflow
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Capture affected users, systems, timing, business impact, and observable outage details without asking intake staff to diagnose the fault.
 published: 2026-09-18
 updated: 2026-09-18
 category: Managed IT Service Desk

@@ -9,55 +9,30 @@ image: /thumbnails/lead-qualification-call-script.svg
 imageAlt: A practical lead qualification call script showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Frame qualification as routing help
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Use a branching script map, not a rigid monologue. It should open with purpose, explain why fit questions are asked, cover service need and constraints, summarize what was heard, and offer an approved next step.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Route unclear and sensitive opportunities
 
-## Build the call path
+Procurement requests, partnerships, media calls, conflicts, unclear fit, and accessibility needs go to their named owners. If the prospect declines a question, record declined and continue with any lower-information route the policy permits.
 
-Use a short path that an assistant can follow under pressure:
+## Use a conversational script map
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Record caller, organization, callback details, service of interest, problem to solve, location, current stage, desired timing, broad scope, stakeholders, relevant constraints volunteered, referral source, permission to follow up, fit reason, destination, and due time.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Keep the caller in control
 
-## Set decision rules
+The qualifier may ask approved questions and select a published route. They may not invent urgency, pressure disclosure of budget, guarantee results, give custom terms, reject a person based on protected traits, or disguise a sales call as neutral research.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Capture comparable fit signals
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+Useful phrasing connects the question to service: “To route this well, may I ask which location needs support?” A scripted explanation reduces the feel of an unexplained checklist.
 
-## Protect the record
+## Role-play varied prospects
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Practice with an obvious fit, an early researcher, a competitor asking for information, and a prospect who declines to discuss timing. Have the receiving team judge whether the summary supports its next conversation.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Review fairness and usefulness
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Evaluate complete and accurate records, route acceptance, questions declined, corrections by sales, follow-ups on time, duplicate opportunities, and disqualification reasons. Review reasons for consistency instead of rewarding raw qualified volume.

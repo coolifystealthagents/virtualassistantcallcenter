@@ -1,7 +1,7 @@
 ---
 slug: window-treatment-measurement-call-intake
 title: Window treatment measurement appointment call intake
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Coordinate window treatment measurement requests using project scope, property access, room details, timing, and decision-maker context.
 published: 2026-09-18
 updated: 2026-09-18
 category: Home Improvement Scheduling

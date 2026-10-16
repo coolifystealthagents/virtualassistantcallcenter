@@ -115,7 +115,7 @@ For a business reviewing [outbound calling support](/services/outbound-lead-qual
 
 ## Sources
 
-- [Complying with the Telemarketing Sales Rule](https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule) — Federal Trade Commission. Checked October 2, 2026.
-- [Telemarketing](https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing) — Federal Trade Commission. Checked October 2, 2026.
-- [Telemarketing and Robocalls](https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts) — Federal Communications Commission. Checked October 2, 2026.
-- [Time Zone Database](https://www.iana.org/time-zones) — Internet Assigned Numbers Authority. Checked October 2, 2026.
+- [Complying with the Telemarketing Sales Rule](https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule), Federal Trade Commission. Checked October 2, 2026.
+- [Telemarketing](https://www.ftc.gov/business-guidance/advertising-marketing/telemarketing), Federal Trade Commission. Checked October 2, 2026.
+- [Telemarketing and Robocalls](https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts), Federal Communications Commission. Checked October 2, 2026.
+- [Time Zone Database](https://www.iana.org/time-zones), Internet Assigned Numbers Authority. Checked October 2, 2026.

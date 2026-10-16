@@ -9,55 +9,30 @@ image: /thumbnails/inbound-customer-call-intake-checklist.svg
 imageAlt: An inbound customer call intake checklist showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Begin with intent, not interrogation
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Put the checklist in call order: identify the business, learn the purpose, verify the caller where needed, capture relevant facts, choose an approved route, read back the next step, and record ownership.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Verify only what the next step needs
 
-## Build the call path
+Ask conditional questions only when their branch is active. A scheduling caller may need preferred dates, while a billing caller may need an invoice reference. This keeps intake focused and reduces unnecessary collection.
 
-Use a short path that an assistant can follow under pressure:
+## Use a visible intake checklist
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Required fields are call ID, date and time, caller name, callback number, account or reference if relevant, verification status, reason category, caller’s requested outcome, key facts, urgency signal, action taken, destination, owner, promised response, due time, and contact restriction.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Branch incomplete and sensitive calls
 
-## Set decision rules
+If required details are missing, mark what was attempted and route to the designated research queue. Safety statements, threats, privacy concerns, and service outages use specific escalation paths; a failed transfer becomes an owned callback.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Hold a firm authority line
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+The intake role may explain published information and perform listed actions. It may not interpret policy, reveal protected account detail without verification, make technical or professional judgments, approve exceptions, or claim that a handoff is a resolution.
 
-## Protect the record
+## Test the checklist on real call shapes
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Try a simple status call, a caller without a reference number, a multi-issue call, and a privacy-sensitive request. Observe whether the checklist supports conversation rather than forcing irrelevant questions.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Measure usable intake
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Track required-field completion, verification compliance, correct routing, first-owner acceptance, caller repeat rate, promised responses met, and sensitive-data findings. Long notes are not automatically complete notes.

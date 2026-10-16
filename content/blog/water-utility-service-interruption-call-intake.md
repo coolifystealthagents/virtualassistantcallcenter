@@ -1,7 +1,7 @@
 ---
 slug: water-utility-service-interruption-call-intake
 title: Water service interruption calls: build an outage record customers can trust
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Document water service interruptions by address, scope, observed conditions, start time, customer impact, and utility escalation path.
 published: 2026-09-28
 updated: 2026-09-28
 category: public-service-intake

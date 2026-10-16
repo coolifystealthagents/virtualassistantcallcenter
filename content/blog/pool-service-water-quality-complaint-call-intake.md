@@ -1,7 +1,7 @@
 ---
 slug: pool-service-water-quality-complaint-call-intake
 title: How to handle pool service water-quality complaint calls
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Route pool water quality complaints with site, observed condition, recent service context, exposure concerns, and callback ownership.
 published: 2026-09-18
 updated: 2026-09-18
 category: Pool Service Calls

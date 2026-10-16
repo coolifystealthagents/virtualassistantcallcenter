@@ -18,6 +18,13 @@ export type ContentEntry = {
 
 const root = path.join(process.cwd(), 'content');
 
+export function normalizeVisibleText(value: string) {
+  return value
+    .replace(/[\u2013\u2014]/g, ' - ')
+    .replace(/\s+--\s+/g, ' - ')
+    .replace(/[ \t]{2,}/g, ' ');
+}
+
 const frozenAug10BlogOrder = [
   'after-hours-call-answering-for-restaurants',
   'call-answering-for-church-offices',
@@ -58,15 +65,15 @@ function parse(file: string, kind: ContentKind): ContentEntry {
   return {
     kind,
     slug: values.slug,
-    title: values.title,
-    description: values.description,
+    title: normalizeVisibleText(values.title),
+    description: normalizeVisibleText(values.description),
     published: values.published,
     updated: values.updated,
-    category: values.category,
+    category: normalizeVisibleText(values.category),
     image: values.image,
-    imageAlt: values.imageAlt,
+    imageAlt: normalizeVisibleText(values.imageAlt),
     related: values.related ? values.related.split(',').map((x) => x.trim()).filter(Boolean) : [],
-    body: match[2].trim(),
+    body: normalizeVisibleText(match[2]).trim(),
   };
 }
 

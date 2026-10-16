@@ -33,7 +33,7 @@ export default function Workflows() {
     step: workflowSteps.map((step, index) => ({ '@type': 'HowToStep', position: index + 1, name: step.title, text: step.text })),
   };
 
-  return <><Header/><main>
+  return <><Header/><main id="main-content">
     <JsonLd data={schema}/>
     <section className="section workflow-hero">
       <div className="container two">

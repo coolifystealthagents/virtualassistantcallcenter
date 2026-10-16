@@ -9,55 +9,30 @@ image: /thumbnails/service-business-phone-intake-workflow.svg
 imageAlt: A service-business phone intake workflow showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Identify the job before offering a visit
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Create a service request ticket that separates requested work, site details, access constraints, schedule preference, and dispatch review. The ticket status should say inquiry, needs review, ready to schedule, scheduled, or closed.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Build a service request ticket
 
-## Build the call path
+Capture caller name, callback number, service address, property or equipment type, symptom in caller’s words, when it began, current condition, safety concern, prior job number, access contact, pets or site constraints, preferred window, service-area result, owner, and next action.
 
-Use a short path that an assistant can follow under pressure:
+## Reserve estimates and diagnosis for experts
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+An intake assistant may describe published services and gather job facts. They must not diagnose, instruct risky repairs, guarantee technician arrival, quote an unapproved price, declare warranty coverage, or mark a job dispatch-ready when required review is missing.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Gather dispatch facts safely
 
-## Set decision rules
+Repeat the symptom without translating it into a diagnosis. “Unit makes a grinding sound when starting” gives a technician better source information than an unsupported component failure label.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Handle hazards and coverage uncertainty
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+Reports of immediate danger use the approved emergency guidance. Out-of-area requests, uncertain equipment coverage, landlord or tenant authority questions, and unavailable appointment capacity go to named review queues.
 
-## Protect the record
+## Review dispatch readiness
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Inspect tickets ready on first review, missing dispatch fields, service-area corrections, schedule changes, duplicate jobs, exception age, and callback promises met. Separate intake quality from technician diagnosis and job completion.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Field-test representative jobs
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Use a routine maintenance request, an intermittent failure, a caller outside the service area, and a possible hazard. Include one tenant without clear authorization and verify that the workflow does not assume permission.

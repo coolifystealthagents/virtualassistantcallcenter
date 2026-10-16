@@ -5,7 +5,7 @@ description: Evidence-led research methods for caller repetition, with clear own
 published: 2026-10-08
 updated: 2026-10-08
 category: Call operations research
-image: /thumbnails/caller-repetition-burden-evidence-review.svg
+image: /thumbnails/virtualassistantcallcenter-handoff-completeness-observation.svg
 imageAlt: Editorial diagram for Caller Repetition Burden: An Evidence Review, showing a caller, virtual assistant, decision owner, evidence record, and verified closeout
 related: /blog/call-screening-for-small-business, /services/inbound-customer-calls
 ---

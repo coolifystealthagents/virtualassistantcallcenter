@@ -91,7 +91,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: scamCallArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: scamCallArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
  }
  if (slug === healthcareSchedulingArticle.slug) {
   const richSchema = {
@@ -105,7 +105,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: healthcareSchedulingArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: healthcareSchedulingArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
  }
  if (slug === outboundFollowUpArticle.slug) {
   const richSchema = {
@@ -119,7 +119,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: outboundFollowUpArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: outboundFollowUpArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
  }
  const guide = guides[post.slug] || guides['assistant-onboarding-checklist'];
  const schema = {
@@ -134,5 +134,5 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
    hasPart: guide.sections.map((s)=>({ '@type': 'WebPageElement', name: s.title, text: s.text })),
    mainEntity: { '@type': 'FAQPage', mainEntity: guide.faq.map((f)=>({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
  };
- return <><Header/><main className="section"><JsonLd data={schema}/><article className="container" style={{maxWidth:900}}><p className="eyebrow">{site.brand} guide</p><h1>{post.title}</h1><p className="lead">{post.excerpt}</p><div className="card"><h2>The short answer</h2><p>{guide.answer}</p><div className="table"><div className="row"><b>Call path</b><b>Assistant does</b><b>Manager checks</b></div>{workflowSteps.slice(0,3).map((w)=><div className="row" key={w.title}><span>{w.title}</span><span>{w.text}</span><span>Script, notes, routing, and next step</span></div>)}</div>{guide.sections.map((section)=><section key={section.title} className="article-section"><h2>{section.title}</h2><p>{section.text}</p>{section.bullets ? <ul className="list">{section.bullets.map((b)=><li key={b}>{b}</li>)}</ul> : null}</section>)}<section className="article-section"><h2>Script example</h2><p className="quote">"I can help with that. I'll collect the details, book the next step if it fits our rules, and send anything unusual to the owner for review."</p></section><section className="article-section"><h2>Quality check</h2><ul className="list">{qaScorecard.slice(0,4).map((q)=><li key={q.item}><b>{q.item}:</b> {q.note}</li>)}</ul></section><section className="article-section"><h2>FAQs</h2>{guide.faq.map((f)=><div key={f.q}><h3>{f.q}</h3><p>{f.a}</p></div>)}</section><section className="article-section"><h2>Sources to review</h2>{sources.map((s)=><p key={s.url}><a href={s.url}><b>{s.name}</b></a>: {s.note}</p>)}</section></div></article><CTA/></main><Footer/></>;
+ return <><Header/><main id="main-content" className="section"><JsonLd data={schema}/><article className="container" style={{maxWidth:900}}><p className="eyebrow">{site.brand} guide</p><h1>{post.title}</h1><p className="lead">{post.excerpt}</p><div className="card"><h2>The short answer</h2><p>{guide.answer}</p><div className="table"><div className="row"><b>Call path</b><b>Assistant does</b><b>Manager checks</b></div>{workflowSteps.slice(0,3).map((w)=><div className="row" key={w.title}><span>{w.title}</span><span>{w.text}</span><span>Script, notes, routing, and next step</span></div>)}</div>{guide.sections.map((section)=><section key={section.title} className="article-section"><h2>{section.title}</h2><p>{section.text}</p>{section.bullets ? <ul className="list">{section.bullets.map((b)=><li key={b}>{b}</li>)}</ul> : null}</section>)}<section className="article-section"><h2>Script example</h2><p className="quote">"I can help with that. I'll collect the details, book the next step if it fits our rules, and send anything unusual to the owner for review."</p></section><section className="article-section"><h2>Quality check</h2><ul className="list">{qaScorecard.slice(0,4).map((q)=><li key={q.item}><b>{q.item}:</b> {q.note}</li>)}</ul></section><section className="article-section"><h2>FAQs</h2>{guide.faq.map((f)=><div key={f.q}><h3>{f.q}</h3><p>{f.a}</p></div>)}</section><section className="article-section"><h2>Sources to review</h2>{sources.map((s)=><p key={s.url}><a href={s.url}><b>{s.name}</b></a>: {s.note}</p>)}</section></div></article><CTA/></main><Footer/></>;
 }

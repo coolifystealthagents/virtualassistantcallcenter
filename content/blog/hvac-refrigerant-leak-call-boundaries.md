@@ -1,7 +1,7 @@
 ---
 slug: hvac-refrigerant-leak-call-boundaries
 title: HVAC refrigerant leak calls: useful intake without remote diagnosis
-description: A practical call-intake guide that captures the right facts, protects authority boundaries, and creates an owned handoff.
+description: Set safe intake boundaries for suspected HVAC refrigerant leaks while capturing location, observed signs, exposure concerns, and ownership.
 published: 2026-09-28
 updated: 2026-09-28
 category: field-service-intake

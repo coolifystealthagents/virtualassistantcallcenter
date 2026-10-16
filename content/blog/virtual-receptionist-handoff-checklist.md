@@ -9,55 +9,30 @@ image: /thumbnails/virtual-receptionist-handoff-checklist.svg
 imageAlt: A virtual receptionist handoff checklist showing a structured phone support workflow with routing, notes, and owner review
 related: /services/inbound-customer-calls, /services/appointment-setting, /qa-scorecard
 ---
-## Define the outcome
+## Make acceptance part of the handoff
 
-Start by naming the caller outcome this workflow must produce. The result might be a confirmed appointment, a complete message, a qualified handoff, or a documented answer. A narrow outcome makes training and review much easier than a general instruction to handle calls well.
+Use a handoff card that stays open until the receiver accepts it. Its status should move through prepared, sent, accepted, completed, or returned, with a timestamp at each transition.
 
-Write the outcome in one sentence and name the owner of the next action. If the owner cannot be identified, the call is not finished. It is waiting for a routing decision.
+## Recover a refused or failed handoff
 
-## Build the call path
+For a failed transfer, return to the caller before disconnecting and offer the approved fallback. If the receiver rejects the handoff, keep the original owner visible, record the reason, and route to the designated supervisor rather than bouncing the caller.
 
-Use a short path that an assistant can follow under pressure:
+## Use a compact handoff card
 
-1. Greet the caller and identify the reason for the call.
-2. Collect only the details needed for the next decision.
-3. Check the approved schedule, directory, or routing rule.
-4. Resolve the permitted portion or hand off with context.
-5. Record the result, owner, and due time.
+Capture caller name, callback number, organization, purpose, account or job reference, key facts, requested action, urgency signal, action already taken, promise made, receiving person or queue, due time, acceptance time, and fallback owner.
 
-For a broader intake pattern, compare this process with the [inbound customer call workflow](/services/inbound-customer-calls). When scheduling is part of the outcome, use the [appointment setting workflow](/services/appointment-setting) to keep confirmation rules consistent.
+## Limit what the receptionist can commit
 
-## Set decision rules
+A receptionist may select an approved destination, introduce a warm transfer, and set a documented callback expectation. They may not promise a decision, bypass privacy checks, transfer to a private number without permission, or mark work complete for the receiver.
 
-Document what the assistant may answer, book, transfer, or follow up on. Then document what requires a named owner. Keep the rules observable: transfer payment disputes to the billing owner is more useful than escalate difficult calls.
+## Choose warm or queued delivery
 
-Use a fallback when the preferred person is unavailable. The fallback should preserve the caller's place in the process through a callback promise or a queued task. Do not ask assistants to improvise exceptions, make promises they cannot track, or disclose information outside their permissions.
+A handoff is not complete when the receptionist presses transfer. It is complete when another owner has accepted the context or the fallback task is visible and due.
 
-## Protect the record
+## Run acceptance drills
 
-A useful note contains the caller's name, callback number, reason, action taken, next action, owner, and due time. Use the caller's words for sensitive or uncertain details. Do not copy passwords, full payment data, or unrelated personal information into a general call note.
+Test a live transfer accepted immediately, a no-answer destination, a receiver who says the issue belongs elsewhere, and a caller who disconnects mid-transfer. The checklist should preserve ownership in all four.
 
-Review access and retention with the business owner. The [Federal Trade Commission small-business cybersecurity guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) is a useful starting point for basic access, authentication, and data-handling controls.
+## Review handoff health
 
-## Measure the workflow
-
-Track the few measures that reveal whether the process works: calls answered, callbacks inside the promised window, correct routing, complete notes, appointments or tasks completed, and overdue items. Separate volume from quality. A high answer rate does not compensate for poor handoffs.
-
-Sample a small number of calls each week. Check the greeting, intent capture, rule use, note quality, next action, and tone. Coach the repeated failure pattern and update the script when the same question causes confusion.
-
-## Launch with a controlled pilot
-
-Test the workflow on one line, one team, or one call type first. Use sample scenarios for a routine question, an incomplete request, an unavailable owner, and an urgent escalation. Review outcomes daily for the first week.
-
-After the pilot, adjust one rule at a time. Keep an owner and change date beside the workflow so outdated instructions are easy to find.
-
-## Related Articles
-
-- Inbound customer call workflow
-- Appointment setting workflow
-- Call quality scorecard
-
-## Put the workflow into practice
-
-Choose one call type and write its outcome, decision rules, note fields, and escalation owner today. Then review five real examples and close the largest gap before expanding coverage.
-
+Track accepted handoffs, failed transfers, returned items, callbacks within the promised window, caller repeats, and unowned records. Review both speed and whether the receiving team had enough context.

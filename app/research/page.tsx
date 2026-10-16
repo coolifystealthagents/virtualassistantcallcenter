@@ -25,15 +25,16 @@ export default function Research() {
   return (
     <>
       <Header />
-      <main className="fleet-main">
+      <main id="main-content" className="fleet-main">
         <section className="fleet-hero">
-          <div className="container">
-            <p className="eyebrow">Research library</p>
+          <div className="container index-hero-grid">
+            <div><p className="eyebrow">Research library</p>
             <h1>Research for planning Philippines-based teams</h1>
             <p className="lead">
               Sourced articles about call operations, service workflows, and
               staffing decisions.
-            </p>
+            </p></div>
+            <img className="index-hero-image" src="/thumbnails/independent-call-outcome-coding-agreement-study.svg" alt="Research board comparing independent call outcome coding and reviewer agreement" width="1200" height="675" />
           </div>
         </section>
         <section className="section">
@@ -44,6 +45,7 @@ export default function Research() {
                 href={`/research/${p.slug}`}
                 key={p.slug}
               >
+                <img src={p.image} alt={p.imageAlt} width="640" height="360" loading="lazy" />
                 <h2>{p.title}</h2>
                 <p>{p.description}</p>
                 <time dateTime={p.published}>Published {formatDate(p.published)}</time>

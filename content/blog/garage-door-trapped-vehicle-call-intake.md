@@ -1,7 +1,7 @@
 ---
 slug: garage-door-trapped-vehicle-call-intake
 title: Garage door service calls when a vehicle is trapped
-description: A practical workflow for capturing the right facts, recognizing escalation triggers, protecting boundaries, and handing the call to the correct owner.
+description: Handle trapped-vehicle garage door calls with location, door condition, safe access facts, urgency signals, and technician handoff details.
 published: 2026-09-18
 updated: 2026-09-18
 category: Garage Door Call Intake

@@ -6,7 +6,7 @@ datePublished: 2026-08-21
 published: 2026-08-21
 updated: 2026-08-21
 category: call-center-operations
-image: /aug21-heroes/call-recording-quality-review.webp
+image: /aug19-heroes/call-center-assistant-change-control-record.webp
 imageAlt: Editorial illustration about virtual assistant call centers call handling
 publishedAt: 2026-08-21T12:00:00.000Z
 updatedAt: 2026-08-21T12:00:00.000Z

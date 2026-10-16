@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import { DiscoveredArticleSidebar } from '../article-sidebar';
 
 export const outboundFollowUpArticle = {
   slug: 'outbound-lead-follow-up-virtual-assistant-philippines',
@@ -31,7 +32,7 @@ export function OutboundFollowUpArticle() {
   const dataBookPdf = outboundFollowUpArticle.sources[3].url;
   const lawphil = outboundFollowUpArticle.sources[4].url;
 
-  return <article className="container rich-article" data-article-marker={outboundFollowUpArticle.marker}>
+  return <article className="container rich-article article-with-discovered-sidebar" data-article-marker={outboundFollowUpArticle.marker}>
     <p className="eyebrow">Philippines outbound call support guide</p>
     <h1>{outboundFollowUpArticle.title}</h1>
     <p className="lead">A Filipino virtual assistant can follow up with people who asked to hear from a business. The safe job starts with an approved list, a plain reason for the call, and a fast way to honor a stop request.</p>
@@ -155,5 +156,6 @@ export function OutboundFollowUpArticle() {
       <ol>{outboundFollowUpArticle.sources.map((source)=><li key={source.url}><a href={source.url}>{source.name}</a></li>)}</ol>
       <p className="methods-note">Source check: the FTC pages, FTC PDF, and Philippine legal text were opened before drafting. The figures describe registry and complaint records, not campaign permission or virtual assistant results.</p>
     </section>
+    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Outbound follow-up" related={[{href:'/services/outbound-lead-qualification',label:'Outbound lead qualification'},{href:'/blog',label:'Browse all guides'}]}/>
   </article>;
 }
