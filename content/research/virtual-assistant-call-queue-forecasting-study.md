@@ -4,7 +4,7 @@ title: How should a virtual assistant call center forecast a small-business call
 description: Research on forecasting answered calls, callback work, and uncertainty before a virtual assistant call center sets coverage rules.
 datePublished: 2026-08-21
 published: 2026-08-21
-updated: 2026-08-21
+updated: 2026-10-17
 category: Call operations research
 image: /aug21-research-heroes/virtual-assistant-call-queue-forecasting-study.png
 imageAlt: Editorial illustration of a virtual assistant call center queue being measured against staffing coverage
@@ -41,6 +41,8 @@ For each interval, calculate total work minutes as talk minutes plus after-call 
 ## How to use the forecast in coverage decisions
 
 The forecast should answer narrow questions. Is one person enough for routine answering during the quiet interval? When does a second reviewer need to be available? Which intents should move to a callback queue? Does after-call work accumulate even when the live queue looks clear? A virtual assistant call center can use the answers to set a pilot schedule, define a backup owner, or remove an unready intent from the script. It should not turn a short sample into an advertised answer-time promise.
+
+For a pilot that needs a clear owner and an intake path, see the [inbound customer calls service](/services/inbound-customer-calls). The service page explains the support lane; the business owner still approves coverage rules, routing changes, and any customer commitment.
 
 The owner should review any change in routing, campaign activity, holiday hours, phone number, script, or booking policy as a new condition. A model trained on ordinary support calls is not automatically valid for an outbound campaign or a new medical, legal, or financial intake. If the call reason is not classifiable, keep it in an uncertainty bucket and improve the taxonomy before increasing staffing based on the apparent total.
 
