@@ -88,6 +88,10 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
         <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
       </header>
       <div className="article-layout">
+        <details className="mobile-article-toc">
+          <summary>On this page</summary>
+          <nav aria-label="Mobile table of contents"><ol>{headings.map((h) => <li className={h.level === 3 ? 'toc-level-3' : undefined} key={h.id}><a href={`#${h.id}`}>{h.label}</a></li>)}</ol></nav>
+        </details>
         <div className="article-copy">
           {blocks.map((block, index) => {
             if (block.startsWith('# ')) return null;
@@ -103,6 +107,7 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
         <ArticleSidebar headings={headings} published={entry.published} updated={entry.updated} category={entry.category} related={related}/>
       </div>
     </article>
+    <script dangerouslySetInnerHTML={{ __html: "document.addEventListener('click',function(e){var a=e.target.closest('.mobile-article-toc a');if(a){var d=a.closest('details');if(d)d.removeAttribute('open')}})" }} />
     <CTA/>
   </main>;
 }
