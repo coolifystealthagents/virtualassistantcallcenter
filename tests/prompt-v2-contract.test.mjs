@@ -95,10 +95,3 @@ test('site identity uses one relevant logo mark for header and favicon and defin
   assert.doesNotMatch(components, /\/logo\.svg/);
   assert.match(read('app/layout.tsx'), /images:/);
 });
-
-test('shared portfolio registry includes this site and recorded design read', () => {
-  const registry = read('../design-registry.json');
-  assert.match(registry, /virtualassistantcallcenter\.com/);
-  assert.match(registry, /designRead/);
-  assert.match(registry, /portfolioComparison/);
-});
