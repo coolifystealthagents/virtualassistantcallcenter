@@ -1,0 +1,50 @@
+---
+slug: virtualassistantcallcenter-measuring-cycle-time-for-call-intake-from-request-to-verified-close
+title: Measuring cycle time for call intake from request to verified close
+description: A grounded call center support note for call center managers: call intake with explicit evidence, decision rights, and a verified close.
+published: 2026-10-27
+updated: 2026-10-27
+category: Measurement
+image: /images/research/virtualassistantcallcenter-measuring-cycle-time-for-call-intake-from-request-to-verified-close.png
+imageAlt: Measuring cycle time for call intake from request to verified close
+---
+
+**Published October 27, 2026**
+
+A grounded call center support note for call center managers: call intake with explicit evidence, decision rights, and a verified close.
+
+The study measures the record and the handoff, not the professional judgment of call center manager or the legal outcome of the work. Record the opening count, additions, withdrawals, resolutions, and unresolved items at the end of the window. Write the primary measure and one supporting measure; a measure without a denominator or observation window is not ready. The protocol should be short enough for an operator to follow and specific enough for a reviewer to repeat. When a value is missing, record the missing state and the reason instead of leaving an empty field in the extract.
+
+A useful scope is narrow enough to reproduce and specific enough to show whether missed callback is being detected. State how duplicate requests are identified and whether they are merged, linked, or counted separately. If a definition changes during the review, keep the earlier classification and apply the new rule only to later cases. The protocol should be short enough for an operator to follow and specific enough for a reviewer to repeat. At Virtual Assistant Call Center, the call intake review should end with a dated note and a named owner for the next check.
+
+Include cases opened before the window but closed inside it only when the protocol says they belong to the population. Define whether a request that generates several queue assignment updates is one case or several before counting begins. Use plain language in the definition and add one example and one non-example for the reviewer. If a request was reopened after the window, keep it in the original population and report the later event separately. If the evidence is sensitive, record the approved reference and access path rather than copying the content.
+
+The unit is one call intake case, from the opening request to the verified close, and linked events stay with that case. Report the number of cases that could not be classified and the reason, rather than forcing them into a category. Use plain language in the definition and add one example and one non-example for the reviewer. Keep a list of requests closed as duplicates and show which case survived. The note should distinguish what was observed, what was inferred, and what still needs an owner decision.
+
+If the definition of completion changes, keep the old and new rules side by side for the transition period. Define allowed values for status, reason, owner, and evidence state before collection. If a case is outside the scope rule, record the rule and the date of exclusion rather than removing it silently. Record the pause rule and the person authorized to release a paused case. Record this decision in the study log with the case key, the review date, and the person who approved the classification.
+
+Define how a correction after close is linked to the original case and whether it creates a new case. Define allowed values for status, reason, owner, and evidence state before collection. A duplicate request is a separate intake event even when it points to the same underlying need; record the link. Write the start and stop events as observable actions, not as opinions about whether the work felt finished. Keep the evidence reference beside the coded value so a reviewer can test the same case without rebuilding the queue.
+
+If the source is a document, record the page or field; if the source is a system, record the record identifier and extraction time. Name the required fields for each article type and mark conditional fields in the dictionary. A missing value should have a reason code, not a blank cell or a zero. A case key should remain stable if the case moves between owners or changes status. If the source changes after the observation, preserve the earlier value and add a dated note instead of replacing it.
+
+Each case needs the source, the observation time, the field supported, the owner, and the reviewer. Use a controlled list for exception reasons; do not let free text become the analysis category. Keep the original evidence reference next to the coded value so the reviewer can verify the classification. Pilot the dictionary with two reviewers and compare their classifications before the main sample. At Virtual Assistant Call Center, the reviewer should be able to explain this step to customer from the case record alone.
+
+The data dictionary should name the allowed values for status, exception reason, owner, and close evidence. Name the required fields for each article type and mark conditional fields in the dictionary. A missing value should have a reason code, not a blank cell or a zero. Archive the dictionary with the study so a later reviewer can reproduce the categories. Use the same note in the case file and the study extract; do not create a second version in a personal document.
+
+Stop expanding the sample only when the review question is answered, not when the result starts to look favorable. Record the time of each observation so a later reviewer can distinguish a late entry from a changed decision. Include reopened, unresolved, and exception cases in the sample frame. Record the sampling frame as an export with a date, filter, and row count. When a case needs an exception, record the reason, the owner, and the date before continuing the review.
+
+If the population is small, report every case and the reason the sample is exhaustive rather than presenting a false precision. Do not clean the data by filling missing values; preserve the missing state and report it as a result. Include reopened, unresolved, and exception cases in the sample frame. Record the sampling frame as an export with a date, filter, and row count. Keep the measurement note short enough to read with the case and specific enough to support the reported quality score.
+
+Stop expanding the sample only when the review question is answered, not when the result starts to look favorable. A second reviewer should re-extract a small subsample and record disagreements before the full analysis. Include reopened, unresolved, and exception cases in the sample frame. A case that is difficult to access is still part of the frame; report the access failure rather than replacing it silently. If two reviewers disagree, preserve both classifications until the definition or the evidence is resolved.
+
+Separate observation from interpretation; a high completion rate on a small easy sample is not evidence of a strong control. Compare periods only after checking the case mix, the definitions, and the queue rules. Keep the case-level table available for review and summarize only the measures that answer the question. Keep descriptive findings separate from causal claims and label exploratory results. Link the observation to the exact field in the escalation queue and to the quality sample that supports it.
+
+Compare average handle time across owners only after checking the case mix, the channel, and the evidence standard. The analysis should end with the decision the evidence can support and the decision it cannot support. Report the number of cases that changed status after the first extraction and how the change was handled. End with the decision the evidence supports and the decision it does not support. Do not let a summary written later replace the evidence that was available at the first decision.
+
+Selection bias remains if the team samples only records that are easy to open or cases handled by cooperative owners. The record may be incomplete or delayed, so the method cannot infer work that never entered the queue. Record the response or access problems that prevented a case from being reviewed. If the reviewer performed the work, use a second reviewer for a subsample and report the disagreement. If the case moved between owners, include both owner periods in the review note and name the handoff time.
+
+The cited public sources frame recordkeeping, privacy, security, or control practice; they do not provide a local result. Report the unknown population and the evidence that would be needed to describe it. If the queue changed during the window, explain how the change affects the denominator and the interpretation. Record the access problems that prevented a case from being reviewed. Keep the review note with the case so the next sampler does not have to reconstruct the decision from memory.
+
+A quality review should end with an owner, a date, and one testable change, not a list of intentions. A quality review should end with a testable next step, not a general instruction to improve. Close the review only when the owner has accepted the result and the next check is scheduled. Report a failed action with the same detail as a successful one so the team can learn from it. When a value is missing, record the missing state and the reason instead of leaving an empty field in the extract.
+
+Repeat the protocol after the change with the same definitions, window, and exclusions. If the action changes incorrect disposition, record the approval from customer before implementation. Close the review only when the owner has accepted the result and the next check is scheduled. Report a failed action with the same detail as a successful one so the team can learn from it. At Virtual Assistant Call Center, the call intake review should end with a dated note and a named owner for the next check.
