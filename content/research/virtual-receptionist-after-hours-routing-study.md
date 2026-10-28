@@ -57,7 +57,7 @@ Use an effective date, approver, version, and rollback path.
 ## Related Research
 
 - [small business call routing failover](/research/small-business-call-routing-failover)
-- [business-hours coverage plan](/research/business-hours-coverage-plan)
+- [business-hours coverage plan](/blog/business-hours-coverage-plan)
 - [virtual receptionist handoff acceptance study](/research/virtual-receptionist-handoff-acceptance-study)
 
 ## Sources

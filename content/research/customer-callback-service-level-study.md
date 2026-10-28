@@ -61,7 +61,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 
 ## Related Research
 
-- [Missed Call Recovery Workflow](/research/missed-call-recovery-workflow)
+- [Missed Call Recovery Workflow](/blog/missed-call-recovery-workflow)
 - [Customer Call Backlog Triage](/research/customer-call-backlog-triage)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 

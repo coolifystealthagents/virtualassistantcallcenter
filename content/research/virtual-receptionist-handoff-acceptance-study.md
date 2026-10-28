@@ -40,7 +40,7 @@ The workflow owner, with privacy and authority review when relevant.
 
 ## Related Research
 - [Virtual receptionist handoff metrics](/research/virtual-receptionist-handoff-metrics)
-- [Virtual receptionist handoff checklist](/research/virtual-receptionist-handoff-checklist)
+- [Virtual receptionist handoff checklist](/blog/virtual-receptionist-handoff-checklist)
 - [Call-center after-call work](/research/call-center-after-call-work)
 
 ## Sources

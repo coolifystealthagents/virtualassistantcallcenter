@@ -164,6 +164,6 @@ export function HealthcareSchedulingArticle() {
       <ol>{healthcareSchedulingArticle.sources.map((source)=><li key={source.url}><a href={source.url}>{source.name}</a></li>)}</ol>
       <p className="methods-note">Source check: each page was opened before this article was written. The CDC figures describe U.S. physicians, while the legal and security pages do not certify this sample call plan.</p>
     </section>
-    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Healthcare scheduling" related={[{href:'/services/appointment-scheduling',label:'Appointment scheduling'},{href:'/blog',label:'Browse all guides'}]}/>
+    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Healthcare scheduling" related={[{href:'/services/appointment-setting',label:'Appointment scheduling'},{href:'/blog',label:'Browse all guides'}]}/>
   </article>;
 }

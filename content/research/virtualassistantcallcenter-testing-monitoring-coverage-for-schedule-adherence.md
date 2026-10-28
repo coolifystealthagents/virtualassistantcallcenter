@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Monitoring
 image: /images/research/virtualassistantcallcenter-testing-monitoring-coverage-for-schedule-adherence.png
 imageAlt: Testing monitoring coverage for schedule adherence
+draft: true
 ---
 
 **Published October 26, 2026**

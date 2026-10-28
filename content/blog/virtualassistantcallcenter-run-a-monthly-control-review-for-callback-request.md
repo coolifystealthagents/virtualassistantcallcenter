@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Review
 image: /images/blog/virtualassistantcallcenter-run-a-monthly-control-review-for-callback-request.png
 imageAlt: Run a monthly control review for callback request
+draft: true
 ---
 
 **Published October 26, 2026**

@@ -101,6 +101,6 @@ The defensible answer is a bounded account of what the declared records support,
 
 ## Related paths
 
-- [Outbound customer calls](/services/outbound-customer-calls)
+- [Outbound customer calls](/services/outbound-lead-qualification)
 - [Consent propagation research](/research/consent-withdrawal-propagation-study)
 - [Discuss an owner-controlled workflow](/contact-us)

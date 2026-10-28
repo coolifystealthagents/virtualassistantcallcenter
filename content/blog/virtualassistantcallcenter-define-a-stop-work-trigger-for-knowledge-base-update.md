@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Stop Work
 image: /images/blog/virtualassistantcallcenter-define-a-stop-work-trigger-for-knowledge-base-update.png
 imageAlt: Define a stop-work trigger for knowledge base update
+draft: true
 ---
 
 **Published October 26, 2026**

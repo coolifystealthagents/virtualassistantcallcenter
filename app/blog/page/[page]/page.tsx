@@ -10,6 +10,7 @@ export function generateStaticParams() {
       ),
     },
     (_, i) => ({ page: String(i + 1) }),
+  ).filter(({ page }) => Number(page) > 1
   );
 }
 export async function generateMetadata({
@@ -27,6 +28,7 @@ export async function generateMetadata({
       description: "Guides for planning Philippines-based staffing.",
       url: `/blog/page/${page}`,
       type: "website",
+      images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Virtual Assistant Call Center editorial guides" }],
     },
   };
 }

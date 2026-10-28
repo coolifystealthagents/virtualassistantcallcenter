@@ -101,6 +101,6 @@ The defensible answer is a bounded account of what the declared records support,
 
 ## Related paths
 
-- [Virtual assistant services](/services/virtual-assistant)
+- [Virtual assistant services](/services/inbound-customer-calls)
 - [Knowledge-base maintenance research](/research/virtual-assistant-knowledge-base-maintenance)
 - [Discuss an owner-controlled workflow](/contact-us)

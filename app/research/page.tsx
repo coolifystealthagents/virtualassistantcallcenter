@@ -18,6 +18,7 @@ export const metadata = {
       "Research notes about Philippines-based staffing and operations.",
     url: "/research",
     type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Virtual Assistant Call Center research library" }],
   },
 };
 export default function Research() {

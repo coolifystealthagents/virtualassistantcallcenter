@@ -62,7 +62,7 @@ The named business owner or delegated manager. The operating agent should pause 
 ## Related Research
 
 - [call center accessibility checklist](/research/call-center-accessibility-checklist)
-- [inbound customer call intake checklist](/research/inbound-customer-call-intake-checklist)
+- [inbound customer call intake checklist](/blog/inbound-customer-call-intake-checklist)
 - [healthcare appointment intake checklist](/research/healthcare-appointment-intake-checklist)
 
 ## Sources

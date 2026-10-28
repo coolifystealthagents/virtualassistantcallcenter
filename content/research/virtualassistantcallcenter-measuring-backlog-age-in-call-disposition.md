@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Measurement
 image: /images/research/virtualassistantcallcenter-measuring-backlog-age-in-call-disposition.png
 imageAlt: Measuring backlog age in call disposition
+draft: true
 ---
 
 **Published October 26, 2026**

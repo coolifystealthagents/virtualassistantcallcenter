@@ -41,7 +41,7 @@ Record the exception and follow the approved safety or business fallback; do not
 ## Related Research
 - [After-hours call answering benchmark](/research/after-hours-call-answering-benchmark)
 - [After-hours urgent call triage](/research/after-hours-urgent-call-triage)
-- [Business-hours coverage plan](/research/business-hours-coverage-plan)
+- [Business-hours coverage plan](/blog/business-hours-coverage-plan)
 
 ## Sources
 1. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)

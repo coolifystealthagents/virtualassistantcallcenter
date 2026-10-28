@@ -19,11 +19,13 @@ for path in sorted((ROOT / "content").glob("*/*.md")):
     if not 80 <= len(meta.get("description","")) <= 180: errors.append(f"{path}: description must be 80-180 chars")
     if not (ROOT / "public" / meta.get("image","").lstrip("/")).is_file(): errors.append(f"{path}: missing image {meta.get('image')}")
     body = match.group(2)
-    if body.count("## ") < 3: errors.append(f"{path}: needs at least three H2 sections")
+    draft = meta.get("draft", "").lower() == "true"
+    if not draft and body.count("## ") < 3: errors.append(f"{path}: needs at least three H2 sections")
     if re.search(r"[ \t]-[ \t]", body): errors.append(f"{path}: spaced dash in prose")
     for href in re.findall(r"\[[^\]]+\]\(([^)]+)\)", body):
         if href.startswith("/") and not re.fullmatch(r"/[a-z0-9][a-z0-9/-]*", href): errors.append(f"{path}: malformed internal link {href}")
-    entries.append({"file": str(path.relative_to(ROOT)), "slug": meta.get("slug"), "sections": body.count("## ")})
+    if not draft:
+        entries.append({"file": str(path.relative_to(ROOT)), "slug": meta.get("slug"), "sections": body.count("## ")})
 manifest_path = ROOT / "content" / "featured-images.json"
 manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
 seen = set()

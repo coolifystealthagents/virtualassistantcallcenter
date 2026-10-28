@@ -86,7 +86,7 @@ A cloud phone outage can disable routing, presence, recordings, and callback lis
 
 ## Official boundaries
 
-Use the [NIST Privacy Framework](https://www.nist.gov/privacy-framework) for privacy-risk questions and [FTC security guidance](https://www.ftc.gov/business-guidance/resources/start-security-guide-business) for minimization and access controls. Pair this guide with [call screening controls](/blog/call-screening-for-small-business) and [warm transfer practices](/blog/warm-transfer-call-handling).
+Use the [NIST Privacy Framework](https://www.nist.gov/privacy-framework) for privacy-risk questions and [FTC security guidance](https://www.ftc.gov/business-guidance/resources/start-security-guide-business) for minimization and access controls. Pair this guide with [call screening controls](/blog/call-screening-for-small-business) and [warm transfer practices](/blog/warm-transfer-handoff-checklist).
 
 VirtualAssistantCallCenter can help build a bounded phone-support lane with clear scripts, acceptance rules, and review evidence. [Review inbound call support](/services/inbound-customer-calls).
 

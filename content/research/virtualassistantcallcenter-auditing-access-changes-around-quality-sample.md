@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Access
 image: /images/research/virtualassistantcallcenter-auditing-access-changes-around-quality-sample.png
 imageAlt: Auditing access changes around quality sample
+draft: true
 ---
 
 **Published October 26, 2026**

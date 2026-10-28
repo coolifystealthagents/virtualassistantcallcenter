@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Evidence
 image: /images/blog/virtualassistantcallcenter-define-the-minimum-evidence-for-call-disposition.png
 imageAlt: Define the minimum evidence for call disposition
+draft: true
 ---
 
 **Published October 26, 2026**

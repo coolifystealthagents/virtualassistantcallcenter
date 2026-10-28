@@ -62,7 +62,7 @@ The named business owner or delegated manager. The operating agent should pause 
 ## Related Research
 
 - [call center service level measurement](/research/call-center-service-level-measurement)
-- [customer callback queue management](/research/customer-callback-queue-management)
+- [customer callback queue management](/blog/customer-callback-queue-management)
 - [call center occupancy planning](/research/call-center-occupancy-planning)
 
 ## Sources

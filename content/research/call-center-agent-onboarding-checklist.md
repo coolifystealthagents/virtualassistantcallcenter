@@ -61,7 +61,7 @@ The named business owner or delegated manager. The operating agent should pause 
 
 ## Related Research
 
-- [call center qa review routine](/research/call-center-qa-review-routine)
+- [call center qa review routine](/blog/call-center-qa-review-routine)
 - [call escalation severity matrix](/research/call-escalation-severity-matrix)
 - [call center accessibility checklist](/research/call-center-accessibility-checklist)
 

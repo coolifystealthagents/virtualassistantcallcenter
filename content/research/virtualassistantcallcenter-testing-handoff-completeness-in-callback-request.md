@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Quality
 image: /images/research/virtualassistantcallcenter-testing-handoff-completeness-in-callback-request.png
 imageAlt: Testing handoff completeness in callback request
+draft: true
 ---
 
 **Published October 26, 2026**

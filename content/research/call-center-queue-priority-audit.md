@@ -58,7 +58,7 @@ At an owner-defined cadence tied to risk and queue change.
 
 - [customer call backlog triage](/research/customer-call-backlog-triage)
 - [customer service escalation priority model](/research/customer-service-escalation-priority-model)
-- [call center queue backlog governance](/research/call-center-queue-backlog-governance)
+- [call center queue backlog governance](/research/customer-call-backlog-triage)
 
 ## Sources
 

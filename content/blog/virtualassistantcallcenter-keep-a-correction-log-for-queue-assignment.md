@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Corrections
 image: /images/blog/virtualassistantcallcenter-keep-a-correction-log-for-queue-assignment.png
 imageAlt: Keep a correction log for queue assignment
+draft: true
 ---
 
 **Published October 26, 2026**

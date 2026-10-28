@@ -156,6 +156,6 @@ export function ScamCallScreeningArticle() {
       <ol>{scamCallArticle.sources.map((source)=><li key={source.url}><a href={source.url}>{source.name}</a></li>)}</ol>
       <p className="methods-note">Source check: each link was opened before publication. The figures above are reported complaints and losses, not a forecast for one business or proof that every suspicious call is a crime.</p>
     </section>
-    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Call security" related={[{href:'/services/inbound-call-answering',label:'Inbound call answering'},{href:'/blog',label:'Browse all guides'}]}/>
+    <DiscoveredArticleSidebar published="2026-07-27" updated="2026-10-16" category="Call security" related={[{href:'/services/inbound-customer-calls',label:'Inbound call answering'},{href:'/blog',label:'Browse all guides'}]}/>
   </article>;
 }

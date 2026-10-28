@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Onboarding
 image: /images/blog/virtualassistantcallcenter-build-a-first-week-shadow-plan-for-call-intake.png
 imageAlt: Build a first-week shadow plan for call intake
+draft: true
 ---
 
 **Published October 26, 2026**

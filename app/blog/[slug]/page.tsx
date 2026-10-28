@@ -5,7 +5,7 @@ import { ScamCallScreeningArticle, scamCallArticle } from '../rich-articles';
 import { HealthcareSchedulingArticle, healthcareSchedulingArticle } from '../healthcare-article';
 import { OutboundFollowUpArticle, outboundFollowUpArticle } from '../outbound-follow-up-article';
 import { ContentArticle } from '../../content-article';
-import { getContent, getEntry } from '../../content';
+import { getContent, getEntry, metadataTitle } from '../../content';
 
 export function generateStaticParams() { return [...blogPosts.map((p)=>({ slug: p.slug })), ...getContent('blog').map((p)=>({slug:p.slug}))]; }
 
@@ -66,7 +66,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const entry = getEntry('blog', slug);
   const post = blogPosts.find((p)=>p.slug===slug);
   return {
-    title: entry?.title || post?.title || 'Guide',
+    title: metadataTitle(entry?.title || post?.title || 'Guide'),
     description: entry?.description || post?.excerpt,
     alternates: { canonical: `${site.url}/blog/${slug}` },
     openGraph: entry ? {title:entry.title,description:entry.description,url:`${site.url}/blog/${entry.slug}`,type:'article',images:[{url:`${site.url}${entry.image}`,alt:entry.imageAlt}]} : post ? { title: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`, type: 'article', images: [{ url: `${site.url}${post.image}`, alt: post.imageAlt }] } : undefined,
@@ -91,7 +91,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: scamCallArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: scamCallArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt} width="1200" height="630" sizes="(max-width: 700px) calc(100vw - 40px), 1100px"/><ScamCallScreeningArticle/></main><Footer hidePricing/></>;
  }
  if (slug === healthcareSchedulingArticle.slug) {
   const richSchema = {
@@ -105,7 +105,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: healthcareSchedulingArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: healthcareSchedulingArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt} width="1200" height="630" sizes="(max-width: 700px) calc(100vw - 40px), 1100px"/><HealthcareSchedulingArticle/></main><Footer hidePricing/></>;
  }
  if (slug === outboundFollowUpArticle.slug) {
   const richSchema = {
@@ -119,7 +119,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     citation: outboundFollowUpArticle.sources.map((source)=>source.url),
     mainEntity: { '@type': 'FAQPage', mainEntity: outboundFollowUpArticle.faq.map((item)=>({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
   };
-  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt}/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
+  return <><Header hidePricing/><main id="main-content" className="section rich-article-main"><JsonLd data={richSchema}/><img className="content-hero-image rich-featured-image" src={post.image} alt={post.imageAlt} width="1200" height="630" sizes="(max-width: 700px) calc(100vw - 40px), 1100px"/><OutboundFollowUpArticle/></main><Footer hidePricing/></>;
  }
  const guide = guides[post.slug] || guides['assistant-onboarding-checklist'];
  const schema = {

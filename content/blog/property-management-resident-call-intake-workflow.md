@@ -25,7 +25,7 @@ Routine maintenance, inspection questions, package notices, and leasing inquirie
 
 For a maintenance request, record the affected area, observable symptom, when it began, whether the issue is recurring, and any access restriction. Ask only questions that help the maintenance coordinator prioritize and dispatch the request.
 
-Use the [property management maintenance call triage](/content/research/property-management-maintenance-call-triage) pattern to keep the intake focused. If a resident reports a possible safety issue, preserve the exact wording and route it according to the property's documented policy.
+Use the [property management maintenance call triage](/blog/property-management-maintenance-call-triage) pattern to keep the intake focused. If a resident reports a possible safety issue, preserve the exact wording and route it according to the property's documented policy.
 
 ## Protect resident information
 

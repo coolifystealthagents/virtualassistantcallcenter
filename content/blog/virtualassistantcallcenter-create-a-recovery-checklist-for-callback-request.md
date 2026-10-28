@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Recovery
 image: /images/blog/virtualassistantcallcenter-create-a-recovery-checklist-for-callback-request.png
 imageAlt: Create a recovery checklist for callback request
+draft: true
 ---
 
 **Published October 26, 2026**

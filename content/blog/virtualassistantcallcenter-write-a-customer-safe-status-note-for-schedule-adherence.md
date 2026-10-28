@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Communication
 image: /images/blog/virtualassistantcallcenter-write-a-customer-safe-status-note-for-schedule-adherence.png
 imageAlt: Write a customer-safe status note for schedule adherence
+draft: true
 ---
 
 **Published October 26, 2026**

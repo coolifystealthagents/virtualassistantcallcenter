@@ -85,7 +85,7 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
         <h1>{entry.title}</h1>
         <p className="lead">{entry.description}</p>
         <p className="article-date"><time dateTime={entry.published}>Published {formatPublicationDate(entry.published)}</time></p>
-        <img className="content-hero-image" src={entry.image} alt={entry.imageAlt}/>
+        <img className="content-hero-image" src={entry.image} alt={entry.imageAlt} width="1200" height="630" sizes="(max-width: 700px) calc(100vw - 40px), 900px"/>
       </header>
       <div className="article-layout">
         <details className="mobile-article-toc">

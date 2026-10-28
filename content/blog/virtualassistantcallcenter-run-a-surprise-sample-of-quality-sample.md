@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Sampling
 image: /images/blog/virtualassistantcallcenter-run-a-surprise-sample-of-quality-sample.png
 imageAlt: Run a surprise sample of quality sample
+draft: true
 ---
 
 **Published October 26, 2026**

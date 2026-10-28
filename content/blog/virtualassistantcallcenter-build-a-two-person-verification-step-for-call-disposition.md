@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Verification
 image: /images/blog/virtualassistantcallcenter-build-a-two-person-verification-step-for-call-disposition.png
 imageAlt: Build a two-person verification step for call disposition
+draft: true
 ---
 
 **Published October 26, 2026**

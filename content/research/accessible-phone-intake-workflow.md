@@ -62,7 +62,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 ## Related Research
 
 - [Call Center Accessibility Checklist](/research/call-center-accessibility-checklist)
-- [Inbound Customer Call Intake Checklist](/research/inbound-customer-call-intake-checklist)
+- [Inbound Customer Call Intake Checklist](/blog/inbound-customer-call-intake-checklist)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 
 ## Sources

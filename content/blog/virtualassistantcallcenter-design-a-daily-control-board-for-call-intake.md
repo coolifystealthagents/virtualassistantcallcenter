@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Daily Control
 image: /images/blog/virtualassistantcallcenter-design-a-daily-control-board-for-call-intake.png
 imageAlt: Design a daily control board for call intake
+draft: true
 ---
 
 **Published October 26, 2026**

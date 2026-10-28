@@ -108,7 +108,7 @@ export function BlogListing({ page = 1 }: { page?: number }) {
             <div className="fleet-card-grid">
               {pagePosts.map((p) => (
                 <a className="fleet-card" href={`/blog/${p.slug}`} key={p.slug}>
-                  <img src={p.image} alt={p.imageAlt} />
+                  <img src={p.image} alt={p.imageAlt} width="1200" height="630" loading="lazy" sizes="(max-width: 700px) calc(100vw - 40px), 50vw" />
                   <h2>{p.title}</h2>
                   <p>{p.excerpt}</p>
                   {p.published && (

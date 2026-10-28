@@ -63,7 +63,7 @@ The named business owner or delegated manager. The operating agent should pause 
 
 - [appointment reminder call workflow](/research/appointment-reminder-call-workflow)
 - [appointment booking no show research](/research/appointment-booking-no-show-research)
-- [healthcare appointment call handoff](/research/healthcare-appointment-call-handoff)
+- [healthcare appointment call handoff](/blog/healthcare-appointment-call-handoff)
 
 ## Sources
 

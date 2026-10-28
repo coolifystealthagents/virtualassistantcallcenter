@@ -61,7 +61,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 
 ## Related Research
 
-- [Call Routing For Multi Location Businesses](/research/call-routing-for-multi-location-businesses)
+- [Call Routing For Multi Location Businesses](/blog/call-routing-for-multi-location-businesses)
 - [Virtual Receptionist Handoff Metrics](/research/virtual-receptionist-handoff-metrics)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 

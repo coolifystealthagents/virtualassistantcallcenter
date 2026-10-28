@@ -47,7 +47,7 @@ Record the reason, disposition, owner, and next action. Avoid passwords, full pa
 ## Related Research
 
 - [After-hours call answering benchmark](/research/after-hours-call-answering-benchmark)
-- [Business call scam screening guide](/alternatives/business-call-scam-screening-virtual-assistant-philippines)
+- [Business call scam screening guide](/blog/business-call-scam-screening-virtual-assistant-philippines)
 - [Outbound follow-up consent controls](/research/outbound-follow-up-consent-controls)
 
 ## Sources

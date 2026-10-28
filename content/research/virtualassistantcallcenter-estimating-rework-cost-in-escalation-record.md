@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Cost
 image: /images/research/virtualassistantcallcenter-estimating-rework-cost-in-escalation-record.png
 imageAlt: Estimating rework cost in escalation record
+draft: true
 ---
 
 **Published October 26, 2026**

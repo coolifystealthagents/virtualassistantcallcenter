@@ -61,7 +61,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 
 ## Related Research
 
-- [Virtual Assistant Call Notes Template](/research/virtual-assistant-call-notes-template)
+- [Virtual Assistant Call Notes Template](/blog/virtual-assistant-call-notes-template)
 - [Virtual Receptionist Handoff Metrics](/research/virtual-receptionist-handoff-metrics)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 

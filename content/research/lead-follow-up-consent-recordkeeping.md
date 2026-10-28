@@ -62,7 +62,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 ## Related Research
 
 - [Outbound Follow Up Consent Controls](/research/outbound-follow-up-consent-controls)
-- [Lead Qualification Call Script](/research/lead-qualification-call-script)
+- [Lead Qualification Call Script](/blog/lead-qualification-call-script)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 
 ## Sources

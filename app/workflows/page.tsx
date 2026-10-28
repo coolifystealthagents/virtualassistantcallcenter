@@ -45,7 +45,7 @@ export default function Workflows() {
           <div className="button-row"><a className="btn" href="/contact-us">Build my call plan</a><a className="btn secondary" href="/qa-scorecard">See QA scorecard</a></div>
         </div>
         <div className="workflow-photo">
-          <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Support operations team tracking customer calls on laptop screens" />
+          <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Support operations team tracking customer calls on laptop screens" width="1200" height="800" fetchPriority="high" sizes="(max-width: 800px) calc(100vw - 40px), 50vw" />
           <div className="score-float"><b>Sample QA review</b><span>Calls selected</span><span>Notes checked</span><span>Coaching point logged</span></div>
         </div>
       </div>

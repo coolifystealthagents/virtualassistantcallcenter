@@ -39,7 +39,7 @@ Only if the existing change policy explicitly classifies it as low risk.
 Use the documented threshold or owner decision; do not wait for a public failure.
 
 ## Related Research
-- [Virtual assistant knowledge article governance](/research/virtual-assistant-knowledge-article-governance)
+- [Virtual assistant knowledge article governance](/research/call-center-knowledge-article-governance)
 - [Call-center agent onboarding checklist](/research/call-center-agent-onboarding-checklist)
 - [Call quality reviewer calibration](/research/call-quality-reviewer-calibration)
 

@@ -86,6 +86,6 @@ The useful answer is not a universal benchmark. It is a traceable account of whe
 
 ## Related paths
 
-- [/services/customer-support](/services/customer-support)
+- [/services/inbound-customer-calls](/services/inbound-customer-calls)
 - [Research library](/research)
 - [Discuss an owner-controlled workflow](/contact-us)

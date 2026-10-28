@@ -61,7 +61,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 
 ## Related Research
 
-- [Virtual Receptionist Call Transfer Rules](/research/virtual-receptionist-call-transfer-rules)
+- [Virtual Receptionist Call Transfer Rules](/blog/virtual-receptionist-call-transfer-rules)
 - [After Hours Call Answering Benchmark](/research/after-hours-call-answering-benchmark)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 

@@ -57,7 +57,7 @@ The owner must establish it from local observations and risk, not from this fram
 ## Related Research
 
 - [customer callback queue aging study](/research/customer-callback-queue-aging-study)
-- [customer callback queue management](/research/customer-callback-queue-management)
+- [customer callback queue management](/blog/customer-callback-queue-management)
 - [missed call response time study](/research/missed-call-response-time-study)
 
 ## Sources

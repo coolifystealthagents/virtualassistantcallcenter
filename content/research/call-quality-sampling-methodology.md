@@ -61,7 +61,7 @@ Review missing handoffs, incorrect dispositions, privacy-sensitive notes, and cu
 
 ## Related Research
 
-- [Call Center Qa Review Routine](/research/call-center-qa-review-routine)
+- [Call Center Qa Review Routine](/blog/call-center-qa-review-routine)
 - [Service Business Call Quality Audit](/research/service-business-call-quality-audit)
 - [Call screening workflow for small business](/research/call-screening-workflow-for-small-business)
 

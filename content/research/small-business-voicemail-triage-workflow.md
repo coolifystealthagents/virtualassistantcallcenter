@@ -61,8 +61,8 @@ The named business owner or delegated manager. The operating agent should pause 
 
 ## Related Research
 
-- [inbound customer call intake checklist](/research/inbound-customer-call-intake-checklist)
-- [missed call recovery workflow](/research/missed-call-recovery-workflow)
+- [inbound customer call intake checklist](/blog/inbound-customer-call-intake-checklist)
+- [missed call recovery workflow](/blog/missed-call-recovery-workflow)
 - [after hours urgent call triage](/research/after-hours-urgent-call-triage)
 
 ## Sources

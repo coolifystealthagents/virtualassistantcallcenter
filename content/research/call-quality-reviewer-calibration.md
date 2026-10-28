@@ -41,7 +41,7 @@ The named workflow owner, with specialist review where required.
 ## Related Research
 - [Call quality sampling methodology](/research/call-quality-sampling-methodology)
 - [Service-business call quality audit](/research/service-business-call-quality-audit)
-- [Call-center QA review routine](/research/call-center-qa-review-routine)
+- [Call-center QA review routine](/blog/call-center-qa-review-routine)
 
 ## Sources
 1. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)

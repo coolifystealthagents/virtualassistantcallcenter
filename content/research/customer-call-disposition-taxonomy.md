@@ -61,8 +61,8 @@ The named business owner or delegated manager. The operating agent should pause 
 
 ## Related Research
 
-- [call center qa review routine](/research/call-center-qa-review-routine)
-- [virtual assistant call notes template](/research/virtual-assistant-call-notes-template)
+- [call center qa review routine](/blog/call-center-qa-review-routine)
+- [virtual assistant call notes template](/blog/virtual-assistant-call-notes-template)
 - [call center kpi definition guide](/research/call-center-kpi-definition-guide)
 
 ## Sources

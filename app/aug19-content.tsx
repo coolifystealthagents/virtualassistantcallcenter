@@ -3,7 +3,7 @@ import path from 'node:path';
 import type { Metadata } from 'next';
 import { ArticleSidebar } from './article-sidebar';
 import { Header, Footer, CTA } from './components';
-import { normalizeVisibleText } from './content';
+import { metadataTitle, normalizeVisibleText } from './content';
 import meta from './aug19-meta.json';
 
 const SITE = 'https://virtualassistantcallcenter.com';
@@ -37,7 +37,7 @@ function slugify(value: string) {
 export function getAug19Metadata(family: Family, slug: string): Metadata {
   const record = item(slug);
   return {
-    title: record.title,
+    title: metadataTitle(record.title),
     description: record.description,
     alternates: { canonical: `/${family}/${slug}` },
     openGraph: { title: record.title, description: record.description, url: `${SITE}/${family}/${slug}`, images: [{ url: record.hero, alt: `${record.title} editorial illustration` }] },

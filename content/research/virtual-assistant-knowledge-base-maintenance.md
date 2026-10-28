@@ -62,8 +62,8 @@ The named business owner or delegated manager. The operating agent should pause 
 ## Related Research
 
 - [privacy by design call notes](/research/privacy-by-design-call-notes)
-- [virtual receptionist handoff checklist](/research/virtual-receptionist-handoff-checklist)
-- [call answering policy for new leads](/research/call-answering-policy-for-new-leads)
+- [virtual receptionist handoff checklist](/blog/virtual-receptionist-handoff-checklist)
+- [call answering policy for new leads](/blog/call-answering-policy-for-new-leads)
 
 ## Sources
 

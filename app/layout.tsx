@@ -7,11 +7,11 @@ import { site } from './data';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://virtualassistantcallcenter.com'),
-  title: { default: 'Virtual Assistant Call Center | Filipino Receptionists', template: '%s | Virtual Assistant Call Center' },
+  title: { default: 'Virtual Assistant Call Center | Filipino Receptionists', template: '%s' },
   description: 'Plan call answering, intake, appointment setting, follow-up, and customer support with Filipino virtual receptionists.',
-  openGraph: { title: 'Philippines Virtual Receptionist Services', description: 'Plan Filipino call support around your script, routing rules, and quality checks.', url: 'https://virtualassistantcallcenter.com', siteName: 'Virtual Assistant Call Center', type: 'website', images: [{ url: '/og-image.svg', width: 1200, height: 630, alt: 'Virtual Assistant Call Center' }] },
-  twitter: { card: 'summary_large_image', title: 'Philippines Virtual Receptionist Services', description: 'Plan Filipino call support around your script, routing rules, and quality checks.', images: ['/og-image.svg'] },
-  icons: { icon: '/icon.svg', shortcut: '/icon.svg', apple: '/icon.svg' },
+  openGraph: { title: 'Philippines Virtual Receptionist Services', description: 'Plan Filipino call support around your script, routing rules, and quality checks.', url: 'https://virtualassistantcallcenter.com', siteName: 'Virtual Assistant Call Center', type: 'website', images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Virtual Assistant Call Center - Philippines call support' }] },
+  twitter: { card: 'summary_large_image', title: 'Philippines Virtual Receptionist Services', description: 'Plan Filipino call support around your script, routing rules, and quality checks.', images: ['/og-image.png'] },
+  icons: { icon: '/icon.svg', shortcut: '/icon.svg', apple: '/apple-touch-icon.png' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

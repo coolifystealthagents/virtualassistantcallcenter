@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Decision Rights
 image: /images/blog/virtualassistantcallcenter-write-a-decision-rights-note-for-queue-assignment.png
 imageAlt: Write a decision-rights note for queue assignment
+draft: true
 ---
 
 **Published October 26, 2026**

@@ -14,6 +14,6 @@ export default function Alternatives() {
     <p className="lead">Practical comparisons for teams choosing between virtual receptionists, answering services, employees, and specialized assistants.</p></div>
     <img className="index-hero-image" src="/thumbnails/provider-shortlist-call-operations.svg" alt="Call support provider evaluation board comparing coverage, follow-through, quality, and ownership" width="1200" height="630"/>
   </div></section><section className="section"><div className="container fleet-card-grid">{entries.map((entry) =>
-    <a className="fleet-card" href={`/alternatives/${entry.slug}`} key={entry.slug}><img src={entry.image} alt={entry.imageAlt}/><span>{entry.category}</span><h2>{entry.title}</h2><p>{entry.description}</p><b>Read comparison</b></a>
+    <a className="fleet-card" href={`/alternatives/${entry.slug}`} key={entry.slug}><img src={entry.image} alt={entry.imageAlt} width="1200" height="630" loading="lazy" sizes="(max-width: 700px) calc(100vw - 40px), 50vw"/><span>{entry.category}</span><h2>{entry.title}</h2><p>{entry.description}</p><b>Read comparison</b></a>
   )}</div></section></main><Footer/></>;
 }

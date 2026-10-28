@@ -13,6 +13,7 @@ export type ContentEntry = {
   image: string;
   imageAlt: string;
   related: string[];
+  draft: boolean;
   body: string;
 };
 
@@ -23,6 +24,14 @@ export function normalizeVisibleText(value: string) {
     .replace(/[\u2013\u2014]/g, ' - ')
     .replace(/\s+--\s+/g, ' - ')
     .replace(/[ \t]{2,}/g, ' ');
+}
+
+export function metadataTitle(value: string, maxLength = 60) {
+  const normalized = normalizeVisibleText(value).trim();
+  if (normalized.length <= maxLength) return normalized;
+  const candidate = normalized.slice(0, maxLength - 1);
+  const boundary = candidate.lastIndexOf(' ');
+  return `${candidate.slice(0, boundary > 35 ? boundary : candidate.length).trim()}…`;
 }
 
 const frozenAug10BlogOrder = [
@@ -73,6 +82,7 @@ function parse(file: string, kind: ContentKind): ContentEntry {
     image: values.image,
     imageAlt: normalizeVisibleText(values.imageAlt),
     related: values.related ? values.related.split(',').map((x) => x.trim()).filter(Boolean) : [],
+    draft: values.draft === 'true',
     body: normalizeVisibleText(match[2]).trim(),
   };
 }
@@ -83,6 +93,7 @@ export function getContent(kind: ContentKind): ContentEntry[] {
   return fs.readdirSync(directory)
     .filter((name) => name.endsWith('.md'))
     .map((name) => parse(path.join(directory, name), kind))
+    .filter((entry) => !entry.draft)
     .sort((a, b) => {
       const byDate = b.published.localeCompare(a.published);
       if (byDate) return byDate;

@@ -61,8 +61,8 @@ The named business owner or delegated manager. The operating agent should pause 
 
 ## Related Research
 
-- [missed call recovery workflow](/research/missed-call-recovery-workflow)
-- [customer callback queue management](/research/customer-callback-queue-management)
+- [missed call recovery workflow](/blog/missed-call-recovery-workflow)
+- [customer callback queue management](/blog/customer-callback-queue-management)
 - [customer callback service level study](/research/customer-callback-service-level-study)
 
 ## Sources

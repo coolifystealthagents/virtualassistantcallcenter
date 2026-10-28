@@ -7,6 +7,7 @@ updated: 2026-10-26
 category: Freshness
 image: /images/blog/virtualassistantcallcenter-set-a-stale-record-rule-for-escalation-record.png
 imageAlt: Set a stale-record rule for escalation record
+draft: true
 ---
 
 **Published October 26, 2026**

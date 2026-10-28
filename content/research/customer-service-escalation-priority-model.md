@@ -63,7 +63,7 @@ The named business owner or delegated manager. The operating agent should pause 
 
 - [call escalation severity matrix](/research/call-escalation-severity-matrix)
 - [after hours urgent call triage](/research/after-hours-urgent-call-triage)
-- [virtual receptionist handoff checklist](/research/virtual-receptionist-handoff-checklist)
+- [virtual receptionist handoff checklist](/blog/virtual-receptionist-handoff-checklist)
 
 ## Sources
 

@@ -51,7 +51,7 @@ No. Pair it with distribution, exclusions, and a count of unresolved records.
 
 ## Related Research
 
-- [Customer callback queue management](/research/customer-callback-queue-management)
+- [Customer callback queue management](/blog/customer-callback-queue-management)
 - [Missed call response time study](/research/missed-call-response-time-study)
 - [Customer callback service level study](/research/customer-callback-service-level-study)
 
