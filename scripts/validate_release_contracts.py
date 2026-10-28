@@ -20,6 +20,8 @@ contact_page = (ROOT / "app/contact-us/page.tsx").read_text(encoding="utf-8")
 api = (ROOT / "app/api/contact/route.ts").read_text(encoding="utf-8")
 content_loader = (ROOT / "app/content.ts").read_text(encoding="utf-8")
 layout = (ROOT / "app/layout.tsx").read_text(encoding="utf-8")
+components = (ROOT / "app/components.tsx").read_text(encoding="utf-8")
+blog_layout = (ROOT / "app/blog/layout.tsx").read_text(encoding="utf-8")
 config = (ROOT / "next.config.mjs").read_text(encoding="utf-8")
 
 # Contact field names, client behavior, native fallback, analytics and endpoints.
@@ -41,7 +43,13 @@ require("/icon.svg" in layout, "favicon declaration missing")
 require("/apple-touch-icon.png" in layout, "apple touch icon declaration missing")
 require("/og-image.png" in layout, "raster Open Graph image declaration missing")
 require("Virtual Assistant Call Center" in layout, "subsidiary identity missing from metadata")
-require("Powered by" in (ROOT / "app/components.tsx").read_text(encoding="utf-8"), "StealthAgents attribution missing")
+require("Powered by" in components, "StealthAgents attribution missing")
+
+# Blog conversion offers must remain inside the site chrome: after Header and before Footer.
+require("BlogBanner" not in blog_layout, "blog layout must not place conversion offers outside page Header/Footer")
+require("pathname === '/blog' || pathname.startsWith('/blog/')" in components, "shared chrome must scope conversion offers to actual blog routes")
+require('</header>{showBlogBanners?<BlogBanner position="top"/>:null}' in components, "blog top offer must render after the shared Header")
+require('return <>{showBlogBanners?<><BlogBanner position="middle"/><BlogBanner position="bottom"/></>:null}<footer' in components, "blog final offers must render before the shared Footer")
 
 # Drafts are filtered before indexes, static params and sitemap consume content.
 require(".filter((entry) => !entry.draft)" in content_loader, "draft content must be filtered by the shared loader")
