@@ -11,6 +11,8 @@ imageAlt: Trace every queue assignment change to a named owner
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: queue assignment with explicit evidence, decision rights, and a verified close.
 
 A busy call center support desk can process dozens of queue assignment requests in a day and still leave call center managers unable to explain which request was approved, which was only discussed, and which was never entered. The cost shows up later as a reopened case, an unexplained callback completion change, or a correction that takes longer than the original task. The record can be short, but it must be specific enough for a second reviewer to repeat the check without asking the original operator what happened. A familiar vendor, member, candidate, or client name is not evidence that the underlying queue assignment value is still valid.
@@ -23,6 +25,8 @@ If call center manager supplies the instruction, keep the instruction and the un
 
 For queue assignment, the governing source is the quality recording system; a note in the queue is only a pointer to that source. A quality sample that arrives after the action can still be useful, but it must be marked late and linked to the correction it supports. If the quality recording system and the quality sample disagree, stop the dependent action and record both values with the time each was observed. Record the source identifier and the extraction time when the value comes from the quality recording system.
 
+## Review cadence
+
 Workforce planner may prepare, compare, label, and route the queue assignment, while agent keeps the decision that changes the destination record in the knowledge base. If the operator discovers that the request falls outside the approved scope, pause the work and route the scope question before touching the knowledge base. For repetitive queue assignment work, use a standing approval only when its scope, limits, and review date are written down. For high-risk queue assignment work, require a second reviewer who is not the person who prepared the packet.
 
 The operator can make the quality sample usable, but should not invent the rationale for an approval that client never gave. A decision right is not the same as system access; the operator may be able to edit a field without being authorized to decide its value. Record the approval in the queue assignment case with the approver, the time, the scope, and the evidence reviewed. If client delegates approval, record the delegate, the scope, the start time, and the end time.
@@ -34,6 +38,8 @@ A short morning pass should identify missing call intake, stale approvals, and i
 The daily queue assignment routine should begin with a queue count by owner and age, not with the easiest request in the inbox. For each open queue assignment, record the source, the queue assignment, the decision, and the destination field before moving to the next item. Before the shift ends, reconcile the queue assignment queue and write a carryover note for every item that is still open. A case with no next action should be treated as an exception even if its status is marked in progress.
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. An escalation that ends in silence should remain open; silence is not approval. A stop is not a failure of service; it is the control working before the error reaches agent. When a case is blocked by access, record the system, the role requested, and the person who can grant it.
+
+## Closeout checks
 
 Track repeated exceptions separately from one-off errors; a pattern may point to a form, a queue rule, or a permissions problem. If the owner asks for more evidence, record the request, the due time, and the person responsible for obtaining it. Record the stop time, the reason, and the release decision so the delay can be reviewed without guessing. The escalation packet should be short enough to read on a phone and complete enough to decide without a meeting.
 

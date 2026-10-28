@@ -11,6 +11,8 @@ imageAlt: Close call disposition only when the destination record changes
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call disposition with explicit evidence, decision rights, and a verified close.
 
 Most call disposition problems in call center support start before the work is done: the request is accepted without a source, a deadline, or a clear boundary around what the operator may change. If the destination record is wrong, the team may send a correct-looking update while client still sees the old value in the quality recording system. Make the queue owner visible for every call disposition item, and give that owner the authority to pause the work when the evidence is not enough. If client cannot name the desired outcome, the request is not ready for the call disposition queue.
@@ -23,6 +25,8 @@ Record the escalation record and the time it was observed, because a later scree
 
 Start the evidence map by naming the field in the workforce management system that the call disposition action is supposed to change. Attach the quality sample to the case, label its version or date, and record the field in the workforce management system that it supports. Keep an exception note that explains which value was used, which was rejected, and why; a later reviewer should not have to infer the choice from the final number. The team should test one call disposition case each week by reconstructing it from the evidence map alone.
 
+## Review cadence
+
 When the owner is unavailable, the backup role needs the same authority and the same evidence standard, not an informal workaround. Keep a short list of decisions that always require client, and review the list when the call center support process changes. Record the approval in the call disposition case with the approver, the time, the scope, and the evidence reviewed. If the approver changes the scope, restart the evidence check rather than stretching the old approval.
 
 The operator can make the quality sample usable, but should not invent the rationale for an approval that customer never gave. Do not let urgency expand the role; if the request affects stale knowledge article, the boundary stays in place even when the deadline is tight. If the approval arrives after the action, mark the sequence honestly and route the late approval to the owner for a correction decision. A standing approval should have a limit, a review date, and a clear description of the call disposition work it covers.
@@ -34,6 +38,8 @@ The daily call disposition routine should begin with a queue count by owner and 
 Start the call disposition review by opening the knowledge base, sorting the oldest unresolved item, and checking the queue assignment before reading the latest summary. When a request changes scope, stop the old action, record the change, and route the new scope before continuing. Close the day by checking that each completed call disposition has a destination update in the knowledge base and a confirmation for the requester. A case with no next action should be treated as an exception even if its status is marked in progress.
 
 Do not let an exception close because the requester stopped asking; keep the case open until the evidence or the decision is resolved. After the decision, link the response to the destination change and close the exception with the reason it occurred. If the same stop trigger appears repeatedly, change the intake rule or the call intake requirement instead of coaching around it. When a case is blocked by access, record the system, the role requested, and the person who can grant it.
+
+## Closeout checks
 
 A missing queue assignment and an unreadable queue assignment are different exceptions and should not share the same reason code. An escalation packet should include the call disposition link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest next step. If access is wrong or unexplained, stop the call disposition work before opening the knowledge base with borrowed credentials. A workaround used during an outage in the knowledge base should have an expiry time and a reconciliation owner.
 

@@ -11,6 +11,8 @@ imageAlt: Testing evidence completeness in queue assignment without a convenienc
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: queue assignment with explicit evidence, decision rights, and a verified close.
 
 The study measures the record and the handoff, not the professional judgment of agent or the legal outcome of the work. If one request produces several call disposition updates, define whether the unit is the request or each update before sampling. The definitions should be short enough to use at the queue and precise enough to defend in a review with agent. If the study is exploratory, label it exploratory and do not present the result as a stable baseline. If the evidence is sensitive, record the approved reference and access path rather than copying the content.
@@ -23,6 +25,8 @@ Test the unit definition on a case that crosses owners, a case that is still ope
 
 Measure elapsed time from the first recorded request to the verified destination update, and report waiting intervals separately. Record the source system, the record identifier, the extraction time, and the reviewer for every extracted value. A correction is a change to a closed record; a clarification that does not change the record is a note, not a correction. Define whether the measure counts requests, cases, or destination updates, and use that unit consistently. If the source changes after the observation, preserve the earlier value and add a dated note instead of replacing it.
 
+## Review cadence
+
 Name the owner who can declare a case complete, and record that role in the data dictionary. Record the version of the quality sample and the quality recording system snapshot used for each case. Use the same status vocabulary in the queue, the evidence extract, and the report so a case does not change category. Keep a change log for every definition adjustment and the date it took effect. At Virtual Assistant Call Center, the reviewer should be able to explain this step to client from the case record alone.
 
 If the source is a document, record the page or field; if the source is a system, record the record identifier and extraction time. Keep the identity crosswalk in the approved system and restrict it to the review owner. Keep the source reference and the coded value in the same row, and do not overwrite the original with a later correction. Define who may change a coded value and how the change is logged. Use the same note in the case file and the study extract; do not create a second version in a personal document.
@@ -34,6 +38,8 @@ If the source is a document, record the page or field; if the source is a system
 Stop expanding the sample only when the review question is answered, not when the result starts to look favorable. Do not clean the data by filling missing values; preserve the missing state and report it as a result. Keep the sample selection reproducible by recording the export date, filter, and random seed or start rule. Record the sampling frame as an export with a date, filter, and row count. If two reviewers disagree, preserve both classifications until the definition or the evidence is resolved.
 
 Sample across the full observation window, including the days when the queue was busiest and the days when coverage changed. Collect the case from the cloud call platform, the queue assignment, and the approval record, and stop at the verified close. Use a random or systematic start rule and then take consecutive cases within each stratum. Use a random start and a fixed interval when the frame is ordered, and record both. Link the observation to the exact field in the cloud call platform and to the queue assignment that supports it.
+
+## Closeout checks
 
 Sample across the full observation window, including the days when the queue was busiest and the days when coverage changed. Keep the collection window and the number of collectors in the report; both affect how the result should be interpreted. Do not expand the sample only because the early result looks weak or strong. If a selected case is out of scope, replace it only with the next case in the same stratum and record the substitution. Do not let a summary written later replace the evidence that was available at the first decision.
 

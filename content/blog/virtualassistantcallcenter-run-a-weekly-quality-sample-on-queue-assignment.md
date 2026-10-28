@@ -11,6 +11,8 @@ imageAlt: Run a weekly quality sample on queue assignment
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: queue assignment with explicit evidence, decision rights, and a verified close.
 
 The queue assignment queue rarely fails in a dramatic way; it usually drifts when a familiar request arrives and the operator copies the previous outcome instead of reopening the knowledge base. The team may also overstate quality score, because a closed status is counted before the call intake and the destination update are verified. Treat the queue assignment as a closed loop rather than a message: every action needs a source, a boundary, a destination, and a time. A queue that mixes new requests with corrections will overstate demand and understate the time spent repairing earlier work.
@@ -23,6 +25,8 @@ The source of truth may be a system, a signed document, or an approved message, 
 
 Start the evidence map by naming the field in the cloud call platform that the queue assignment action is supposed to change. For recurring queue assignment work, use the same callback request type and the same field labels so a sample can be compared across owners. If the callback request is incomplete, the safest next step may be to pause queue assignment rather than fill the gap with a plausible assumption. If the callback request contains personal or confidential data, use the approved access path and record only the reference in the queue.
 
+## Review cadence
+
 The approver should see the evidence packet, not a paraphrase that removes the conflict or the missing call disposition. The boundary should be visible to the requester as well, so a request for queue assignment does not become a promise the operator cannot keep. An approval that cannot be linked to a specific queue assignment case is too vague to support the destination change. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
 
 The operator can make the callback request usable, but should not invent the rationale for an approval that client never gave. A decision right is not the same as system access; the operator may be able to edit a field without being authorized to decide its value. For repetitive queue assignment work, use a standing approval only when its scope, limits, and review date are written down. If client delegates approval, record the delegate, the scope, the start time, and the end time.
@@ -34,6 +38,8 @@ Use the same queue assignment queue for new work, corrections, and reopened case
 Start with the cases that affect incorrect disposition, then move to routine requests; age alone is not the only priority signal. When a request changes scope, stop the old action, record the change, and route the new scope before continuing. The end-of-day review should show what was completed, what is blocked, who owns the next step, and which quality sample is still missing. At the end of the day, compare the open queue with the morning list and explain every unexplained difference.
 
 Use separate reason codes for missing escalation record, conflicting source, wrong queue assignment, expired approval, unavailable agent, and an outage in the workforce management system. An escalation that ends in silence should remain open; silence is not approval. Record the stop time, the reason, and the release decision so the delay can be reviewed without guessing. When a case is blocked by access, record the system, the role requested, and the person who can grant it.
+
+## Closeout checks
 
 When incorrect disposition is involved, use the highest escalation path even if the queue assignment request looks routine. When the decision is urgent, call out the consequence of waiting and the last safe time to act. A stop is not a failure of service; it is the control working before the error reaches client. The escalation packet should be short enough to read on a phone and complete enough to decide without a meeting.
 

@@ -11,6 +11,8 @@ imageAlt: Separate preparation from approval in call disposition
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call disposition with explicit evidence, decision rights, and a verified close.
 
 A busy call center support desk can process dozens of call disposition requests in a day and still leave call center managers unable to explain which request was approved, which was only discussed, and which was never entered. That gap creates rework, weakens disposition accuracy, and makes it hard to tell whether the outcome was authorized or merely convenient. Treat the call disposition as a closed loop rather than a message: every action needs a source, a boundary, a destination, and a time. The operator should be able to point to the exact field in the CRM that will change, not only to the message that requested the change.
@@ -23,6 +25,8 @@ Do not treat a forwarded email as the record itself when the governing value liv
 
 The call disposition evidence set should include the request, the queue assignment, the owner decision, the action taken, and the final value in the escalation queue. When two queue assignment versions conflict, preserve both and route the conflict to client; do not silently choose the cleaner-looking value. If the escalation queue and the queue assignment disagree, stop the dependent action and record both values with the time each was observed. The evidence map should show which fields are required, which are conditional, and which may be marked unavailable.
 
+## Review cadence
+
 Call center agent may prepare, compare, label, and route the call disposition, while client keeps the decision that changes the destination record in the quality recording system. The boundary should be visible to the requester as well, so a request for call disposition does not become a promise the operator cannot keep. If the approval arrives after the action, mark the sequence honestly and route the late approval to the owner for a correction decision. A standing approval should have a limit, a review date, and a clear description of the call disposition work it covers.
 
 Name the role that can approve call disposition before the work begins; a shared inbox can receive the request, but it cannot own the decision. A decision right is not the same as system access; the operator may be able to edit a field without being authorized to decide its value. If the approval arrives after the action, mark the sequence honestly and route the late approval to the owner for a correction decision. The approval record should not be a forwarded thread with ten replies; summarize the decision and link the evidence.
@@ -34,6 +38,8 @@ The daily call disposition routine should begin with a queue count by owner and 
 The daily call disposition routine should begin with a queue count by owner and age, not with the easiest request in the inbox. If the operator touches the workforce management system, record the before-and-after value and the approval that allowed the change. Use the final queue count to test the day’s escalation age; a lower count achieved by hiding open items is not progress. If the queue is too large to review, split it by risk or channel rather than sampling only the newest items.
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. When the decision is urgent, call out the consequence of waiting and the last safe time to act. A stop is not a failure of service; it is the control working before the error reaches client. If the same exception appears in three cases, review the intake form or the call disposition requirement.
+
+## Closeout checks
 
 An exception is not a generic failure; name the evidence problem so the team can fix the source instead of blaming the operator. After the decision, link the response to the destination change and close the exception with the reason it occurred. If access is wrong or unexplained, stop the call disposition work before opening the workforce management system with borrowed credentials. If the same exception appears in three cases, review the intake form or the callback request requirement.
 

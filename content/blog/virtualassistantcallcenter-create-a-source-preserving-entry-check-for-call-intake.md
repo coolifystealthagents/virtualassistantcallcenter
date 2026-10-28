@@ -11,6 +11,8 @@ imageAlt: Create a source-preserving entry check for call intake
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call intake with explicit evidence, decision rights, and a verified close.
 
 A busy call center support desk can process dozens of call intake requests in a day and still leave call center managers unable to explain which request was approved, which was only discussed, and which was never entered. Without a visible owner, the request can sit in a shared inbox while everyone assumes someone else has checked the cloud call platform. Make the queue owner visible for every call intake item, and give that owner the authority to pause the work when the evidence is not enough. The operator should be able to point to the exact field in the cloud call platform that will change, not only to the message that requested the change.
@@ -23,6 +25,8 @@ Do not treat a forwarded email as the record itself when the governing value liv
 
 The call intake evidence set should include the request, the callback request, the owner decision, the action taken, and the final value in the knowledge base. If the callback request contains sensitive data, store it in the approved location and record only the minimum reference needed for the call intake review. When the conflict affects stale knowledge article, escalate before changing the destination record so the decision is visible outside the queue. A source that cannot be opened by the reviewer is not a usable source, even if the operator can see it on their screen.
 
+## Review cadence
+
 Quality analyst may prepare, compare, label, and route the call intake, while call center manager keeps the decision that changes the destination record in the CRM. Do not let urgency expand the role; if the request affects incorrect disposition, the boundary stays in place even when the deadline is tight. A verbal approval can be recorded as a lead, but the operator should confirm it in the approved channel before changing the CRM. If the approver changes the scope, restart the evidence check rather than stretching the old approval.
 
 Workforce planner may prepare, compare, label, and route the call intake, while agent keeps the decision that changes the destination record in the knowledge base. A decision right is not the same as system access; the operator may be able to edit a field without being authorized to decide its value. The approval record should point to the callback request that was reviewed, not only to the request that started the work. A standing approval should have a limit, a review date, and a clear description of the call intake work it covers.
@@ -34,6 +38,8 @@ Use the same call intake queue for new work, corrections, and reopened cases so 
 Use the same call intake queue for new work, corrections, and reopened cases so the daily count reflects the real load. A status update should describe a verifiable event, not a feeling about progress; link the event to the escalation queue or the quality sample. Use the final queue count to test the day’s disposition accuracy; a lower count achieved by hiding open items is not progress. A daily stand-up should review exceptions and aging items, not read every completed ticket aloud.
 
 A missing escalation record and an unreadable escalation record are different exceptions and should not share the same reason code. When the decision is urgent, call out the consequence of waiting and the last safe time to act. If access is wrong or unexplained, stop the call intake work before opening the quality recording system with borrowed credentials. The escalation packet should be short enough to read on a phone and complete enough to decide without a meeting.
+
+## Closeout checks
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. After the decision, link the response to the destination change and close the exception with the reason it occurred. A stop is not a failure of service; it is the control working before the error reaches agent. Do not close an exception because the customer stopped replying; record the last contact and the next attempt.
 

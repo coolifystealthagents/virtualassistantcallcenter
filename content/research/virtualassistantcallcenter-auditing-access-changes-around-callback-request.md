@@ -11,6 +11,8 @@ imageAlt: Auditing access changes around callback request
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: callback request with explicit evidence, decision rights, and a verified close.
 
 Write the primary question and one supporting question, then stop; a long list of questions usually hides an undefined unit. Record the opening count, additions, withdrawals, resolutions, and unresolved items at the end of the window. Record how corrections, reopens, and duplicate requests are treated so quality score cannot be inflated by reclassification. State whether the study covers one team, one client, or all cases in the defined service. If the source changes after the observation, preserve the earlier value and add a dated note instead of replacing it.
@@ -23,6 +25,8 @@ A population that changes size during the day should be reported with the start,
 
 Define the controlled event as the moment a request for callback request becomes work, not the moment someone starts typing a note. A blank field, a not-applicable field, and a confirmed negative field should have different codes. If a case is outside the scope rule, record the rule and the date of exclusion rather than removing it silently. Keep a change log for every definition adjustment and the date it took effect. Keep the measurement note short enough to read with the case and specific enough to support the reported callback completion.
 
+## Review cadence
+
 Define how a correction after close is linked to the original case and whether it creates a new case. Record the source system, the record identifier, the extraction time, and the reviewer for every extracted value. Record the person who approved the definition and the date it became effective. Keep a change log for every definition adjustment and the date it took effect. If two reviewers disagree, preserve both classifications until the definition or the evidence is resolved.
 
 Keep free-text notes separate from coded fields so the analysis does not depend on inconsistent wording. Test the dictionary on a case with a missing callback request and a case with a corrected value. Store sensitive evidence in the approved repository and keep only the reference in the analysis file. Define who may change a coded value and how the change is logged. Link the observation to the exact field in the cloud call platform and to the callback request that supports it.
@@ -34,6 +38,8 @@ Use a pseudonymous case key and keep the identity crosswalk in an approved syste
 If the population is small, report every case and the reason the sample is exhaustive rather than presenting a false precision. Collect the case from the workforce management system, the escalation record, and the approval record, and stop at the verified close. Record the eligible count and every exclusion before the sample is drawn. Include at least one case from each owner in scope when the frame allows it. Keep the review note with the case so the next sampler does not have to reconstruct the decision from memory.
 
 Use a random or systematic start rule for the first case, then take consecutive cases within each stratum. Collect the case from the CRM, the quality sample, and the approval record, and stop at the verified close. A sample of recent closures can miss the oldest unresolved work, which is often the most informative. A case that is difficult to access is still part of the frame; report the access failure rather than replacing it silently. When a value is missing, record the missing state and the reason instead of leaving an empty field in the extract.
+
+## Closeout checks
 
 Use a random or systematic start rule for the first case, then take consecutive cases within each stratum. Collect the exception reason and the action taken before the close so the analysis can separate detection from resolution. Stratify by risk, channel, and owner so the sample is not dominated by the easiest queue. Do not let the reviewer choose the sample after seeing the results. At Virtual Assistant Call Center, the callback request review should end with a dated note and a named owner for the next check.
 

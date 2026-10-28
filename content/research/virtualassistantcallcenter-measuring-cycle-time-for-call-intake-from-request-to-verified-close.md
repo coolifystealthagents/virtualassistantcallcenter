@@ -11,6 +11,8 @@ imageAlt: Measuring cycle time for call intake from request to verified close
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call intake with explicit evidence, decision rights, and a verified close.
 
 The study measures the record and the handoff, not the professional judgment of call center manager or the legal outcome of the work. Record the opening count, additions, withdrawals, resolutions, and unresolved items at the end of the window. Write the primary measure and one supporting measure; a measure without a denominator or observation window is not ready. The protocol should be short enough for an operator to follow and specific enough for a reviewer to repeat. When a value is missing, record the missing state and the reason instead of leaving an empty field in the extract.
@@ -23,6 +25,8 @@ The unit is one call intake case, from the opening request to the verified close
 
 If the definition of completion changes, keep the old and new rules side by side for the transition period. Define allowed values for status, reason, owner, and evidence state before collection. If a case is outside the scope rule, record the rule and the date of exclusion rather than removing it silently. Record the pause rule and the person authorized to release a paused case. Record this decision in the study log with the case key, the review date, and the person who approved the classification.
 
+## Review cadence
+
 Define how a correction after close is linked to the original case and whether it creates a new case. Define allowed values for status, reason, owner, and evidence state before collection. A duplicate request is a separate intake event even when it points to the same underlying need; record the link. Write the start and stop events as observable actions, not as opinions about whether the work felt finished. Keep the evidence reference beside the coded value so a reviewer can test the same case without rebuilding the queue.
 
 If the source is a document, record the page or field; if the source is a system, record the record identifier and extraction time. Name the required fields for each article type and mark conditional fields in the dictionary. A missing value should have a reason code, not a blank cell or a zero. A case key should remain stable if the case moves between owners or changes status. If the source changes after the observation, preserve the earlier value and add a dated note instead of replacing it.
@@ -34,6 +38,8 @@ The data dictionary should name the allowed values for status, exception reason,
 Stop expanding the sample only when the review question is answered, not when the result starts to look favorable. Record the time of each observation so a later reviewer can distinguish a late entry from a changed decision. Include reopened, unresolved, and exception cases in the sample frame. Record the sampling frame as an export with a date, filter, and row count. When a case needs an exception, record the reason, the owner, and the date before continuing the review.
 
 If the population is small, report every case and the reason the sample is exhaustive rather than presenting a false precision. Do not clean the data by filling missing values; preserve the missing state and report it as a result. Include reopened, unresolved, and exception cases in the sample frame. Record the sampling frame as an export with a date, filter, and row count. Keep the measurement note short enough to read with the case and specific enough to support the reported quality score.
+
+## Closeout checks
 
 Stop expanding the sample only when the review question is answered, not when the result starts to look favorable. A second reviewer should re-extract a small subsample and record disagreements before the full analysis. Include reopened, unresolved, and exception cases in the sample frame. A case that is difficult to access is still part of the frame; report the access failure rather than replacing it silently. If two reviewers disagree, preserve both classifications until the definition or the evidence is resolved.
 

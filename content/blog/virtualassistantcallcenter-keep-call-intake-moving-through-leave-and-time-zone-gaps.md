@@ -11,6 +11,8 @@ imageAlt: Keep call intake moving through leave and time-zone gaps
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call intake with explicit evidence, decision rights, and a verified close.
 
 A busy call center support desk can process dozens of call intake requests in a day and still leave call center managers unable to explain which request was approved, which was only discussed, and which was never entered. That gap creates rework, weakens disposition accuracy, and makes it hard to tell whether the outcome was authorized or merely convenient. The operating standard should distinguish preparation from approval and show both in the same call intake trail. At Virtual Assistant Call Center, the first check is whether the request is a new call intake or a correction to a case that is already open.
@@ -23,6 +25,8 @@ Start the evidence map by naming the field in the quality recording system that 
 
 The source of truth may be a system, a signed document, or an approved message, but the team should name it once and use the same definition every day. A queue assignment that arrives after the action can still be useful, but it must be marked late and linked to the correction it supports. A conflict is not a reason to rewrite history; it is a reason to show the reviewer exactly where the call intake record stopped agreeing with itself. A source that cannot be opened by the reviewer is not a usable source, even if the operator can see it on their screen.
 
+## Review cadence
+
 Write the call intake boundary in plain language: which systems the operator may touch, which fields may change, and which questions must go back to call center manager. Do not let urgency expand the role; if the request affects incorrect disposition, the boundary stays in place even when the deadline is tight. An approval that cannot be linked to a specific call intake case is too vague to support the destination change. The decision log should show rejected and deferred requests as well as approvals, because those choices shape the queue.
 
 Name the role that can approve call intake before the work begins; a shared inbox can receive the request, but it cannot own the decision. A complete packet is not an approval; the decision needs a named person, a time, and a scope that matches the queue assignment. The approval record should point to the queue assignment that was reviewed, not only to the request that started the work. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
@@ -34,6 +38,8 @@ Before adding a new call intake item, check whether the request already exists u
 If the queue cannot be reconciled in the morning, record the gap and assign an owner before starting new call intake work. For each open call intake, record the source, the callback request, the decision, and the destination field before moving to the next item. Use the final queue count to test the day’s escalation age; a lower count achieved by hiding open items is not progress. Use the same call intake status values across owners so the daily count means the same thing to everyone.
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. After the decision, link the response to the destination change and close the exception with the reason it occurred. If the exception affects unapproved promise, pause the dependent action until call center manager decides and the decision is recorded. A stop-work decision should be visible to the requester so they know why the call intake work is paused.
+
+## Closeout checks
 
 When long queue wait is involved, use the highest escalation path even if the call intake request looks routine. An escalation packet should include the call intake link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest next step. If the exception affects long queue wait, pause the dependent action until agent decides and the decision is recorded. A stop-work decision should be visible to the requester so they know why the call intake work is paused.
 

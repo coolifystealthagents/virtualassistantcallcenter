@@ -11,6 +11,8 @@ imageAlt: Set a safe stop rule for quality sample
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: quality sample with explicit evidence, decision rights, and a verified close.
 
 Most quality sample problems in call center support start before the work is done: the request is accepted without a source, a deadline, or a clear boundary around what the operator may change. If the destination record is wrong, the team may send a correct-looking update while agent still sees the old value in the escalation queue. The operating standard should distinguish preparation from approval and show both in the same quality sample trail. The control should also cover the quiet case: an item that sits open because nobody knows who owns the next step.
@@ -23,6 +25,8 @@ The evidence map should show the minimum needed for a reviewer to answer who ask
 
 The evidence map should show the minimum needed for a reviewer to answer who asked, what source was used, who approved, and what changed. A queue assignment that arrives after the action can still be useful, but it must be marked late and linked to the correction it supports. If the CRM and the queue assignment disagree, stop the dependent action and record both values with the time each was observed. A source that cannot be opened by the reviewer is not a usable source, even if the operator can see it on their screen.
 
+## Review cadence
+
 When the owner is unavailable, the backup role needs the same authority and the same evidence standard, not an informal workaround. If the operator discovers that the request falls outside the approved scope, pause the work and route the scope question before touching the workforce management system. When approval is conditional, write the condition and the person responsible for checking it; a conditional yes is not a clean yes. The approval record should not be a forwarded thread with ten replies; summarize the decision and link the evidence.
 
 Write the quality sample boundary in plain language: which systems the operator may touch, which fields may change, and which questions must go back to client. The approver may accept, reject, or ask for more evidence, but the response should be recorded in the quality sample case rather than left in a chat. Review a sample of approvals each month to confirm that the named role still matches the current call center support process. The approval record should not be a forwarded thread with ten replies; summarize the decision and link the evidence.
@@ -34,6 +38,8 @@ Start the quality sample review by opening the knowledge base, sorting the oldes
 A short morning pass should identify missing callback request, stale approvals, and items that crossed a time zone without acknowledgment. At mid-day, check the quality sample items that have no next action; those are the ones most likely to age silently. Do not carry an item forward without a dated next action; an unexplained carryover is an exception, not a plan. Use the same quality sample status values across owners so the daily count means the same thing to everyone.
 
 Track repeated exceptions separately from one-off errors; a pattern may point to a form, a queue rule, or a permissions problem. After the decision, link the response to the destination change and close the exception with the reason it occurred. Record the stop time, the reason, and the release decision so the delay can be reviewed without guessing. A stop-work decision should be visible to the requester so they know why the quality sample work is paused.
+
+## Closeout checks
 
 An exception is not a generic failure; name the evidence problem so the team can fix the source instead of blaming the operator. If the owner asks for more evidence, record the request, the due time, and the person responsible for obtaining it. When the source is unavailable, do not substitute a familiar value from an earlier quality sample; stop and record the gap. A stop-work decision should be visible to the requester so they know why the quality sample work is paused.
 

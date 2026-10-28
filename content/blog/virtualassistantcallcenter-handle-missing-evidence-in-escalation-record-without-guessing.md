@@ -11,6 +11,8 @@ imageAlt: Handle missing evidence in escalation record without guessing
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: escalation record with explicit evidence, decision rights, and a verified close.
 
 The risk around escalation record is not that staff forget a task; it is that the record can look complete even when the call disposition was never checked against the quality recording system. A single missing call disposition can turn a routine escalation record request into a search through messages, spreadsheets, and memory, which is exactly when the team is most likely to guess. Make the queue owner visible for every escalation record item, and give that owner the authority to pause the work when the evidence is not enough. A queue that mixes new requests with corrections will overstate demand and understate the time spent repairing earlier work.
@@ -23,6 +25,8 @@ For escalation record, the governing source is the cloud call platform; a note i
 
 Start the evidence map by naming the field in the workforce management system that the escalation record action is supposed to change. A quality sample that arrives after the action can still be useful, but it must be marked late and linked to the correction it supports. Resolve the conflict by naming the authoritative source, the owner who decided, and the correction applied to the workforce management system. Record the source identifier and the extraction time when the value comes from the workforce management system.
 
+## Review cadence
+
 A handoff transfers ownership only when the receiving role acknowledges the escalation record and the next action; an unread message is not a handoff. The boundary should be visible to the requester as well, so a request for escalation record does not become a promise the operator cannot keep. When approval is conditional, write the condition and the person responsible for checking it; a conditional yes is not a clean yes. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
 
 For call center support work, the safest split is preparation by the operator and judgment by the accountable owner, with both actions visible in the workforce management system. The approver may accept, reject, or ask for more evidence, but the response should be recorded in the escalation record case rather than left in a chat. Record the approval in the escalation record case with the approver, the time, the scope, and the evidence reviewed. The decision log should show rejected and deferred requests as well as approvals, because those choices shape the queue.
@@ -34,6 +38,8 @@ Start with the cases that affect unapproved promise, then move to routine reques
 Use the same escalation record queue for new work, corrections, and reopened cases so the daily count reflects the real load. Use the answer rate field to flag a possible exception, but do not let the flag replace the evidence review. Do not carry an item forward without a dated next action; an unexplained carryover is an exception, not a plan. Record the time zone of the owner and the requester when a due time crosses regions.
 
 When unapproved promise is involved, use the highest escalation path even if the escalation record request looks routine. Send the exception to the named owner with the call intake attached and a specific question, not a general request to review. If the exception affects unapproved promise, pause the dependent action until call center manager decides and the decision is recorded. Keep a separate escalation log for items that required call center manager, so response time can be reviewed.
+
+## Closeout checks
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. Keep the escalation in the escalation record case so the response is visible to the next reviewer. When the request conflicts with policy or the approved scope, the operator should route it rather than negotiate a workaround in the queue. A workaround used during an outage in the knowledge base should have an expiry time and a reconciliation owner.
 

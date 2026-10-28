@@ -11,6 +11,8 @@ imageAlt: Design a first-week shadow plan for knowledge base update
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: knowledge base update with explicit evidence, decision rights, and a verified close.
 
 The risk around knowledge base update is not that staff forget a task; it is that the record can look complete even when the call disposition was never checked against the workforce management system. The cost shows up later as a reopened case, an unexplained callback completion change, or a correction that takes longer than the original task. Write the knowledge base update control around exceptions, not only the happy path, because the exceptions are where stale knowledge article becomes expensive. If customer cannot name the desired outcome, the request is not ready for the knowledge base update queue.
@@ -23,6 +25,8 @@ Start the evidence map by naming the field in the knowledge base that the knowle
 
 The source of truth may be a system, a signed document, or an approved message, but the team should name it once and use the same definition every day. For recurring knowledge base update work, use the same quality sample type and the same field labels so a sample can be compared across owners. A conflict is not a reason to rewrite history; it is a reason to show the reviewer exactly where the knowledge base update record stopped agreeing with itself. The team should test one knowledge base update case each week by reconstructing it from the evidence map alone.
 
+## Review cadence
+
 A handoff transfers ownership only when the receiving role acknowledges the knowledge base update and the next action; an unread message is not a handoff. The approver may accept, reject, or ask for more evidence, but the response should be recorded in the knowledge base update case rather than left in a chat. Review a sample of approvals each month to confirm that the named role still matches the current call center support process. For high-risk knowledge base update work, require a second reviewer who is not the person who prepared the packet.
 
 The approver should see the evidence packet, not a paraphrase that removes the conflict or the missing quality sample. Keep a short list of decisions that always require call center manager, and review the list when the call center support process changes. Review a sample of approvals each month to confirm that the named role still matches the current call center support process. The decision log should show rejected and deferred requests as well as approvals, because those choices shape the queue.
@@ -34,6 +38,8 @@ Start with the cases that affect missed callback, then move to routine requests;
 Start the knowledge base update review by opening the cloud call platform, sorting the oldest unresolved item, and checking the queue assignment before reading the latest summary. Use the quality score field to flag a possible exception, but do not let the flag replace the evidence review. If a handoff is pending, name the receiving role and the time by which acknowledgment is expected. When a case moves between owners, require an acknowledgment before the old owner stops watching it.
 
 A missing call intake and an unreadable call intake are different exceptions and should not share the same reason code. If the owner asks for more evidence, record the request, the due time, and the person responsible for obtaining it. A stop is not a failure of service; it is the control working before the error reaches customer. Keep a separate escalation log for items that required customer, so response time can be reviewed.
+
+## Closeout checks
 
 Use separate reason codes for missing queue assignment, conflicting source, wrong knowledge base update, expired approval, unavailable call center manager, and an outage in the cloud call platform. An escalation packet should include the knowledge base update link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest next step. If access is wrong or unexplained, stop the knowledge base update work before opening the cloud call platform with borrowed credentials. If the same exception appears in three cases, review the intake form or the queue assignment requirement.
 

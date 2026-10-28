@@ -11,6 +11,8 @@ imageAlt: Write a correction record for schedule adherence that survives review
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: schedule adherence with explicit evidence, decision rights, and a verified close.
 
 In call center support, schedule adherence often begins as a small favor from client, which makes it easy to skip the evidence that would let someone else reconstruct the decision. If the destination record is wrong, the team may send a correct-looking update while client still sees the old value in the cloud call platform. The record can be short, but it must be specific enough for a second reviewer to repeat the check without asking the original operator what happened. The risk is highest when the cloud call platform looks current but the call intake behind it was never opened.
@@ -23,6 +25,8 @@ Record the call disposition and the time it was observed, because a later screen
 
 If client supplies the instruction, keep the instruction and the underlying callback request together rather than replacing one with a summary of the other. A callback request that arrives after the action can still be useful, but it must be marked late and linked to the correction it supports. After the conflict is resolved, add a short correction entry to the schedule adherence log and link it to both source versions. The evidence map should show which fields are required, which are conditional, and which may be marked unavailable.
 
+## Review cadence
+
 Write the schedule adherence boundary in plain language: which systems the operator may touch, which fields may change, and which questions must go back to client. The approver may accept, reject, or ask for more evidence, but the response should be recorded in the schedule adherence case rather than left in a chat. An approval that cannot be linked to a specific schedule adherence case is too vague to support the destination change. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
 
 When the owner is unavailable, the backup role needs the same authority and the same evidence standard, not an informal workaround. The schedule adherence task should say what the operator may do without asking and what requires a fresh decision. An approval that cannot be linked to a specific schedule adherence case is too vague to support the destination change. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
@@ -34,6 +38,8 @@ If the queue cannot be reconciled in the morning, record the gap and assign an o
 Open the schedule adherence queue in the escalation queue and mark every item with the current owner, the next action, and the time it is due. When a request changes scope, stop the old action, record the change, and route the new scope before continuing. Leave the next shift a queue that can be worked without reconstructing the day from chat history. Use a queue view that shows owner, age, next action, and missing evidence in one screen.
 
 If the exception comes from a system outage, record the workaround, the temporary identifier, and the reconciliation owner. An escalation packet should include the schedule adherence link, verified facts, the unresolved decision, the deadline, actions already taken, and the safest next step. A stop-work rule should name the trigger, the person who can release the work, and the evidence needed to restart. Reason codes should be short enough to use at the queue and specific enough to route the case to the right owner.
+
+## Closeout checks
 
 Do not let an exception close because the requester stopped asking; keep the case open until the evidence or the decision is resolved. An escalation that ends in silence should remain open; silence is not approval. If the exception affects long queue wait, pause the dependent action until customer decides and the decision is recorded. A workaround used during an outage in the escalation queue should have an expiry time and a reconciliation owner.
 

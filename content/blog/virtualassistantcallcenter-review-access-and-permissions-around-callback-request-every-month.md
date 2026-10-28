@@ -11,6 +11,8 @@ imageAlt: Review access and permissions around callback request every month
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: callback request with explicit evidence, decision rights, and a verified close.
 
 When callback request crosses a shift or a time zone, the next person may inherit a tidy summary that hides the missing escalation record, the unresolved question, or the owner who never replied. If the destination record is wrong, the team may send a correct-looking update while customer still sees the old value in the escalation queue. Write the callback request control around exceptions, not only the happy path, because the exceptions are where stale knowledge article becomes expensive. A queue that mixes new requests with corrections will overstate demand and understate the time spent repairing earlier work.
@@ -23,6 +25,8 @@ Do not treat a forwarded email as the record itself when the governing value liv
 
 For callback request, the governing source is the CRM; a note in the queue is only a pointer to that source. The reviewer should be able to open the queue assignment from the case without searching a personal drive or asking for a screenshot. Resolve the conflict by naming the authoritative source, the owner who decided, and the correction applied to the CRM. A source that cannot be opened by the reviewer is not a usable source, even if the operator can see it on their screen.
 
+## Review cadence
+
 A handoff transfers ownership only when the receiving role acknowledges the callback request and the next action; an unread message is not a handoff. The approver may accept, reject, or ask for more evidence, but the response should be recorded in the callback request case rather than left in a chat. A verbal approval can be recorded as a lead, but the operator should confirm it in the approved channel before changing the workforce management system. When the operator is unsure whether a change is preparation or judgment, the safe default is to pause and ask.
 
 Write the callback request boundary in plain language: which systems the operator may touch, which fields may change, and which questions must go back to call center manager. The boundary should be visible to the requester as well, so a request for callback request does not become a promise the operator cannot keep. If the approval arrives after the action, mark the sequence honestly and route the late approval to the owner for a correction decision. For high-risk callback request work, require a second reviewer who is not the person who prepared the packet.
@@ -34,6 +38,8 @@ Start with the cases that affect missed callback, then move to routine requests;
 The daily callback request routine should begin with a queue count by owner and age, not with the easiest request in the inbox. Use the callback completion field to flag a possible exception, but do not let the flag replace the evidence review. Leave the next shift a queue that can be worked without reconstructing the day from chat history. Record the time zone of the owner and the requester when a due time crosses regions.
 
 Track repeated exceptions separately from one-off errors; a pattern may point to a form, a queue rule, or a permissions problem. After the decision, link the response to the destination change and close the exception with the reason it occurred. Record the stop time, the reason, and the release decision so the delay can be reviewed without guessing. Do not close an exception because the customer stopped replying; record the last contact and the next attempt.
+
+## Closeout checks
 
 A missing callback request and an unreadable callback request are different exceptions and should not share the same reason code. When the decision is urgent, call out the consequence of waiting and the last safe time to act. When the source is unavailable, do not substitute a familiar value from an earlier callback request; stop and record the gap. Do not close an exception because the customer stopped replying; record the last contact and the next attempt.
 

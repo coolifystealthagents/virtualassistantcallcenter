@@ -11,6 +11,8 @@ imageAlt: Testing whether escalation record monitoring catches silent failures
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: escalation record with explicit evidence, decision rights, and a verified close.
 
 The question should name the unit, the start event, the stop event, and the decision the result is meant to inform. If one request produces several call disposition updates, define whether the unit is the request or each update before sampling. If a definition changes during the review, keep the earlier classification and apply the new rule only to later cases. State whether the study covers one team, one client, or all cases in the defined service. Use the same note in the case file and the study extract; do not create a second version in a personal document.
@@ -23,6 +25,8 @@ The unit is one escalation record case, from the opening request to the verified
 
 A pause should have a reason, an owner, and a review date; otherwise it is an unowned case with a different label. A blank field, a not-applicable field, and a confirmed negative field should have different codes. Before collection, test the definitions on a missing escalation record, a reopened case, and a handoff. If two reviewers disagree, preserve both classifications until the definition is clarified. Link the observation to the exact field in the cloud call platform and to the escalation record that supports it.
 
+## Review cadence
+
 Name the owner who can declare a case complete, and record that role in the data dictionary. Record the source system, the record identifier, the extraction time, and the reviewer for every extracted value. A correction is a change to a closed record; a clarification that does not change the record is a note, not a correction. A definition that depends on the reviewer’s memory is not reproducible enough for this study. Do not let a summary written later replace the evidence that was available at the first decision.
 
 Keep free-text notes separate from coded fields so the analysis does not depend on inconsistent wording. Give every case a study key that is not the client name, member number, or candidate email. Record the data extraction date and the version of the workforce management system used for the population count. Record the source location, not just the file name, so a reviewer can reopen the exact evidence. If the case moved between owners, include both owner periods in the review note and name the handoff time.
@@ -34,6 +38,8 @@ Record the version or date of the queue assignment and the knowledge base value 
 Use consecutive escalation record cases where possible, then stratify by owner, channel, and risk class. Keep the collection window and the number of collectors in the report; both affect how the result should be interpreted. Keep the sample selection reproducible by recording the export date, filter, and random seed or start rule. Do not let the reviewer choose the sample after seeing the results. At Virtual Assistant Call Center, the escalation record review should end with a dated note and a named owner for the next check.
 
 If the population is small, report every case and the reason the sample is exhaustive rather than presenting a false precision. Do not clean the data by filling missing values; preserve the missing state and report it as a result. Keep the sample selection reproducible by recording the export date, filter, and random seed or start rule. Record the sampling frame as an export with a date, filter, and row count. If the evidence is sensitive, record the approved reference and access path rather than copying the content.
+
+## Closeout checks
 
 Use a random or systematic start rule for the first case, then take consecutive cases within each stratum. Record the time of each observation so a later reviewer can distinguish a late entry from a changed decision. Keep the sample selection reproducible by recording the export date, filter, and random seed or start rule. A case that is difficult to access is still part of the frame; report the access failure rather than replacing it silently. The note should distinguish what was observed, what was inferred, and what still needs an owner decision.
 

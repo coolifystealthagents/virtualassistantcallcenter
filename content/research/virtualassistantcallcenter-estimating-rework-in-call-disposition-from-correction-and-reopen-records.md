@@ -11,6 +11,8 @@ imageAlt: Estimating rework in call disposition from correction and reopen recor
 
 **Published October 27, 2026**
 
+## Working context
+
 A grounded call center support note for call center managers: call disposition with explicit evidence, decision rights, and a verified close.
 
 The study measures the record and the handoff, not the professional judgment of client or the legal outcome of the work. The unit definition should be stable enough that two reviewers can classify the same case the same way. Define the start event, the stop event, the pause rule, and the treatment of a missing escalation record before collecting data. Separate the operational question from the compliance question; this method does not certify either outcome. Record this decision in the study log with the case key, the review date, and the person who approved the classification.
@@ -23,6 +25,8 @@ A population that changes size during the day should be reported with the start,
 
 If the definition of completion changes, keep the old and new rules side by side for the transition period. Define allowed values for status, reason, owner, and evidence state before collection. Use the same status vocabulary in the queue, the evidence extract, and the report so a case does not change category. State how duplicate, cancelled, and reopened cases enter the numerator and denominator. Use the same note in the case file and the study extract; do not create a second version in a personal document.
 
+## Review cadence
+
 Test each definition on a routine case, a missing-evidence case, and a case that crossed owners. Record the version of the queue assignment and the escalation queue snapshot used for each case. Use the same status vocabulary in the queue, the evidence extract, and the report so a case does not change category. Give one concrete example and one boundary case to each reviewer before collection begins. When a case needs an exception, record the reason, the owner, and the date before continuing the review.
 
 Test the dictionary on five cases before the full sample; ambiguous fields should be fixed before collection, not after. Record the extraction time separately from the event time so a late entry is visible. Run a five-case pilot before the full sample and revise any field that two reviewers interpret differently. Record the source location, not just the file name, so a reviewer can reopen the exact evidence. Keep the measurement note short enough to read with the case and specific enough to support the reported disposition accuracy.
@@ -34,6 +38,8 @@ Mark missing, unavailable, and confirmed negative values separately; collapsing 
 Sample across the full observation window, including the days when the queue was busiest and the days when coverage changed. Collect the exception reason and the action taken before the close so the analysis can separate detection from resolution. A sample of recent closures can miss the oldest unresolved work, which is often the most informative. A case that is difficult to access is still part of the frame; report the access failure rather than replacing it silently. Do not let a summary written later replace the evidence that was available at the first decision.
 
 Sample across the full observation window, including the days when the queue was busiest and the days when coverage changed. Do not clean the data by filling missing values; preserve the missing state and report it as a result. Stratify by risk, channel, and owner so the sample is not dominated by the easiest queue. Keep a table of planned, eligible, selected, and reviewed counts for each stratum. If the case moved between owners, include both owner periods in the review note and name the handoff time.
+
+## Closeout checks
 
 Use a random or systematic start rule for the first case, then take consecutive cases within each stratum. If a source cannot be accessed, mark it unavailable and record the access problem rather than asking the operator to reconstruct it from memory. Keep the sample selection reproducible by recording the export date, filter, and random seed or start rule. Include at least one case from each owner in scope when the frame allows it. Keep the review note with the case so the next sampler does not have to reconstruct the decision from memory.
 
