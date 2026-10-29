@@ -3,7 +3,7 @@ slug: missed-call-follow-up-window
 title: A missed-call follow-up window that protects the lead
 description: Define how quickly a missed call is returned, who owns it, and what happens when the caller cannot be reached.
 published: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-29
 category: call-operations
 image: /thumbnails/missed-call-follow-up-window.png
 imageAlt: Editorial illustration for missed-call follow-up windows
@@ -38,6 +38,6 @@ If the caller asked not to be contacted, record the request and stop. The opt-ou
 
 ## Review the window weekly
 
-Report the share of missed calls returned inside the window, the median time to first attempt, and the count still unassigned. A high return rate with long delays is still a service problem.
+Report the share of missed calls returned inside the window, the median time to first attempt, and the count still unassigned. A high return rate with long delays is still a service problem. The [call disposition reporting service](/services/call-disposition-reporting) can keep the status, owner, and next follow-up visible without letting staff invent outcomes or close work without evidence.
 
 The manager reviews the exceptions, not every call. Two or three failed cases usually reveal whether the issue is staffing, script, or ownership.
