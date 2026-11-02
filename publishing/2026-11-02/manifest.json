@@ -1,0 +1,193 @@
+{
+  "site": "VirtualAssistantCallCenter.com",
+  "domain": "https://virtualassistantcallcenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "baseSha": "c88670754b7ef8e6341474ea92181c8525dcdb17",
+  "publicationDate": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "counts": {
+    "blog": 5,
+    "research": 5,
+    "total": 10,
+    "thumbnails": 10
+  },
+  "registryPaths": [
+    "content/blog",
+    "content/research",
+    "app/content.ts",
+    "app/sitemap.xml/route.ts"
+  ],
+  "articles": [
+    {
+      "section": "Blog",
+      "title": "Write a callback promise that survives the next shift",
+      "slug": "callback-promise-next-shift",
+      "route": "/blog/callback-promise-next-shift",
+      "sourcePath": "content/blog/callback-promise-next-shift.md",
+      "sourceSha256": "2b75be9d1c50af8d374bc210a5e8dcbc08a6a470de1dcd2eabef04d2baef4bcc",
+      "thumbnailPath": "public/images/nov02/blog/callback-promise-next-shift.webp",
+      "thumbnailSha256": "29b6323b712722eae7ffa4a00a79d06943645ee95a05c64f527267099a9ce5b6",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1332,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Blog",
+      "title": "Put the caller identity check at the start of the call",
+      "slug": "caller-identity-check-start-call",
+      "route": "/blog/caller-identity-check-start-call",
+      "sourcePath": "content/blog/caller-identity-check-start-call.md",
+      "sourceSha256": "1672952522aed28d48629d282b62b35e08b7b9a8fbe9a7c392f6ab06da410bb8",
+      "thumbnailPath": "public/images/nov02/blog/caller-identity-check-start-call.webp",
+      "thumbnailSha256": "d8ebc36f09c46e5e24650ff8146567b3626e3dcaa9ee7b0e39535f99ee4e2a90",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1307,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Blog",
+      "title": "Give every voicemail a triage owner",
+      "slug": "voicemail-triage-queue-owner",
+      "route": "/blog/voicemail-triage-queue-owner",
+      "sourcePath": "content/blog/voicemail-triage-queue-owner.md",
+      "sourceSha256": "fa0fc1deda94fbf0854421b7d5b00a82a761d9760581bb7de37359606352dbed",
+      "thumbnailPath": "public/images/nov02/blog/voicemail-triage-queue-owner.webp",
+      "thumbnailSha256": "ad4aa7a74f4f134cb0730c69b26242bf5fce788911d3d9687d811bfa66962fe3",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1272,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Blog",
+      "title": "Recover a call transfer when the receiver never accepts",
+      "slug": "transfer-receiver-never-accepts",
+      "route": "/blog/transfer-receiver-never-accepts",
+      "sourcePath": "content/blog/transfer-receiver-never-accepts.md",
+      "sourceSha256": "e23ad7e55b1e2474c1e7ddbf7a40946ee90fc2ca0cfe5b53b60a90ddeba2f46b",
+      "thumbnailPath": "public/images/nov02/blog/transfer-receiver-never-accepts.webp",
+      "thumbnailSha256": "e092c03f1e7bb17ee32e5518307023213021160a2611afcce940edc69909c1ec",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1169,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Blog",
+      "title": "Close an after-hours call without implying a morning promise",
+      "slug": "after-hours-call-no-morning-promise",
+      "route": "/blog/after-hours-call-no-morning-promise",
+      "sourcePath": "content/blog/after-hours-call-no-morning-promise.md",
+      "sourceSha256": "8501074da7311b4cf3258ee07caec1b1f82f1e4ad6fcf808fa43ee8046e703a1",
+      "thumbnailPath": "public/images/nov02/blog/after-hours-call-no-morning-promise.webp",
+      "thumbnailSha256": "4757978b2eaa78117209f32431bc6a2664ce1c693e30711f20924f3ca586bb41",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1245,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Research",
+      "title": "Measuring callback promise accuracy across shifts",
+      "slug": "callback-promise-accuracy-across-shifts",
+      "route": "/research/callback-promise-accuracy-across-shifts",
+      "sourcePath": "content/research/callback-promise-accuracy-across-shifts.md",
+      "sourceSha256": "fb70dda1c95d9bfb2c804b11c1c17bf0d15df603fe67c37ca0427da173bca477",
+      "thumbnailPath": "public/images/nov02/research/callback-promise-accuracy-across-shifts.webp",
+      "thumbnailSha256": "171b71dfd5925c80fefbe3445c97606cc07e164986f28af6c4f0c176b6f1edaa",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1507,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Research",
+      "title": "Sampling caller identity verification outcomes",
+      "slug": "caller-identity-verification-outcomes",
+      "route": "/research/caller-identity-verification-outcomes",
+      "sourcePath": "content/research/caller-identity-verification-outcomes.md",
+      "sourceSha256": "d68b062147963fd7a46fa08a39f987434eddd539d314ae16e2d621a926021780",
+      "thumbnailPath": "public/images/nov02/research/caller-identity-verification-outcomes.webp",
+      "thumbnailSha256": "08ff55143fcfaaf1436ecc8934de6dd77326429b857e1e74b839cd00428b7491",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1497,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Research",
+      "title": "Auditing voicemail triage ownership",
+      "slug": "voicemail-triage-ownership-audit",
+      "route": "/research/voicemail-triage-ownership-audit",
+      "sourcePath": "content/research/voicemail-triage-ownership-audit.md",
+      "sourceSha256": "757333e0b90cd0ee8853eb3d6b97db23084716c8358babbd5c3364dcb3cf65e6",
+      "thumbnailPath": "public/images/nov02/research/voicemail-triage-ownership-audit.webp",
+      "thumbnailSha256": "93bb23e74325ff3a738843c3d2c913038f3e7ff1b16f3797782fa940a2ac3ddc",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1477,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Research",
+      "title": "Testing transfer acceptance timeout recovery",
+      "slug": "transfer-acceptance-timeout-recovery",
+      "route": "/research/transfer-acceptance-timeout-recovery",
+      "sourcePath": "content/research/transfer-acceptance-timeout-recovery.md",
+      "sourceSha256": "d3882d41b70a987edcd7fbd6962250dc4a1365fa0ff0aeee43c90cfd6e5e3a66",
+      "thumbnailPath": "public/images/nov02/research/transfer-acceptance-timeout-recovery.webp",
+      "thumbnailSha256": "1b0a8013b64f14f8ab0b835f5bde5eb71228083e393230d28d23f51984f3bb63",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1449,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-02"
+    },
+    {
+      "section": "Research",
+      "title": "Measuring after-hours message handoff delay",
+      "slug": "after-hours-message-handoff-delay",
+      "route": "/research/after-hours-message-handoff-delay",
+      "sourcePath": "content/research/after-hours-message-handoff-delay.md",
+      "sourceSha256": "42361dcd180882d1502ff1856d7da8028d2280c649e5e4313a2869fb3dccdfea",
+      "thumbnailPath": "public/images/nov02/research/after-hours-message-handoff-delay.webp",
+      "thumbnailSha256": "582984c765f1b8ce16d0dad85dd4d06ec71da1810b57746aa1ebbbc6fb82b6b2",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1506,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-02"
+    }
+  ]
+}
