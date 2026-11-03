@@ -1,0 +1,193 @@
+{
+  "site": "VirtualAssistantCallCenter.com",
+  "domain": "https://virtualassistantcallcenter.com",
+  "repository": "coolifystealthagents/virtualassistantcallcenter",
+  "branch": "main",
+  "baseSha": "767f6417569e563c118ca8b1e57752da443afbf9",
+  "publicationDate": "2026-11-03",
+  "visibleDate": "November 3, 2026",
+  "counts": {
+    "blog": 5,
+    "research": 5,
+    "total": 10,
+    "thumbnails": 10
+  },
+  "registryPaths": [
+    "content/blog",
+    "content/research",
+    "app/content.ts",
+    "app/sitemap.xml/route.ts"
+  ],
+  "articles": [
+    {
+      "section": "Blog",
+      "title": "Set a call queue overflow rule before the queue breaks",
+      "slug": "call-queue-overflow-rule",
+      "route": "/blog/call-queue-overflow-rule",
+      "sourcePath": "content/blog/call-queue-overflow-rule.md",
+      "sourceSha256": "ec04d2b829b5bb76fff805e4003643dd8528132d347474e58ade3ac6190d78dc",
+      "thumbnailPath": "public/images/nov03/blog/call-queue-overflow-rule.webp",
+      "thumbnailSha256": "6fd0fdab94aaba4da8e3c1180edb17a68796641f28759b8793cdd3ac5fb430c7",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1336,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Blog",
+      "title": "Write a warm transfer script that names the next owner",
+      "slug": "warm-transfer-script-next-owner",
+      "route": "/blog/warm-transfer-script-next-owner",
+      "sourcePath": "content/blog/warm-transfer-script-next-owner.md",
+      "sourceSha256": "3b3b4e0fe8cb758491a0713a25f419c28f1a8b4e1852c353573ec8f98d839863",
+      "thumbnailPath": "public/images/nov03/blog/warm-transfer-script-next-owner.webp",
+      "thumbnailSha256": "3fc694ef3972a25d2ac5d66d73673fb06f7bb90341594b7477cf96fe5165d313",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1341,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Blog",
+      "title": "Use a call reason code set that agents can actually keep",
+      "slug": "call-reason-code-set-design",
+      "route": "/blog/call-reason-code-set-design",
+      "sourcePath": "content/blog/call-reason-code-set-design.md",
+      "sourceSha256": "71a6daf36500e328752d34bc30be6d31c4a39661c5e1618d856969200fbd94cc",
+      "thumbnailPath": "public/images/nov03/blog/call-reason-code-set-design.webp",
+      "thumbnailSha256": "6fe726181e3b4df80e2b475ac662a2deb526583336ae4a080a1e79565878e66e",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1177,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Blog",
+      "title": "Plan a holiday call coverage roster without guesswork",
+      "slug": "holiday-call-coverage-roster",
+      "route": "/blog/holiday-call-coverage-roster",
+      "sourcePath": "content/blog/holiday-call-coverage-roster.md",
+      "sourceSha256": "ce1759b81b85d0c9f9c4915d15cedd5689304c8efcbac90c8afdf6c5e212d253",
+      "thumbnailPath": "public/images/nov03/blog/holiday-call-coverage-roster.webp",
+      "thumbnailSha256": "6f928ffe3fa78a17e0128ec0548df230b550d046a9d3e711c8e02c2828e4e97f",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1336,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Blog",
+      "title": "Review overnight call notes before the morning queue opens",
+      "slug": "overnight-call-notes-morning-review",
+      "route": "/blog/overnight-call-notes-morning-review",
+      "sourcePath": "content/blog/overnight-call-notes-morning-review.md",
+      "sourceSha256": "7193feb72a2041fb7d0acf6ec32856e242ebc6aed3252f4a03b4a79114392b63",
+      "thumbnailPath": "public/images/nov03/blog/overnight-call-notes-morning-review.webp",
+      "thumbnailSha256": "ad37ce24db439efbfa7c68c94285cfbd6f340611cad7fc47b819f9af1448e524",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1282,
+      "sourceCount": 4,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Research",
+      "title": "Measuring queue overflow frequency and abandoned wait time",
+      "slug": "overflow-frequency-abandoned-wait-study",
+      "route": "/research/overflow-frequency-abandoned-wait-study",
+      "sourcePath": "content/research/overflow-frequency-abandoned-wait-study.md",
+      "sourceSha256": "7da4a1bcb97735ad74884f4fc1a0f2ee15e673f45a187351a15347b902ea991b",
+      "thumbnailPath": "public/images/nov03/research/overflow-frequency-abandoned-wait-study.webp",
+      "thumbnailSha256": "8eaa73a43eb212fb6c49605ee0b70eed329a82cbb769a2f68f8b614679366eeb",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1668,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Research",
+      "title": "Auditing warm transfer introductions for ownership clarity",
+      "slug": "warm-transfer-introduction-audit",
+      "route": "/research/warm-transfer-introduction-audit",
+      "sourcePath": "content/research/warm-transfer-introduction-audit.md",
+      "sourceSha256": "57d8627527eaff8dad32805866c390e1376804ad3461894ae2926e34aa0bc8c2",
+      "thumbnailPath": "public/images/nov03/research/warm-transfer-introduction-audit.webp",
+      "thumbnailSha256": "62b82e09f65649e0b4f08747e414381741a8acf0923c323f0f0bfc680371a5a3",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1615,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Research",
+      "title": "Testing reason code consistency across shifts",
+      "slug": "reason-code-consistency-across-shifts",
+      "route": "/research/reason-code-consistency-across-shifts",
+      "sourcePath": "content/research/reason-code-consistency-across-shifts.md",
+      "sourceSha256": "0b1b4cadc6fd7efe1b7033339bd0fc68e42617a245be4c7331515cd9d046e331",
+      "thumbnailPath": "public/images/nov03/research/reason-code-consistency-across-shifts.webp",
+      "thumbnailSha256": "c91f4b04f0b8c5a373bf7214e81c607568a85a7c60774894c2670d6e31e20a59",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1384,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Research",
+      "title": "Estimating holiday coverage gaps from arrival data",
+      "slug": "holiday-coverage-gap-arrival-analysis",
+      "route": "/research/holiday-coverage-gap-arrival-analysis",
+      "sourcePath": "content/research/holiday-coverage-gap-arrival-analysis.md",
+      "sourceSha256": "3fc874db8572897b5efa45d28e2c5150897497ab61277d4972f00a935e2e80cf",
+      "thumbnailPath": "public/images/nov03/research/holiday-coverage-gap-arrival-analysis.webp",
+      "thumbnailSha256": "2e644ef68056d5d0facb9c21e59336dc8571c2b4d0da5e6387a5ae3bf76acc80",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1372,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-03"
+    },
+    {
+      "section": "Research",
+      "title": "Evaluating overnight note completeness before morning handoff",
+      "slug": "overnight-note-completeness-study",
+      "route": "/research/overnight-note-completeness-study",
+      "sourcePath": "content/research/overnight-note-completeness-study.md",
+      "sourceSha256": "03605ea9e4bd95058e5aa8788ded7ec268474750ed5464fe36f81d8424f67800",
+      "thumbnailPath": "public/images/nov03/research/overnight-note-completeness-study.webp",
+      "thumbnailSha256": "17b07a78e90677f3334fe3363289780a7a4e7515349d18b507945d9a0534984e",
+      "thumbnailDimensions": [
+        1200,
+        630
+      ],
+      "wordCount": 1397,
+      "sourceCount": 5,
+      "publicationDate": "2026-11-03"
+    }
+  ]
+}
