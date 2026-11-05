@@ -46,7 +46,7 @@ export function ArticleSidebar({ headings, published, updated, category, related
       <dl>
         <div><dt>Category</dt><dd>{category}</dd></div>
         <div><dt>Published</dt><dd><time dateTime={published}>{published}</time></dd></div>
-        <div><dt>Updated</dt><dd><time dateTime={updated}>{updated}</time></dd></div>
+        {updated.slice(0, 10) !== published.slice(0, 10) ? <div><dt>Updated</dt><dd><time dateTime={updated}>{updated}</time></dd></div> : null}
       </dl>
     </section>
     <section className="article-sidebar-related" aria-labelledby="related-guides-heading">
