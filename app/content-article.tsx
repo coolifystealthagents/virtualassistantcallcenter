@@ -89,7 +89,7 @@ export function ContentArticle({ entry }: { entry: ContentEntry }) {
       </header>
       <div className="article-layout">
         <details className="mobile-article-toc">
-          <summary>On this page</summary>
+          <summary>Table of contents</summary>
           <nav aria-label="Mobile table of contents"><ol>{headings.map((h) => <li className={h.level === 3 ? 'toc-level-3' : undefined} key={h.id}><a href={`#${h.id}`}>{h.label}</a></li>)}</ol></nav>
         </details>
         <div className="article-copy">

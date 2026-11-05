@@ -7,7 +7,7 @@ const site=(data as any).site||{}; const domain=site.domain||'VirtualAssistantCa
 const navItems=[['Home','/'],['Services','/services'],['Contact Us','/contact-us']] as const;
 const isBlogPath=(pathname:string)=>pathname === '/blog' || pathname.startsWith('/blog/');
 export function JsonLd({data}:{data:any}){return <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(data)}}/>}
-export function LogoMark(){return <span className="logo-mark-wrap"><img className="logo-img" src="/icon.svg" alt="Virtual Assistant Call Center logo" width="64" height="64"/><span className="logo-name">{site.brand||'Virtual Assistant Call Center'}</span></span>}
+export function LogoMark(){return <span className="logo-mark-wrap"><img className="logo-img" src="/logo.svg" alt="Virtual Assistant Call Center logo" width="64" height="64"/><span className="logo-name">{site.brand||'Virtual Assistant Call Center'}</span></span>}
 export function Header({hidePricing:_hidePricing=false}:{hidePricing?:boolean}={}){
   const pathname=usePathname(); const showBlogBanners=isBlogPath(pathname);
   const [open,setOpen]=useState(false); const panel=useRef<HTMLElement>(null); const button=useRef<HTMLButtonElement>(null);

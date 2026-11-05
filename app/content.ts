@@ -67,7 +67,12 @@ function parse(file: string, kind: ContentKind): ContentEntry {
   const values: Record<string, string> = {};
   for (const line of match[1].split('\n')) {
     const split = line.indexOf(':');
-    if (split > 0) values[line.slice(0, split).trim()] = line.slice(split + 1).trim();
+    if (split <= 0) continue;
+    let value = line.slice(split + 1).trim();
+    if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+      value = value.slice(1, -1);
+    }
+    values[line.slice(0, split).trim()] = value;
   }
   const required = ['slug', 'title', 'description', 'published', 'updated', 'category', 'image', 'imageAlt'];
   for (const key of required) if (!values[key]) throw new Error(`Missing ${key}: ${file}`);
