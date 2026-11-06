@@ -51,7 +51,7 @@ html{scroll-padding-top:90px}
 /* 2026-10-22 batch: compact sticky mobile ToC */
 .mobile-article-toc { display: none; }
 @media (max-width: 900px) {
-  .mobile-article-toc { display: block; position: sticky; top: 84px; z-index: 60; margin: 10px 0 14px; padding: 0; background: #fff; border: 1px solid #d7e2e9; border-radius: 10px; box-shadow: 0 8px 18px rgba(7, 27, 47, 0.12); }
+  .mobile-article-toc { display: block; position: sticky; top: 112px; z-index: 60; margin: 10px 0 14px; padding: 0; background: #fff; border: 1px solid #d7e2e9; border-radius: 10px; box-shadow: 0 8px 18px rgba(7, 27, 47, 0.12); }
   .mobile-article-toc summary { display: flex; align-items: center; justify-content: space-between; padding: 14px 16px; font-weight: 800; list-style: none; cursor: pointer; }
   .mobile-article-toc summary::-webkit-details-marker { display: none; }
   .mobile-article-toc summary::after { content: "+"; font-size: 20px; line-height: 1; }
