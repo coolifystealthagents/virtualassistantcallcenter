@@ -40,7 +40,7 @@ export default function StandardContactForm({ endpoint = "/api/submit-lead", enc
     };
     setSubmitting(true); setError("");
     try {
-      const request = encoding === "form" ? { method: "POST", headers: { Accept: "application/json" }, body: new URLSearchParams(payload) } : { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload) };
+      const request: RequestInit = encoding === "form" ? { method: "POST", headers: { Accept: "application/json" }, body: new URLSearchParams(payload) } : { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload) };
       const response = await fetch(endpoint, request);
       if (!response.ok) throw new Error("Lead endpoint rejected the request");
       try {
