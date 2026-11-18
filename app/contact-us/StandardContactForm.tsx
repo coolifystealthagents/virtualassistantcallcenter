@@ -47,6 +47,7 @@ export default function StandardContactForm({ endpoint = "/api/submit-lead", enc
         window.sessionStorage.setItem("acrPendingLead", JSON.stringify(payload));
         const tracker = (window as TrackerWindow).acrTracker;
         if (tracker?.trackLead) {
+          tracker.trackLead(payload);
           /* ACR captures the native submit event once. */
           window.sessionStorage.removeItem("acrPendingLead");
         }
