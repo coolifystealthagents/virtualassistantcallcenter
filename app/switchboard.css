@@ -2753,11 +2753,33 @@ a {
 
 .vx-boundary {
   display: grid;
-  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
-  gap: 40px;
+  grid-template-columns: minmax(0, 0.7fr) minmax(0, 0.95fr) minmax(0, 0.75fr);
+  gap: 32px;
   padding: 32px;
   border: 1px solid var(--vx-ink);
   background: var(--vx-yellow);
+}
+
+.vx-boundary-note {
+  padding-left: 22px;
+  border-left: 3px solid var(--vx-ink);
+}
+
+.vx-boundary-note span {
+  display: block;
+  margin-bottom: 8px;
+  font-family: var(--vx-mono);
+  font-size: 8.5px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.vx-boundary-note p {
+  margin: 0;
+  color: #2f2b1c;
+  font-size: 12.5px;
+  line-height: 1.6;
 }
 
 .vx-boundary h2 {
@@ -4032,6 +4054,12 @@ a {
   .vx-boundary {
     grid-template-columns: 1fr;
     gap: 18px;
+  }
+
+  .vx-boundary-note {
+    padding: 16px 0 0;
+    border-left: 0;
+    border-top: 1px solid rgba(16, 16, 19, 0.35);
   }
 
   .vx-contact-grid {

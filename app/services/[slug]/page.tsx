@@ -103,6 +103,10 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
                   <h2>What remains with your team.</h2>
                 </div>
                 <ul>{service.boundaries.map((item) => <li key={item}>{item}</li>)}</ul>
+                <div className="vx-boundary-note">
+                  <span>Exception path</span>
+                  <p>Record the request, the account, and the caller. Send it to the named owner. Do not promise a price, a policy exception, or a callback you cannot keep.</p>
+                </div>
               </div>
             </section>
 
