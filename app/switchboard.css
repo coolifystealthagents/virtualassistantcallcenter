@@ -4380,3 +4380,21 @@ a {
 @keyframes vx-ring {
   to { stroke-dashoffset: 0; }
 }
+
+/* Booking page review rail: intentional edge fade and room for full quotes. */
+.sa-booking-page .sa-testimonial-viewport {
+  height: 216px;
+  overflow: hidden;
+  mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+}
+
+.sa-booking-page .sa-testimonial-card {
+  min-height: 204px;
+}
+
+@media (max-width: 640px) {
+  .sa-booking-page .sa-testimonial-viewport {
+    height: 232px;
+  }
+}
