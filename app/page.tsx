@@ -1,5 +1,8 @@
-import { Header, Footer, JsonLd } from './components';
-import { blogPosts, faqs, industries, qaScorecard, roles, site, workflowSteps } from './data';
+import type { CSSProperties } from 'react';
+import { Header, Footer, JsonLd, Marquee, SectionHead, CTA } from './components';
+import { blogPosts, faqs, qaScorecard, roles, site, workflowSteps } from './data';
+import { fleetServices } from './fleet-content';
+import { TestimonialsRail } from './booking-components';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -36,153 +39,276 @@ const schema = {
   ],
 };
 
+const laneTags: Record<string, string> = {
+  'inbound-customer-calls': 'Inbound',
+  'outbound-lead-qualification': 'Outbound',
+  'appointment-setting': 'Scheduling',
+  'after-hours-answering': 'After hours',
+  'order-status-calls': 'Order support',
+  'patient-scheduling': 'Healthcare',
+  'real-estate-lead-intake': 'Real estate',
+  'customer-win-back-calls': 'Win-back',
+  'call-quality-assurance': 'Quality',
+  'call-disposition-reporting': 'Reporting',
+};
+
+const marquee = ['Answer', 'Qualify', 'Book', 'Route', 'Follow up', 'Record', 'Review'];
+const homeRoles = fleetServices.slice(0, 8);
+
 export default function Home() {
+  const totalPoints = qaScorecard.reduce((sum, item) => sum + item.points, 0);
+  const guides = blogPosts.slice(0, 3);
+
   return (
     <>
       <Header />
-      <main id="main-content" className="signal-home" data-gi-rollout="two-illustration-packs-one-icon-pack">
+      <main id="main-content" className="vx-home">
         <JsonLd data={schema} />
 
-        <section className="signal-hero">
-          <div className="signal-line" aria-hidden="true" />
-          <div className="container signal-hero-grid">
-            <div className="signal-copy">
-              <p className="signal-kicker"><span>Philippines call support</span> Built around your script</p>
-              <h1>Every call gets a clear next step.</h1>
-              <ul className="signal-points">
-                <li><img src="/icons/getillustrations/blueprint-communication/business-call-answering.svg" alt="Business call answering" width="200" height="200" loading="lazy" />A Filipino receptionist answers in your business name</li>
-                <li><img src="/icons/getillustrations/blueprint-communication/booking-and-routing.svg" alt="Appointment booking and call routing" width="200" height="200" loading="lazy" />Book, route, or follow up from one script</li>
-                <li><img src="/icons/getillustrations/blueprint-communication/call-notes-review.svg" alt="Call notes quality review" width="200" height="200" loading="lazy" />Review notes and call quality each week</li>
+        <section className="vx-hero">
+          <div className="vx-hero-grid vx-container">
+            <div className="vx-hero-copy">
+              <p className="vx-eyebrow">Philippines call support / inbound + outbound</p>
+              <h1>
+                <span>Every call</span>
+                <span>gets a</span>
+                <em>next step.</em>
+              </h1>
+              <p className="vx-hero-lead">
+                A Filipino receptionist answers in your business name, follows the approved
+                script, and leaves a record your team can act on. No guessing. No dead ends.
+              </p>
+              <div className="vx-actions">
+                <a className="vx-btn vx-btn--orange" href="/contact-us">Map my call coverage ↗</a>
+                <a className="vx-btn vx-btn--ghost" href="/workflows">See the call flow</a>
+              </div>
+              <ul className="vx-hero-notes">
+                <li>Philippines-based specialists</li>
+                <li>Your script, tools, and hours</li>
+                <li>Manager-owned exceptions</li>
               </ul>
-              <a className="signal-button" href="/contact-us">Map my call coverage</a>
-              <p className="signal-tagline">A calm voice for callers. A clean handoff for your team.</p>
             </div>
 
-            <div className="signal-visual">
-              <div className="signal-photo">
-                <img src="/illustrations/getillustrations/communication/call-support-handoff.webp" alt="Filipino call support specialist managing caller messages and next steps" width="1400" height="1400" fetchPriority="high" sizes="(max-width: 760px) calc(100vw - 40px), 50vw" />
-              </div>
-              <div className="signal-live"><i aria-hidden="true" /> Live coverage plan</div>
-              <div className="signal-call-card">
-                <span>New caller</span>
+            <div className="vx-stage" data-vx-scene aria-label="Call handling scene">
+              <span className="vx-dial" aria-hidden="true" />
+              <span className="vx-live"><i aria-hidden="true" /> Live coverage plan</span>
+              <figure className="vx-photo" data-vx-tilt data-tilt-strength="4">
+                <img
+                  src="/call-team.jpg"
+                  alt="Filipino call support specialist wearing a headset"
+                  width="1600"
+                  height="2400"
+                  fetchPriority="high"
+                />
+                <figcaption>Philippines call desk · real person, real headset</figcaption>
+              </figure>
+              <div className="vx-ticket vx-ticket--a" data-vx-depth="16">
+                <span>Inbound / 00:12</span>
                 <strong>Reason captured</strong>
-                <p>Appointment request · owner notified</p>
+                <small>Appointment request · owner notified</small>
+              </div>
+              <div className="vx-ticket vx-ticket--b" data-vx-depth="22">
+                <span>Handoff / 00:42</span>
+                <strong>Routed to Dana</strong>
+                <small>CRM note saved · callback booked</small>
+              </div>
+              <span className="vx-sticker" data-vx-depth="10" aria-hidden="true">Live<br />line</span>
+              <div className="vx-wave" data-vx-depth="12" aria-hidden="true">
+                {Array.from({ length: 22 }, (_, index) => <i key={index} />)}
+              </div>
+            </div>
+          </div>
+          <Marquee items={marquee} />
+        </section>
+
+        <section className="vx-manifesto">
+          <div className="vx-manifesto-grid vx-container">
+            <h2 data-reveal>
+              A call is a handoff.
+              <br />
+              <em>Not a note.</em>
+            </h2>
+            <div className="vx-manifesto-copy" data-reveal style={{ '--vx-delay': '100ms' } as CSSProperties}>
+              <p>
+                Every caller should know what happens next. Every manager should be able to read
+                the record without replaying the conversation.
+              </p>
+              <p>
+                We build the lane around your real call types, then document the greeting, the
+                questions, the system of record, the owner, and the stop rule before the first
+                queue opens.
+              </p>
+              <div className="vx-manifesto-facts">
+                <div><strong>Before launch</strong><span>Script, access list, routing table, and escalation owner approved</span></div>
+                <div><strong>During a call</strong><span>Only approved answers, complete notes, and a clear next action</span></div>
+                <div><strong>Every week</strong><span>A small call sample scored for accuracy, tone, notes, and safe routing</span></div>
               </div>
             </div>
           </div>
         </section>
 
-        <section className="ph-origin" aria-labelledby="ph-origin-title">
-          <div className="container ph-origin-grid">
-            <div className="ph-origin-intro">
-              <p className="ph-origin-kicker"><span aria-hidden="true" /> Philippines team desk</p>
-              <h2 id="ph-origin-title">Your call team is based in the Philippines.</h2>
-              <p>We recruit and provide Filipino call support talent only. You set the hours, script, tools, and manager rules before the first queue opens.</p>
-              <img className="ph-origin-illustration" src="/illustrations/getillustrations/inkdex-team/remote-call-team-collaboration.svg" alt="Remote Philippines call team collaborating on a handoff" width="1180" height="1180" loading="lazy" sizes="(max-width: 760px) calc(100vw - 40px), 50vw" />
-              <a href="/services">See Philippines call support services <span>→</span></a>
+        <section className="vx-section">
+          <div className="vx-container">
+            <SectionHead
+              label="The switchboard"
+              title={<>Pick the lane.<br />We’ll cover the calls.</>}
+              copy="Start with one repeatable call type. Each lane has its own inputs, records, boundaries, and review owner."
+            />
+
+            <div className="vx-lanes">
+              {homeRoles.map((service: any, index: number) => (
+                <a
+                  className="vx-lane"
+                  href={`/services/${service.slug}`}
+                  key={service.slug}
+                  data-reveal
+                  style={{ '--vx-delay': `${(index % 2) * 70}ms` } as CSSProperties}
+                >
+                  <span className="vx-lane-tag">{laneTags[service.slug] || 'Call lane'}</span>
+                  <h3>{service.title}</h3>
+                  <p>{service.summary}</p>
+                  <span className="vx-lane-arrow" aria-hidden="true">↗</span>
+                </a>
+              ))}
             </div>
-            <div className="ph-handoff" aria-label="Sample caller handoff path">
-              <div className="ph-handoff-bar">
-                <div><i aria-hidden="true" /> Handoff ready</div>
-                <span>Sample process · not live call data</span>
-              </div>
-              <ol>
-                <li><div><small>Caller</small><strong>Reason captured</strong></div><b>INTAKE</b></li>
-                <li><div><small>Filipino specialist</small><strong>Approved script used</strong></div><b>CHECK</b></li>
-                <li><div><small>Your team</small><strong>Note and next action sent</strong></div><b>ROUTE</b></li>
-              </ol>
-              <div className="ph-handoff-footer"><span>Manager decisions stay with you</span><a href="/qa-scorecard">View the QA scorecard →</a></div>
+
+            <div className="vx-lanes-foot">
+              <p>10 defined call lanes · one recruiting and support team</p>
+              <a className="vx-link" href="/services">Compare every service</a>
             </div>
           </div>
         </section>
 
-        <section className="signal-section" id="coverage">
-          <div className="container">
-            <div className="signal-heading">
-              <div><p className="signal-label">Call lanes</p><h2>Give each caller a place to go.</h2></div>
-              <p>Start with a few repeatable call types. Your receptionist follows the approved words, writes the note, and sends the next step to the right person.</p>
-            </div>
-            <div className="signal-lanes">
-              {roles.map((role, index) => (
-                <article key={role}>
-                  <h3>{role}</h3>
-                  <p>{index === 0 ? 'Use your greeting, capture the reason, and route urgent calls.' : index === 1 ? 'Book the right slot and send a clean confirmation.' : index === 2 ? 'Answer from the approved FAQ and open the right ticket.' : index === 3 ? 'Return missed calls and record the next action.' : index === 4 ? 'Ask the required questions without giving advice.' : 'Keep call notes, tags, owners, and review samples tidy.'}</p>
+        <section className="vx-section vx-section--ink">
+          <div className="vx-container">
+            <SectionHead
+              light
+              label="One call path"
+              title={<>Leave a record the next person can use.</>}
+              copy="The assistant does not just answer. They capture the reason, follow the approved path, and finish with a note and an owner."
+            />
+
+            <div className="vx-process">
+              {workflowSteps.map((step, index) => (
+                <article
+                  className="vx-step"
+                  key={step.title}
+                  data-reveal
+                  style={{ '--vx-delay': `${index * 90}ms` } as CSSProperties}
+                >
+                  <span className="vx-step-dot">{`0${index + 1}`}</span>
+                  <h3>{step.title}</h3>
+                  <p>{step.text}</p>
                 </article>
               ))}
             </div>
+
+            <div className="vx-rule-note" data-reveal>
+              <strong>Manager rule</strong>
+              <p>
+                If the script does not cover the request, the specialist sends it to the named
+                owner with the context. They do not invent a policy, a price, or a promise.
+              </p>
+            </div>
           </div>
         </section>
 
-        <section className="signal-path" id="how-it-works">
-          <div className="container signal-path-grid">
-            <div className="signal-path-intro">
-              <p className="signal-label">One call path</p>
-              <h2>Leave a note the next person can use.</h2>
-              <p>Callers should know what happens next. Your team should be able to read the record without replaying the whole conversation.</p>
-              <a href="/workflows">See the full call workflow <span>→</span></a>
+        <section className="vx-quality">
+          <div className="vx-quality-grid vx-container">
+            <div className="vx-gauge" aria-label={`Weekly QA scorecard total: ${totalPoints} points`}>
+              <svg viewBox="0 0 280 280" aria-hidden="true">
+                <circle cx="140" cy="140" r="120" />
+                <circle className="vx-gauge-ring" cx="140" cy="140" r="120" />
+              </svg>
+              <div className="vx-gauge-copy">
+                <strong>{totalPoints}</strong>
+                <span>Point weekly review</span>
+              </div>
             </div>
-            <ol>
-              {workflowSteps.map((step, index) => (
-                <li key={step.title}>
-                  <span>{index + 1}</span>
-                  <div><h3>{step.title}</h3><p>{step.text}</p></div>
-                </li>
-              ))}
-            </ol>
-          </div>
-        </section>
 
-        <section className="signal-section signal-quality" id="quality">
-          <div className="container signal-quality-grid">
-            <div className="signal-score-card">
-              <div className="signal-score-top"><span>Weekly call check</span><strong>100</strong></div>
-              {qaScorecard.map((item) => (
-                <div className="signal-score-row" key={item.item}>
-                  <span>{item.item}</span><b>{item.points} pts</b>
-                </div>
-              ))}
-              <a href="/qa-scorecard">Open the full QA scorecard</a>
-            </div>
-            <div className="signal-quality-copy">
-              <p className="signal-label">Quality you can see</p>
+            <div className="vx-quality-copy">
+              <p className="vx-eyebrow">Quality you can see</p>
               <h2>Review a few calls. Fix small misses early.</h2>
-              <p>A script helps, but it is not enough on its own. Score a small call sample for accuracy, tone, routing, notes, and safe escalation. Then coach one clear point at a time.</p>
-              <div className="signal-rule"><span>Keep with your team</span><p>Medical, legal, policy, refund, billing, and other sensitive decisions stay with an approved manager.</p></div>
-              <a className="signal-text-link" href="/contact-us">Map my call coverage →</a>
+              <p>
+                A script is not a quality plan. Score a small sample for accuracy, tone, routing,
+                notes, and safe escalation. Then coach one clear point at a time.
+              </p>
+              <div className="vx-score-list">
+                {qaScorecard.map((item) => (
+                  <div className="vx-score-row" key={item.item}>
+                    <span>{item.item}</span>
+                    <b>{item.points} pts</b>
+                    <i style={{ '--w': `${Math.round((item.points / totalPoints) * 100)}%` } as CSSProperties} />
+                  </div>
+                ))}
+              </div>
+              <a className="vx-link" href="/qa-scorecard" style={{ marginTop: 22 }}>Open the full QA scorecard</a>
             </div>
           </div>
         </section>
 
-        <section className="signal-industries">
-          <div className="container signal-industries-inner">
-            <p className="signal-label">Common teams</p>
-            <h2>Useful where the phone starts the work.</h2>
-            <div>{industries.map((industry) => <span key={industry}>{industry}</span>)}</div>
+        <section className="vx-section vx-section--white">
+          <div className="vx-team vx-container">
+            <figure className="vx-team-photo" data-vx-tilt data-tilt-strength="3">
+              <img
+                src="/stealth-agents-team.jpg"
+                alt="Stealth Agents team outside the Bacolod City Government Center"
+                width="953"
+                height="540"
+                loading="lazy"
+              />
+              <figcaption><span>Official team · Bacolod City, Philippines</span><b>StealthAgents</b></figcaption>
+            </figure>
+            <div className="vx-team-copy" data-reveal>
+              <span className="vx-team-badge"><i aria-hidden="true" /> The people behind the line</span>
+              <h2>One voice. A whole team behind it.</h2>
+              <p>
+                StealthAgents recruits, employs, and supports the Philippines-based specialists who
+                answer these calls. Virtual Assistant Call Center is the planning layer for your
+                scripts, coverage, and review rules.
+              </p>
+              <p>
+                Your team owns priorities, approvals, and sensitive decisions. The specialist owns
+                the agreed call work, the record, and the handoff.
+              </p>
+              <a className="vx-link" href="https://stealthagents.com/our-team/" target="_blank" rel="noopener noreferrer">Meet the official team ↗</a>
+            </div>
           </div>
         </section>
 
-        <section className="signal-section signal-guides">
-          <div className="container">
-            <div className="signal-heading"><div><p className="signal-label">Field notes</p><h2>Plan the handoff before day one.</h2></div><a href="/blog">Read all guides →</a></div>
-            <div className="signal-guide-grid">
-              {blogPosts.slice(0, 3).map((post) => (
-                <a href={`/blog/${post.slug}`} key={post.slug}>
-                  <span>{post.minutes} min read</span>
+        <section className="vx-reviews" aria-label="Client reviews">
+          <div className="vx-container">
+            <TestimonialsRail />
+          </div>
+        </section>
+
+        <section className="vx-section">
+          <div className="vx-container">
+            <SectionHead
+              label="Field notes"
+              title={<>Plan the handoff before day one.</>}
+              copy="Practical guides for call scripts, routing, access, and the first week of review."
+            />
+            <div className="vx-notes">
+              {guides.map((post: any, index: number) => (
+                <a
+                  className="vx-note"
+                  href={`/blog/${post.slug}`}
+                  key={post.slug}
+                  data-reveal
+                  style={{ '--vx-delay': `${index * 70}ms` } as CSSProperties}
+                >
+                  <span className="vx-note-meta">Field note / {post.minutes} min</span>
                   <h3>{post.title}</h3>
                   <p>{post.excerpt}</p>
-                  <b>Read guide →</b>
+                  <div className="vx-note-foot"><span>Read the guide</span><b aria-hidden="true">↗</b></div>
                 </a>
               ))}
             </div>
           </div>
         </section>
 
-        <section className="signal-close">
-          <div className="container signal-close-inner">
-            <div><p className="signal-label">Plan the first queue</p><h2>Give missed calls a clear way back in.</h2></div>
-            <div><p>Share your call types, hours, tools, and escalation rules. The team will use them to shape a practical coverage plan.</p><a className="signal-button signal-button-light" href="/contact-us">Map my call coverage</a></div>
-          </div>
-        </section>
+        <CTA />
       </main>
       <Footer />
     </>

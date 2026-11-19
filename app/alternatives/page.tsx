@@ -1,4 +1,4 @@
-import { Header, Footer } from '../components';
+import { Header, Footer, PageHero, SectionHead, CTA } from '../components';
 import { getContent } from '../content';
 
 export const metadata = {
@@ -9,11 +9,46 @@ export const metadata = {
 
 export default function Alternatives() {
   const entries = getContent('alternatives');
-  return <><Header/><main id="main-content" className="fleet-main"><section className="fleet-hero"><div className="container index-hero-grid"><div>
-    <p className="eyebrow">Alternatives</p><h1>Compare call support options by operating fit</h1>
-    <p className="lead">Practical comparisons for teams choosing between virtual receptionists, answering services, employees, and specialized assistants.</p></div>
-    <img className="index-hero-image" src="/thumbnails/provider-shortlist-call-operations.svg" alt="Call support provider evaluation board comparing coverage, follow-through, quality, and ownership" width="1200" height="630"/>
-  </div></section><section className="section"><div className="container fleet-card-grid">{entries.map((entry) =>
-    <a className="fleet-card" href={`/alternatives/${entry.slug}`} key={entry.slug}><img src={entry.image} alt={entry.imageAlt} width="1200" height="630" loading="lazy" sizes="(max-width: 700px) calc(100vw - 40px), 50vw"/><span>{entry.category}</span><h2>{entry.title}</h2><p>{entry.description}</p><b>Read comparison</b></a>
-  )}</div></section></main><Footer/></>;
+  return (
+    <>
+      <Header />
+      <main id="main-content" className="vx-index">
+        <PageHero
+          label="Alternatives"
+          title={<>Compare the option, not the label.</>}
+          lead="Practical comparisons for teams choosing between virtual receptionists, answering services, employees, and specialized assistants."
+          artTitle="Compare the controls."
+          artNote="Coverage · handoff · review"
+          actions={<a className="vx-btn vx-btn--orange" href="/contact-us">Talk through the fit ↗</a>}
+        />
+        <section className="vx-section">
+          <div className="vx-container">
+            <SectionHead
+              label="Comparison library"
+              title={<>Choose by operating fit.</>}
+              copy="Look at coverage, controls, handoff, and review. A familiar label is not a plan."
+            />
+            <div className="vx-post-grid">
+              {entries.map((entry) => (
+                <a className="vx-post" href={`/alternatives/${entry.slug}`} key={entry.slug}>
+                  <div className="vx-post-media">
+                    <img src={entry.image} alt={entry.imageAlt} loading="lazy" />
+                    <span>{entry.category}</span>
+                  </div>
+                  <div className="vx-post-body">
+                    <span className="vx-post-meta">Comparison</span>
+                    <h3>{entry.title}</h3>
+                    <p>{entry.description}</p>
+                    <span className="vx-link">Read comparison</span>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+        <CTA />
+      </main>
+      <Footer />
+    </>
+  );
 }

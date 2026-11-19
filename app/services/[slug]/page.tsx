@@ -27,7 +27,9 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
   const service = fleetServices.find((item) => item.slug === slug);
   if (!service) notFound();
   const guidance = serviceGuidance[service.slug];
-  const related = service.related.map((id) => fleetServices.find((item) => item.slug === id)).filter(Boolean);
+  const related = service.related
+    .map((id) => fleetServices.find((item) => item.slug === id))
+    .filter((item): item is NonNullable<typeof item> => Boolean(item));
   const url = `${site.url}/services/${service.slug}`;
   const faqs = guidance?.faqs || service.faqs;
   const schema = {
@@ -37,21 +39,141 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
       { '@type': 'FAQPage', mainEntity: faqs.map((item) => ({ '@type': 'Question', name: item.q, acceptedAnswer: { '@type': 'Answer', text: item.a } })) },
     ],
   };
-  return <>
-    <Header />
-    <main id="main-content" className="service-detail">
-      <JsonLd data={schema} />
-      <section className="service-detail-hero"><div className="container service-detail-hero-grid"><div><p className="service-detail-kicker">Philippines call support service</p><h1>{service.title}</h1><p className="service-detail-audience"><strong>Best for:</strong> {service.audience}</p><p className="service-detail-summary">{service.summary}</p><a className="services-console-button" href="/contact-us">Discuss this call lane</a></div><figure><img src={service.image} alt={`${service.title} workflow illustration`} width="1400" height="1400" fetchPriority="high" sizes="(max-width: 900px) calc(100vw - 40px), 46vw" /><figcaption>Scope, record, and escalation rules defined before launch</figcaption></figure></div></section>
-      <section className="service-detail-problem"><div className="container"><p className="service-detail-kicker">The operational problem</p><h2>{service.problem}</h2></div></section>
-      <section className="service-detail-workflow"><div className="container"><div className="service-section-heading"><p>From source to outcome</p><h2>What the specialist needs, does, and leaves behind.</h2></div><div className="service-detail-workflow-grid"><article><h3>Inputs</h3><ul>{service.inputs.map((item) => <li key={item}>{item}</li>)}</ul></article><article><h3>Work performed</h3><ul>{service.work.map((item) => <li key={item}>{item}</li>)}</ul></article><article><h3>Outputs</h3><ul>{service.outputs.map((item) => <li key={item}>{item}</li>)}</ul></article></div></div></section>
-      <section className="service-detail-boundaries"><div className="container service-boundary-grid"><div><p className="service-detail-kicker">Decision boundary</p><h2>What remains with your team.</h2></div><ul>{service.boundaries.map((item) => <li key={item}>{item}</li>)}</ul></div></section>
-      <section className="service-detail-quality"><div className="container service-boundary-grid"><div><p className="service-detail-kicker">Quality controls</p><h2>How this lane is reviewed.</h2></div><ul>{(guidance?.quality || service.controls).map((item) => <li key={item}>{item}</li>)}</ul></div></section>
-      <section className="service-detail-launch"><div className="container"><div className="service-section-heading"><p>Launch inputs</p><h2>What we need to start.</h2></div><ol>{(guidance?.start || service.launch).map((item) => <li key={item}>{item}</li>)}</ol></div></section>
-      <section className="service-detail-scenarios"><div className="container"><div className="service-section-heading"><p>Example scenarios</p><h2>How the lane works in practice.</h2></div><div className="service-scenario-grid">{service.scenarios.map((item, index) => <article key={item}><span>{index === 0 ? 'Routine path' : 'Exception path'}</span><p>{item}</p></article>)}</div></div></section>
-      <section className="service-detail-faqs"><div className="container"><div className="service-section-heading"><p>Frequently asked questions</p><h2>Set expectations before access is granted.</h2></div><div className="service-faq-grid">{faqs.map((item) => <details key={item.q}><summary>{item.q}</summary><p>{item.a}</p></details>)}</div></div></section>
-      <section className="service-detail-related"><div className="container"><div className="service-section-heading"><p>Related services</p><h2>Connect the next useful lane.</h2></div><div className="service-related-grid">{related.map((item) => <a href={`/services/${item!.slug}`} key={item!.slug}><h3>{item!.title}</h3><p>{item!.summary}</p><strong>View service</strong></a>)}</div></div></section>
-      <CTA />
-    </main>
-    <Footer />
-  </>;
+
+  return (
+    <>
+      <Header />
+      <main id="main-content" className="vx-detail-page">
+        <JsonLd data={schema} />
+
+        <section className="vx-detail-hero">
+          <div className="vx-detail-grid vx-container">
+            <div className="vx-detail-copy">
+              <p className="vx-eyebrow vx-eyebrow--light">Philippines call support service</p>
+              <h1>{service.title}</h1>
+              <p className="vx-detail-audience"><strong>Best for:</strong> {service.audience}</p>
+              <p className="vx-detail-summary">{service.summary}</p>
+              <div className="vx-actions">
+                <a className="vx-btn vx-btn--orange" href="/contact-us">Discuss this lane ↗</a>
+                <a className="vx-btn vx-btn--outline-light" href="#scope">See the scope</a>
+              </div>
+            </div>
+            <div className="vx-detail-art" aria-hidden="true">
+              <span className="vx-art-dial" />
+              <div className="vx-lane-card">
+                <span>Call lane</span>
+                <b>{service.title}</b>
+                <small>Approved script · named owner · weekly review</small>
+              </div>
+              <span className="vx-art-sticker">PH</span>
+            </div>
+          </div>
+        </section>
+
+        <section className="vx-detail-body">
+          <div className="vx-container">
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">The operational problem</p>
+              <h2>{service.problem}</h2>
+            </section>
+
+            <section className="vx-detail-section" id="scope" data-reveal>
+              <p className="vx-eyebrow">From source to outcome</p>
+              <h2>What the specialist needs, does, and leaves behind.</h2>
+              <div className="vx-flow-grid">
+                <article>
+                  <h3>Inputs</h3>
+                  <ul>{service.inputs.map((item) => <li key={item}>{item}</li>)}</ul>
+                </article>
+                <article>
+                  <h3>Work performed</h3>
+                  <ul>{service.work.map((item) => <li key={item}>{item}</li>)}</ul>
+                </article>
+                <article>
+                  <h3>Outputs</h3>
+                  <ul>{service.outputs.map((item) => <li key={item}>{item}</li>)}</ul>
+                </article>
+              </div>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <div className="vx-boundary">
+                <div>
+                  <p className="vx-eyebrow">Decision boundary</p>
+                  <h2>What remains with your team.</h2>
+                </div>
+                <ul>{service.boundaries.map((item) => <li key={item}>{item}</li>)}</ul>
+              </div>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">Quality controls</p>
+              <h2>How this lane is reviewed.</h2>
+              <div className="vx-scenarios">
+                {(guidance?.quality || service.controls).map((item) => (
+                  <article key={item}><span>Review check</span><p>{item}</p></article>
+                ))}
+              </div>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">Launch inputs</p>
+              <h2>What we need to start.</h2>
+              <ol className="vx-detail-steps">
+                {(guidance?.start || service.launch).map((item) => <li key={item}>{item}</li>)}
+              </ol>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">Example scenarios</p>
+              <h2>How the lane works in practice.</h2>
+              <div className="vx-scenarios">
+                {service.scenarios.map((item, index) => (
+                  <article key={item}>
+                    <span>{index === 0 ? 'Routine path' : 'Exception path'}</span>
+                    <p>{item}</p>
+                  </article>
+                ))}
+              </div>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">Common questions</p>
+              <h2>Set expectations before access is granted.</h2>
+              <div className="vx-faq">
+                {faqs.map((item) => (
+                  <details key={item.q}>
+                    <summary>{item.q}</summary>
+                    <p>{item.a}</p>
+                  </details>
+                ))}
+              </div>
+            </section>
+
+            <section className="vx-detail-section" data-reveal>
+              <p className="vx-eyebrow">Related lanes</p>
+              <h2>Connect the next useful lane.</h2>
+              <div className="vx-related">
+                {related.map((item) => (
+                  <a href={`/services/${item.slug}`} key={item.slug}>
+                    <h3>{item.title}</h3>
+                    <p>{item.summary}</p>
+                    <span>View service ↗</span>
+                  </a>
+                ))}
+                <a href="/services">
+                  <h3>All call lanes</h3>
+                  <p>Compare the full service menu and pick the first queue.</p>
+                  <span>Open the directory ↗</span>
+                </a>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <CTA />
+      </main>
+      <Footer />
+    </>
+  );
 }

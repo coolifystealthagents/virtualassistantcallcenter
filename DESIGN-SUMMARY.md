@@ -1,10 +1,11 @@
 # Design summary
 
-- Design concept: Call center cockpit
-- Layout personality: data-driven dashboard
-- Typography: Chakra Petch headings with Inter body text
-- Color palette: primary #0c4a6e, secondary #38bdf8, accent #f97316, background #f0f9ff, text #082f49, muted #64748b
-- Shape language: Sharp corners
-- Visual motif: cockpit metrics and queue arcs
-- Unique layout choices: first sections use Call cockpit, then a custom service index, process ribbon, question block, and resource strip with varied widths and alignments.
-- Difference from previous sites: this redesign changes the hero composition, section ordering, image treatment, card style, spacing rhythm, button shape, and footer treatment for this domain.
+- Design concept: Switchboard Studio
+- Layout personality: Swiss-brutalist call operations studio
+- Typography: Anton display, DM Sans body, IBM Plex Mono labels
+- Color palette: bone paper #f3efe6, black ink #101013, safety orange #ff4a1c, cobalt #2b36ff, butter #ffd447
+- Shape language: sharp corners, 1px black rules, ticket stubs, hard offset shadows
+- Visual motif: call tickets, rotating line dials, live waveform, 3D photo cards
+- Motion: pointer tilt, depth parallax, scroll reveals, continuous marquees, animated waveform and QA ring
+- Unique layout choices: a 3D call stage in the hero, a black manifesto band, a two-column switchboard for service lanes, a butter-yellow QA panel, and a cobalt closing ticker
+- Difference from previous sites: no deep-teal ocean palette, no gold editorial serif system, no rounded glass cards. This site uses poster-scale Anton type, bone paper, black rules and orange/cobalt signal colors.

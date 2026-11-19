@@ -1,4 +1,4 @@
-import { Header, Footer, CTA, JsonLd } from '../components';
+import { Header, Footer, CTA, JsonLd, PageHero, SectionHead } from '../components';
 import { workflowSteps, sources } from '../data';
 
 export const metadata = {
@@ -27,102 +27,127 @@ export default function Workflows() {
     '@type': 'HowTo',
     name: 'How to set up a virtual assistant call center workflow',
     description: metadata.description,
-    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80',
     supply: handoffChecks.map((name) => ({ '@type': 'HowToSupply', name })),
     citation: sources.map((source) => source.url),
     step: workflowSteps.map((step, index) => ({ '@type': 'HowToStep', position: index + 1, name: step.title, text: step.text })),
   };
 
-  return <><Header/><main id="main-content">
-    <JsonLd data={schema}/>
-    <section className="section workflow-hero">
-      <div className="container two">
-        <div>
-          <p className="eyebrow">Call workflows</p>
-          <h1>VA call center workflows that are easy to run.</h1>
-          <p className="lead">A virtual assistant can answer calls, qualify leads, book appointments, and update your CRM. The key is to give the assistant a clear path for each call type.</p>
-          <p>Build the path before you hire. That means clear scripts, safe handoff rules, CRM notes, and a weekly QA review that catches small issues fast.</p>
-          <div className="button-row"><a className="btn" href="/contact-us">Build my call plan</a><a className="btn secondary" href="/qa-scorecard">See QA scorecard</a></div>
-        </div>
-        <div className="workflow-photo">
-          <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Support operations team tracking customer calls on laptop screens" width="1200" height="800" fetchPriority="high" sizes="(max-width: 800px) calc(100vw - 40px), 50vw" />
-          <div className="score-float"><b>Sample QA review</b><span>Calls selected</span><span>Notes checked</span><span>Coaching point logged</span></div>
-        </div>
-      </div>
-    </section>
+  return (
+    <>
+      <Header />
+      <main id="main-content" className="vx-page">
+        <JsonLd data={schema} />
+        <PageHero
+          label="Call workflows"
+          title={<>A call path that is easy to run.</>}
+          lead="Answer, qualify, book, update, and route from one approved path. Build the path before you hire, then review a small sample every week."
+          artTitle="Every call has a next stop."
+          artNote="One path · one record"
+          actions={
+            <>
+              <a className="vx-btn vx-btn--orange" href="/contact-us">Build my call plan ↗</a>
+              <a className="vx-btn vx-btn--outline-light" href="/qa-scorecard">See the QA scorecard</a>
+            </>
+          }
+        />
 
-    <section className="queue-ops" aria-labelledby="queue-board-title">
-      <div className="container">
-        <div className="queue-ops-heading">
-          <div>
-            <p className="queue-ops-kicker"><span aria-hidden="true" /> Live queue map</p>
-            <h2 id="queue-board-title">Give every caller one next step.</h2>
+        <section className="vx-section">
+          <div className="vx-container">
+            <SectionHead
+              label="Lane map"
+              title={<>Give every caller one next step.</>}
+              copy="Each lane needs an owner, a saved note, and a clear finish. If the script does not cover it, the specialist routes it."
+            />
+            <div className="vx-service-grid">
+              {queueLanes.map((lane, index) => (
+                <article className="vx-service-card" key={lane.label} style={{ minHeight: 200 }}>
+                  <span className="vx-service-tag">{lane.status}</span>
+                  <h3>{lane.label}</h3>
+                  <p>{lane.rule}</p>
+                  <b>{lane.status === 'Book' ? 'Calendar + CRM note' : lane.status === 'Ticket' ? 'Ticket + owner' : lane.status === 'Escalate' ? 'Alert + callback time' : 'Attempt + outcome'}</b>
+                </article>
+              ))}
+            </div>
+            <div className="vx-rule-note" style={{ borderColor: 'var(--vx-ink)', background: 'var(--vx-yellow)' }}>
+              <strong style={{ color: 'var(--vx-ink)' }}>Manager rule</strong>
+              <p style={{ color: '#2f2b1c' }}>If the script does not cover the request, send it to the named owner. Do not guess a policy, a price, or a promise.</p>
+            </div>
           </div>
-          <div className="queue-ops-note">
-            <strong>Manager rule</strong>
-            <p>If the script does not cover the request, send it to the named owner. Do not guess.</p>
-          </div>
-        </div>
-        <div className="queue-console">
-          <div className="queue-console-bar">
-            <div><i aria-hidden="true" /> Coverage board</div>
-            <span>4 call lanes</span>
-          </div>
-          <div className="queue-lane-grid">
-            {queueLanes.map((lane, index)=><article className="queue-lane" key={lane.label}>
-              <div className="queue-lane-top"><span>0{index + 1}</span><b className={`queue-status queue-status-${lane.status.toLowerCase().replace(' ', '-')}`}>{lane.status}</b></div>
-              <h3>{lane.label}</h3>
-              <p>{lane.rule}</p>
-              <div className="queue-record"><span>Record</span><strong>{lane.status === 'Book' ? 'Calendar + CRM note' : lane.status === 'Ticket' ? 'Ticket + owner' : lane.status === 'Escalate' ? 'Alert + callback time' : 'Attempt + outcome'}</strong></div>
-            </article>)}
-          </div>
-          <div className="queue-console-footer">
-            <p><span aria-hidden="true" /> Each lane needs an owner, a saved note, and a clear finish.</p>
-            <div><a href="/qa-scorecard">Check call quality</a><a href="/contact-us">Map my queue</a></div>
-          </div>
-        </div>
-      </div>
-    </section>
+        </section>
 
-    <section className="section">
-      <div className="container">
-        <p className="eyebrow">Four-step call flow</p>
-        <h2>Keep the handoff simple enough to coach.</h2>
-        <div className="cards">{workflowSteps.map((s, i)=><div className="card" key={s.title}><span className="pill">Step {i + 1}</span><h3>{s.title}</h3><p>{s.text}</p></div>)}</div>
-      </div>
-    </section>
+        <section className="vx-section vx-section--ink">
+          <div className="vx-container">
+            <SectionHead light label="Four-step flow" title={<>Keep the handoff simple enough to coach.</>} />
+            <div className="vx-process">
+              {workflowSteps.map((step, index) => (
+                <article className="vx-step" key={step.title}>
+                  <span className="vx-step-dot">{`0${index + 1}`}</span>
+                  <h3>{step.title}</h3>
+                  <p>{step.text}</p>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
 
-    <section className="section soft">
-      <div className="container two">
-        <div>
-          <p className="eyebrow">Script starter</p>
-          <h2>Use one opening line, then route the call.</h2>
-          <div className="card"><p className="quote">"Thanks for calling. I can help get this to the right person. May I ask what you need help with today?"</p><ul className="list"><li>Name, phone, email, and company</li><li>Reason for call and urgency</li><li>Best appointment window or callback time</li><li>Source of the lead, if new</li><li>Any promise the assistant should not make</li></ul></div>
-        </div>
-        <div className="call-flow-diagram" aria-label="Call flow diagram from caller to assistant to CRM and owner escalation">
-          <div className="node caller">Caller</div>
-          <div className="flow-line"></div>
-          <div className="node agent">VA answers</div>
-          <div className="split"><div className="node">Book</div><div className="node">Ticket</div><div className="node lime">Escalate</div></div>
-          <div className="node crm">CRM note + QA review</div>
-        </div>
-      </div>
-    </section>
+        <section className="vx-section">
+          <div className="vx-container vx-two vx-two--wide">
+            <div>
+              <p className="vx-eyebrow">Script starter</p>
+              <h2 style={{ margin: '0 0 18px', fontFamily: 'var(--vx-display)', fontSize: 'clamp(34px,4.4vw,58px)', fontWeight: 400, lineHeight: '.92', textTransform: 'uppercase' }}>Use one opening line, then route the call.</h2>
+              <div style={{ padding: 24, border: '1px solid var(--vx-ink)', background: 'var(--vx-white)' }}>
+                <p style={{ margin: 0, color: 'var(--vx-ink)', fontSize: 19, fontWeight: 700, lineHeight: 1.45 }}>“Thanks for calling. I can help get this to the right person. May I ask what you need help with today?”</p>
+                <ul className="vx-flow-grid" style={{ display: 'grid', gridTemplateColumns: '1fr', gap: 7, marginTop: 18, padding: 0, listStyle: 'none', border: 0, background: 'transparent' }}>
+                  {['Name, phone, email, and company', 'Reason for call and urgency', 'Best appointment window or callback time', 'Source of the lead, if new', 'Any promise the assistant should not make'].map((item) => (
+                    <li key={item} style={{ position: 'relative', paddingLeft: 14, color: '#3e3c36', fontSize: 13, lineHeight: 1.5 }}>
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
 
-    <section className="section">
-      <div className="container two">
-        <div className="card">
-          <h2>Safe escalation rules</h2>
-          <p>Basic intake, schedule changes, reminders, status notes, simple FAQs, and routing can sit with the assistant.</p>
-          <p>Keep policy exceptions, legal or medical advice, refunds, account changes, angry customer decisions, and private data issues with the owner or manager.</p>
-        </div>
-        <div className="card">
-          <h2>Sources to keep close</h2>
-          <p>Use outside guidance for job scope and customer information rules. Do not make policy up during a live call.</p>
-          <div className="source-list">{sources.map((s)=><a key={s.url} href={s.url}>{s.name}</a>)}</div>
-        </div>
-      </div>
-    </section>
-    <CTA/>
-  </main><Footer/></>;
+            <div style={{ padding: 24, border: '1px solid var(--vx-ink)', background: 'var(--vx-paper-2)' }}>
+              <p className="vx-eyebrow">Handoff checks</p>
+              <div className="vx-faq">
+                {handoffChecks.map((item) => <div key={item} style={{ padding: '12px 0', borderBottom: '1px solid #bfb9ab', fontSize: 13, lineHeight: 1.55 }}>{item}</div>)}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="vx-section vx-section--sand">
+          <div className="vx-container vx-two">
+            <div style={{ padding: 26, border: '1px solid var(--vx-ink)', background: 'var(--vx-white)' }}>
+              <p className="vx-eyebrow">Safe scope</p>
+              <h2 style={{ fontSize: 24, margin: '0 0 12px' }}>What can sit with the assistant</h2>
+              <p style={{ margin: 0, color: 'var(--vx-muted)', fontSize: 13, lineHeight: 1.65 }}>Basic intake, schedule changes, reminders, status notes, simple FAQs, and routing can sit with the assistant.</p>
+            </div>
+            <div style={{ padding: 26, border: '1px solid var(--vx-ink)', background: 'var(--vx-white)' }}>
+              <p className="vx-eyebrow">Owner-only</p>
+              <h2 style={{ fontSize: 24, margin: '0 0 12px' }}>What stays with your manager</h2>
+              <p style={{ margin: 0, color: 'var(--vx-muted)', fontSize: 13, lineHeight: 1.65 }}>Policy exceptions, legal or medical advice, refunds, account changes, angry customer decisions, and private data issues.</p>
+            </div>
+          </div>
+        </section>
+
+        <section className="vx-section">
+          <div className="vx-container">
+            <SectionHead label="Sources to keep close" title={<>Use outside guidance. Do not invent policy on a live call.</>} />
+            <div className="vx-faq">
+              {sources.map((source) => (
+                <details key={source.url}>
+                  <summary>{source.name}</summary>
+                  <p>{source.note} <a href={source.url} target="_blank" rel="noopener noreferrer">Open the source ↗</a></p>
+                </details>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <CTA />
+      </main>
+      <Footer />
+    </>
+  );
 }
