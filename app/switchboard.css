@@ -101,6 +101,7 @@ main {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -366,6 +367,14 @@ a {
   font-size: 9px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+
+.vx-review-grid small {
+  margin-top: -4px;
+  color: #8a857a;
+  font-family: var(--vx-mono);
+  font-size: 8px;
+  line-height: 1.4;
 }
 
 /* Header ------------------------------------------------------------------ */
@@ -1857,6 +1866,80 @@ a {
   width: 100%;
 }
 
+.vx-cta-ticket {
+  margin-top: 12px;
+  padding: 16px;
+  border: 1px solid rgba(255, 253, 247, 0.36);
+  border-left: 4px solid var(--vx-orange);
+  background: rgba(255, 253, 247, 0.09);
+}
+
+.vx-cta-ticket span {
+  display: block;
+  color: var(--vx-yellow);
+  font-family: var(--vx-mono);
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.vx-cta-ticket strong {
+  display: block;
+  margin: 8px 0 7px;
+  color: var(--vx-white);
+  font-family: var(--vx-body);
+  font-size: 15px;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.vx-cta-ticket small {
+  display: block;
+  color: #c8caf7;
+  font-family: var(--vx-mono);
+  font-size: 8px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+}
+
+.vx-proof-facts {
+  display: grid;
+  margin-top: 24px;
+  border-top: 1px solid #cfc8b9;
+}
+
+.vx-proof-facts > div {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  gap: 14px;
+  padding: 10px 0;
+  border-bottom: 1px solid #cfc8b9;
+}
+
+.vx-proof-facts strong {
+  color: var(--vx-orange-text);
+  font-family: var(--vx-mono);
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.vx-proof-facts span {
+  color: var(--vx-muted);
+  font-size: 11.5px;
+  line-height: 1.5;
+}
+
+@media (max-width: 720px) {
+  .vx-proof-facts > div {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+}
+
 .vx-cta-ticker {
   overflow: hidden;
   padding: 12px 0;
@@ -2389,8 +2472,24 @@ a {
   color: #2d1b12;
 }
 
-.vx-service-card b {
+.vx-service-output {
   margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid #d8d1c2;
+  color: #6b675d;
+  font-family: var(--vx-mono);
+  font-size: 9px;
+  line-height: 1.45;
+  letter-spacing: 0.03em;
+}
+
+.vx-service-card:hover .vx-service-output {
+  border-color: rgba(16, 16, 19, 0.35);
+  color: #2d1b12;
+}
+
+.vx-service-card b {
+  margin-top: 12px;
   font-family: var(--vx-mono);
   font-size: 9px;
   font-weight: 600;
@@ -2901,6 +3000,48 @@ a {
   font-size: 8px;
 }
 
+
+.vx-contact-brief {
+  max-width: 500px;
+  margin-top: 22px;
+  border-top: 1px solid rgba(255, 253, 247, 0.24);
+}
+
+.vx-contact-brief > span {
+  display: block;
+  padding: 12px 0 8px;
+  color: var(--vx-yellow);
+  font-family: var(--vx-mono);
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.vx-contact-brief > div {
+  display: grid;
+  grid-template-columns: 74px minmax(0, 1fr);
+  gap: 12px;
+  padding: 8px 0;
+  border-top: 1px solid rgba(255, 253, 247, 0.12);
+}
+
+.vx-contact-brief strong {
+  color: var(--vx-white);
+  font-family: var(--vx-mono);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.vx-contact-brief p {
+  margin: 0;
+  color: #b9b5ab;
+  font-size: 11.5px;
+  line-height: 1.5;
+}
+
 .vx-contact .sa-form-card {
   background: var(--vx-white) !important;
   border: 1px solid var(--vx-ink) !important;
@@ -3055,9 +3196,23 @@ a {
 }
 
 .vx-contact-cards article {
+  display: flex;
+  flex-direction: column;
   min-height: 210px;
   padding: 22px;
   background: var(--vx-paper);
+}
+
+.vx-contact-card-foot {
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid #c9c2b3;
+  color: var(--vx-orange-text);
+  font-family: var(--vx-mono);
+  font-size: 8.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .vx-contact-cards h3 {
@@ -3884,7 +4039,13 @@ a {
     gap: 24px;
   }
 
-  .vx-contact .sa-form-card {
+  .vx-contact-brief {
+    display: none;
+  }
+
+  
+
+.vx-contact .sa-form-card {
     max-width: 720px;
     margin-inline: auto;
   }
@@ -4127,7 +4288,15 @@ a {
     align-items: stretch;
   }
 
+  .vx-cta-ticket {
+    display: none;
+  }
+
   .vx-cta-actions .vx-btn {
+    width: 100%;
+  }
+
+  .vx-cta-actions {
     width: 100%;
   }
 
@@ -4220,7 +4389,9 @@ a {
     display: none;
   }
 
-  .vx-contact .sa-form-card {
+  
+
+.vx-contact .sa-form-card {
     padding: 16px 14px 18px !important;
     box-shadow: 6px 6px 0 var(--vx-orange) !important;
   }

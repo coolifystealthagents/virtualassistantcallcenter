@@ -11,7 +11,7 @@ function escapeXml(value: string) {
 }
 
 export async function GET() {
-  const pages = ['', '/services', '/pricing', '/workflows', '/qa-scorecard', '/blog', '/blog/top-25-virtual-assistant-call-center-companies', '/research', '/alternatives', '/contact-us', '/privacy', '/terms', '/cancellation-policy'];
+  const pages = ['', '/services', '/workflows', '/qa-scorecard', '/blog', '/blog/top-25-virtual-assistant-call-center-companies', '/research', '/alternatives', '/contact-us', '/privacy', '/terms', '/cancellation-policy'];
   const fileBlogs = getContent('blog');
   const research = getContent('research');
   const blogPages = Array.from({ length: Math.max(1, Math.ceil((blogPosts.length + fileBlogs.length) / 20)) }, (_, index) => index + 1).filter((page) => page > 1).map((page) => `/blog/page/${page}`);

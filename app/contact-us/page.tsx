@@ -52,6 +52,12 @@ export default function ContactUsPage() {
                 <li>Manager-owned approvals</li>
                 <li>Reviewable launch plan</li>
               </ul>
+              <div className="vx-contact-brief">
+                <span>What the first call covers</span>
+                <div><strong>Scope</strong><p>One caller type, the approved words, and the finish line.</p></div>
+                <div><strong>Route</strong><p>The system of record, the next owner, and the escalation rule.</p></div>
+                <div><strong>Review</strong><p>The sample size, the scorecard, and the first coaching point.</p></div>
+              </div>
             </div>
             <div>
               <StandardContactForm endpoint="/api/contact" encoding="form" />
@@ -99,10 +105,11 @@ export default function ContactUsPage() {
               </p>
             </div>
             <div className="vx-contact-cards">
-              {callLanes.map(([title, body]) => (
+              {callLanes.map(([title, body], index) => (
                 <article key={title}>
                   <h3>{title}</h3>
                   <p>{body}</p>
+                  <span className="vx-contact-card-foot">{['Caller record + owner', 'Calendar + confirmation', 'Qualification note + stage', 'Ticket + escalation note'][index]}</span>
                 </article>
               ))}
             </div>
@@ -140,6 +147,7 @@ export default function ContactUsPage() {
                 <a key={name} href={href} target="_blank" rel="noopener noreferrer">
                   <img src={image} alt={`${name} reviews`} width="150" height="50" loading="lazy" />
                   <span>View {name} reviews ↗</span>
+                  <small>Live profile · opens in a new tab</small>
                 </a>
               ))}
             </div>

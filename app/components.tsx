@@ -127,7 +127,6 @@ export function Footer({ hidePricing = false }: { hidePricing?: boolean } = {}) 
         <div className="vx-footer-col">
           <h3>Explore</h3>
           <a href="/services">Services</a>
-          {hidePricing ? null : <a href="/pricing">Pricing</a>}
           <a href="/workflows">Call workflows</a>
           <a href="/qa-scorecard">QA scorecard</a>
           <a href="/blog">Blog</a>
@@ -267,6 +266,11 @@ export function CTA() {
         <div className="vx-cta-actions" data-reveal style={{ '--vx-delay': '120ms' } as CSSProperties}>
           <a className="vx-btn vx-btn--orange" href="/contact-us">Book a free consultation ↗</a>
           <a className="vx-btn vx-btn--outline-light" href="/services">See the call lanes</a>
+          <div className="vx-cta-ticket" aria-hidden="true">
+            <span>First queue</span>
+            <strong>One lane. One owner. One review rhythm.</strong>
+            <small>Inbound · after hours · appointment setting</small>
+          </div>
         </div>
       </div>
       <div className="vx-cta-ticker" aria-hidden="true">ANSWER · ROUTE · RECORD · REVIEW · ANSWER · ROUTE · RECORD · REVIEW</div>

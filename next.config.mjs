@@ -28,6 +28,7 @@ const nextConfig = {
     return [
       { source: "/cancellation", destination: "/cancellation-policy", permanent: true },
       { source: "/blog/page/1", destination: "/blog", permanent: true },
+      { source: "/pricing", destination: "/services", permanent: true },
       { source: "/industries", destination: "/services", permanent: true },
       { source: "/industry", destination: "/services", permanent: true },
       { source: "/services/inbound-call-answering", destination: "/services/inbound-customer-calls", permanent: true },

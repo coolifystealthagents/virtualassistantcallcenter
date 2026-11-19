@@ -85,6 +85,7 @@ export default function Services() {
                   <span className="vx-service-tag">{tags[service.slug] || 'Call lane'}</span>
                   <h3>{service.title}</h3>
                   <p>{service.problem}</p>
+                  <span className="vx-service-output">Output · {service.outputs[0]}</span>
                   <b>View scope and boundaries</b>
                 </a>
               ))}
@@ -128,6 +129,11 @@ export default function Services() {
               <p>The parent team provides the recruiting and support environment behind these Philippines-based call services. Your written workflow remains the source of truth for daily execution.</p>
               <p>Your manager keeps approvals, policy decisions, and sensitive exceptions. The specialist owns the agreed calls, notes, and handoff.</p>
               <a className="vx-link" href="https://stealthagents.com/our-team/" target="_blank" rel="noopener noreferrer">Meet the official team ↗</a>
+              <div className="vx-proof-facts">
+                <div><strong>Philippines only</strong><span>Recruiting, employment, and support stay in-country.</span></div>
+                <div><strong>Written lane</strong><span>Your script and routing rules remain the source of truth.</span></div>
+                <div><strong>Manager owned</strong><span>Policy, pricing, and sensitive exceptions stay with you.</span></div>
+              </div>
             </div>
           </div>
         </section>
