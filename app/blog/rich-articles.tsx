@@ -98,15 +98,15 @@ export function ScamCallScreeningArticle() {
         <title id="process-title">Five-step scam call screening process</title>
         <desc id="process-desc">The process moves from pause to note, verify, route, and review without sharing secrets.</desc>
         <text x="30" y="42" className="svg-title">Pause, verify, and route</text>
-        <g transform="translate(30 82)"><rect width="132" height="92" rx="14" className="step-box"/><text x="18" y="34" className="step-no">01</text><text x="18" y="64" className="step-label">Pause</text></g>
+        <g transform="translate(30 82)"><rect width="132" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Pause</text></g>
         <path d="M170 128 H194" className="step-arrow"/>
-        <g transform="translate(202 82)"><rect width="132" height="92" rx="14" className="step-box"/><text x="18" y="34" className="step-no">02</text><text x="18" y="64" className="step-label">Note</text></g>
+        <g transform="translate(202 82)"><rect width="132" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Note</text></g>
         <path d="M342 128 H366" className="step-arrow"/>
-        <g transform="translate(374 82)"><rect width="132" height="92" rx="14" className="step-box accent"/><text x="18" y="34" className="step-no">03</text><text x="18" y="64" className="step-label">Verify</text></g>
+        <g transform="translate(374 82)"><rect width="132" height="92" rx="14" className="step-box accent"/><text x="18" y="52" className="step-label">Verify</text></g>
         <path d="M514 128 H538" className="step-arrow"/>
-        <g transform="translate(546 82)"><rect width="110" height="92" rx="14" className="step-box"/><text x="18" y="34" className="step-no">04</text><text x="18" y="64" className="step-label">Route</text></g>
+        <g transform="translate(546 82)"><rect width="110" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Route</text></g>
         <path d="M664 128 H688" className="step-arrow"/>
-        <g transform="translate(696 82)"><rect width="94" height="92" rx="14" className="step-box"/><text x="16" y="34" className="step-no">05</text><text x="16" y="64" className="step-label">Review</text></g>
+        <g transform="translate(696 82)"><rect width="94" height="92" rx="14" className="step-box"/><text x="16" y="52" className="step-label">Review</text></g>
         <text x="30" y="236" className="svg-label">The assistant:</text><text x="164" y="236" className="svg-note">slows the call, writes safe facts, and sends the request to its owner.</text>
         <text x="30" y="278" className="svg-label">The manager:</text><text x="164" y="278" className="svg-note">uses a saved number or known account to check the claim and choose the next step.</text>
         <text x="30" y="326" className="svg-note">Rule: no codes, passwords, remote access, money moves, or private record changes during the incoming call.</text>

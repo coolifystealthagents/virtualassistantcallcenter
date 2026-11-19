@@ -196,7 +196,7 @@ export default function Home() {
                   data-reveal
                   style={{ '--vx-delay': `${index * 90}ms` } as CSSProperties}
                 >
-                  <span className="vx-step-dot">{`0${index + 1}`}</span>
+                  <span className="vx-step-dot">{[ 'Capture', 'Script', 'Route', 'Review' ][index]}</span>
                   <h3>{step.title}</h3>
                   <p>{step.text}</p>
                 </article>

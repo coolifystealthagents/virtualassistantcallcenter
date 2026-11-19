@@ -67,9 +67,9 @@ export default function QAScorecard() {
               <p>Pick one call type first, such as new lead intake or appointment setting. Fix that path, then add support calls, billing questions, or follow-up work later.</p>
             </div>
             <div className="vx-service-decision">
-              <article><span className="vx-service-tag">Step 1</span><h3>Review a small sample</h3><p>Five to ten calls from the same lane are more useful than a scattered review of every queue.</p></article>
-              <article><span className="vx-service-tag">Step 2</span><h3>Name the two biggest misses</h3><p>Coach one script gap and one handoff gap. Keep the rest of the feedback for the next review.</p></article>
-              <article><span className="vx-service-tag">Step 3</span><h3>Update the written lane</h3><p>Fix the script, checklist, or access rule that caused the miss. Then review again next week.</p></article>
+              <article><span className="vx-service-tag">Sample</span><h3>Review a small sample</h3><p>Five to ten calls from the same lane are more useful than a scattered review of every queue.</p></article>
+              <article><span className="vx-service-tag">Coach</span><h3>Name the two biggest misses</h3><p>Coach one script gap and one handoff gap. Keep the rest of the feedback for the next review.</p></article>
+              <article><span className="vx-service-tag">Update</span><h3>Update the written lane</h3><p>Fix the script, checklist, or access rule that caused the miss. Then review again next week.</p></article>
             </div>
           </div>
         </section>

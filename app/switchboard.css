@@ -1276,7 +1276,7 @@ a {
 .vx-process::before {
   content: "";
   position: absolute;
-  top: 19px;
+  top: 15px;
   right: 4%;
   left: 4%;
   height: 1px;
@@ -1291,20 +1291,24 @@ a {
 .vx-step-dot {
   position: relative;
   z-index: 1;
-  display: grid;
-  place-items: center;
-  width: 40px;
-  height: 40px;
-  margin-bottom: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  min-width: 0;
+  height: 30px;
+  margin-bottom: 24px;
+  padding: 0 12px;
   border: 1px solid var(--vx-yellow);
-  border-radius: 50%;
+  border-radius: 999px;
   background: var(--vx-ink);
   color: var(--vx-yellow);
   font-family: var(--vx-mono);
-  font-size: 9px;
+  font-size: 8px;
   font-weight: 600;
-  letter-spacing: 0.08em;
-  box-shadow: 0 0 0 8px var(--vx-ink);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  box-shadow: 0 0 0 7px var(--vx-ink);
 }
 
 .vx-step h3 {

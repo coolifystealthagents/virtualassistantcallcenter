@@ -100,12 +100,12 @@ export function OutboundFollowUpArticle() {
         <title id="outbound-process-title">Consent-first outbound lead follow-up process</title>
         <desc id="outbound-process-desc">A five-step process moves from an approved list to a clear opening, response check, allowed next step, and saved call result.</desc>
         <text x="30" y="42" className="svg-title">One approved path for every follow-up call</text>
-        <g transform="translate(30 82)"><rect width="140" height="94" rx="14" className="step-box"/><text x="18" y="34" className="step-no">01</text><text x="18" y="64" className="step-label">Check list row</text></g><path d="M178 129 H204" className="step-arrow"/>
-        <g transform="translate(212 82)"><rect width="140" height="94" rx="14" className="step-box"/><text x="18" y="34" className="step-no">02</text><text x="18" y="64" className="step-label">State purpose</text></g><path d="M360 129 H386" className="step-arrow"/>
-        <g transform="translate(394 82)"><rect width="160" height="94" rx="14" className="step-box accent"/><text x="18" y="34" className="step-no">03</text><text x="18" y="64" className="step-label">Hear response</text></g><path d="M562 129 H588" className="step-arrow"/>
-        <g transform="translate(596 82)"><rect width="214" height="94" rx="14" className="step-box"/><text x="18" y="34" className="step-no">04</text><text x="18" y="64" className="step-label">Book, route, or stop</text></g>
-        <path d="M474 184 V234" className="step-arrow"/><g transform="translate(342 242)"><rect width="264" height="84" rx="14" className="step-box accent"/><text x="18" y="32" className="step-no">STOP</text><text x="18" y="62" className="step-label">Block future outreach</text></g>
-        <path d="M703 184 V354 H642" className="step-arrow"/><g transform="translate(302 344)"><rect width="340" height="70" rx="14" className="step-box"/><text x="18" y="29" className="step-no">05</text><text x="18" y="55" className="step-label">Save result and next owner</text></g>
+        <g transform="translate(30 82)"><rect width="140" height="94" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Check list row</text></g><path d="M178 129 H204" className="step-arrow"/>
+        <g transform="translate(212 82)"><rect width="140" height="94" rx="14" className="step-box"/><text x="18" y="52" className="step-label">State purpose</text></g><path d="M360 129 H386" className="step-arrow"/>
+        <g transform="translate(394 82)"><rect width="160" height="94" rx="14" className="step-box accent"/><text x="18" y="52" className="step-label">Hear response</text></g><path d="M562 129 H588" className="step-arrow"/>
+        <g transform="translate(596 82)"><rect width="214" height="94" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Book, route, or stop</text></g>
+        <path d="M474 184 V234" className="step-arrow"/><g transform="translate(342 242)"><rect width="264" height="84" rx="14" className="step-box accent"/><text x="18" y="32" className="step-no">STOP</text><text x="18" y="52" className="step-label">Block future outreach</text></g>
+        <path d="M703 184 V354 H642" className="step-arrow"/><g transform="translate(302 344)"><rect width="340" height="70" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Save result and next owner</text></g>
         <text x="30" y="458" className="svg-note">The stop path overrides the call script. A manager checks that the request reaches every connected list.</text>
         <text x="30" y="486" className="svg-note">Process model only: the business must set its own consent, call-time, record, and review rules.</text>
       </svg>

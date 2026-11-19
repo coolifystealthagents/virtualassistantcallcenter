@@ -13,7 +13,7 @@ export default function BookingConfirmedPage() {
     <Header />
     <main id="main-content" className="completion-page">
       <section className="container completion-panel" aria-labelledby="confirmation-heading">
-        <p className="eyebrow">Step 3 - Booking confirmed</p>
+        <p className="eyebrow">Booking confirmed</p>
         <h1 id="confirmation-heading">Your meeting is booked.</h1>
         <p className="lead">Check your inbox for the calendar invitation and meeting details from Stealth Agents.</p>
         <div className="completion-next">

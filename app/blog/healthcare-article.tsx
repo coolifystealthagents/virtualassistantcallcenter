@@ -100,12 +100,12 @@ export function HealthcareSchedulingArticle() {
         <title id="health-process-title">Healthcare scheduling call process for a Philippines virtual assistant</title>
         <desc id="health-process-desc">A five-step path moves from identity check to call type, staff handoff or office task, read back, and saved note.</desc>
         <text x="30" y="42" className="svg-title">A narrow path for each patient call</text>
-        <g transform="translate(30 80)"><rect width="138" height="92" rx="14" className="step-box"/><text x="18" y="33" className="step-no">01</text><text x="18" y="63" className="step-label">Identity step</text></g><path d="M176 126 H202" className="step-arrow"/>
-        <g transform="translate(210 80)"><rect width="138" height="92" rx="14" className="step-box"/><text x="18" y="33" className="step-no">02</text><text x="18" y="63" className="step-label">Call type</text></g><path d="M356 126 H382" className="step-arrow"/>
-        <g transform="translate(390 80)"><rect width="164" height="92" rx="14" className="step-box accent"/><text x="18" y="33" className="step-no">03</text><text x="18" y="63" className="step-label">Check stop rule</text></g><path d="M562 126 H588" className="step-arrow"/>
-        <g transform="translate(596 80)"><rect width="194" height="92" rx="14" className="step-box"/><text x="18" y="33" className="step-no">04</text><text x="18" y="63" className="step-label">Book or send</text></g>
-        <path d="M472 180 V230" className="step-arrow"/><g transform="translate(354 238)"><rect width="236" height="82" rx="14" className="step-box accent"/><text x="18" y="32" className="step-no">STOP</text><text x="18" y="61" className="step-label">Clinical staff path</text></g>
-        <path d="M693 180 V350 H630" className="step-arrow"/><g transform="translate(300 340)"><rect width="330" height="66" rx="14" className="step-box"/><text x="18" y="28" className="step-no">05</text><text x="18" y="52" className="step-label">Read back and save note</text></g>
+        <g transform="translate(30 80)"><rect width="138" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Identity step</text></g><path d="M176 126 H202" className="step-arrow"/>
+        <g transform="translate(210 80)"><rect width="138" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Call type</text></g><path d="M356 126 H382" className="step-arrow"/>
+        <g transform="translate(390 80)"><rect width="164" height="92" rx="14" className="step-box accent"/><text x="18" y="52" className="step-label">Check stop rule</text></g><path d="M562 126 H588" className="step-arrow"/>
+        <g transform="translate(596 80)"><rect width="194" height="92" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Book or send</text></g>
+        <path d="M472 180 V230" className="step-arrow"/><g transform="translate(354 238)"><rect width="236" height="82" rx="14" className="step-box accent"/><text x="18" y="32" className="step-no">STOP</text><text x="18" y="52" className="step-label">Clinical staff path</text></g>
+        <path d="M693 180 V350 H630" className="step-arrow"/><g transform="translate(300 340)"><rect width="330" height="66" rx="14" className="step-box"/><text x="18" y="52" className="step-label">Read back and save note</text></g>
         <text x="30" y="450" className="svg-note">The stop rule comes before booking. A patient question stays with the office's approved clinical team.</text>
         <text x="30" y="480" className="svg-note">Process model only: each practice must set its own emergency, privacy, and transfer rules.</text>
       </svg>

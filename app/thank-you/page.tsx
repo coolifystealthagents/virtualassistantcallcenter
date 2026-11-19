@@ -16,7 +16,7 @@ export default function ThankYouPage() {
         <div className="container sa-booking-grid">
           <div className="sa-booking-left">
             <p className="sa-booking-kicker">You’re one step away.</p>
-            <h1>Step 2 - Book A Meeting</h1>
+            <h1>Book Your Planning Call</h1>
             <p className="sa-booking-lead">Use the scheduler to choose a convenient time for a practical scoping conversation.</p>
             <img className="sa-booking-image" src="/stealth-agents-team.jpg" alt="Official Stealth Agents team in Bacolod" width="953" height="540" />
             <TestimonialsRail />
