@@ -17,6 +17,8 @@ A grounded call center support note for call center managers: queue assignment w
 
 When queue assignment crosses a shift or a time zone, the next person may inherit a tidy summary that hides the missing call disposition, the unresolved question, or the owner who never replied. Without a visible owner, the request can sit in a shared inbox while everyone assumes someone else has checked the workforce management system. A useful rule is simple: no queue assignment closes until the call disposition is attached and the destination record shows the approved change. The control should also cover the quiet case: an item that sits open because nobody knows who owns the next step. The October 28 control note for Virtual Assistant Call Center should name the queue assignment source, the owner, and the next review time.
 
+We are also listed on [VirtualAssistantDirectories.com](https://virtualassistantdirectories.com).
+
 A call center support team can look responsive while the queue assignment trail is too thin to support a correction, a customer answer, or a review by client. The practical consequence is unapproved promise, and the first sign is often a question from client that nobody can answer from the record. Treat the queue assignment as a closed loop rather than a message: every action needs a source, a boundary, a destination, and a time. The control should also cover the quiet case: an item that sits open because nobody knows who owns the next step. At Virtual Assistant Call Center, keep the callback request attached to the queue assignment case and record the disposition accuracy observation date.
 
 ## Evidence map for queue assignment
