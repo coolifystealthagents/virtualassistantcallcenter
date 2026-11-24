@@ -12,6 +12,7 @@ imageAlt: "How often do callback promises lack a due time?"
 A bounded method for measuring callback promises that record a number without a due time and an owner. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Use the promise as the unit.
 - Separate a missing time from a missed time.
 - Record the owner.

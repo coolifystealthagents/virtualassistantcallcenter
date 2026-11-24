@@ -12,6 +12,7 @@ imageAlt: "Record a voicemail escalation handoff"
 A voicemail handoff that records the caller, the request, the urgency, and the owner, so an after-hours message is not rediscovered the next afternoon. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Listen to the message and log the request.
 - Set urgency against a written rule.
 - Name the owner who will call back.

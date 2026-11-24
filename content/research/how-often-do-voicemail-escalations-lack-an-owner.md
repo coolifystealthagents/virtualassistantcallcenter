@@ -12,6 +12,7 @@ imageAlt: "How often do voicemail escalations lack an owner?"
 A bounded method for measuring voicemail escalations that record a message without a named owner and urgency. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Use the message as the unit.
 - Separate a missing owner from a late one.
 - Check the urgency rule.

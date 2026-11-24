@@ -12,6 +12,7 @@ imageAlt: "Set a call transfer quality check"
 A transfer check that records the destination, the context passed, the wait, and the outcome, so a caller is not transferred into a second queue without a reason. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Record the destination and the reason.
 - Pass the account and the question in the transfer note.
 - Note the wait before the transfer.

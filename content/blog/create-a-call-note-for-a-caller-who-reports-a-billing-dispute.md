@@ -12,6 +12,7 @@ imageAlt: "Create a call note for a caller who reports a billing dispute"
 A billing dispute note that records the charge, the caller's account, the evidence, and the owner, so the next agent does not ask the same questions. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Record the charge date and amount before the story.
 - Ask for the document that shows the charge.
 - Name the owner who will review it.

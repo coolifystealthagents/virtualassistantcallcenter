@@ -12,6 +12,7 @@ imageAlt: "What share of call transfers lack a quality check?"
 A bounded method for measuring transfers that have no sampled context check and no destination record. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Count the transfer, not the call.
 - Separate a missing check from a failed one.
 - Record the destination.

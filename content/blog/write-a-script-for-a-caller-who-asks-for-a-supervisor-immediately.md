@@ -12,6 +12,7 @@ imageAlt: "Write a script for a caller who asks for a supervisor immediately"
 A supervisor request script that records the reason, the wait, and the callback, so an escalation is handled without pretending the supervisor is free. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Acknowledge the request before explaining the wait.
 - Record the reason in the caller's words.
 - Offer a callback time instead of a hold.

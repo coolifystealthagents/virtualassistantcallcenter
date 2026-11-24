@@ -12,6 +12,7 @@ imageAlt: "How often do billing dispute calls lack a case owner?"
 A bounded method for measuring billing dispute calls that record a complaint without a named case owner. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Use the call as the unit.
 - Separate a missing owner from a changed one.
 - Record the reference number.

@@ -12,6 +12,7 @@ imageAlt: "Build a callback promise log for a support queue"
 A callback log that records the number, the promise, the due time, and the owner, so a promised call is not lost when the shift ends. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Record the promise at the moment it is made.
 - Use a due time, not 'later today'.
 - Assign one owner per callback.

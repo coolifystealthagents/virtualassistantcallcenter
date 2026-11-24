@@ -12,6 +12,7 @@ imageAlt: "What share of supervisor requests lack a transfer reason?"
 A bounded method for measuring supervisor requests that lack a recorded reason and a callback time. The working note stays with the case file for the review period. The lead dates the entry and initials the correction. A second reader checks the sample before it is shared.
 
 ## Key takeaways
+
 - Count the request, not the caller.
 - Separate a missing reason from a vague one.
 - Check the callback field.
