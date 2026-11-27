@@ -1,7 +1,7 @@
 ---
 slug: what-share-of-wrong-number-calls-lack-a-disposition
 title: "What share of wrong-number calls lack a disposition?"
-description: "What share of wrong-number calls lack a disposition?"
+description: "A method for reviewing wrong-number call records, identifying missing dispositions, and reporting the findings within a defined sample."
 published: 2026-11-23
 updated: 2026-11-23
 category: "Call operations research"

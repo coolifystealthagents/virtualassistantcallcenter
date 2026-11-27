@@ -1,7 +1,7 @@
 ---
 slug: how-often-do-employee-specific-requests-lack-a-transfer-record
 title: "How often do employee-specific requests lack a transfer record?"
-description: "How often do employee-specific requests lack a transfer record?"
+description: "A scoped review of employee-specific call requests, transfer records, and missing documentation across queues and shifts."
 published: 2026-11-23
 updated: 2026-11-23
 category: "Call operations research"

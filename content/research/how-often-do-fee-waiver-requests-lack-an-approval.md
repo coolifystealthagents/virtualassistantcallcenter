@@ -1,7 +1,7 @@
 ---
 slug: how-often-do-fee-waiver-requests-lack-an-approval
 title: "How often do fee waiver requests lack an approval?"
-description: "How often do fee waiver requests lack an approval?"
+description: "A method for reviewing fee waiver call records, distinguishing missing approvals from unclear entries, and documenting the review scope."
 published: 2026-11-23
 updated: 2026-11-23
 category: "Call operations research"

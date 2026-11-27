@@ -1,7 +1,7 @@
 ---
 slug: how-often-do-dropped-transfers-lack-a-callback-owner
 title: "How often do dropped transfers lack a callback owner?"
-description: "How often do dropped transfers lack a callback owner?"
+description: "A scoped method for reviewing dropped transfer records, identifying missing callback owners, and reporting results by queue and shift."
 published: 2026-11-23
 updated: 2026-11-23
 category: "Call operations research"

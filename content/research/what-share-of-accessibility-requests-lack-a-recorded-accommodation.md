@@ -1,7 +1,7 @@
 ---
 slug: what-share-of-accessibility-requests-lack-a-recorded-accommodation
 title: "What share of accessibility requests lack a recorded accommodation?"
-description: "What share of accessibility requests lack a recorded accommodation?"
+description: "A scoped method for reviewing accessibility request records and identifying missing accommodation notes across queues and shifts."
 published: 2026-11-23
 updated: 2026-11-23
 category: "Call operations research"
