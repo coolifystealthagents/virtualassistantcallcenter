@@ -988,10 +988,6 @@ a {
   animation: vx-marquee 34s linear infinite;
 }
 
-.vx-marquee:hover .vx-marquee-track {
-  animation-play-state: paused;
-}
-
 .vx-marquee-group {
   display: flex;
   flex: 0 0 auto;

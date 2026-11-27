@@ -7,6 +7,8 @@ import type { Metadata } from 'next';
 import { site } from './data';
 import SwitchboardMotion from './SwitchboardMotion';
 
+import "./site-chrome-fixes.css";
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://virtualassistantcallcenter.com'),
   title: { default: 'Virtual Assistant Call Center | Filipino Receptionists', template: '%s' },

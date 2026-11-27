@@ -64,7 +64,7 @@ export function Header({ hidePricing: _hidePricing = false }: { hidePricing?: bo
   return (
     <>
       <a className="vx-skip" href="#main-content">Skip to content</a>
-      <header className="vx-header">
+      <header data-site-header="sticky" className="vx-header">
         <div className="vx-nav-inner">
           <a className="vx-logo" href="/" aria-label="Virtual Assistant Call Center home">
             <LogoMark />
@@ -110,7 +110,7 @@ export function Header({ hidePricing: _hidePricing = false }: { hidePricing?: bo
 
 export function Footer({ hidePricing = false }: { hidePricing?: boolean } = {}) {
   return (
-    <footer className="vx-footer">
+    <footer data-site-footer="true" className="vx-footer">
       <div className="vx-footer-grid vx-container">
         <div className="vx-footer-brand">
           <a href="/" aria-label="Virtual Assistant Call Center home"><LogoMark /></a>
@@ -124,7 +124,7 @@ export function Footer({ hidePricing = false }: { hidePricing?: boolean } = {}) 
           </a>
         </div>
 
-        <div className="vx-footer-col">
+        <div data-footer-menu="true" className="vx-footer-col">
           <h3>Explore</h3>
           <a href="/services">Services</a>
           <a href="/workflows">Call workflows</a>
@@ -134,7 +134,7 @@ export function Footer({ hidePricing = false }: { hidePricing?: boolean } = {}) 
           <a href="/alternatives">Alternatives</a>
         </div>
 
-        <div className="vx-footer-col">
+        <div data-footer-menu="true" className="vx-footer-col">
           <h3>Company</h3>
           <a href="/contact-us">Contact Us</a>
           <a href="/privacy">Privacy Policy</a>
